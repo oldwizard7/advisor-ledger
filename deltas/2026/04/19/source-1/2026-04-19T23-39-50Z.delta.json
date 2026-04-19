@@ -1,0 +1,119 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-37-42Z",
+    "revision_id": "AMHacu4dwkvITeFqshJKKbyR47AAtLJ4pmrhO9CqYrQtRKqM2Fyi2LB15IjfgMAQK56eATXBADKXgZnfbrMRQYjUow",
+    "paragraph_count": 544
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-39-50Z",
+    "revision_id": "AMHacu4KaLKiNW3LRnzjdI81re6NPr9peViWOTP_jWeCldvwNPMnXdsu5csi0ssgpuCB_kPbu82xxasQO81m0ISiOA",
+    "paragraph_count": 544
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 7,
+    "operations": 3,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "d50549543f767524",
+          "style": "NORMAL_TEXT",
+          "text": "做了一个修改记录repo，防止恶意删评（https://github.com/the-hidden-fish/advisor-ledger）：网页：https://the-hidden-fish.github.io/advisor-ledger/"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "902f25b096b00aa0",
+          "style": "NORMAL_TEXT",
+          "text": "做了一个修改记录repo镜像，防止恶意删评（https://github.com/the-hidden-fish/advisor-ledger）：网页：https://the-hidden-fish.github.io/advisor-ledger/"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 234,
+      "at_to": 234,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f2813cfc8afd156",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（Jure:我也要枪毙吗）（建议和jiaxuan打lei）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3b10f23d95d18aa1",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（Jure:我也要枪毙吗）（建议和jiaxuan打擂台赛，谁输谁滚蛋）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 256,
+      "at_to": 256,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b465296ed47c9ef",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远招不到学生！！！"
+        },
+        {
+          "content_hash": "374d263779398e34",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！"
+        },
+        {
+          "content_hash": "6785a75284dd9d3c",
+          "style": "NORMAL_TEXT",
+          "text": "删评论的，你成功把我们惹急了，小红书、知乎见！！！没见过他妈的这么不要脸的傻逼！"
+        },
+        {
+          "content_hash": "51f58bb1b710d480",
+          "style": "NORMAL_TEXT",
+          "text": "笑死我了，纯吃瓜，这狗腿太傻逼了，我本来都不知道这个sha diao"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2ac99567aae849dd",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远招不到学生！！"
+        },
+        {
+          "content_hash": "554f021cf4f4c3dd",
+          "style": "NORMAL_TEXT",
+          "text": "笑死我了 PKU Wang Yu狂删除，之前我还不知道这个傻屌老板和傻屌狗腿，xhs见"
+        },
+        {
+          "content_hash": "7a18900c0170e735",
+          "style": "NORMAL_TEXT",
+          "text": "我们小红书知乎一亩三分地见！别他妈的给脸不要脸，走狗一直在这儿控评有啥意思？mlgb自己做的事情自己不敢出来当？？？"
+        },
+        {
+          "content_hash": "93d5040ef08d82de",
+          "style": "NORMAL_TEXT",
+          "text": "哈哈哈哈哈Wang yu就是个sb，一直在删！"
+        },
+        {
+          "content_hash": "685b1fb36419c819",
+          "style": "NORMAL_TEXT",
+          "text": "Wang Yu我警告你，你也跟着xcw一起上小红书吧！另外"
+        }
+      ]
+    }
+  ]
+}

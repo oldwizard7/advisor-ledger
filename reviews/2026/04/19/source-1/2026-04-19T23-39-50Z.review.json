@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-39-50Z.delta.json",
+  "delta_ts": "2026-04-19T23-39-50Z",
+  "reviewed_at_utc": "2026-04-19T23:40:42Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added text introduces vulgar personal insults ('sb', '傻屌', 'mlgb') targeting Professor Wang Yu and associates, constituting pure character attacks rather than substantive criticism of advising practices.",
+      "excerpt": "Wang yu就是个sb，一直在删"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes specific quantitative allegation that the advisor harmed 'at least hundreds of students' (上百人), suppressing a substantive observation about the scale of advising harm while retaining inflammatory language.",
+      "excerpt": "被这个b人坑害的学生至少有上百人"
+    }
+  ],
+  "prompt_sha256": "18c3d0ba8132d32c9be88cce1ab7463d2f34549356818ccc980924561a95984e",
+  "finish_reason": "stop",
+  "completion_tokens": 4484
+}
