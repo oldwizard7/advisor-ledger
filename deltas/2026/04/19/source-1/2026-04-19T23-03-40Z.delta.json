@@ -1,0 +1,273 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-59-22Z",
+    "revision_id": "AMHacu7zUpQDP7a7SlX5fd69ViBUB9eRPk1IXe9YGjc8amt7ep3GkvfYC0hrLjQWNDzUSAp-f4zDhYG7qde40DP2dQ",
+    "paragraph_count": 464
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-03-40Z",
+    "revision_id": "AMHacu508hlnmjdlvlNWBl1NKA34AHaD4ju3lCt-0ZAPb3PHStNJrSsNNIi4iKtgSctsbQ4xREIxIiMtXvRfAIKs5Q",
+    "paragraph_count": 466
+  },
+  "summary": {
+    "inserted_paragraphs": 18,
+    "deleted_paragraphs": 16,
+    "operations": 10,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 6,
+      "paragraphs": [
+        {
+          "content_hash": "9b83946cc612c3be",
+          "style": "NORMAL_TEXT",
+          "text": "多来点红榜推荐谢"
+        },
+        {
+          "content_hash": "0c9ca6dcf81f0dd3",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 169,
+      "paragraphs": [
+        {
+          "content_hash": "7466a73feb5d2591",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课整个扔给自己phd负责（从logistics到找speaker到作业）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 215,
+      "at_to": 214,
+      "from_paragraphs": [
+        {
+          "content_hash": "6ef7035da873f0e7",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头，最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b994a111de03dbe",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 220,
+      "from_paragraphs": [
+        {
+          "content_hash": "0420b57eda6ac10e",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了"
+        },
+        {
+          "content_hash": "9aecde749892699c",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        },
+        {
+          "content_hash": "6d705e42f6b90406",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）"
+        },
+        {
+          "content_hash": "4f2218abd091d88c",
+          "style": "NORMAL_TEXT",
+          "text": "严重怀疑是本人在给自己洗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cddb7683342f6b60",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键人家quit 之后申请了其他的phd啊）"
+        },
+        {
+          "content_hash": "b29e1d9f2e31824a",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)（这个就很solid）"
+        },
+        {
+          "content_hash": "5f8abe32a57a3754",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题更换概念，是不是帮你水了几篇垃圾顶会？）"
+        },
+        {
+          "content_hash": "9444e4bbb4a5540f",
+          "style": "NORMAL_TEXT",
+          "text": "感觉是本人或者利益共同体的人在洗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 246,
+      "at_to": 245,
+      "from_paragraphs": [
+        {
+          "content_hash": "bb0b1ca445c64506",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c5cda7f0ece351b",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 249,
+      "at_to": 248,
+      "from_paragraphs": [
+        {
+          "content_hash": "33e055f4c395de91",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)"
+        },
+        {
+          "content_hash": "03c1249e48759e83",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记）"
+        },
+        {
+          "content_hash": "61435382325c3f7d",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e5c11b85748325d7",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        },
+        {
+          "content_hash": "b1ffea1c513fcb7f",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）"
+        },
+        {
+          "content_hash": "4001ed19334fe03a",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd (这你都知道？)"
+        },
+        {
+          "content_hash": "2e130845ecc10ab2",
+          "style": "NORMAL_TEXT",
+          "text": "还有！给学生写推荐信使用gmail，推荐信内容大概率黑推，导致学生直接被desk reject"
+        },
+        {
+          "content_hash": "cae1d5c914c00ff2",
+          "style": "NORMAL_TEXT",
+          "text": "之前招了几十个白打工的intern，有的intern给他发了40条消息他就不会，他的价值观是，如果这个人没有能力，他就不回信息装死。最后所有的intern全部leave。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 266,
+      "at_to": 266,
+      "from_paragraphs": [
+        {
+          "content_hash": "d57c6aafdebd7d79",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说其他领域顶会=arxiv"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ebf5d08133420598",
+          "style": "NORMAL_TEXT",
+          "text": "只考虑icml/neurips，说某些其他领域顶会=arxiv"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 271,
+      "paragraphs": [
+        {
+          "content_hash": "bf0b94ad7585bc7c",
+          "style": "NORMAL_TEXT",
+          "text": "过去n年，组内最少5.5年毕业"
+        },
+        {
+          "content_hash": "42cd3c0c79a458c3",
+          "style": "NORMAL_TEXT",
+          "text": "背地里会离间组内学生关系，经常会直接在学生面前比较其他学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 354,
+      "at_to": 356,
+      "from_paragraphs": [
+        {
+          "content_hash": "85e45ba0ac04ba83",
+          "style": "NORMAL_TEXT",
+          "text": "我都怀疑这个人智力水平有点问题，交流起来像是智障"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf1a32afa5887e42",
+          "style": "NORMAL_TEXT",
+          "text": "我跟这个人工作一开始每次都很生气，觉得他不懂装懂，听不懂人话，不懂Research；但后来我就释然了，我觉得他应该是小时候受过刺激，现在变得智力水平有点问题，交流起来像是智障。算了，都看淡了，我祝他能在未来更好的融入这个社会吧，要不然他这个也怪可怜的。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 365,
+      "at_to": 367,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b391b9d6b8bdf237",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了"
+        },
+        {
+          "content_hash": "6f45a1599a5b7a9c",
+          "style": "NORMAL_TEXT",
+          "text": "+10086"
+        }
+      ]
+    }
+  ]
+}

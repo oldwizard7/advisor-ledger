@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-03-40Z.delta.json",
+  "delta_ts": "2026-04-19T23-03-40Z",
+  "reviewed_at_utc": "2026-04-19T23:04:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Uses vulgar insult '一点碧莲都不要了' (shameless/without any face) to attack people defending the professor as 'shills'",
+      "excerpt": "洗地侠真的丢人啊，一点碧莲都不要了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses disability slur '像是智障' (like a retard) and unsupported speculation about childhood trauma to attack a professor's intelligence",
+      "excerpt": "智力水平有点问题，交流起来像是智障"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment using strong insult '非常恶臭的圈子' (extremely foul/stinky circle) to describe research communities",
+      "excerpt": "bo li、anima都是非常恶臭的圈子"
+    }
+  ],
+  "prompt_sha256": "501e66f017bc5a6f17e28540b7d16d38f3a0d2a5cc85d57607204820f77b1dc8",
+  "finish_reason": "stop",
+  "completion_tokens": 6369
+}
