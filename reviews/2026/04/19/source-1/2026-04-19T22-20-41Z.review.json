@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-20-41Z.delta.json",
+  "delta_ts": "2026-04-19T22-20-41Z",
+  "reviewed_at_utc": "2026-04-19T22:21:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion of unsubstantiated rumor about an advisor's private life (affair/cheating scandal) that is unrelated to concrete academic advising practices; this constitutes a personal attack rather than professional criticism.",
+      "excerpt": "据说之前有过出轨风波（xhs听说的存疑？）"
+    }
+  ],
+  "prompt_sha256": "b62b34c5f89d2169295c3b62267a916a87ae16e6ca97690307156c631edb6758",
+  "finish_reason": "stop",
+  "completion_tokens": 2831
+}

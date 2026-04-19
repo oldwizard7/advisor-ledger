@@ -1,0 +1,190 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-18-38Z",
+    "revision_id": "AMHacu7xIKOkpMTYLWIyh-stI-xkDCakhRErqbgoj0LS0zh3307bDdeMAOA6s2ZBUmKuoBpDL16tghE-XZv7CrM_Hg",
+    "paragraph_count": 400
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-20-41Z",
+    "revision_id": "AMHacu5zK09ROH83AkZ4QVjwUihCbWVQdnFcUhChhprIL_5nKRi905ExiklBj0LDBogPQqOOYrReSD0JGTy_OP7nLg",
+    "paragraph_count": 406
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 6,
+    "operations": 10,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 6,
+      "paragraphs": [
+        {
+          "content_hash": "198ec06db246bfc9",
+          "style": "NORMAL_TEXT",
+          "text": "多来点红榜推荐谢谢"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 53,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "198c4a9b74ce2aa8",
+          "style": "NORMAL_TEXT",
+          "text": "组里资源倒是还行，卡数量还算多，就是没法分布训练最多单机10卡 （H100？）(Q: 什么机器能10卡？？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9ac233742a1ecfab",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，最后s"
+        },
+        {
+          "content_hash": "8da36fa05acbc1b8",
+          "style": "NORMAL_TEXT",
+          "text": "组里资源倒是还行，卡数量还算多，就是没法分布训练最多单机10卡 （H100？）(Q: 什么机器能10卡？？)（这个不算red flag）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 66,
+      "at_to": 68,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2362b7b399c194b",
+          "style": "NORMAL_TEXT",
+          "text": "又要做横向又要做TA，说话老难听，PUA人（但是除去这些还是挺负责的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b03f8100829bb69b",
+          "style": "NORMAL_TEXT",
+          "text": "又要做横向又要做TA，说话老难听，PUA人（但是除去这些还是挺负责的）（其实我感觉个人能力挺好的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 81,
+      "at_to": 83,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f4298e917cb9dd5",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢问：给你发offer多大概率来 (这话对每个人都说，同期面几十个)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b9403fd3770d71eb",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢问：给你发offer多大概率来 (这话对每个人都说，同期面几十个)（这是所有UNC的Prof的通用操作，包括Mohit也是这样，让你一天内接offer）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 269,
+      "paragraphs": [
+        {
+          "content_hash": "56fe1a80c89af926",
+          "style": "NORMAL_TEXT",
+          "text": "他找你挺和谐，你找他就不好说了 :)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 268,
+      "at_to": 271,
+      "from_paragraphs": [
+        {
+          "content_hash": "c65c759d33b862c9",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fca96eef22f49991",
+          "style": "NORMAL_TEXT",
+          "text": "博一春天，“你paper发不出来你quit吧” （真假的）（放狠话还是真quit了？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 275,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 274,
+      "at_to": 279,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f8f75fc2fdc0288",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引，最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2f0621a5688bb63d",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引，最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 288,
+      "paragraphs": [
+        {
+          "content_hash": "7f602af00f04d5f6",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 320,
+      "at_to": 326,
+      "from_paragraphs": [
+        {
+          "content_hash": "6d3f1f4257bfc7ea",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （别的不说举报事件是真的吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cbb57e0d9a90a057",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）"
+        }
+      ]
+    }
+  ]
+}
