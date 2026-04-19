@@ -1,0 +1,167 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-27-07Z",
+    "revision_id": "AMHacu55MOcUMCwHNVfC7KNJKgVle31ldD6E0X4zkuHqnPH2bFero1lNq5-fWGxbuL-zBHlB9CM-qSu7RZY_4PDQZg",
+    "paragraph_count": 521
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-29-13Z",
+    "revision_id": "AMHacu6lpWR6JXoMIXk0cTKdZqyvIVxIyo45IFbaCcjQRy7jV8xkKVtjIEuyVlEN8zOpASDc1HbwlHRPjx4XKzDmAw",
+    "paragraph_count": 520
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 9,
+    "operations": 8,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 7,
+      "paragraphs": [
+        {
+          "content_hash": "9b83946cc612c3be",
+          "style": "NORMAL_TEXT",
+          "text": "多来点红榜推荐谢"
+        },
+        {
+          "content_hash": "60b6a558f3d2173f",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己要洗的写到红榜里面啊？）（想太多了，这年头读不到phd不读也无所谓，这些黑榜老师offer你真以为都和你一样很珍惜吗？工业界机会多的是，强调自己是吃瓜群众的一般都是利益相关者。）"
+        },
+        {
+          "content_hash": "a3b11881c2db34ba",
+          "style": "NORMAL_TEXT",
+          "text": "（哪个煞笔老板自己破防ctrl a了）"
+        },
+        {
+          "content_hash": "409363e547a4ebd2",
+          "style": "NORMAL_TEXT",
+          "text": "（试图全部删除的死个🐴先，尽管删，看你🐴够不够）"
+        },
+        {
+          "content_hash": "7df775c61431bcf8",
+          "style": "NORMAL_TEXT",
+          "text": "Can we have industry lab red flag notes 加就完了瓜谁不爱吃"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 225,
+      "at_to": 220,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec85d18bc3128e7a",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)，最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "621d958bde48498d",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine，和mohit，huaxiu并称unc三巨头（笑死了，全在黑榜了）(想问一句，UNC发offer，你们都还去不去。笑死。有没有UNC是最好去处的来说“我拒了”。)（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit，因为mohit自己喜欢灌水，招了俩大水王过来辅佐他）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 235,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "7c434cf68c3a1aff",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(wa)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "610eafca3b9289b0",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 252,
+      "paragraphs": [
+        {
+          "content_hash": "e5630765c42f8090",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远zhao"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 271,
+      "at_to": 267,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1f7630dab9049a2",
+          "style": "NORMAL_TEXT",
+          "text": "+1 是曾经intern学生，每次给这个b人fa xiao xi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a5e52b04697e502a",
+          "style": "NORMAL_TEXT",
+          "text": "+1 是曾经intern学生，每次给这个b人发消息 其从来不回复，但是要求学生必须看到立即回复，不然就骂人。他认为只要对他没有用的，他利用不上的人，永远不回复。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 332,
+      "at_to": 328,
+      "from_paragraphs": [
+        {
+          "content_hash": "ebb784906d7239e4",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c0a7e90be87094b4",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经算走大运了xs）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 408,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 413,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

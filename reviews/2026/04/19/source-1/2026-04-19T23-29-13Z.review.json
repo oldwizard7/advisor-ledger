@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-29-13Z.delta.json",
+  "delta_ts": "2026-04-19T23-29-13Z",
+  "reviewed_at_utc": "2026-04-19T23:29:57Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted text contains vulgar personal insults ('走狗', 'b人') and threatening language directed at a specific advisor and their associates, rather than focusing on concrete advising practices.",
+      "excerpt": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。"
+    }
+  ],
+  "prompt_sha256": "18281d4ed8b744329799d0e34925f0a6d461e92a67f3f2a3383b82a32c077c0c",
+  "finish_reason": "stop",
+  "completion_tokens": 3820
+}
