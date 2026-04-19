@@ -1,0 +1,128 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-20-41Z",
+    "revision_id": "AMHacu5zK09ROH83AkZ4QVjwUihCbWVQdnFcUhChhprIL_5nKRi905ExiklBj0LDBogPQqOOYrReSD0JGTy_OP7nLg",
+    "paragraph_count": 406
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-22-50Z",
+    "revision_id": "AMHacu54gf-4Dcsnj84CEj54kIPEwvDo3H53gwAFHec-KzXLxxeC_dHC3XB9w89vN6V4xDFYX0xJKNFhLqZzPBiTXw",
+    "paragraph_count": 407
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 54,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "9ac233742a1ecfab",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，最后s"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2073af2845493d85",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 198,
+      "at_to": 198,
+      "from_paragraphs": [
+        {
+          "content_hash": "06455de17726e87b",
+          "style": "NORMAL_TEXT",
+          "text": "组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）（蹲一下）(谁啊？直接报名字) (虽然但是，phd恶心要怪老师是吗?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9abe62232e0ef4b1",
+          "style": "NORMAL_TEXT",
+          "text": "组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）（蹲一下）(谁啊？直接报名字) (虽然但是，phd恶心要怪老师是吗?)(说明全程放养啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 275,
+      "paragraphs": [
+        {
+          "content_hash": "148de9c5a7a44d19",
+          "style": "NORMAL_TEXT",
+          "text": "p"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 279,
+      "at_to": 280,
+      "from_paragraphs": [
+        {
+          "content_hash": "2f0621a5688bb63d",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引，最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c80de6070c7fccf5",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个就字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 314,
+      "at_to": 315,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1ee1237f0997931",
+          "style": "NORMAL_TEXT",
+          "text": "这位在X上政治立场歪的很明显"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e3e194de2f7ddb25",
+          "style": "NORMAL_TEXT",
+          "text": "这位在X上政治立场歪的很明显 （支持trump说是）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 318,
+      "at_to": 319,
+      "from_paragraphs": [
+        {
+          "content_hash": "47afd318bb6a7ef8",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0cc2424c4657f89d",
+          "style": "NORMAL_TEXT",
+          "text": "给学生写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）"
+        }
+      ]
+    }
+  ]
+}
