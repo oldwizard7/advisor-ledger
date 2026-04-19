@@ -1,0 +1,106 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-25-00Z",
+    "revision_id": "AMHacu6XuQlkWXc-G97d1KL-nwCERGM_aKHEixmUL5NhmxccwcKmReNU4Y0n5CqUWhKhXN2m1UaiqsNRihG61uFoYw",
+    "paragraph_count": 518
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-27-07Z",
+    "revision_id": "AMHacu55MOcUMCwHNVfC7KNJKgVle31ldD6E0X4zkuHqnPH2bFero1lNq5-fWGxbuL-zBHlB9CM-qSu7RZY_4PDQZg",
+    "paragraph_count": 521
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 3,
+    "operations": 5,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "62baff5621e7c721",
+          "style": "NORMAL_TEXT",
+          "text": "To 看到本文档的教授们：如果没做过一些事情，看到学生在维护自己应该会很高兴吧。如果真的做过且没人维护，就得想想自己的问题了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 8,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b01fa6abf95d5fb",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己要洗的写到红榜里面啊？）（想太多了，这年头读不到phd不读也无所谓，这些黑榜老师offer你真以为都和你一样很珍惜吗？工业界机会多的是，强调自己是）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "60b6a558f3d2173f",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己要洗的写到红榜里面啊？）（想太多了，这年头读不到phd不读也无所谓，这些黑榜老师offer你真以为都和你一样很珍惜吗？工业界机会多的是，强调自己是吃瓜群众的一般都是利益相关者。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 234,
+      "at_to": 235,
+      "from_paragraphs": [
+        {
+          "content_hash": "c72ec95f5ab73b0e",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7c434cf68c3a1aff",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(wa)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 269,
+      "at_to": 270,
+      "from_paragraphs": [
+        {
+          "content_hash": "0657cbddffadceca",
+          "style": "NORMAL_TEXT",
+          "text": "贡献+1，是曾经intern的学生。推荐信受害者。gmail坑惨了。另外一个女的当时在北大的学生W疯狂填xcw"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2d4a4c4599c790bc",
+          "style": "NORMAL_TEXT",
+          "text": "贡献+1，是曾经intern的学生。推荐信受害者。gmail坑惨了。另外一个女的当时在北大的学生Wang Yu(现在在wisc)疯狂舔xcw给他当走狗，给他私下汇报很多intern举报他的动向和进度。"
+        },
+        {
+          "content_hash": "c1f7630dab9049a2",
+          "style": "NORMAL_TEXT",
+          "text": "+1 是曾经intern学生，每次给这个b人fa xiao xi"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 312,
+      "paragraphs": [
+        {
+          "content_hash": "06f87d0d92af38c4",
+          "style": "NORMAL_TEXT",
+          "text": "白人神秘消失术（？）"
+        }
+      ]
+    }
+  ]
+}

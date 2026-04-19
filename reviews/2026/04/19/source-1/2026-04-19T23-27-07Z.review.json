@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-27-07Z.delta.json",
+  "delta_ts": "2026-04-19T23-27-07Z",
+  "reviewed_at_utc": "2026-04-19T23:28:01Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Discloses full name of a private individual (Wang Yu) along with specific institutional affiliations (former student at Peking University, currently at University of Wisconsin), which is personally identifying information about a student",
+      "excerpt": "Wang Yu(现在在wisc)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Contains unsupported personal insults and character attacks ('疯狂舔...给他当走狗' / crazily sucking up to him, being his running dog/lackey) directed at a named student, rather than criticism of concrete advising practices",
+      "excerpt": "疯狂舔xcw给他当走狗"
+    }
+  ],
+  "prompt_sha256": "b9826d201dc06d58b169f9ca7950e5d5bffc7c5d544198719ba231cc233afa5e",
+  "finish_reason": "stop",
+  "completion_tokens": 4727
+}
