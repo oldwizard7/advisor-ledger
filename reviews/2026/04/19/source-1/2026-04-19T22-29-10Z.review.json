@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-29-10Z.delta.json",
+  "delta_ts": "2026-04-19T22-29-10Z",
+  "reviewed_at_utc": "2026-04-19T22:30:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added text contains a personal attack against a commenter defending the professor, accusing them of 'bootlicking' (舔) and having a 'too comfortable' PhD experience, rather than addressing the substantive arguments about the professor's advising practices.",
+      "excerpt": "（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了，建议去红榜写，这里不适合你）"
+    }
+  ],
+  "prompt_sha256": "f4b82802f8bb3e2c46094951a4c10ab81daa8de251e524ce31fb1a3715ef466f",
+  "finish_reason": "stop",
+  "completion_tokens": 5130
+}

@@ -1,0 +1,210 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-27-00Z",
+    "revision_id": "AMHacu680wYK1EN6Vn5Filq_-R3VrUqUrt6kfFGzXDq4Bjq0Y3Qj1MDjLxd2rhRZbeSMAVR9QT0fXBdGdWXV88LDaQ",
+    "paragraph_count": 408
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-29-10Z",
+    "revision_id": "AMHacu4qpk6wi2HV1LgurAbg9PPosbBCRNbaSIxV8cPDkfIMD7nngkDAO2zecoho__NNJ5UJt3ExDAvcgkZoxNIlmg",
+    "paragraph_count": 410
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 10,
+    "operations": 9,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 51,
+      "at_to": 51,
+      "from_paragraphs": [
+        {
+          "content_hash": "8c76e440273d9805",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → 感觉postdoc side问题比较大，建议这个postdoc也上黑榜（postdoc去了某知名大厂）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f9c8700f50a63c7",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → 感觉postdoc side问题比较大，建议这个postdoc也上黑榜（postdoc去了某知名大厂，没混学术界了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 54,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "3048ae8e621ba59a",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话（大组面几十个candidate应该挺正常吧）（重点是压力接offer）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "06ef42ec23678bf0",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话（大组面几十个candidate应该挺正常吧）（重点是压力接offer）（确实）"
+        },
+        {
+          "content_hash": "badfad013a87c96c",
+          "style": "NORMAL_TEXT",
+          "text": "接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 107,
+      "at_to": 107,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc8bab2863a252cd",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？就是把全组人挂在网上说我们一起发了一个比特币）（哈哈哈哈哈哈哈哈哈我朝）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6484d59651647ef8",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？就是把全组人挂在网上说他们一起发了一个比特币哈哈哈哈）（哈哈哈哈哈哈哈哈哈我朝）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 112,
+      "at_to": 112,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ba6707b9560b0e4",
+          "style": "NORMAL_TEXT",
+          "text": "一点技术不懂，只会造概念，不允许学生训练，说把prompt写好足够了（这点可能还是对的）。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "21ba5a63aae6de0f",
+          "style": "NORMAL_TEXT",
+          "text": "一点技术不懂，只会造概念，不允许学生训练，说把prompt写好足够了（这点可能还是对的，有点道理吗）。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 195,
+      "at_to": 195,
+      "from_paragraphs": [
+        {
+          "content_hash": "e6e356094777a079",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧) (马甲掉了) 的老师都列在黑榜，学术品位都一般)(你有什么好paper实名列出来吧，我保你读博)"
+        },
+        {
+          "content_hash": "4ed32890a4023d46",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把90%"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b55aae06c618b39",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们（你，并非们）还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）(没拿到return破防了开始全网黑julian是吧) (马甲掉了) (你有什么好paper实名列出来吧，我保你读博)（julian都有人黑，UCSD第一大好人吧）"
+        },
+        {
+          "content_hash": "8bd8a6aaf1e69c9d",
+          "style": "NORMAL_TEXT",
+          "text": "学术品味一般，感觉招生纯数paper (建议你把90%的老师都列在黑榜，学术品位都一般)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 268,
+      "at_to": 268,
+      "from_paragraphs": [
+        {
+          "content_hash": "db35b697e6174f09",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的（结合下面的朋友关系看）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8f0009c6e5579a42",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的，结合下面的朋友关系看"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 273,
+      "paragraphs": [
+        {
+          "content_hash": "fc5be4e0d19d893d",
+          "style": "NORMAL_TEXT",
+          "text": "“你不能拿他当generator，他最多就是discriminator”"
+        },
+        {
+          "content_hash": "06b70ad312f00d1c",
+          "style": "NORMAL_TEXT",
+          "text": "Alexa si"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 281,
+      "at_to": 283,
+      "from_paragraphs": [
+        {
+          "content_hash": "4bd4fef902e217dc",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，免费劳动力开公司，干到深夜发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b0fd164e3bd8252",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了，建议去红榜写，这里不适合你）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 290,
+      "at_to": 292,
+      "from_paragraphs": [
+        {
+          "content_hash": "c394dee73e9a6a3c",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）(别造谣了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8e6fad06b8329166",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）（别造谣了）"
+        }
+      ]
+    }
+  ]
+}
