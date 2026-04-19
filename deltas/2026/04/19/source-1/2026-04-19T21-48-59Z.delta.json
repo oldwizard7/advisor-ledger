@@ -1,0 +1,260 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T21-43-22Z",
+    "revision_id": "AMHacu5m2u_iqOx06wvAPv_uoGwaTb9vpbDjmPtVTx7qvMJunIW__7-yw2FoO9WWdDze6MDR4JFpLYGyjS87FNI2lA",
+    "paragraph_count": 340
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T21-48-59Z",
+    "revision_id": "AMHacu7i2SsoKmJy-ZE2_4rmRpAeWlr3OngtGQrnmq_hbbKhw6akTUQ3tlqdPkV2qUXjzRk_w7chiIL97PBPBmqGJw",
+    "paragraph_count": 344
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 11,
+    "operations": 13,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 15,
+      "at_to": 15,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc83fddc9eb66fc5",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhDs不止一个quit了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "294e79441924e812",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhDs不止一个quit了 (最近2-3年有5+phd quit/转组)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 45,
+      "paragraphs": [
+        {
+          "content_hash": "677314048491d06e",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 103,
+      "at_to": 104,
+      "from_paragraphs": [
+        {
+          "content_hash": "fa43296e8671a3ef",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b1c736179806e12e",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 163,
+      "at_to": 164,
+      "from_paragraphs": [
+        {
+          "content_hash": "5595d3d787cd824e",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前去uchicago被uchicago的本科生投诉，然后只能回uiuc去了"
+        },
+        {
+          "content_hash": "4cb5f2e73fcba78f",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e45689b546baad7",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前去uchicago被uchicago的本科生投诉，然后只能回uiuc去了（但从uiuc去uchicago不是因为在uiuc被举报了么）"
+        },
+        {
+          "content_hash": "31333c15a5b99817",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 178,
+      "at_to": 179,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b043bc1a0de6249",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就滚到别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe65f95d83d76a97",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够hu you）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 202,
+      "at_to": 203,
+      "from_paragraphs": [
+        {
+          "content_hash": "41215768f906a017",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，phd之间私下里互相谩骂侮辱 (啊？？真的吗)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4ae9538cd634539c",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 211,
+      "paragraphs": [
+        {
+          "content_hash": "2a698e630a5d7fe7",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 226,
+      "at_to": 228,
+      "from_paragraphs": [
+        {
+          "content_hash": "f822c8823deefc12",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b159bc786d7a558b",
+          "style": "NORMAL_TEXT",
+          "text": "NEU 夫妻店（是Yanzhi Wang和Xue吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 231,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "15ba654e35ff4578",
+          "style": "NORMAL_TEXT",
+          "text": "组会有过踹桌子，扔东西，直接威胁让这人别读了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6d97965efbef368d",
+          "style": "NORMAL_TEXT",
+          "text": "组会有过踹桌子，扔东西，直接威胁让这人别干了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 254,
+      "at_to": 256,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a273cb60e8e2a08",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？你洗飞飞的稿子？）（我看有feifei jiajun的不是直接arxiv吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "37784a856325f87b",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？你洗飞飞的稿子？）（我看有feifei jiajun的不是直接arxiv吗）（纯路人，这么多人的组会只有那几篇吗？不可能偏偏都带吧）（慢挂，缓挂，有选择地挂，有节奏地挂(这是个人才！)）（666还有申论考生）（挂arxiv也要讲究基本法）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 265,
+      "at_to": 267,
+      "from_paragraphs": [
+        {
+          "content_hash": "f934ffab95f8f0f0",
+          "style": "NORMAL_TEXT",
+          "text": "ap时候半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个，其中俩个还跟她闹掰了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfed3fbe3314ff50",
+          "style": "NORMAL_TEXT",
+          "text": "Ap时候半年发不出来paper断funding换组，组内quit换组极多，都tenure了才毕业三个，其中俩个还跟她闹掰了"
+        },
+        {
+          "content_hash": "4adf6de953978a35",
+          "style": "NORMAL_TEXT",
+          "text": "利益无关，但是听说有发了RA offer之后撤RA的情况，学生留了个空offer没人fund"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 274,
+      "paragraphs": [
+        {
+          "content_hash": "345040db5723581e",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 274,
+      "at_to": 278,
+      "from_paragraphs": [
+        {
+          "content_hash": "91d9aec554583700",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d4c2acfc68b3ad01",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公"
+        }
+      ]
+    }
+  ]
+}
