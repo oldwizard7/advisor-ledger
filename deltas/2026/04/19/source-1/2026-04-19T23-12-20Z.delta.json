@@ -1,0 +1,570 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-08-00Z",
+    "revision_id": "AMHacu48Feq6s12hWlwv9wa4X9HjzyBZM605Syz_9mqV7IL1061DcOdJkr4gaPaz_MLaensGwQrZLpNdbncQ_dOc3w",
+    "paragraph_count": 471
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-12-20Z",
+    "revision_id": "AMHacu6Y0s-fPs5faoNtss5xjADrQLlsvywTPwDSb5b3xNQinjDtV5ipw9ZFYaAFdCnkkM8PNjj1Anmx2FRs_Q3QXg",
+    "paragraph_count": 489
+  },
+  "summary": {
+    "inserted_paragraphs": 44,
+    "deleted_paragraphs": 26,
+    "operations": 25,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 4,
+      "paragraphs": [
+        {
+          "content_hash": "13a10020fe8771ed",
+          "style": "NORMAL_TEXT",
+          "text": "本文档预计即将被和谐，已有Prof给我发邮件，大家可以参考下面的备份"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 6,
+      "paragraphs": [
+        {
+          "content_hash": "9b83946cc612c3be",
+          "style": "NORMAL_TEXT",
+          "text": "多来点红榜推荐谢"
+        },
+        {
+          "content_hash": "b1bbc658d6156445",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己吃屎，为什么要教育别人）"
+        },
+        {
+          "content_hash": "a3b11881c2db34ba",
+          "style": "NORMAL_TEXT",
+          "text": "（哪个煞笔老板自己破防ctrl a了）"
+        },
+        {
+          "content_hash": "409363e547a4ebd2",
+          "style": "NORMAL_TEXT",
+          "text": "（试图全部删除的死个🐴先，尽管删，看你🐴够不够）"
+        },
+        {
+          "content_hash": "7df775c61431bcf8",
+          "style": "NORMAL_TEXT",
+          "text": "Can we have industry lab red flag notes 加就完了瓜谁不爱吃"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 18,
+      "at_to": 22,
+      "from_paragraphs": [
+        {
+          "content_hash": "9d82e27b6fe8de06",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内的本科生（不止一个），甚至不是NLP方向的，都听说过Celine组的“大名” (这一点咋看着很不专业，Celine也不是做NLP的)（但是Celine给我发面试了，我是NLP的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "34f23944ff45a877",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内的本科生（不止一个），甚至不是NLP方向的，都听说过Celine组的“大名” (这一点咋看着很不专业，Celine也不是做NLP的)（但是Celine给我发面试了，我是NLP的）(唉，网友啊)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 32,
+      "paragraphs": [
+        {
+          "content_hash": "ca4bf1955080fa8b",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽的时候跟有个学生说好的可以跟过去读phd后面毁约了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 104,
+      "at_to": 107,
+      "from_paragraphs": [
+        {
+          "content_hash": "b7cb0086bdfe6962",
+          "style": "NORMAL_TEXT",
+          "text": "Citation很低，很难相信citation低的不如正常phd还能留在sd任教（只是讲师无所谓吧）(本身只是lecturer，当时让他带graduate course也是临危受命，因为一个professor走了，后来感觉还行就一直带着，他本人在外面有"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5245beda9f9cfccb",
+          "style": "NORMAL_TEXT",
+          "text": "Citation很低，很难相信citation低的不如正常phd还能留在sd任教（只是讲师无所谓吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 169,
+      "at_to": 172,
+      "from_paragraphs": [
+        {
+          "content_hash": "75d901e11bc89ef3",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）听说当年去找另一个candiate换offer 人家没鸟他"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "79c69b58226ed365",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（听说当年去找另一个candiate换offer 人家没鸟他）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 171,
+      "at_to": 174,
+      "from_paragraphs": [
+        {
+          "content_hash": "7466a73feb5d2591",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课整个扔给自己phd负责（从logistics到找speaker到作业）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        },
+        {
+          "content_hash": "a9262091668e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "学生暑期实习还需要高强度做组内工作。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 190,
+      "at_to": 194,
+      "from_paragraphs": [
+        {
+          "content_hash": "29f89022832b72bb",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）（bo的确觉得vandy丢面，hen'mo'm）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e5974d01aed66d3f",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 198,
+      "paragraphs": [
+        {
+          "content_hash": "2ce3f47a60bd8759",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 226,
+      "from_paragraphs": [
+        {
+          "content_hash": "ddedc39a50da6753",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键是人家quit 之后申请了其他的phd 啊，又不是quit 之后直接工作）（quit还给master学位不挺好吗？）（人各有志而已，只能说不match。因为还有不止一个没有quit，这就是个人选择了）（有人没quit 就代表没问题了？？？什么逻辑）（主要是想表达，有一个人quit很常见）"
+        },
+        {
+          "content_hash": "b29e1d9f2e31824a",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)（这个就很solid）"
+        },
+        {
+          "content_hash": "0675896493997ff8",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题偷换概念，是不是帮你水了几篇垃圾顶会？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb510a5c46f62743",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）"
+        },
+        {
+          "content_hash": "9aecde749892699c",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        },
+        {
+          "content_hash": "5f8abe32a57a3754",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（洗地侠真的丢人啊，一点碧莲都不要了，各种换话题更换概念，是不是帮你水了几篇垃圾顶会？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 230,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "8302e150b511b6d7",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿）（好像还有一个没入学前就跑了一个，之前合作的学生也有跑的），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        },
+        {
+          "content_hash": "fd35481591455836",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己在公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad06360eab634812",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        },
+        {
+          "content_hash": "1ea486cf1af30fda",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 234,
+      "paragraphs": [
+        {
+          "content_hash": "fc9066208466612f",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度骂人（带亲戚），骂哭骂跑过几个学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 248,
+      "at_to": 250,
+      "from_paragraphs": [
+        {
+          "content_hash": "2c538906dc2247e3",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（送他去榜首吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5b50347e2ddae89d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 250,
+      "at_to": 252,
+      "from_paragraphs": [
+        {
+          "content_hash": "8eafc4140d4b64b6",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）（wisc也要脸；另外他没有等到wisc最终落下裁决就提前跑了，wisc只好中断了调查）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2e83bb0a17423ed6",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 252,
+      "at_to": 254,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e93bdf3df195374",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）（bo li离开uiuc的时候已经tenure了？以为是从uchi回uiuc才给的tenure）（就是tenure了uiuc才没有办法因为学生举报和学生打架直接开除，才只能劝退，结果靠他那个傻逼老公Zhan）"
+        },
+        {
+          "content_hash": "99180c24a918aa61",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个b干的drama事儿太多了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e5c11b85748325d7",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        },
+        {
+          "content_hash": "b1ffea1c513fcb7f",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 256,
+      "at_to": 258,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f2252d7d09ac2be",
+          "style": "NORMAL_TEXT",
+          "text": "之前招了几十个白打工的intern，有的intern给他发了40条消息他就不回，他的价值观是，如果这个人没有能力，他就不回信息装死。最后所有的intern全部leave。"
+        },
+        {
+          "content_hash": "6a17319949f6984f",
+          "style": "NORMAL_TEXT",
+          "text": "继续，之前"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "179c534bf86f6a24",
+          "style": "NORMAL_TEXT",
+          "text": "我们继续！不许学生假期正常休假，只要微信/slack半个小时没回复就破口大骂；给学生半夜三四点直接打电话（微信call），不管学生是否在睡觉"
+        },
+        {
+          "content_hash": "f5d7ae22c809ab7a",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 289,
+      "at_to": 291,
+      "from_paragraphs": [
+        {
+          "content_hash": "b49892221a668980",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的就跟杀了他🐴一样，最后全组都说毕业要找教职，实则没几个人找，都糊弄他搞点资源跑路"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f10d7f496cfeb747",
+          "style": "NORMAL_TEXT",
+          "text": "组里面找教职资源倾斜，不找教职的歧视性对待，最后全组都说毕业要找教职，实则没几个人找，都糊弄他搞点资源跑路"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 312,
+      "paragraphs": [
+        {
+          "content_hash": "25c7c3979832644a",
+          "style": "NORMAL_TEXT",
+          "text": "meeting感觉很aggressive很push"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 314,
+      "at_to": 317,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0c9fa5f567a7f7d",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（openAI有几个师）（这么多人怎么写推荐信）(一般intern只要在组里参与项目，不管是否做出来东西了，都会给写positive letter，一般letter都给不错的分数)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "be46f2f13d02472e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 321,
+      "at_to": 324,
+      "from_paragraphs": [
+        {
+          "content_hash": "0104eab05cd09887",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu (?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "815070803a2a036f",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 347,
+      "at_to": 350,
+      "from_paragraphs": [
+        {
+          "content_hash": "a31e3366ca12d6cc",
+          "style": "NORMAL_TEXT",
+          "text": "Meeting频繁迟到且不通知，Meeting中有一半以上的时间反复问同样的问题且抓不住研究重点"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a9c91fdb9ca29617",
+          "style": "NORMAL_TEXT",
+          "text": "Meeting频繁迟到且不通知，Meeting中有一半以上的时间反复问同样的问题且抓不住研究重点（90%的时间在梦游）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 352,
+      "paragraphs": [
+        {
+          "content_hash": "3c5aa2bf7a9fa3d1",
+          "style": "NORMAL_TEXT",
+          "text": "有沟通障碍，中文英文都不知道在说啥"
+        },
+        {
+          "content_hash": "9b99f4eb4f6b5398",
+          "style": "NORMAL_TEXT",
+          "text": "多名学生quit"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 367,
+      "paragraphs": [
+        {
+          "content_hash": "38f904e8ec6e040f",
+          "style": "NORMAL_TEXT",
+          "text": "第一年招的phd都跑路之后造谣当事人"
+        },
+        {
+          "content_hash": "9f178009d40f9b83",
+          "style": "NORMAL_TEXT",
+          "text": "非常热爱做benchmark"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 378,
+      "paragraphs": [
+        {
+          "content_hash": "95a168c1a92e27a1",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Nuno Vasconcelos"
+        },
+        {
+          "content_hash": "312545f6d854465c",
+          "style": "NORMAL_TEXT",
+          "text": "致敬传奇人均七年毕业的延毕王"
+        },
+        {
+          "content_hash": "6da26eecaac8f311",
+          "style": "NORMAL_TEXT",
+          "text": "没有7篇顶会一作就别想答辩了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2dfaefaadd143059",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao"
+        },
+        {
+          "content_hash": "a84a0f4c6936b83c",
+          "style": "NORMAL_TEXT",
+          "text": "听说有瓜 打个窝"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c75f4e18bb380748",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech Anima"
+        },
+        {
+          "content_hash": "517e9ee2c2412c9f",
+          "style": "NORMAL_TEXT",
+          "text": "占坑"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 391,
+      "from_paragraphs": [
+        {
+          "content_hash": "6f45a1599a5b7a9c",
+          "style": "NORMAL_TEXT",
+          "text": "+10086"
+        },
+        {
+          "content_hash": "6f45a1599a5b7a9c",
+          "style": "NORMAL_TEXT",
+          "text": "+10086"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

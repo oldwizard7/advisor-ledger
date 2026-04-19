@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-12-20Z.delta.json",
+  "delta_ts": "2026-04-19T23-12-20Z",
+  "reviewed_at_utc": "2026-04-19T23:13:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted multiple profane personal attacks and insults including '你自己吃屎' (you eat shit), '煞笔老板' (stupid/moron boss), and '死个🐴' (die mother) directed at other editors or professors",
+      "excerpt": "（你自己吃屎，为什么要教育别人）（哪个煞笔老板自己破防ctrl a了）（试图全部删除的死个🐴先"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted substantive observation about an advisor breaking a prior promise to allow a student to follow them to a new institution for PhD studies",
+      "excerpt": "跳槽的时候跟有个学生说好的可以跟过去读phd后面毁约了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted description of specific abusive advising behavior including intense verbal abuse with relatives mentioned that caused multiple students to cry and leave",
+      "excerpt": "会高强度骂人（带亲戚），骂哭骂跑过几个学生"
+    }
+  ],
+  "prompt_sha256": "57b7e02a2709773fb14aa0f10db6c17aeac4732dd6e314089b9a2c90e41d372b",
+  "finish_reason": "stop",
+  "completion_tokens": 4327
+}
