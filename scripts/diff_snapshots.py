@@ -95,10 +95,27 @@ def build_operations(from_paras: list[dict], to_paras: list[dict]) -> list[dict]
     return ops
 
 
+# Structural attack heuristic: flag when a single diff removes (or inserts)
+# an unusually large chunk of the doc — e.g. vandalism that blanks the whole
+# page, or a copy-paste flood. Tuned to avoid firing on normal editing.
+MASS_ABS_THRESHOLD = 10      # at least this many paragraphs touched
+MASS_RATIO_THRESHOLD = 0.15  # AND at least this fraction of the prior/new size
+
+
 def compute_delta(from_norm: dict, to_norm: dict) -> dict:
     ops = build_operations(from_norm["paragraphs"], to_norm["paragraphs"])
     inserted = sum(len(o.get("paragraphs", o.get("to_paragraphs", []))) for o in ops if o["op"] in ("insert", "replace"))
     deleted = sum(len(o.get("paragraphs", o.get("from_paragraphs", []))) for o in ops if o["op"] in ("delete", "replace"))
+    from_count = max(from_norm["paragraph_count"], 1)
+    to_count = max(to_norm["paragraph_count"], 1)
+    mass_deletion = (
+        deleted >= MASS_ABS_THRESHOLD
+        and (deleted / from_count) >= MASS_RATIO_THRESHOLD
+    )
+    mass_insertion = (
+        inserted >= MASS_ABS_THRESHOLD
+        and (inserted / to_count) >= MASS_RATIO_THRESHOLD
+    )
     return {
         "source_id": to_norm["source_id"],
         "google_doc_id": to_norm["google_doc_id"],
@@ -117,6 +134,10 @@ def compute_delta(from_norm: dict, to_norm: dict) -> dict:
             "deleted_paragraphs": deleted,
             "operations": len(ops),
             "changed": len(ops) > 0,
+            "mass_deletion_suspected": mass_deletion,
+            "mass_insertion_suspected": mass_insertion,
+            "deletion_ratio": round(deleted / from_count, 4),
+            "insertion_ratio": round(inserted / to_count, 4),
         },
         "operations": ops,
     }

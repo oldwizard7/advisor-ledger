@@ -111,6 +111,17 @@ def discover_source_ids() -> list[str]:
     return sorted({p.parent.name for p in NORMALIZED_DIR.rglob("*.normalized.json")})
 
 
+def is_mass_deletion(d: dict) -> bool:
+    """Honor the delta's own flag; for older deltas missing it, recompute."""
+    s = d.get("summary", {}) or {}
+    v = s.get("mass_deletion_suspected")
+    if v is not None:
+        return bool(v)
+    deleted = s.get("deleted_paragraphs", 0)
+    from_pc = max(d.get("from", {}).get("paragraph_count", 0), 1)
+    return deleted >= 10 and (deleted / from_pc) >= 0.15
+
+
 def build_ghosts(norms: list[dict], deltas: list[dict]):
     """Return (ghosts_head, ghosts_by_anchor) for this source."""
     norm_by_ts = {n["captured_at_utc"]: n for n in norms}
@@ -123,6 +134,7 @@ def build_ghosts(norms: list[dict], deltas: list[dict]):
             continue
         from_paras = norm_by_ts[from_ts]["paragraphs"]
         to_ts = d["to"]["captured_at_utc"]
+        mass_del = is_mass_deletion(d)
         for op in d["operations"]:
             if op["op"] == "delete":
                 pos = op["at_from"]
@@ -136,7 +148,7 @@ def build_ghosts(norms: list[dict], deltas: list[dict]):
             for g in ghost_list:
                 if g["content_hash"] == BLANK_HASH:
                     continue  # skip blank-line ghosts (too noisy)
-                rec = {**g, "deleted_at": to_ts}
+                rec = {**g, "deleted_at": to_ts, "mass_deletion": mass_del}
                 if anchor is None:
                     ghosts_head.append(rec)
                 else:
@@ -177,11 +189,19 @@ def render_ghost(g: dict) -> str:
     style = html.escape(g.get("style", "NORMAL_TEXT"))
     text = esc(g["text"])
     concerns = g.get("suspicious_concerns") or []
-    cls = "p ghost suspicious" if concerns else "p ghost"
+    mass = bool(g.get("mass_deletion"))
+    classes = ["p", "ghost"]
+    if mass:
+        classes.append("mass-deletion")
+    if concerns:
+        classes.append("suspicious")
     badges = [f'<span class="badge deleted">− {html.escape(g["deleted_at"])}</span>']
-    detail_html = ""
+    if mass:
+        badges.append('<span class="badge mass">⛔ 批量删除</span>')
     if concerns:
         badges.append('<span class="badge flag">⚠ 可疑删除</span>')
+    detail_html = ""
+    if concerns:
         items = "".join(
             f'<li>{html.escape(c.get("detail", ""))}</li>' for c in concerns
         )
@@ -190,7 +210,7 @@ def render_ghost(g: dict) -> str:
             f'<ul>{items}</ul></details>'
         )
     return (
-        f'<div class="{cls}" data-style="{style}">'
+        f'<div class="{" ".join(classes)}" data-style="{style}">'
         f'{"".join(badges)}'
         f'<div class="text">{text}</div>'
         f'{detail_html}'
@@ -214,6 +234,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
  .p.ghost .text{{color:#a33;text-decoration:line-through;}}
  .p.ghost.suspicious{{background:#fff6d6;border-left-color:#d4a017;box-shadow:inset 3px 0 0 #d4a017, 0 0 0 1px #d4a017;}}
  .p.ghost.suspicious .text{{color:#7a5c00;}}
+ .p.ghost.mass-deletion{{background:#ffe5e5;border-left-color:#a00;box-shadow:inset 4px 0 0 #a00, 0 0 0 1px #a00;}}
+ .p.ghost.mass-deletion .text{{color:#800;font-weight:500;}}
+ .p.ghost.mass-deletion.suspicious{{background:#ffd9d9;}}
+ .badge.mass{{background:#a00;}}
+ .attack-banner{{background:#a00;color:#fff;padding:.7em 1em;border-radius:4px;margin:1em 0 1.5em;font-size:.95em;}}
+ .attack-banner strong{{font-weight:600;}}
+ .attack-banner code{{background:rgba(255,255,255,.2);padding:.05em .35em;border-radius:2px;}}
  .p.added{{background:#f0fff4;border-left-color:#2a8;}}
  .badge{{display:inline-block;font-size:.7em;padding:.05em .45em;border-radius:3px;margin-right:.6em;font-family:ui-monospace,monospace;vertical-align:middle;text-decoration:none;color:#fff;}}
  .badge.added{{background:#2a8;}}
@@ -228,10 +255,11 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <h1>{title}</h1>
 <div class="meta">
  source: <code>{source_id}</code> · snapshots: {n_snapshots} · range: {earliest_ts} → {latest_ts}<br>
- live paragraphs: {n_live} · deleted (preserved): {n_ghosts} · added since start: {n_added} · flagged as suspicious: {n_suspicious}<br>
+ live paragraphs: {n_live} · deleted (preserved): {n_ghosts} · added since start: {n_added} · 可疑删除: {n_suspicious} · 批量删除: {n_mass}<br>
  <span class="legend"><span class="badge added">+ ts</span>added after first snapshot</span>
  <span class="legend"><span class="badge deleted">− ts</span>deleted (kept with strike-through)</span>
  <span class="legend"><span class="badge flag">⚠</span>AI 标注为可疑删除</span>
+ <span class="legend"><span class="badge mass">⛔</span>单次删除超 15% / ≥10 段(疑似批量删除)</span>
 </div>
 <main>
 {body}
@@ -253,7 +281,30 @@ def render_source(source_id: str) -> str | None:
     ghosts_head, ghosts_by_anchor = build_ghosts(norms, deltas)
     attach_suspicious(ghosts_head, ghosts_by_anchor, suspicious_by_ts(source_id))
 
+    mass_events = [
+        {
+            "ts": d["to"]["captured_at_utc"],
+            "deleted": d["summary"].get("deleted_paragraphs", 0),
+            "ratio": d["summary"].get("deletion_ratio"),
+        }
+        for d in deltas
+        if is_mass_deletion(d)
+    ]
+
     parts: list[str] = []
+    if mass_events:
+        latest_evt = mass_events[-1]
+        ratio_txt = (
+            f"{latest_evt['ratio']*100:.0f}%" if latest_evt.get("ratio") is not None else "?"
+        )
+        parts.append(
+            f'<div class="attack-banner">'
+            f'⛔ <strong>检测到 {len(mass_events)} 次疑似批量删除事件</strong> '
+            f'(最近一次 <code>{html.escape(latest_evt["ts"])}</code>,'
+            f'删除 {latest_evt["deleted"]} 段 ≈ {ratio_txt})。'
+            f'所有被删内容已在下方以红色高亮保留,不会丢失。'
+            f'</div>'
+        )
     n_added = 0
 
     for g in ghosts_head:
@@ -283,12 +334,10 @@ def render_source(source_id: str) -> str | None:
         for g in orphaned:
             parts.append(render_ghost(g))
 
-    n_ghosts = len(ghosts_head) + sum(len(v) for v in ghosts_by_anchor.values())
-    n_suspicious = sum(
-        1
-        for g in ghosts_head + [x for lst in ghosts_by_anchor.values() for x in lst]
-        if g.get("suspicious_concerns")
-    )
+    all_ghosts = ghosts_head + [x for lst in ghosts_by_anchor.values() for x in lst]
+    n_ghosts = len(all_ghosts)
+    n_suspicious = sum(1 for g in all_ghosts if g.get("suspicious_concerns"))
+    n_mass = sum(1 for g in all_ghosts if g.get("mass_deletion"))
     return HTML_TEMPLATE.format(
         title=html.escape(latest.get("title") or source_id),
         source_id=html.escape(source_id),
@@ -299,6 +348,7 @@ def render_source(source_id: str) -> str | None:
         n_ghosts=n_ghosts,
         n_added=n_added,
         n_suspicious=n_suspicious,
+        n_mass=n_mass,
         body="\n".join(parts),
     )
 
