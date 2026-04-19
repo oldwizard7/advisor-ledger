@@ -1,0 +1,246 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T21-48-59Z",
+    "revision_id": "AMHacu7i2SsoKmJy-ZE2_4rmRpAeWlr3OngtGQrnmq_hbbKhw6akTUQ3tlqdPkV2qUXjzRk_w7chiIL97PBPBmqGJw",
+    "paragraph_count": 344
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T21-51-40Z",
+    "revision_id": "AMHacu51Rv0Zp5b47ILy1kEDNcQhvl_hl_k7tTGwNjgl1q28M1TSL7_Rgtf7kX4lEWvVe16-BobvC6Eu1rNTDf3wTA",
+    "paragraph_count": 349
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 10,
+    "operations": 12,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 45,
+      "at_to": 45,
+      "from_paragraphs": [
+        {
+          "content_hash": "677314048491d06e",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a44c53601621e34",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 101,
+      "paragraphs": [
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 104,
+      "at_to": 105,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1c736179806e12e",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2229b8361a5de170",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？）（哈哈哈哈哈哈哈哈哈我朝）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 179,
+      "at_to": 180,
+      "from_paragraphs": [
+        {
+          "content_hash": "fe65f95d83d76a97",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够hu you）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b05d3f520a387a5",
+          "style": "NORMAL_TEXT",
+          "text": "老师纯放养，组里之前的intern挺多的，但是人均资源很少很少，一般情况下能access的集群只有8张A6000。适合科研能力强➕自带干粮只是缺个地方拿学位的大佬(所以为什么在黑榜？你自己菜就去别的地方ok?)。（没看懂为什么上黑榜）(julian上黑榜你们还是人吗)（学术界就是没资源的，有几个组可以给所有学生都配a100以上的卡？）(该说不说我觉得还挺多的）(人均资源少你就滚到有资源的地方，这就上黑榜了？傻逼吗)(julian出了名的好人吧)（也没用资源管够忽悠你来啊）("
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 182,
+      "at_to": 183,
+      "from_paragraphs": [
+        {
+          "content_hash": "2ca80e221d188bd2",
+          "style": "NORMAL_TEXT",
+          "text": "组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）（蹲一下）(谁啊？直接报名字)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "06455de17726e87b",
+          "style": "NORMAL_TEXT",
+          "text": "组里的PhD抢ms的一作，真的很恶心🤢（哪个 phd？）（蹲一下）(谁啊？直接报名字) (虽然但是，phd恶心要怪老师是吗?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 203,
+      "at_to": 204,
+      "from_paragraphs": [
+        {
+          "content_hash": "4ae9538cd634539c",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "33bde43ff650d0fc",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生斗争，有的phd之间私下里互相谩骂侮辱 (啊？？真的吗)（真的）(蹲后续)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 230,
+      "from_paragraphs": [
+        {
+          "content_hash": "b965038b517545cc",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会，投不出来还喜欢嘲笑人，idea都是a+b"
+        },
+        {
+          "content_hash": "5f3062082a6beea1",
+          "style": "NORMAL_TEXT",
+          "text": "组内出过一个拿过一堆顶校（网上可以查到的有yale，布朗，wisconsin madison，washU）面试的candidate然后被人在小红书上开盒，不开源code，onsite基础知识极差，一窍不通，其实是全组paper和项目堆出来的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a9ef53eaea3fbb06",
+          "style": "NORMAL_TEXT",
+          "text": "水平极差，只会要求你投顶会，投不出来还喜欢嘲笑人（还不如直接骂），idea都是a+b"
+        },
+        {
+          "content_hash": "9b8456708fdbc23e",
+          "style": "NORMAL_TEXT",
+          "text": "组内出过一个拿过一堆顶校（网上可以查到的有yale，布朗，wisconsin madison，washU）面试的candidate然后被人在小红书上开盒，不开源code，onsite面试评论区说基础知识极差，一窍不通，其实是全组paper和项目堆出来的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 232,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "c34b5de7c8ad93d2",
+          "style": "NORMAL_TEXT",
+          "text": "开着zoom当着其他组面辱骂，有一次骂了学生半小时过激，老婆吓得直接过来站他身后"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "524f73e9756af638",
+          "style": "NORMAL_TEXT",
+          "text": "特别喜欢骂人，开着zoom当着其他组面辱骂，有一次骂了学生半小时过激，老婆吓得直接过来站他身后"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 256,
+      "at_to": 257,
+      "from_paragraphs": [
+        {
+          "content_hash": "37784a856325f87b",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？你洗飞飞的稿子？）（我看有feifei jiajun的不是直接arxiv吗）（纯路人，这么多人的组会只有那几篇吗？不可能偏偏都带吧）（慢挂，缓挂，有选择地挂，有节奏地挂(这是个人才！)）（666还有申论考生）（挂arxiv也要讲究基本法）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef7d97903ef4c58b",
+          "style": "NORMAL_TEXT",
+          "text": "不让arxiv，必须先中稿 （这是什么 ego😅）(如果arxiv的paper被大组洗稿，还比你发出来快的时候，大概就可以理解了。)（一堆公众号盯着呢，这组只要出一个就一堆报道，谁敢洗？你洗飞飞的稿子？）（我看有feifei jiajun的不是直接arxiv吗）（纯路人，这么多人的组会只有那几篇吗？不可能偏偏都带吧）（慢挂，缓挂，有选择地挂，有节奏地挂 (这是个人才！)）（666还有申论考生）（挂arxiv也要讲究基本法）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 274,
+      "at_to": 275,
+      "from_paragraphs": [
+        {
+          "content_hash": "345040db5723581e",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec3943fc53e0deeb",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 280,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0dc9ec9b81cbda8f",
+          "style": "NORMAL_TEXT",
+          "text": "UTD Xinya Du"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 316,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
