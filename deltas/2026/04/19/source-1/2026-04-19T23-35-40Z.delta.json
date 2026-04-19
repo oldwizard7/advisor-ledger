@@ -1,0 +1,140 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-33-30Z",
+    "revision_id": "AMHacu619ki-m2m16E6yKle-QdaGuMXGyYjKgeNwvV3BMYwaKFr_J9jFw8QaRTn5qHp1GolQ2jCLtn3IVlCQzjxpPA",
+    "paragraph_count": 535
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-35-40Z",
+    "revision_id": "AMHacu7TC0OFf-XjO0cgUnmel6bPmLVpo9uIbWinqc3MwOekjoV8eATGcXJs5SrQjUamlykvw2GXH30Qj8mm-fqHNw",
+    "paragraph_count": 541
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 4,
+    "operations": 6,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "95bac29634957545",
+          "style": "NORMAL_TEXT",
+          "text": "做了一个xiu gai jihttps://the-hidden-fish.github.io/advisor-ledger/"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d50549543f767524",
+          "style": "NORMAL_TEXT",
+          "text": "做了一个修改记录repo，防止恶意删评（https://github.com/the-hidden-fish/advisor-ledger）：网页：https://the-hidden-fish.github.io/advisor-ledger/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "dbc842db4cd24ff6",
+          "style": "NORMAL_TEXT",
+          "text": "建议工业界单独开一个tab？现在太长了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 272,
+      "paragraphs": [
+        {
+          "content_hash": "dc1a410520e5391b",
+          "style": "NORMAL_TEXT",
+          "text": "我再警告在这儿瞎jb删内容和控评的走狗！再改我们直接小红书见！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 388,
+      "at_to": 391,
+      "from_paragraphs": [
+        {
+          "content_hash": "200e7650118c4189",
+          "style": "NORMAL_TEXT",
+          "text": "不允许组内同学交流合作，跟他说某个project和别人的scoop了不听不听继续做，自己说服自己"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a0281a1299721cd3",
+          "style": "NORMAL_TEXT",
+          "text": "不允许组内同学交流合作，跟他说某个project和别人的scoop了不听不听继续做，自己说服自己，但说服不了学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 395,
+      "at_to": 398,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b3d325d0fab3217",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83d918f474809426",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）(女博后是不是JHU PhD)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 424,
+      "at_to": 427,
+      "from_paragraphs": [
+        {
+          "content_hash": "96947bd9ad180376",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aaa2870a2bf92f56",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）+1"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 435,
+      "paragraphs": [
+        {
+          "content_hash": "ce770667e5f9b0d8",
+          "style": "NORMAL_TEXT",
+          "text": "Google"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3b4952159ba7f413",
+          "style": "NORMAL_TEXT",
+          "text": "MicroSoft"
+        }
+      ]
+    }
+  ]
+}
