@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-33-30Z.delta.json",
+  "delta_ts": "2026-04-19T23-33-30Z",
+  "reviewed_at_utc": "2026-04-19T23:34:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted text contains vulgar profanity ('jb删', 'b人') and personal attacks ('走狗'/'running dog', '走狗') directed at individuals deleting content, constituting pure insults rather than substantive criticism.",
+      "excerpt": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道...你在jb删，我就直接实名给你发xhs"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive observations about the advisor's practices (using student Wang Yu to monitor interns, recommendation letter issues, Gmail problems) while retaining insults, suggesting suppression of specific factual claims rather than cleanup.",
+      "excerpt": "另外一个女的当时在北大的学生Wang Yu(现在在wisc)疯狂舔xcw给他当走狗，给他私下汇报很多intern举报他的动向和进度。贡献+1，是曾经intern的学生。推荐信受害者。gmail坑惨了。"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Added commentary contains unsupported character judgments ('人品太差'/'terrible character', '狗腿'/'henchman') attacking students and implies doxxing pressure ('say the name'), which are personal attacks rather than concrete practice critiques.",
+      "excerpt": "在匿名文档写别人名字，真是有点搞笑了，，，，人品太差 （⬅️什么意思，狗腿本人报道？）（狗腿报道而且一直删除内容！）"
+    }
+  ],
+  "prompt_sha256": "f7cd600d333ae0d08535b232dff8af7420e72ec9df2e8c8a64eb93b08cd18520",
+  "finish_reason": "stop",
+  "completion_tokens": 6671
+}

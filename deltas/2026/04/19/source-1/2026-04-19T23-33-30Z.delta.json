@@ -1,0 +1,340 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-29-13Z",
+    "revision_id": "AMHacu6lpWR6JXoMIXk0cTKdZqyvIVxIyo45IFbaCcjQRy7jV8xkKVtjIEuyVlEN8zOpASDc1HbwlHRPjx4XKzDmAw",
+    "paragraph_count": 520
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-33-30Z",
+    "revision_id": "AMHacu619ki-m2m16E6yKle-QdaGuMXGyYjKgeNwvV3BMYwaKFr_J9jFw8QaRTn5qHp1GolQ2jCLtn3IVlCQzjxpPA",
+    "paragraph_count": 535
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 12,
+    "operations": 16,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "e8793b0e75acfe82",
+          "style": "HEADING_2",
+          "text": "huiPurpose"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "HEADING_2",
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 7,
+      "paragraphs": [
+        {
+          "content_hash": "95bac29634957545",
+          "style": "NORMAL_TEXT",
+          "text": "做了一个xiu gai jihttps://the-hidden-fish.github.io/advisor-ledger/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 67,
+      "at_to": 69,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c0aafed25c67ca4",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话”"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "071b2a1308c8f96e",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四https://www.bqgnovels.com/book/50921/24散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 90,
+      "at_to": 92,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1a1671b4c12077c",
+          "style": "NORMAL_TEXT",
+          "text": "给所有潜在申请者一套说辞，四大visiting，独立H100机器，然后大家一对就没有人去了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cbe7d732912fbcc0",
+          "style": "NORMAL_TEXT",
+          "text": "给所有潜在申请者一套说辞，四大visiting，独立H100机器，然后大家一对就没有人去了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 165,
+      "at_to": 167,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2d2a8cd1850d002",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 227,
+      "at_to": 229,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f9c9f8bf198d242",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (撤稿的原因是什么呢，没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6cea8b2a567da93e",
+          "style": "NORMAL_TEXT",
+          "text": "听到有人说他造假我一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor Altas Wang 造假已经被实锤了没得洗) （Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ https://www.zhihu.com/question/50508148 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 252,
+      "at_to": 254,
+      "from_paragraphs": [
+        {
+          "content_hash": "e5630765c42f8090",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远zhao"
+        },
+        {
+          "content_hash": "31e06e50610f87b7",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisc, ASU,"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b465296ed47c9ef",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远招不到学生！！！"
+        },
+        {
+          "content_hash": "374d263779398e34",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！"
+        },
+        {
+          "content_hash": "e71222b0a90f91dd",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 264,
+      "at_to": 267,
+      "from_paragraphs": [
+        {
+          "content_hash": "249b7a2af3b4bdd2",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。（这个再补充一下，这个狗腿学生也是个大水车，啥也不懂全靠push intern干活）"
+        },
+        {
+          "content_hash": "c65009fb597c6728",
+          "style": "NORMAL_TEXT",
+          "text": "继续！因为个人能力太差，全都是挂名的paper，申请faculty被CS多次拒绝，只能去IS，结果耿耿于怀，自己搬着桌子非要去CS building，因为离其他cs faculty近，也能被来intern的学生（locally）当成CS faculty。"
+        },
+        {
+          "content_hash": "2d4a4c4599c790bc",
+          "style": "NORMAL_TEXT",
+          "text": "贡献+1，是曾经intern的学生。推荐信受害者。gmail坑惨了。另外一个女的当时在北大的学生Wang Yu(现在在wisc)疯狂舔xcw给他当走狗，给他私下汇报很多intern举报他的动向和进度。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2b2a1f2720b73977",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。（这个再补充一下，这个狗腿学生也是个大水车，啥也不懂全靠push intern干活）(say the name,"
+        },
+        {
+          "content_hash": "67c370da8ca4fa1f",
+          "style": "NORMAL_TEXT",
+          "text": "继续！因为个人能力太差，全都是挂名的paper，申请faculty被CS多次拒绝，只能去IS，结果耿耿于怀，自己搬着桌子非要去CS building，因为离其他cs faculty近，也能被来intern的学生（locally）当成CS faculty。(在匿名文档写别人名字，真是有点搞笑了，，，，人品太差 （⬅️什么意思，狗腿本人报道？）（狗腿报道而且一直删除内容！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 328,
+      "at_to": 330,
+      "from_paragraphs": [
+        {
+          "content_hash": "c0a7e90be87094b4",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经算走大运了xs）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f858d32c1f4d8d31",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 384,
+      "paragraphs": [
+        {
+          "content_hash": "e6909cc371754142",
+          "style": "NORMAL_TEXT",
+          "text": "xhs上之前有一个避雷贴！然后这位通过国内律所发了律师函"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 407,
+      "at_to": 410,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "519a9312017e234f",
+          "style": "NORMAL_TEXT",
+          "text": "名声坏道家喻户晓了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 413,
+      "paragraphs": [
+        {
+          "content_hash": "b0ec43790aae77ae",
+          "style": "NORMAL_TEXT",
+          "text": "很push"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 418,
+      "paragraphs": [
+        {
+          "content_hash": "1f6b9d69a9b24dfe",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 420,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2e55a0b9efb85347",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Jiatao Gu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 430,
+      "paragraphs": [
+        {
+          "content_hash": "fc3e23091036c2e0",
+          "style": "NORMAL_TEXT",
+          "text": "Amazon可以写十页"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "24a9341e1a4ed41c",
+          "style": "NORMAL_TEXT",
+          "text": "Tiktok"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 447,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fd67505c39368d6c",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Bo Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fa8c55a0a168638e",
+          "style": "NORMAL_TEXT",
+          "text": "无需多言"
+        }
+      ]
+    }
+  ]
+}
