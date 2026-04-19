@@ -1,0 +1,247 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-42-10Z",
+    "revision_id": "AMHacu7QjFlEGWP5nCZ5FnlVMKYzCRZh3ltpvnGgiIk--b8PKRsI_QU_5Mo7e2Z-N57601wlBXu76S2hcNtvitUeFw",
+    "paragraph_count": 426
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-44-20Z",
+    "revision_id": "AMHacu4gyoXQ_aM7DOXwDAgp-WikWk7QT-Hocx2UgvvMwYvYSrt4h_fCiIl33QEg21MyEftPSwTjrV73ILYlSSGz5w",
+    "paragraph_count": 428
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 11,
+    "operations": 12,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 165,
+      "at_to": 165,
+      "from_paragraphs": [
+        {
+          "content_hash": "0e53fb1c8be87c15",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，满足他可怜的自尊，一大把年纪了还这样属实招笑。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d0aaf69592ac5b78",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着争议的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 170,
+      "at_to": 170,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c36d569eaecbcec2",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 188,
+      "at_to": 188,
+      "from_paragraphs": [
+        {
+          "content_hash": "31333c15a5b99817",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "db890d0bf63aa771",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 220,
+      "at_to": 220,
+      "from_paragraphs": [
+        {
+          "content_hash": "f0e3faae9febb14f",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，之前知乎刷到过)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "875ab841d2626f0d",
+          "style": "NORMAL_TEXT",
+          "text": "他造假一点都不奇怪，他的 phd advisor Atlas Wang 就是靠造假起家的（请加paper link，这个打击面不小)(nips’ 16应该是，几年之前知乎刷到过)（知乎只是说发的多，并没说造假啊）(不是上面有人说他 cvpr 造假吗，我不确定tianlong 造没造假，只是说他的 phd advisor 造假已经被实锤了mei de xi)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "d69d6801211ee452",
+          "style": "NORMAL_TEXT",
+          "text": "Iclr当ac和学生联手黑掉mamba，学术道德极差"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10bc857396f6b5e5",
+          "style": "NORMAL_TEXT",
+          "text": "Iclr当ac和学生联手黑掉mamba，学术道德极差(原来是他啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 284,
+      "at_to": 284,
+      "from_paragraphs": [
+        {
+          "content_hash": "f789efb27f8f07bd",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "267403e39ac0cd49",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 305,
+      "at_to": 305,
+      "from_paragraphs": [
+        {
+          "content_hash": "80ce3be7647ee88c",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （本科生）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0217a20a228ad66f",
+          "style": "NORMAL_TEXT",
+          "text": "走廊骂哭过本科生 （“骂”在哪儿？讲课确实烂，给分很好，本科生哭应该是承受力不行，难道哭了就无条件给高分吗）（每个学校都有这样的本科生，当过TA的都知道）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 307,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "937e80f527698c39",
+          "style": "NORMAL_TEXT",
+          "text": "上面的本科生课程瑞平和谣言就算了，本质上tu是个总所周知好的supervisor，合作过和实习过的就没有评价低的，推荐信也都很强。真的之前我还没有合作的时候就有人造黄遥，吓得我一开始都跑了... 大家能不能留点口德，=，yeah，说他的研究方向有点old school我都能接受"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 325,
+      "at_to": 325,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4c2acfc68b3ad01",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bb168081bd1df544",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，全靠老公 （老公的帖子下面说靠老婆。。。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 333,
+      "at_to": 333,
+      "from_paragraphs": [
+        {
+          "content_hash": "e3e194de2f7ddb25",
+          "style": "NORMAL_TEXT",
+          "text": "这位在X上政治立场歪的很明显 （支持trump说是）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f4b72a982ffdc458",
+          "style": "NORMAL_TEXT",
+          "text": "这位在X上政治立场歪的很明显 （支持trump说是）（MEGA优化器历历在目）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 347,
+      "at_to": 347,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5412d418de84d84b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jimeng Sun"
+        },
+        {
+          "content_hash": "5d3797818ad5e09f",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 397,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T22-44-20Z.delta.json",
+  "delta_ts": "2026-04-19T22-44-20Z",
+  "reviewed_at_utc": "2026-04-19T22:45:18Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Edit adds severe personal insults and vulgar character attacks ('龌龊，恶心', '如过街老鼠一般生活在粪坑里') that go beyond criticism of concrete advising practices",
+      "excerpt": "要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里"
+    }
+  ],
+  "prompt_sha256": "0aae1b36a26273e3fa49088b540eff016f969bcd93c42243116847ec1a08d38a",
+  "finish_reason": "stop",
+  "completion_tokens": 5048
+}
