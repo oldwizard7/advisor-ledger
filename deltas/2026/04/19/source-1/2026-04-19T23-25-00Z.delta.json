@@ -1,0 +1,205 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-20-40Z",
+    "revision_id": "AMHacu57CHfbm9od2Qce5ADBcdjiaU7Ad3liH8PI9w3HK2oDEd9Gcvld0K-UnbV6ltdKieUHdbyAytIPkabsejd3ew",
+    "paragraph_count": 513
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-25-00Z",
+    "revision_id": "AMHacu6XuQlkWXc-G97d1KL-nwCERGM_aKHEixmUL5NhmxccwcKmReNU4Y0n5CqUWhKhXN2m1UaiqsNRihG61uFoYw",
+    "paragraph_count": 518
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "HEADING_2",
+          "text": "Purpose"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e8793b0e75acfe82",
+          "style": "HEADING_2",
+          "text": "huiPurpose"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "a97a3fbbe99b3aca",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己要洗的写到红榜里面啊？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5b01fa6abf95d5fb",
+          "style": "NORMAL_TEXT",
+          "text": "（吃瓜群众表示，只要不是黑到离谱的组，给你们大组的offer大部分人还不是屁颠屁颠去。当键盘侠没意义，不如多写点红榜）（你自己喜欢吃屎，为什么要鼓动别人？屎就是屎，这里是写黑点的地方，没人说不给接offer，这么喜欢洗地，敢不敢把自己要洗的写到红榜里面啊？）（想太多了，这年头读不到phd不读也无所谓，这些黑榜老师offer你真以为都和你一样很珍惜吗？工业界机会多的是，强调自己是）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 94,
+      "paragraphs": [
+        {
+          "content_hash": "c1a1671b4c12077c",
+          "style": "NORMAL_TEXT",
+          "text": "给所有潜在申请者一套说辞，四大visiting，独立H100机器，然后大家一对就没有人去了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 143,
+      "at_to": 144,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b2007a81d59f9f37",
+          "style": "NORMAL_TEXT",
+          "text": "让学生和intern不顾科研优先参与和科研无关的项目，比如icpc，打棒球，打电子游戏"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 181,
+      "paragraphs": [
+        {
+          "content_hash": "c8c6181904ce439b",
+          "style": "NORMAL_TEXT",
+          "text": "NEU"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 229,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad965bf1619d1c4d",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)"
+        },
+        {
+          "content_hash": "cb510a5c46f62743",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6eaeaf24703bd9c8",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）"
+        },
+        {
+          "content_hash": "bb1f2e72667ef311",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 234,
+      "paragraphs": [
+        {
+          "content_hash": "c72ec95f5ab73b0e",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 260,
+      "at_to": 261,
+      "from_paragraphs": [
+        {
+          "content_hash": "b1ffea1c513fcb7f",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6966ea311c2b8861",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个事情wisc CS正式调查和找他了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 267,
+      "at_to": 268,
+      "from_paragraphs": [
+        {
+          "content_hash": "82eb13bbb693e3a2",
+          "style": "NORMAL_TEXT",
+          "text": "继续！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c65009fb597c6728",
+          "style": "NORMAL_TEXT",
+          "text": "继续！因为个人能力太差，全都是挂名的paper，申请faculty被CS多次拒绝，只能去IS，结果耿耿于怀，自己搬着桌子非要去CS building，因为离其他cs faculty近，也能被来intern的学生（locally）当成CS faculty。"
+        },
+        {
+          "content_hash": "0657cbddffadceca",
+          "style": "NORMAL_TEXT",
+          "text": "贡献+1，是曾经intern的学生。推荐信受害者。gmail坑惨了。另外一个女的当时在北大的学生W疯狂填xcw"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 307,
+      "paragraphs": [
+        {
+          "content_hash": "b0706efc4ef5d9e4",
+          "style": "NORMAL_TEXT",
+          "text": "这个没人给点细节吗？早有耳闻"
+        },
+        {
+          "content_hash": "bd05d89a259eff4a",
+          "style": "NORMAL_TEXT",
+          "text": "Daily meeting, 每天都要有进度，没有进度就骂你"
+        },
+        {
+          "content_hash": "1d99ac641042cd24",
+          "style": "NORMAL_TEXT",
+          "text": "对白人和亚洲人是两副面孔"
+        }
+      ]
+    }
+  ]
+}

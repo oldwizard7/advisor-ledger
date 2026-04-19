@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-25-00Z.delta.json",
+  "delta_ts": "2026-04-19T23-25-00Z",
+  "reviewed_at_utc": "2026-04-19T23:25:46Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Contains vulgar personal insult directed at other editors rather than criticizing specific advising practices",
+      "excerpt": "你自己喜欢吃屎，为什么要鼓动别人？屎就是屎"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student by initial (W), institution (Peking University), gender (female), and role in a specific incident, sufficient to potentially de-anonymize a private individual",
+      "excerpt": "另外一个女的当时在北大的学生W疯狂填xcw"
+    }
+  ],
+  "prompt_sha256": "2ab99b0a7f75069f445bfd43a251353f5709cddc35443c803e1d322be120645f",
+  "finish_reason": "stop",
+  "completion_tokens": 3838
+}
