@@ -1,0 +1,173 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-55-10Z",
+    "revision_id": "AMHacu6oun7qXqGz6315V1kmJq6eWzxaVcj76qhDM7X55PUK8_CujLLUTzFmdOqYqPRHrqjUddRxT_z5pKXx_hxlnQ",
+    "paragraph_count": 452
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-57-20Z",
+    "revision_id": "AMHacu5ZiKgkS5yXbjYr82t1c1Q80ppW_vs_-VF-ujqB2VqGS9lTVwPB23F65685z6S47SyxOy3kqITDsGlFCqPgkQ",
+    "paragraph_count": 457
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 6,
+    "operations": 8,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 168,
+      "at_to": 168,
+      "from_paragraphs": [
+        {
+          "content_hash": "91a880c7df8fbd8b",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 以学生情感关系作为主要话题。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4960a542421048bc",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 xian以学生情感关系作为主要话题。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 221,
+      "from_paragraphs": [
+        {
+          "content_hash": "677f70699295e7bc",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24Fall 入学的 phd master out 了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0420b57eda6ac10e",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 223,
+      "from_paragraphs": [
+        {
+          "content_hash": "13221fa9f49958be",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2dac05a991840adb",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（真给你offer都屁颠屁颠去了，搞笑）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 245,
+      "at_to": 245,
+      "from_paragraphs": [
+        {
+          "content_hash": "0fe766d066a4cb8f",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（xi）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bb0b1ca445c64506",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）"
+        },
+        {
+          "content_hash": "0c120df18f086585",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？）"
+        },
+        {
+          "content_hash": "ecbcccd4131042a6",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架，导致u e"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 295,
+      "paragraphs": [
+        {
+          "content_hash": "97cf540cce65d9fe",
+          "style": "NORMAL_TEXT",
+          "text": "Dawn song博后（参考bo li UIUC），说完"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 370,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 367,
+      "at_to": 372,
+      "from_paragraphs": [
+        {
+          "content_hash": "d2dc68257e691d3d",
+          "style": "NORMAL_TEXT",
+          "text": "学生基本全部master out，gou'zui'li'tu'bu'chu'xiang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "23b38b931151b039",
+          "style": "NORMAL_TEXT",
+          "text": "学生基本全部master out，phd都是从外面招的（加拿大masc是有funding的和phd基本一样，uoft之前不能直接本科毕业读phd，所以一般做的没大问题的话，老师都希望你留下来做phd），狗嘴里吐不出象牙，天天pua"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 375,
+      "at_to": 380,
+      "from_paragraphs": [
+        {
+          "content_hash": "427c52f70de0ca00",
+          "style": "NORMAL_TEXT",
+          "text": "曾逼学生在他的企业打黑工，工资很低"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "18dd8ef05adc2580",
+          "style": "NORMAL_TEXT",
+          "text": "曾逼学生在他的企业打黑工，工资很低（思谋科技本质就是电子厂，不是比喻）"
+        }
+      ]
+    }
+  ]
+}
