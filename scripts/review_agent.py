@@ -228,7 +228,7 @@ def main() -> int:
             return 0
         delta_path = d
     elif args.delta_path:
-        delta_path = Path(args.delta_path)
+        delta_path = Path(args.delta_path).resolve()
     else:
         ap.error("provide --latest SOURCE_ID or a delta path")
 
