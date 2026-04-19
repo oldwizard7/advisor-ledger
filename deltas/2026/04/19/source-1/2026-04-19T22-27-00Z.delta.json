@@ -1,0 +1,189 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T22-22-50Z",
+    "revision_id": "AMHacu54gf-4Dcsnj84CEj54kIPEwvDo3H53gwAFHec-KzXLxxeC_dHC3XB9w89vN6V4xDFYX0xJKNFhLqZzPBiTXw",
+    "paragraph_count": 407
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T22-27-00Z",
+    "revision_id": "AMHacu680wYK1EN6Vn5Filq_-R3VrUqUrt6kfFGzXDq4Bjq0Y3Qj1MDjLxd2rhRZbeSMAVR9QT0fXBdGdWXV88LDaQ",
+    "paragraph_count": 408
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 9,
+    "operations": 8,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 51,
+      "at_to": 51,
+      "from_paragraphs": [
+        {
+          "content_hash": "5caf8db3d7cd1024",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → 感觉postdoc side问题比较大，建议这个postdoc也上黑榜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8c76e440273d9805",
+          "style": "NORMAL_TEXT",
+          "text": "最近有博后受不了quit了 → 感觉postdoc side问题比较大，建议这个postdoc也上黑榜（postdoc去了某知名大厂）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 54,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "2073af2845493d85",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话"
+        },
+        {
+          "content_hash": "8da36fa05acbc1b8",
+          "style": "NORMAL_TEXT",
+          "text": "组里资源倒是还行，卡数量还算多，就是没法分布训练最多单机10卡 （H100？）(Q: 什么机器能10卡？？)（这个不算red flag）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3048ae8e621ba59a",
+          "style": "NORMAL_TEXT",
+          "text": "面试几十个candidate，都问能不能一天内接offer；喜欢讲述组内PhD放弃哥大去UNC的佳话（大组面几十个candidate应该挺正常吧）（重点是压力接offer）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 107,
+      "at_to": 107,
+      "from_paragraphs": [
+        {
+          "content_hash": "2229b8361a5de170",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？）（哈哈哈哈哈哈哈哈哈我朝）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "dc8bab2863a252cd",
+          "style": "NORMAL_TEXT",
+          "text": "拿论文实名发比特币，发完了号称要给学校捐楼，结果全进入自己的腰包，在币圈臭名昭著。因为实名发币导致自己学生被币圈的人威胁。（笑飞了）（神了）(什么玩意??) (什么是实名发币啊？就是把全组人挂在网上说我们一起发了一个比特币）（哈哈哈哈哈哈哈哈哈我朝）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 267,
+      "at_to": 267,
+      "from_paragraphs": [
+        {
+          "content_hash": "3394467910a08565",
+          "style": "NORMAL_TEXT",
+          "text": "组里前面刚有人回国了半年，另一个学生家人去世想回国被拒 自己跑出去滑雪，然后让PhD给自己代课"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb063b6a72c0031c",
+          "style": "NORMAL_TEXT",
+          "text": "组里前面刚有人回国了半年（没签证），另一个学生家人去世想回国被拒，“你要不然明年暑假别实习了，回去吧”（那阵是秋天），搞不懂他的标准xs"
+        },
+        {
+          "content_hash": "db35b697e6174f09",
+          "style": "NORMAL_TEXT",
+          "text": "自己跑出去滑雪，然后让PhD给自己代课，还发朋友圈祝大家春节快乐 XP，他是挺快乐的（结合下面的朋友关系看）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 275,
+      "at_to": 276,
+      "from_paragraphs": [
+        {
+          "content_hash": "148de9c5a7a44d19",
+          "style": "NORMAL_TEXT",
+          "text": "p"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 280,
+      "at_to": 281,
+      "from_paragraphs": [
+        {
+          "content_hash": "c80de6070c7fccf5",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个就字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4bd4fef902e217dc",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源，资源倾斜是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，免费劳动力开公司，干到深夜发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 289,
+      "at_to": 290,
+      "from_paragraphs": [
+        {
+          "content_hash": "7f602af00f04d5f6",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c394dee73e9a6a3c",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）(别造谣了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 327,
+      "at_to": 328,
+      "from_paragraphs": [
+        {
+          "content_hash": "cbb57e0d9a90a057",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6b3d325d0fab3217",
+          "style": "NORMAL_TEXT",
+          "text": "和某个女博后的事件，传说中的泳池party，这个女生和组里的不同男生也有复杂的纠葛导致组里气氛一团糟，有人被迫换导师(这种事可别听说，据说啊，请根据事实说话呀) （说事实，举报事件是真的吧）（都匿名了能不能说名字）"
+        }
+      ]
+    }
+  ]
+}
