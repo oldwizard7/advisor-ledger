@@ -1,0 +1,65 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-19T23-44-00Z",
+    "revision_id": "AMHacu6CFHt-1PzoNELNredTICrQnExgEwgh8xHvEhGqkfcc2zp_Ez000udncgcVMxnLkVSwUoTjjHbNEiXw9Q4kuw",
+    "paragraph_count": 532
+  },
+  "to": {
+    "captured_at_utc": "2026-04-19T23-46-10Z",
+    "revision_id": "AMHacu4kgI7hCMVMmBSlcKZXT1mbPlco6yfUwq86s3VVgk2p_AWX35BDPcY-YuzTuxKkf4gSzZ890KCK6lPFLPN4-g",
+    "paragraph_count": 533
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 2,
+    "operations": 2,
+    "changed": true
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "a65fb8ca6a94bc2d",
+          "style": "NORMAL_TEXT",
+          "text": "历史记录repo: https://github.com/the-hidden-fish/advisor-ledger/settings/pages"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "935f98f8ce9dea40",
+          "style": "NORMAL_TEXT",
+          "text": "历史记录mirror: https://github.com/the-hidden-fish/advisor-ledger/"
+        },
+        {
+          "content_hash": "8205cfd9bcca2123",
+          "style": "NORMAL_TEXT",
+          "text": "网页版本：https://the-hidden-fish.github.io/advisor-ledger/"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 251,
+      "at_to": 252,
+      "from_paragraphs": [
+        {
+          "content_hash": "4867a6d62b04e192",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University，Chaowei Xiao [bi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7f024909431771e3",
+          "style": "NORMAL_TEXT",
+          "text": "Johns Hopkins University，Chaowei Xiao [Don’t edit this guy any more， you can open a new page] [Already moved, please go to Page “Chaowei Xiao”, thanks]（看不懂英文斯密达）"
+        }
+      ]
+    }
+  ]
+}
