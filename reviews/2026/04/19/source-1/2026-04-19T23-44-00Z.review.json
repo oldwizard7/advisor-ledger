@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/19/source-1/2026-04-19T23-44-00Z.delta.json",
+  "delta_ts": "2026-04-19T23-44-00Z",
+  "reviewed_at_utc": "2026-04-19T23:45:10Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added text contains vulgar personal insults and unsupported character judgments including 'b人' (bastard), '走狗' (lackey/running dog), and 'jb' (vulgar slang) directed at the advisor and associated individuals.",
+      "excerpt": "这个b人干的事情几乎全天下人都知道"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Standalone deletion of '很push' removes substantive observation about the advisor's management/pushing style without replacement or typo cleanup justification.",
+      "excerpt": "很push"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of company names (Google, Microsoft, TikTok) removes substantive information about student industry placement outcomes, potentially suppressing relevant career trajectory data.",
+      "excerpt": "Google\n\nMicroSoft\n\nTiktok"
+    }
+  ],
+  "prompt_sha256": "5fda4c5accf62c4db159a21dfbaee7ed1684c72358b57c9096aa84ee6f9662a2",
+  "finish_reason": "stop",
+  "completion_tokens": 6117
+}
