@@ -1,0 +1,208 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-15-40Z",
+    "revision_id": "AMHacu66eqq2mvMI8FesssmTl3hvFLwS7YC9UpEafV5SvTScCAvvlTL9TJoId4LL2im7diosJ2NZ_v63k2nJp1H6jg",
+    "paragraph_count": 932
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-17-50Z",
+    "revision_id": "AMHacu65FoB4dLMrK3X8NoOoytxpLIftgXnI9vVJtR2rmSVGNWy8ttV5RIDccI61ZbIsdGBszSDNuZDkR_WpzauPhQ",
+    "paragraph_count": 935
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 8,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0086,
+    "insertion_ratio": 0.0118
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 39,
+      "paragraphs": [
+        {
+          "content_hash": "68e8eab5c033a9c9",
+          "style": "NORMAL_TEXT",
+          "text": "(从前不知道不予评价，但是现在合作感觉体验很好)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 78,
+      "at_to": 79,
+      "from_paragraphs": [
+        {
+          "content_hash": "072b6e8d31f1126c",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法 没啥吐槽的 可以放在红榜 平时相处很好 组里氛围很好 （上面的瓜有什么说法吗，好像跟老师本人没关系，但是是同学校老师？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d2bf6ac628dd3c53",
+          "style": "NORMAL_TEXT",
+          "text": "受回国影响最大的利益相关来现身说法 没啥吐槽的 可以放在红榜 （支持！）平时相处很好 组里氛围很好 （上面的瓜有什么说法吗，好像跟老师本人没关系，但是是同学校老师？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 84,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 99,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 184,
+      "at_to": 185,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e7fe3ad238e3b7d",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，评价"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "76f5adb95cfe5347",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 359,
+      "at_to": 360,
+      "from_paragraphs": [
+        {
+          "content_hash": "f83da08da7dfdb22",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern 手上会很具体可行，只要有执行力就能完成。有能力的intern会做一个独立的完整科研。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9f6320fc024fc15d",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的 intern 发 offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，intern bar 不高所以人数确实不少。会教grad如何带undergrad，如果 intern 本身就是 grad 或者强 undergrad 就会直接做一个共一或者一作项目。任务到普通 intern 手上会很具体可行，只要有执行力就能完成。有能力的intern会做一个独立的完整科研。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 373,
+      "at_to": 374,
+      "from_paragraphs": [
+        {
+          "content_hash": "d418dcfaafd543c2",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很差 开会暴怒摔门走人的主 ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cc987200b56237e9",
+          "style": "NORMAL_TEXT",
+          "text": " ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 479,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 559,
+      "at_to": 562,
+      "from_paragraphs": [
+        {
+          "content_hash": "957645626b71595f",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ce5e086742a1524f",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（（）神了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 694,
+      "at_to": 697,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1416a5caedf114d",
+          "style": "NORMAL_TEXT",
+          "text": "jiatao很有insight人也很好，完全应该是红榜啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a26614e46e0bd1c6",
+          "style": "NORMAL_TEXT",
+          "text": "jiatao很有insight人也很好，完全应该是红榜啊！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 922,
+      "at_to": 925,
+      "from_paragraphs": [
+        {
+          "content_hash": "f9aaa5434af2e1c2",
+          "style": "NORMAL_TEXT",
+          "text": "出轨的女学生已经直博，并且光明正大和他一起开夫妻店"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "acb50cbaae6cef8c",
+          "style": "NORMAL_TEXT",
+          "text": "出轨的女学生已经直博，并且光明正大和他一起开夫妻店，以后万一当上讲师甚至ap了也是雷中雷中雷的种子选手，为了上位不择手段了属于是"
+        }
+      ]
+    }
+  ]
+}
