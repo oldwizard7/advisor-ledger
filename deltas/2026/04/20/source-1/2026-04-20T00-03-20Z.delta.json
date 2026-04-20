@@ -1,0 +1,196 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-01-10Z",
+    "revision_id": "AMHacu7-HN7Bfac8BoG73-xj4SNei3HcA4EpaJXcGugK0vo0FjxZ9Uhswn9_Pvdrx6-e9K8ulrDx5ZOyxfuXAKyWmw",
+    "paragraph_count": 537
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-03-20Z",
+    "revision_id": "AMHacu59tg8-cMndzog4gs1JGtYXISlQ5mA-i1MyduXcIeMN8aPZwAmsX35KTznP0HD5wbP9TTOLiipSawsWNwAvhQ",
+    "paragraph_count": 540
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 8,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0149,
+    "insertion_ratio": 0.0204
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 67,
+      "at_to": 67,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d293328bce4ea22d",
+          "style": "NORMAL_TEXT",
+          "text": "解雇intern没有任何协商通知，直接删intern库并终止服务器权限"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 239,
+      "at_to": 239,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e2316e1eb59f0ed",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿）（有招进来，因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        },
+        {
+          "content_hash": "1ea486cf1af30fda",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0cfb82c442fb53e9",
+          "style": "NORMAL_TEXT",
+          "text": "之前没tenure时，组里学生转组的不少（注：转了1个，两厢情愿）（有 phd 招进来暑期干活但开学前就跑了的），因为受不了老师push+骂人，而且投稿会被老师卡不准投（注：没有的事，只有觉得论文太差才不让投）。"
+        },
+        {
+          "content_hash": "fd35481591455836",
+          "style": "NORMAL_TEXT",
+          "text": "但是现在听说去工业界兼职了也tenure了，可能会转型（转型为让学生干自己在公司的活+经常要求陪吃饭）（注：压根没公司啊，而且也不陪吃饭啊，一学期全组聚餐一次，老板请客不愿意去就不去呗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 321,
+      "at_to": 321,
+      "from_paragraphs": [
+        {
+          "content_hash": "f858d32c1f4d8d31",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8533c579e7d4be9",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 331,
+      "at_to": 331,
+      "from_paragraphs": [
+        {
+          "content_hash": "7dbe2071b21f551b",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2000-10000 usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ebde1f183abba084",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 没有compute, 一篇paper居然只能花可怜的2000-10000 usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 337,
+      "at_to": 337,
+      "from_paragraphs": [
+        {
+          "content_hash": "8c551bd374dc3357",
+          "style": "NORMAL_TEXT",
+          "text": "mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a58217ec0cadccf8",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？"
+        },
+        {
+          "content_hash": "6df4e38817540f36",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube这个论文为什么一作变来变去，是否有瓜"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 343,
+      "at_to": 344,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c8c7a58b7ef1fcb",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）（别造谣了，之前就有人叽里呱啦这种事情）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "07ee005d5fd0f84d",
+          "style": "NORMAL_TEXT",
+          "text": "据说之前有过出轨风波（xhs听说的存疑？）（别造谣了，之前就有人叽里呱啦这种事情）（没证据的事能别乱说吗，光靠几个xhs帖子就在造谣）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 346,
+      "at_to": 347,
+      "from_paragraphs": [
+        {
+          "content_hash": "04be535632a1df79",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，暑期实习保底，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ad204a840a34a75",
+          "style": "NORMAL_TEXT",
+          "text": "真没啥好喷的吧，暑期实习保底，学期中随便实习，无组会好毕业人nice关心学生，不知道在喷什么 （老哥细说推实习）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 436,
+      "paragraphs": [
+        {
+          "content_hash": "3ffa0772b7984e10",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yiling Lou"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 438,
+      "paragraphs": [
+        {
+          "content_hash": "f6c070c3fdc9b8bc",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Xiaojing Liao"
+        }
+      ]
+    }
+  ]
+}
