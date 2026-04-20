@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-01-30Z.delta.json",
+  "delta_ts": "2026-04-20T20-01-30Z",
+  "reviewed_at_utc": "2026-04-20T20:02:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains profanity ('我去你妈的', '🐦关系') and unsupported character attacks ('别来洗了' implying shilling/white-washing) rather than concrete criticism of advising practices",
+      "excerpt": "我去你妈的，一人写了一篇垃圾论文屁用没有，申请全靠自己学新东西，别来洗了，quit后的去处跟这人有🐦关系"
+    }
+  ],
+  "prompt_sha256": "85514adb48aa0871011b16f83766598489a23084fb7a6868688b398ce1f6cfc9",
+  "finish_reason": "stop",
+  "completion_tokens": 3712
+}

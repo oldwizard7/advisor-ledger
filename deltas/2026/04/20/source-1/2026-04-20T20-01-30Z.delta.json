@@ -1,0 +1,121 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-59-18Z",
+    "revision_id": "AMHacu4oZGOudbl5FR_AbpHP_i-I7HWXM1wK0niO8pRrCxJOvCxxba_LN5et0zsvjPCtSGN9Dz9zWkjy2BXJM0DYsg",
+    "paragraph_count": 2022
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-01-30Z",
+    "revision_id": "AMHacu5TFQ5LlkV19093GvX3z9sDxfBVs3z2CNHh0nwBAk9-LCG0eMU8LocTwg0jBnfRjJJJlUijgEorOtB9lgTgXw",
+    "paragraph_count": 2026
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 3,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0015,
+    "insertion_ratio": 0.0035
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 0,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 45,
+      "at_to": 46,
+      "from_paragraphs": [
+        {
+          "content_hash": "09dccb118ca3f5a6",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[？？？好文章？？]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7e8d0d3848dd63b3",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[？？？好文章？？我去你妈的，一人写了一篇垃圾论文屁用没有，申请全靠自己学新东西，别来洗了，quit后的去处跟这人有🐦关系]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 805,
+      "paragraphs": [
+        {
+          "content_hash": "05ceac5fbcd16030",
+          "style": "NORMAL_TEXT",
+          "text": "在系里喜欢说闲话，蛐蛐别的老板学生被抓包"
+        },
+        {
+          "content_hash": "bb0347a468d97e98",
+          "style": "NORMAL_TEXT",
+          "text": "you"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1249,
+      "at_to": 1252,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ae6f21b5292ef1f",
+          "style": "NORMAL_TEXT",
+          "text": "比较toxic，挺多学生转组跑路（），有人评价说和PhD开组会就像训狗。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ed0b82b70fa34050",
+          "style": "NORMAL_TEXT",
+          "text": "比较toxic，挺多学生转组跑路，有人评价说和PhD开组会就像训狗。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1702,
+      "paragraphs": [
+        {
+          "content_hash": "533672be8f078971",
+          "style": "NORMAL_TEXT",
+          "text": "私生活参见22年他前女友在一亩三分地锤他事件，学术上，上面的hu是他集全组之力捧的“rising star”， 懂得都懂，一脉相承。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1795,
+      "at_to": 1799,
+      "from_paragraphs": [
+        {
+          "content_hash": "568d0fe69fe2a248",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人，说不出这人一句好话"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "02306993e02d0890",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人"
+        }
+      ]
+    }
+  ]
+}
