@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-52-40Z.delta.json",
+  "delta_ts": "2026-04-20T17-52-40Z",
+  "reviewed_at_utc": "2026-04-20T17:53:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes specific, verifiable allegations of research misconduct (misuse of MIT credentials, server damage) while retaining vulgar insults, indicating potential suppression of substantive advisor criticism rather than routine cleanup.",
+      "excerpt": "私自将MIT的卡大量外借给他干活 （+1 MIT Csail server也被他的intern搞崩过好几次。）"
+    }
+  ],
+  "prompt_sha256": "c834103848209eeb4a4590ffbe047575a5937c4aa35098b43958f783b9d527f7",
+  "finish_reason": "stop",
+  "completion_tokens": 3429
+}
