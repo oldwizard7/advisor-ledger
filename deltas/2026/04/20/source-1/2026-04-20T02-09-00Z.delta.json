@@ -1,0 +1,336 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-04-50Z",
+    "revision_id": "AMHacu5J0bzZL7wbv0nYZq6sSRDStdb-QAt6hUG9Blu00KsiQe9D2lwhR083ioV8fiw5DkCdFtJRfravdPanjQID0g",
+    "paragraph_count": 755
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-09-00Z",
+    "revision_id": "AMHacu7vx4RCCW9MDnDofPJwuVCbVc5NfzXQ-jfcn4P9Qea6ahz9yUJZ6G9AxyYdkeqicbVoHMsgOwub7im_EnIWCg",
+    "paragraph_count": 752
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 25,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0331,
+    "insertion_ratio": 0.0293
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 5,
+      "paragraphs": [
+        {
+          "content_hash": "851c88d4deed87f0",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 89,
+      "at_to": 90,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e33e4716740dff9",
+          "style": "NORMAL_TEXT",
+          "text": "2月初就让接offer，不接就不发（那个时候其他项目基本上都没出）；接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；建议后面申请Mohit的不要等2月份以后再面试，争取12月-1月面试完了立马接offer，方可不被放到WL。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ea4e242e0a7e9d47",
+          "style": "NORMAL_TEXT",
+          "text": "2月初就让接offer，不接就不发（那个时候其他项目基本上都没出）；接offer的时候需要你开zoom meeting把accept页面打开，然后他给你发，看着你接（所以他的WL转正率极低≈0，因为接了的都不敢decline了；建议后面申请Mohit的不要等2月份以后再面试，争取12月-1月面试完了立马接offer，方可不被放到WL"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 123,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6d293dd6cd6a3527",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Zhun"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 196,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb6f3a57394f10b6",
+          "style": "NORMAL_TEXT",
+          "text": "此人面相就一脸圆滑，没搞过什么正经工作出来过，只会让学生干这干那然后自己出去吹嘘，混圈子的王，天天水EDA圈子"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a338598362b5bc0a",
+          "style": "NORMAL_TEXT",
+          "text": "此人面相就一脸圆滑，没搞过什么正经工作出来过，只会让学生干这干那然后自己出去吹嘘，混圈子的王，天天水EDA圈子，巅峰时候在北美清华校友会也装起来了，颜宁好像私下嘲笑了"
+        },
+        {
+          "content_hash": "7736869a5569fa60",
+          "style": "NORMAL_TEXT",
+          "text": "原来写过著名的邪教pua大作，如何在读研的道路上快速失败 https://www.zhihu.com/question/314601453/answer/615436040"
+        },
+        {
+          "content_hash": "a7158e296346f904",
+          "style": "NORMAL_TEXT",
+          "text": "天天在微博上发文，一言不合就拉黑，我只能说“总座高见”"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 227,
+      "paragraphs": [
+        {
+          "content_hash": "c400fa225fcfa283",
+          "style": "NORMAL_TEXT",
+          "text": "Umass，Gan Chuang"
+        },
+        {
+          "content_hash": "e952deae4ffd3391",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，暑研不答应留下不给一作"
+        },
+        {
+          "content_hash": "010188d6b292b2b5",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师"
+        },
+        {
+          "content_hash": "03d29d5bbb3c8fe2",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 （← 最大一届学生才博三为什么有这条）(因为ml不少人3年毕业的？）"
+        },
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        },
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        },
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        },
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        },
+        {
+          "content_hash": "e1004e17c066f231",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！"
+        },
+        {
+          "content_hash": "47ef48ba016f47be",
+          "style": "NORMAL_TEXT",
+          "text": "对于intern纯畜生行为，我一个心地善良充满学术热情的兄弟在他那里做完intern以后都没有以前爱笑了，收到了他一直的pua，压迫，打击。"
+        },
+        {
+          "content_hash": "aa5ccf50bd74b329",
+          "style": "NORMAL_TEXT",
+          "text": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。（文采大师）"
+        },
+        {
+          "content_hash": "c2c3f03f51ae9fea",
+          "style": "NORMAL_TEXT",
+          "text": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+        },
+        {
+          "content_hash": "ddee1f97cfd90a92",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。"
+        },
+        {
+          "content_hash": "79c69b58226ed365",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（听说当年去找另一个candiate换offer 人家没鸟他）"
+        },
+        {
+          "content_hash": "b068e86c622d17c9",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）"
+        },
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        },
+        {
+          "content_hash": "a9262091668e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "学生暑期实习还需要高强度做组内工作。"
+        },
+        {
+          "content_hash": "92479a116d1631e0",
+          "style": "NORMAL_TEXT",
+          "text": "mit-ibm lab 这地方有说法的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 289,
+      "at_to": 275,
+      "from_paragraphs": [
+        {
+          "content_hash": "f4128774ba832ec1",
+          "style": "NORMAL_TEXT",
+          "text": "现在在全力搞自己的公司（据说公司的氛围延续了他们那群人指导学生的氛围，招了一群phd，但是把他们当牛马postdoc，非常累非常push）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2ee6d32c6b126466",
+          "style": "NORMAL_TEXT",
+          "text": "现在在全力搞自己的公司（据说公司的氛围延续了他们那群人指导学生的氛围，招了一群phd，但是把他们当牛马postdoc，非常累非常push）g i"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 294,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a0e85231e634e573",
+          "style": "NORMAL_TEXT",
+          "text": "University of Virginia, Tianhao Wang"
+        },
+        {
+          "content_hash": "4fe578b1a939cfcb",
+          "style": "NORMAL_TEXT",
+          "text": "这个是永远的真神，整个工学院都挺“出名”的"
+        },
+        {
+          "content_hash": "3b0e3937013ad28f",
+          "style": "NORMAL_TEXT",
+          "text": "利用CS第一年rotation的特性，招一堆人进来，然后第一年年底之前把大部分人开掉,6留2，3"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 455,
+      "at_to": 445,
+      "from_paragraphs": [
+        {
+          "content_hash": "fdff1ad220439b48",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充 （路人看完对intern小坑对phd很好，应该去红榜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5db6fe70d8d881c9",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充 （路人看完对intern小坑对phd很好）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 571,
+      "at_to": 561,
+      "from_paragraphs": [
+        {
+          "content_hash": "938e9c25fd1ae95d",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~) (Jiataor)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d4e41d0d8982c17e",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~) (Jiatao人很好啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 568,
+      "paragraphs": [
+        {
+          "content_hash": "462f99c3b9059970",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang (为什么删掉了)"
+        },
+        {
+          "content_hash": "a61274ef79751e89",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。"
+        },
+        {
+          "content_hash": "13ded3e367e9ee97",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "9575249dc9c9b51c",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人"
+        },
+        {
+          "content_hash": "7ed90bf9e24829a9",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）"
+        },
+        {
+          "content_hash": "a7dfef478d55eff4",
+          "style": "NORMAL_TEXT",
+          "text": "据说会给黑推？"
+        },
+        {
+          "content_hash": "f0d017e62454b184",
+          "style": "NORMAL_TEXT",
+          "text": "目前没有招phd"
+        }
+      ]
+    }
+  ]
+}

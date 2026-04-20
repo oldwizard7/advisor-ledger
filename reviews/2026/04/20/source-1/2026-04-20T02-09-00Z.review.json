@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-09-00Z.delta.json",
+  "delta_ts": "2026-04-20T02-09-00Z",
+  "reviewed_at_utc": "2026-04-20T02:09:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of the Umass Gan Chuang entry removes substantive allegations about concrete advising practices (writing bad rec letters, emailing admissions to reject students, blocking graduation, misusing lab resources) alongside insults, appearing to suppress legitimate observations about a specific advisor rather than performing cleanup.",
+      "excerpt": "Umass，Gan Chuang\n给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，暑研不答应留下不给一作"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Addition of sarcastic insult '总座高见' constitutes an unsupported personal attack on character rather than criticism of concrete advising practices.",
+      "excerpt": "总座高见"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Character judgment '性格奇怪' (strange personality) regarding the UC Merced professor constitutes an unsupported personal insult rather than concrete criticism of advising practices.",
+      "excerpt": "性格奇怪"
+    }
+  ],
+  "prompt_sha256": "85629e49e77dcf986a4538000dc41af112acbb754e320b5288b97cf87a3a2b1d",
+  "finish_reason": "stop",
+  "completion_tokens": 4327
+}
