@@ -1,0 +1,668 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-18-10Z",
+    "revision_id": "AMHacu4y49wnz7FbhkjIHudz8p0WKW5PD9ZUrA9XYzasQK1KumpKKx-omEKckKxsrjUrB2Y6mftbtGbmUKj1WcSsKA",
+    "paragraph_count": 2135
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-26-50Z",
+    "revision_id": "AMHacu6kd167BpWHPTmWukQgab5H6YeUfnUHINE4Ep2cHPQ_oAbqsgYVC-ZeZW5VMCKLkPrIf_Muv5BZilqY4SiIUw",
+    "paragraph_count": 2156
+  },
+  "summary": {
+    "inserted_paragraphs": 66,
+    "deleted_paragraphs": 45,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0211,
+    "insertion_ratio": 0.0306
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 1,
+      "paragraphs": [
+        {
+          "content_hash": "68a768c11b26f81b",
+          "style": "NORMAL_TEXT",
+          "text": "“我翻开 doc 一查，这 doc 没有年代，歪歪斜斜的每页上都写着‘仁义道德’几个字。我横竖睡不着，仔细看了半夜，才从字缝里看出字来，满本都写着两个字是‘吃人’！”"
+        },
+        {
+          "content_hash": "79b05ea2686c5b72",
+          "style": "NORMAL_TEXT",
+          "text": "— 改自鲁迅《狂人日记》"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 200,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b939e7624452366",
+          "style": "NORMAL_TEXT",
+          "text": "原来这个都能成为黑点吗？哈哈哈哈哈（这都不能黑，这么舔狗吗）（那我懂了，你应该找会议不投稿的老师做科研，因为他们bu hu bei）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2fa3b9f05eef7351",
+          "style": "NORMAL_TEXT",
+          "text": "原来这个都能成为黑点吗？哈哈哈哈哈（这都不能黑，这么舔狗吗）（那我懂了，你应该找会议不投稿的老师做科研，因为他们不会被reject）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 520,
+      "at_to": 522,
+      "from_paragraphs": [
+        {
+          "content_hash": "1ae64ba21d025462",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤（老师也是受害者吧🤣 ）"
+        },
+        {
+          "content_hash": "537d42a6b5beb697",
+          "style": "NORMAL_TEXT",
+          "text": "这些文章zhao老师都没有挂名，骂人也要骂对"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ff64525c2012292f",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤"
+        },
+        {
+          "content_hash": "387e8ac2b339ff16",
+          "style": "NORMAL_TEXT",
+          "text": "【老师也是受害者吧🤣 】"
+        },
+        {
+          "content_hash": "d22194529f6b872a",
+          "style": "NORMAL_TEXT",
+          "text": "这些文章zhao老师都没有挂名，骂人也要骂对【欢迎把那个学生挂出来让大家评评理】这位S姓同学貌似已经把google scholar下架了😄"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 546,
+      "at_to": 549,
+      "from_paragraphs": [
+        {
+          "content_hash": "ca220df8b030bc49",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（嫉妒人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）（谴责学校/人身攻击）（??啥出生玩意搞人生攻击）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f474d55bd887f80",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（嫉妒人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）（谴责学校/人身攻击）（??啥出生玩意搞人生攻击）（大水车也有人权！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 645,
+      "at_to": 648,
+      "from_paragraphs": [
+        {
+          "content_hash": "3799de9afbd04108",
+          "style": "NORMAL_TEXT",
+          "text": "SIT Jie Shen （shit学校不止jie一个人，手动狗头）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc4705d0468f0668",
+          "style": "NORMAL_TEXT",
+          "text": "SIT Jie Shen （shit学校不止jie一个人，手动狗头）SHIT school, not one is normal"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 739,
+      "paragraphs": [
+        {
+          "content_hash": "ea9cbc0f3c3538fe",
+          "style": "NORMAL_TEXT",
+          "text": "=============== 给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "fce4fe54aed7eb0c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己，至于科研和推荐信，不是有耿哥和炮灰们顶着吗"
+        },
+        {
+          "content_hash": "9224075240e76b47",
+          "style": "NORMAL_TEXT",
+          "text": "今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，¥学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "8c39fd1b9fd97ce7",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        },
+        {
+          "content_hash": "2b8b0315a4a601cf",
+          "style": "NORMAL_TEXT",
+          "text": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者建议举报，真的想维护下正义。哈哈，光看他们这些包装的光鲜亮丽的履历谁又知道他们怎么起家的，现在不举报未来他们大概率是风光无限要风得风要雨得雨，名利双收。（为什么总是有相似的剧情，作弊者一通操作，学术水平极差，靠npy申上stf）支持  支持 只能说她高中就能看出来.."
+        },
+        {
+          "content_hash": "9a90e1c003bef298",
+          "style": "NORMAL_TEXT",
+          "text": "经典学术妲己桥段吧     （完全是在吸认真做科研的人的血）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "a8f51507531ee920",
+          "style": "NORMAL_TEXT",
+          "text": "===============给yufei姐姐单独腾地方 ==============="
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "02a084405017ad02",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 （给我看呆了 这是唯一一个被喷的比AP还多的phd 哥们儿真太有实力了）一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        },
+        {
+          "content_hash": "a08b105e4e67790b",
+          "style": "NORMAL_TEXT",
+          "text": "BAIR的Dynamics真的恐怖如斯, 看起来很多bair phd出没"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "471b4ad068ef3e01",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        },
+        {
+          "content_hash": "c33793c414df830e",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据: 黑子们点进来看, 这是jitendra本人给我发的email, ccl 图呢，有种别删啊，你怕什么呢？"
+        },
+        {
+          "content_hash": "954816a62c9c0bee",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死+1"
+        },
+        {
+          "content_hash": "402a9303814d44e9",
+          "style": "NORMAL_TEXT",
+          "text": " 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了辟谣：给了几个强推，而且之前提到的 不是最强推。被删掉的不要再反复粘了。谁让你删了？有种就rebuttal"
+        },
+        {
+          "content_hash": "18a52f472a4ba3dd",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过) （那你更惨patpat）"
+        },
+        {
+          "content_hash": "00e91c9b1f1b8d44",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 再往后还有呢，他这事之后做的paper，也禁不起查\u000b旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊"
+        },
+        {
+          "content_hash": "c999d0e38b35858c",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)666"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "a435367493bf08f9",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！+1 必须避雷"
+        },
+        {
+          "content_hash": "3bb9b913390749cd",
+          "style": "NORMAL_TEXT",
+          "text": "（忠告！）"
+        },
+        {
+          "content_hash": "369eee4665b13a12",
+          "style": "NORMAL_TEXT",
+          "text": "Xs haoran这是得罪哪个intern了 吃瓜 (你应该问没得罪哪个intern)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b49447c457526f43",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/ 还知情人，你别做梦了，清醒点傻孩子"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0fa867cad9975a91",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊 你管我去哪了，不管申请结果好坏都可以评价mentor，申的不好就不让说了？况且我没说我是intern啊？反而是你，先说说你跟haoran是什么关系，否则别多管闲事"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3d5c27fed46daa48",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位(同，证实这一点)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ea6364d1997171e4",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了？reborn agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b0fd55fd2deb18e5",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况...（难这个榜的意义不就是bang"
+        },
+        {
+          "content_hash": "d78f05905c332ef7",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？有种发个不带cc haoran的证明你不是本人？"
+        },
+        {
+          "content_hash": "735b71acf2dbef94",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那个发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发"
+        },
+        {
+          "content_hash": "a0e56232eab0976c",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了 哪来这么多大孝子 都是耿浩然自己装的吧 今年申请的intern没一个说他好话的"
+        },
+        {
+          "content_hash": "a88962210553ce0d",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        },
+        {
+          "content_hash": "29a6b2ad41ab0b76",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的(且只有第二张, 前面的不知道是谁) 怕是耿哥本人，彻夜难眠吧"
+        },
+        {
+          "content_hash": "b29b324450249a46",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做 孩子醒醒吧，你没问问别的intern对他什么评价吗 我或多或少听说过, 但是我觉得有些intern可能稍微有点过激了, 就是没申请太好, 就想着归因到mentor, 我其实也能理解, 但是我做判断是会排除这些外部因素的, 他现在给我开的工资非常非常好, 项目我也喜欢, 我就觉得可以做做 劝不动了，祝你好运吧"
+        },
+        {
+          "content_hash": "2ec972129f4fa1b3",
+          "style": "NORMAL_TEXT",
+          "text": "不是哥们，没回消息可以装睡啊"
+        },
+        {
+          "content_hash": "ac0059df7a50ae3e",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着派intern洗，怕什么呢，耿浩然？？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "51d21cd3194fafce",
+          "style": "NORMAL_TEXT",
+          "text": "(xswl jiageng军团可还行哈哈哈哈哈哈)(还没进教职先进黑榜）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4f29f211465df39c",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友（即下方haoran geng + yufei ding) 让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "a370a1e7f1efaa87",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 749,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4dd56d8201365ae8",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，有种来rebuttal!!!（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "666a34f350ec2ad2",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 （给我看呆了 这是唯一一个被喷的比AP还多的phd 哥们儿真太有实力了）一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了 差不多可以定位了, geng在bair的时候和一个intern最后关系不太好, 看起来现在闹大了xs"
+        },
+        {
+          "content_hash": "a08b105e4e67790b",
+          "style": "NORMAL_TEXT",
+          "text": "BAIR的Dynamics真的恐怖如斯, 看起来很多bair phd出没"
+        },
+        {
+          "content_hash": "7f7eca677511e44f",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个) BAIR Phd来评论下, haoran给lab里面申了很多大额funding 需要找人完成, 是老板们同意的, 我在项目proposal里面, 这点我认为还算合理, 导师肯定是同意过的"
+        },
+        {
+          "content_hash": "471b4ad068ef3e01",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        },
+        {
+          "content_hash": "c33793c414df830e",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)jitendra 本人给我发的邮件。那发出来看看？发就发, 我就想让你们这帮黑子们看看证据, 也希望你们黑的时候给点依据: 黑子们点进来看, 这是jitendra本人给我发的email, ccl 图呢，有种别删啊，你怕什么呢？"
+        },
+        {
+          "content_hash": "954816a62c9c0bee",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, 他不是等着找死吗? 高校不是随便游戏的。你还别说，我看他真是在等着找死, 不是兄弟, 你有证据说他没告诉jitendra就写信吗? Jitendra都快被他烦死了 你这都知道? 我还知道更多 这么说吧bair phd知道的多得很。。。你当大家傻吗 懒得管他就是了 哥们我信你的 呵呵一口一个耿哥的叫 被耿哥卖了还在数钱 说他骚操作等着找死  你还别说，我看他真是在等着找死+1"
+        },
+        {
+          "content_hash": "feae9b4a8162df84",
+          "style": "NORMAL_TEXT",
+          "text": " 让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名有名在哪里) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了辟谣：给了几个强推，而且之前提到的 不是最强推。被删掉的不要再反复粘了。谁让你删了？有种就rebuttal"
+        },
+        {
+          "content_hash": "18a52f472a4ba3dd",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人” (没和我说过) （那你更惨patpat）"
+        },
+        {
+          "content_hash": "bfccecff5595ed01",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 知情人评价, 王鹤告的是一个叫songlin wei的人, 不是horan, 但是是他们一块的paper songlin已经离开wanghe组去yue wang组里了 旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊"
+        },
+        {
+          "content_hash": "c999d0e38b35858c",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)666"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "3cc6c37970f128a8",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！（忠告！）"
+        },
+        {
+          "content_hash": "369eee4665b13a12",
+          "style": "NORMAL_TEXT",
+          "text": "Xs haoran这是得罪哪个intern了 吃瓜 (你应该问没得罪哪个intern)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b49447c457526f43",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/ 还知情人，你别做梦了，清醒点傻孩子"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0fa867cad9975a91",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊 你管我去哪了，不管申请结果好坏都可以评价mentor，申的不好就不让说了？况且我没说我是intern啊？反而是你，先说说你跟haoran是什么关系，否则别多管闲事"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3d5c27fed46daa48",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡  我BAIR phd，我不知道haoran到底有多少intern，但他的intern去年暑假至少有10个人占了BAIR其他phd的工位(同，证实这一点)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ddd1753b13e87597",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了？?? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b0fd55fd2deb18e5",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况...（难这个榜的意义不就是bang"
+        },
+        {
+          "content_hash": "d78f05905c332ef7",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此: 图呢？有种发个不带cc haoran的证明你不是本人？"
+        },
+        {
+          "content_hash": "875821102bd98091",
+          "style": "NORMAL_TEXT",
+          "text": "你既然追着不放, 我就必须把事情说清楚, 我不是上面那发照片的intern, 但是我找到了haoran之前给我发的, jitendra告知Admission Committee用gmail的事情(当时我写错邮箱了) 请所有质疑的人好好看看 这不是坐实了用gmail吗？你用gmail自己给自己发, 这个确实cc jitendra了啊, 是主页里面的邮箱"
+        },
+        {
+          "content_hash": "9edf077a15cf7e74",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了 哪来这么多大孝子 今年申请的intern没一个说他好话的"
+        },
+        {
+          "content_hash": "0a228adaf5e9c283",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        },
+        {
+          "content_hash": "29a6b2ad41ab0b76",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回, 这图是我google drive发的(且只有第二张, 前面的不知道是谁) 怕是耿哥本人，彻夜难眠吧"
+        },
+        {
+          "content_hash": "b29b324450249a46",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做 孩子醒醒吧，你没问问别的intern对他什么评价吗 我或多或少听说过, 但是我觉得有些intern可能稍微有点过激了, 就是没申请太好, 就想着归因到mentor, 我其实也能理解, 但是我做判断是会排除这些外部因素的, 他现在给我开的工资非常非常好, 项目我也喜欢, 我就觉得可以做做 劝不动了，祝你好运吧"
+        },
+        {
+          "content_hash": "2ec972129f4fa1b3",
+          "style": "NORMAL_TEXT",
+          "text": "不是哥们，没回消息可以装睡啊"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ce47eb73544e6bf4",
+          "style": "NORMAL_TEXT",
+          "text": "有种叫你耿哥自己来rebuttal啊？自己躲着intern洗，怕什么呢，耿浩然？？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1414,
+      "at_to": 1432,
+      "from_paragraphs": [
+        {
+          "content_hash": "9ad1d59675631048",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲非常强（在小细节上一定要她满意）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "77f104ed1e794367",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲非常强（上一定要她满意）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1418,
+      "at_to": 1436,
+      "from_paragraphs": [
+        {
+          "content_hash": "91776885c498af17",
+          "style": "NORMAL_TEXT",
+          "text": "USC Viktor Prasanna\u000b控制欲强，会拿毕业和你谈条件，会拿毕业开玩笑\u000b提供不了指导，组里工作基本没有标准，能发表就行。希望你3-4个月一篇，质量全靠自己，同时也要水点论文满足他对数量上的要求。\u000b不喜欢周期长的工作，唯论文数量论\u000bPUA，NPD，你要学会懂得感激他\u000b不在意学生未来发展，把师生关系当作博弈。你毕业了他会觉得控制不了你了，所以在毕业，qualify等关键时候需要你频繁找他，让他感受到你很需要他，被重视，一些logistics的东西才能顺利推进。可以很长时间不回你邮件\u000b不鼓励实习，本质上你实习意味着你有能力脱离他的掌控\u000b不鼓励collaboration，本质上因为你引入了其他变量不利于他对全局的掌控\u000b所以，组里毕业的基本没有留在学术界的。目标是教职的学生请避雷"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2436c4f6b3603c87",
+          "style": "NORMAL_TEXT",
+          "text": "USC Viktor Prasanna\u000b控制欲强，会拿毕业和你谈条件，会拿毕业开玩笑\u000b提供不了技术指导，组里工作基本没有标准，能发表就行。希望你3-4个月一篇，质量全靠自己，同时也要水点论文满足他对数量上的要求。\u000b不喜欢周期长的工作，唯论文数量论\u000bPUA，NPD，你要学会懂得感激他\u000b不在意学生未来发展，把师生关系当作博弈。你毕业了他会觉得控制不了你了，所以在毕业，qualify等关键时候需要你频繁找他，让他感受到你很需要他，被重视，一些logistics的东西才能顺利推进。可以很长时间不回你邮件\u000b不鼓励实习，本质上你实习意味着你有能力脱离他的掌控\u000b不鼓励collaboration，本质上因为你引入了其他变量不利于他对全局的掌控\u000b所以，组里毕业的基本没有留在学术界的。目标是教职的学生请避雷"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1700,
+      "at_to": 1718,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b4c978a039afa48",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UGA的瓜呀"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8386aa37f5144ed3",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UGA的瓜呀(咱们是t"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2094,
+      "paragraphs": [
+        {
+          "content_hash": "c9281c3c6a73a4ef",
+          "style": "NORMAL_TEXT",
+          "text": "NYUSH Qiaoyu Tan"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

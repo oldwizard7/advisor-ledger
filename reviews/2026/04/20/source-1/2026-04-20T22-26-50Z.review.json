@@ -1,0 +1,43 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-26-50Z.delta.json",
+  "delta_ts": "2026-04-20T22-26-50Z",
+  "reviewed_at_utc": "2026-04-20T22:27:44Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student Yufei Ding (PKU) with extensive personal details including romantic relationship, alleged academic misconduct, and specific authorship disputes",
+      "excerpt": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 今年stanford的phd，haoran geng 的女朋友，纯学术妲己,考试还作弊"
+    },
+    {
+      "type": "pii",
+      "detail": "Identifying information about student with surname S combined with specific de-anonymizing detail of Google Scholar profile removal",
+      "excerpt": "这位S姓同学貌似已经把google scholar下架了"
+    },
+    {
+      "type": "pii",
+      "detail": "Personal family medical information regarding intern's father hospitalization and financial hardship",
+      "excerpt": "我爸生病住院, 是耿哥直接帮我付了房租"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Severe unsupported character judgment using sexualized slur 'academic Daji' (妲己) implying misconduct without evidence",
+      "excerpt": "纯学术妲己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insult and profanity attacking character",
+      "excerpt": "脑残"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive observations about advisor Haoran Geng regarding lab funding applications and legal disputes with specific names, appearing to suppress legitimate content rather than cleanup",
+      "excerpt": "BAIR Phd来评论下, haoran给lab里面申了很多大额funding... 王鹤告的是一个叫songlin wei的人"
+    }
+  ],
+  "prompt_sha256": "7cbacf9d4c7103b967f42997793df9dc70907c86534214c43c2b200c07d9aac6",
+  "finish_reason": "stop",
+  "completion_tokens": 5311
+}
