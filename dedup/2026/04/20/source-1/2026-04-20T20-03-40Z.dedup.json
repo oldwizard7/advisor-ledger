@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T20-03-40Z",
+  "reviewed_at_utc": "2026-04-20T20:04:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 6,
+  "pairs": [
+    {
+      "ghost_hash": "10cd8fe0f3b2cb50",
+      "insert_hash": "90468cabf3980bf9",
+      "note": "expanded with commentary on document",
+      "ghost_text": "UPenn Lingjie Liu 宾大cis第二烂导",
+      "insert_text": "UPenn Lingjie Liu 宾大cis第二烂导(这个文档的目的是客观地听到学生评价为后面的学生群体提供一个理论参考，结果变成了不太理解待人接物基本原理的人的章回体小说。客观实锤基本没有，主观意见层出不穷。一看就是据说，一问就是听说。没实锤就别添油加醋。学术上的优秀(?)不代表你就能当生活上的巨婴)"
+    },
+    {
+      "ghost_hash": "c1a7f7cd0b6f645e",
+      "insert_hash": "ac616dbd88d6ab30",
+      "note": "added controversy disclaimer",
+      "ghost_text": "UT Austin，Atlas Wang",
+      "insert_text": "UT Austin，Atlas Wang （存在争议，请谨慎辨别）"
+    },
+    {
+      "ghost_hash": "266c2c47a812bf52",
+      "insert_hash": "bfdfa6ce07ae262a",
+      "note": "added skeptical question",
+      "ghost_text": "学术造假起家，灌水成名",
+      "insert_text": "学术造假起家，灌水成名 （造假起家从何说起?)"
+    },
+    {
+      "ghost_hash": "02306993e02d0890",
+      "insert_hash": "3f9dc0e7229093da",
+      "note": "added 笑面虎 description",
+      "ghost_text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人",
+      "insert_text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 笑面虎，背后欺负以为不会发声的人"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1899,
+  "skipped_reason": null
+}

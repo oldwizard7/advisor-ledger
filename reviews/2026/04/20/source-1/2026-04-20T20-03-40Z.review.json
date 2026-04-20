@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-03-40Z.delta.json",
+  "delta_ts": "2026-04-20T20-03-40Z",
+  "reviewed_at_utc": "2026-04-20T20:04:35Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insults document contributors as '生活上的巨婴' (giant babies in life), constituting an unsupported personal character judgment rather than critique of specific advising practices.",
+      "excerpt": "学术上的优秀(?)不代表你就能当生活上的巨婴"
+    },
+    {
+      "type": "pii",
+      "detail": "Contains detailed descriptors about private individuals (advisor's son and specific female students) that could de-anonymize them within the academic community.",
+      "excerpt": "微信群发系里/外系女生给她硕士老板儿子相亲"
+    }
+  ],
+  "prompt_sha256": "4f8e2f909c52925c45839a8dc46792a7bfe20c5a402e4922d0a4d5d372b14830",
+  "finish_reason": "stop",
+  "completion_tokens": 5689
+}

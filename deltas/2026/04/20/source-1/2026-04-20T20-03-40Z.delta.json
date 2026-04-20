@@ -1,0 +1,132 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-01-30Z",
+    "revision_id": "AMHacu5TFQ5LlkV19093GvX3z9sDxfBVs3z2CNHh0nwBAk9-LCG0eMU8LocTwg0jBnfRjJJJlUijgEorOtB9lgTgXw",
+    "paragraph_count": 2026
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-03-40Z",
+    "revision_id": "AMHacu6PrlzjAMIiJjCxHDHqcqaPEvp5AJvGiVmgsF9gMU5nG_Nb19deDnpgYHx85bslda_SqBvT9VMK7HM0KXLucg",
+    "paragraph_count": 2027
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0025,
+    "insertion_ratio": 0.003
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 316,
+      "at_to": 316,
+      "from_paragraphs": [
+        {
+          "content_hash": "10cd8fe0f3b2cb50",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu 宾大cis第二烂导"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90468cabf3980bf9",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu 宾大cis第二烂导(这个文档的目的是客观地听到学生评价为后面的学生群体提供一个理论参考，结果变成了不太理解待人接物基本原理的人的章回体小说。客观实锤基本没有，主观意见层出不穷。一看就是据说，一问就是听说。没实锤就别添油加醋。学术上的优秀(?)不代表你就能当生活上的巨婴)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 806,
+      "at_to": 806,
+      "from_paragraphs": [
+        {
+          "content_hash": "bb0347a468d97e98",
+          "style": "NORMAL_TEXT",
+          "text": "you"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cec99fdc056c8e4c",
+          "style": "NORMAL_TEXT",
+          "text": "微信群发系里/外系女生给她硕士老板儿子相亲"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1274,
+      "at_to": 1274,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1a7f7cd0b6f645e",
+          "style": "NORMAL_TEXT",
+          "text": "UT Austin，Atlas Wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ac616dbd88d6ab30",
+          "style": "NORMAL_TEXT",
+          "text": "UT Austin，Atlas Wang （存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1276,
+      "at_to": 1276,
+      "from_paragraphs": [
+        {
+          "content_hash": "266c2c47a812bf52",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfdfa6ce07ae262a",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名 （造假起家从何说起?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1799,
+      "at_to": 1799,
+      "from_paragraphs": [
+        {
+          "content_hash": "02306993e02d0890",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 背后欺负以为不会发声的人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3f9dc0e7229093da",
+          "style": "NORMAL_TEXT",
+          "text": "这不应该上红榜吗 (我的，没看到还分红黑榜。眼神不好sry。) 笑面虎，背后欺负以为不会发声的人"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1801,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
