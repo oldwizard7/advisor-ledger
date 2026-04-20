@@ -1,0 +1,284 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-16-10Z",
+    "revision_id": "AMHacu7DQY_a8QKkG-nl83lwft9evC2LrMdxzKDDhndcefPhOe3mvSXFVe13tO629mA9YCdzzZ4IdWVALQTcooWBYg",
+    "paragraph_count": 563
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-20-30Z",
+    "revision_id": "AMHacu7-4orr76IN6ndEIU4BnYjGqSssmVg3uhDuo2wBAZYV4GYWQSToTqmqcVXLGedngPbP0pwmDKNyZ146r0OSGA",
+    "paragraph_count": 573
+  },
+  "summary": {
+    "inserted_paragraphs": 23,
+    "deleted_paragraphs": 13,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0231,
+    "insertion_ratio": 0.0401
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 10,
+      "at_to": 10,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b55f2fbe1353470",
+          "style": "NORMAL_TEXT",
+          "text": "?咋删了"
+        },
+        {
+          "content_hash": "829c2ed1025736a9",
+          "style": "NORMAL_TEXT",
+          "text": "Move 到下面了，没啥大瓜"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 13,
+      "paragraphs": [
+        {
+          "content_hash": "4db74ba9a995d27c",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun"
+        },
+        {
+          "content_hash": "6ba1e71bf38e03a2",
+          "style": "NORMAL_TEXT",
+          "text": "又来了个大的，坐等"
+        },
+        {
+          "content_hash": "b59e55c4085c618d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？ 🙂"
+        },
+        {
+          "content_hash": "7fb4b089a317cb30",
+          "style": "NORMAL_TEXT",
+          "text": "Sun老师除了 survey 水的多，其他没啥吧。"
+        },
+        {
+          "content_hash": "ec52b551db7027aa",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢蹭热点，sora出了马上搞一个sora的survey，后面蹭个mora，bora。"
+        },
+        {
+          "content_hash": "fc1a4a1b321453ae",
+          "style": "NORMAL_TEXT",
+          "text": "xue"
+        },
+        {
+          "content_hash": "14ca3cd2a766122e",
+          "style": "NORMAL_TEXT",
+          "text": "发生啥了，围观"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 62,
+      "at_to": 56,
+      "from_paragraphs": [
+        {
+          "content_hash": "255f0200f218a20e",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）（+2）(蹲)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1dcdad221bc07c99",
+          "style": "NORMAL_TEXT",
+          "text": "跑路之后组内学生怎么样了(蹲）（+2）(蹲) （到各个组抢新phd名额）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 119,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4db74ba9a995d27c",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun"
+        },
+        {
+          "content_hash": "6ba1e71bf38e03a2",
+          "style": "NORMAL_TEXT",
+          "text": "又来了个大的，坐等"
+        },
+        {
+          "content_hash": "b59e55c4085c618d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？ 🙂"
+        },
+        {
+          "content_hash": "7fb4b089a317cb30",
+          "style": "NORMAL_TEXT",
+          "text": "Sun老师除了 survey 水的多，其他没啥吧。"
+        },
+        {
+          "content_hash": "ec52b551db7027aa",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢蹭热点，sora出了马上搞一个sora的survey，后面蹭个mora，bora。"
+        },
+        {
+          "content_hash": "9e0b36540e4be38d",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste极差，认为乱水survey乱搞benchmark是对的。"
+        },
+        {
+          "content_hash": "ad5520f7852e6df5",
+          "style": "NORMAL_TEXT",
+          "text": "之前操纵过审稿被大佬抓住了"
+        },
+        {
+          "content_hash": "64528cb2f3136908",
+          "style": "NORMAL_TEXT",
+          "text": "最著名的还有llava-o1"
+        },
+        {
+          "content_hash": "14ca3cd2a766122e",
+          "style": "NORMAL_TEXT",
+          "text": "发生啥了，围观"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 205,
+      "at_to": 210,
+      "from_paragraphs": [
+        {
+          "content_hash": "2e2613ab3e95af2c",
+          "style": "NORMAL_TEXT",
+          "text": "What is the mid training?"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4faf3a1c3c1f61b4",
+          "style": "NORMAL_TEXT",
+          "text": "What is the mid training? (这是啥意思)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 321,
+      "at_to": 326,
+      "from_paragraphs": [
+        {
+          "content_hash": "17e94bfc2248a3fe",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "66bae3fa270e190c",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 345,
+      "at_to": 350,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac681cb189350019",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste极差, 自己的paper只能拿neurips 主会oral 和workshop awards, 根本拿不了主会best paper, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, MindCube, Theory of Space)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7e5f40aeb3f3ff23",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste极差, 自己的paper只能拿neurips 主会oral 和workshop awards, 根本拿不了主会best paper, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 465,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7b0e080f3a088d80",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Hao Peng"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 477,
+      "at_to": 484,
+      "from_paragraphs": [
+        {
+          "content_hash": "4e222b143a0fa091",
+          "style": "NORMAL_TEXT",
+          "text": "x f"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e534471c2cc25d86",
+          "style": "NORMAL_TEXT",
+          "text": "HKU Yanchao Yang (占坑)x f"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 545,
+      "paragraphs": [
+        {
+          "content_hash": "0a115d0d399f2418",
+          "style": "NORMAL_TEXT",
+          "text": "FDU"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
