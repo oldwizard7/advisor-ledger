@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-33-00Z.delta.json",
+  "delta_ts": "2026-04-20T10-33-00Z",
+  "reviewed_at_utc": "2026-04-20T10:33:47Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of vulgar language '扯淡吧' (bullshit/nonsense) to dismiss the intern's testimony without substantive counter-evidence",
+      "excerpt": "扯淡吧，Jitendra申过，你见过Jitendra？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Use of profanity '草' (fuck) in sarcastic comment attacking the intern's housing situation",
+      "excerpt": "草，原来耿哥拿我们的钱给你付房租去了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of specific fraud accusation 'Paper造假' and replacement with claim it has been debunked, potentially suppressing substantive observation about the advisor",
+      "excerpt": "Paper造假 ting"
+    }
+  ],
+  "prompt_sha256": "5877d448721397e5b867b19894111ab3d08bd74050eb75a05098e82e705209fc",
+  "finish_reason": "stop",
+  "completion_tokens": 5112
+}

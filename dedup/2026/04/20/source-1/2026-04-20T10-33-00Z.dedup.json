@@ -1,0 +1,62 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-33-00Z",
+  "reviewed_at_utc": "2026-04-20T10:34:27Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 11,
+  "pairs": [
+    {
+      "ghost_hash": "04c17fde1595c6fd",
+      "insert_hash": "60ebcd5805cf8c28",
+      "note": "added commentary in parentheses",
+      "ghost_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了",
+      "insert_text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）"
+    },
+    {
+      "ghost_hash": "37dbe7dc05809805",
+      "insert_hash": "32772c7d1c31825f",
+      "note": "added commentary in parentheses",
+      "ghost_text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助",
+      "insert_text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)"
+    },
+    {
+      "ghost_hash": "3920ed64f16fd6e2",
+      "insert_hash": "a3b6e7212e90cc32",
+      "note": "added phonetic annotation",
+      "ghost_text": "至今没有PhD入学的学生？",
+      "insert_text": "至今没有PhD入学的学生？(shuo zhe ju hua)"
+    },
+    {
+      "ghost_hash": "749e29fbc27ef990",
+      "insert_hash": "79d790e5ec025c10",
+      "note": "split line, first part",
+      "ghost_text": "对intern很好 填tui jix n",
+      "insert_text": "对intern很好"
+    },
+    {
+      "ghost_hash": "749e29fbc27ef990",
+      "insert_hash": "7bb1513346bf1124",
+      "note": "expanded typo abbreviation",
+      "ghost_text": "对intern很好 填tui jix n",
+      "insert_text": "填推荐信秒填 不限数量 会给很强的推荐"
+    },
+    {
+      "ghost_hash": "8f13c53704f0b084",
+      "insert_hash": "85fe53460351f6cb",
+      "note": "added parenthetical note",
+      "ghost_text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）",
+      "insert_text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）"
+    },
+    {
+      "ghost_hash": "a07f466cfeddf7ae",
+      "insert_hash": "bacf0be82eb9b59f",
+      "note": "expanded abbreviation f ze",
+      "ghost_text": "第四点：请具体说明两幅嘴脸，f ze",
+      "insert_text": "第四点：请具体说明两幅嘴脸，否则等同瞎飙，李老师貌似没有内涵阴阳同学院其他女教授哦，如果有，请列举具体情节，你自己心里这么想不代表别人也这么想"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5353,
+  "skipped_reason": null
+}

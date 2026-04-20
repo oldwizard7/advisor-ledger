@@ -1,0 +1,193 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-26-30Z",
+    "revision_id": "AMHacu5zM11IaZ6j9aNE8uVGZzrjZtMXhVAIuGTTC-fq2hYhGGAVfR0Yrw9Uakqj_CNTsPLwOuaecejMBXdm7d4Nog",
+    "paragraph_count": 1520
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-33-00Z",
+    "revision_id": "AMHacu7H0jlVXAGd4H8RmFN84e3aDySTYHlBlEwE4ZgTh1ebo0B-WQ6aRf5Or_h0XjUP0yYmGU6D0vwRWdNCFmdXCA",
+    "paragraph_count": 1523
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 8,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0053,
+    "insertion_ratio": 0.0072
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 0,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 234,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "04c17fde1595c6fd",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "60ebcd5805cf8c28",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 238,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "6297dade300ae7b6",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 ting"
+        },
+        {
+          "content_hash": "37dbe7dc05809805",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e92723fa5eb216e",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了..."
+        },
+        {
+          "content_hash": "32772c7d1c31825f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 297,
+      "at_to": 296,
+      "from_paragraphs": [
+        {
+          "content_hash": "3920ed64f16fd6e2",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a3b6e7212e90cc32",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(shuo zhe ju hua)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 372,
+      "at_to": 371,
+      "from_paragraphs": [
+        {
+          "content_hash": "749e29fbc27ef990",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很好 填tui jix n"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "79d790e5ec025c10",
+          "style": "NORMAL_TEXT",
+          "text": "对intern很好"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 373,
+      "paragraphs": [
+        {
+          "content_hash": "7bb1513346bf1124",
+          "style": "NORMAL_TEXT",
+          "text": "填推荐信秒填 不限数量 会给很强的推荐"
+        },
+        {
+          "content_hash": "7893173672ac0552",
+          "style": "NORMAL_TEXT",
+          "text": "感觉总体上情绪比较稳定 做决策的时候很理智"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1303,
+      "at_to": 1304,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f13c53704f0b084",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "85fe53460351f6cb",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1384,
+      "at_to": 1385,
+      "from_paragraphs": [
+        {
+          "content_hash": "a07f466cfeddf7ae",
+          "style": "NORMAL_TEXT",
+          "text": "第四点：请具体说明两幅嘴脸，f ze"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bacf0be82eb9b59f",
+          "style": "NORMAL_TEXT",
+          "text": "第四点：请具体说明两幅嘴脸，否则等同瞎飙，李老师貌似没有内涵阴阳同学院其他女教授哦，如果有，请列举具体情节，你自己心里这么想不代表别人也这么想"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1521,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6f26419923d51ae",
+          "style": "NORMAL_TEXT",
+          "text": "CISPA, Yang Zhang"
+        }
+      ]
+    }
+  ]
+}
