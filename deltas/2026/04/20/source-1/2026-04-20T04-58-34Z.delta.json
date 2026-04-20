@@ -1,0 +1,137 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-56-33Z",
+    "revision_id": "AMHacu6t-VA8YEbYoztx_87xFAgakcssn7ZZTcYPPdTp6W4EA0MzKnKZZrdmgnjvrxilgnpXa2EpzV60p629r5FF3A",
+    "paragraph_count": 1100
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-58-34Z",
+    "revision_id": "AMHacu5qlh976qo4szm81WFsp4uij6Xs3FhaAH5TZkt2HDibtAwVz-yNRDwvGxXsam_Mgw2waFA_zwNBraFs_njGrQ",
+    "paragraph_count": 1100
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 6,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0055,
+    "insertion_ratio": 0.0055
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "c290e7502d8eb97d",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了，已经有UCSD邮箱给我发邮件威胁我了。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fbf0d0bd4302dc4f",
+          "style": "NORMAL_TEXT",
+          "text": "这个文档快要被和谐了（不排除删除，已经有UCSD邮箱给我发邮件威胁我了。大家及时保存，还有Github的版本。（UCSD谁联系爆出来！）"
+        },
+        {
+          "content_hash": "bd10442be93d1e38",
+          "style": "NORMAL_TEXT",
+          "text": "我不怕威胁🤣"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 547,
+      "at_to": 548,
+      "from_paragraphs": [
+        {
+          "content_hash": "2450511f297f4bdf",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（不要把两个人混为一谈（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "56aafd3fefe9b3eb",
+          "style": "NORMAL_TEXT",
+          "text": "还有人给 altas wang 和 tianlong 洗我是真没想到的，灌水和造假的神（不要把两个人混为一谈，请给证据）（真给你offer都屁颠屁颠去了，搞笑）（不好意思，申都没申）（别相互攻击）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 734,
+      "at_to": 735,
+      "from_paragraphs": [
+        {
+          "content_hash": "c5032ba82603bad7",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学Yihe Deng, Yiwen Kou和Junkai Zhang转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9cfc87dababa19f5",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 794,
+      "at_to": 795,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f6300f39d310844",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86fc7d9721504612",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） ()"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 884,
+      "at_to": 885,
+      "from_paragraphs": [
+        {
+          "content_hash": "0dd834c5764c4cc2",
+          "style": "NORMAL_TEXT",
+          "text": "不让学生写论文，让写proposal，把学生逼到肾出问题做手术，躺在床上还"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ec2c925b8c7ea7e8",
+          "style": "NORMAL_TEXT",
+          "text": "让写proposal，把学生逼到肾出问题做手术，躺在床上还push学生"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1038,
+      "paragraphs": [
+        {
+          "content_hash": "c3d12c7fe32102c8",
+          "style": "NORMAL_TEXT",
+          "text": "在他看来当他的学生就是亏欠他的，要还三年债，横向本子写不完，天天随时待命就好了"
+        }
+      ]
+    }
+  ]
+}
