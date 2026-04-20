@@ -1,0 +1,450 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-24-41Z",
+    "revision_id": "AMHacu67bUOiJSRO4Cy93TrK2SgGsaPuyAV1dPkzeapuR4p8jiikjAr-abf0iQPYA8X5QAGhc75CStv77fwe1ndA8Q",
+    "paragraph_count": 1955
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-30-46Z",
+    "revision_id": "AMHacu6qMgJ3nVBD2iMD7MYZEYdB8tW_lC-Hc-kYqqopbsEdMqUpAho1-zMyYDNxIp5HVegudJR1PPRQeyXyvsGZcA",
+    "paragraph_count": 1967
+  },
+  "summary": {
+    "inserted_paragraphs": 40,
+    "deleted_paragraphs": 28,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0143,
+    "insertion_ratio": 0.0203
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 116,
+      "paragraphs": [
+        {
+          "content_hash": "12b0a46f3ce5a3c1",
+          "style": "NORMAL_TEXT",
+          "text": "那些学生转组后论文里没有一篇有所谓的女学生，把自己不知道从哪听到的东西若有其事的添油加醋恶不恶心？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 125,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9fbc535bdd32f9e6",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Jiaqi Ma"
+        },
+        {
+          "content_hash": "730b68d923a2dd4b",
+          "style": "NORMAL_TEXT",
+          "text": "名下多篇IEEE顶刊 retraction可查，"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bdcd43bff039d736",
+          "style": "NORMAL_TEXT",
+          "text": "Retracted: Social Radars for Social Vision of Intelligent Vehicles: A New Direction for Vehicle Research and Development"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9e750591e5f40ddf",
+          "style": "NORMAL_TEXT",
+          "text": "Retracted: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "692eb0a6aa5b2c27",
+          "style": "NORMAL_TEXT",
+          "text": "Retraction Notice: Chat With ChatGPT on Intelligent Vehicles: An IEEE TIV Perspective"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "96becbbeb77fbf0b",
+          "style": "NORMAL_TEXT",
+          "text": "Retraction Notice: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b066cf28f706264c",
+          "style": "NORMAL_TEXT",
+          "text": "多篇论文涉嫌图从别处拼的 比如  一篇发表于Elsevier《Artificial Intelligence for Transportation》的论文—— 《CDA.AI for OpenCDA: AI Pathways for Cooperative Driving Automation Research》 https://www.sciencedirect.com/science/article/pii/S305086062500002X"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "43bf72127b627a72",
+          "style": "NORMAL_TEXT",
+          "text": "图基本都是从别处拼的，比如论文里的Figure 1来自A论文，Figure 2来自B论文，Figure3来自C论文，每篇不同来源，凑成一篇新文章（不是黑他，这是原文比对出来的） 当然 这么干也不止一次"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2c19403019ee8f63",
+          "style": "NORMAL_TEXT",
+          "text": "听说有学生被要求“从已发表论文里各取一张图重新排版”，不让问版权，问就说这是我们自己的成果（存疑，但不止一个人这么说）"
+        },
+        {
+          "content_hash": "0d6914f7f65248ca",
+          "style": "NORMAL_TEXT",
+          "text": "组里有人查了版权条款后被怼：“你不想干可以走”"
+        },
+        {
+          "content_hash": "fbf684fd21b7757e",
+          "style": "NORMAL_TEXT",
+          "text": "很多人问：撤稿了还能继续发？还能招学生？目前没有明确答复"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b1f67d781753d1c4",
+          "style": "NORMAL_TEXT",
+          "text": "（被人抓包了后到处问是谁举报的 哈哈哈 笑死）"
+        },
+        {
+          "content_hash": "7523782689bda332",
+          "style": "NORMAL_TEXT",
+          "text": "（有人说他其实人还行，不卡毕业，但论文这个真洗不动）"
+        },
+        {
+          "content_hash": "16d1686ab8861cb9",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 431,
+      "paragraphs": [
+        {
+          "content_hash": "930723e05f4f6e31",
+          "style": "NORMAL_TEXT",
+          "text": "接受前任professor留下的课题组后，组里两年内跑了5个人"
+        },
+        {
+          "content_hash": "b580c0e59db8ec96",
+          "style": "NORMAL_TEXT",
+          "text": "科研能力积贫积弱，只会ChatGPT回复学生，甚至组会现场查GPT给回复"
+        },
+        {
+          "content_hash": "ce59fa98e3f5e79c",
+          "style": "NORMAL_TEXT",
+          "text": "用AI搜的5年前，10年前的paper，奉为圭臬，强迫学生基于此做研究"
+        },
+        {
+          "content_hash": "0367e2eaadfd96da",
+          "style": "NORMAL_TEXT",
+          "text": "自己带的网课，给自己课题组学生B，并且严格管控学生的出勤情况"
+        },
+        {
+          "content_hash": "ca506f2f87d4c2dd",
+          "style": "NORMAL_TEXT",
+          "text": "每周六晚上11点开始大量发邮件，内容几乎均为AI生成"
+        },
+        {
+          "content_hash": "ae7d7e23a5cf7c8a",
+          "style": "NORMAL_TEXT",
+          "text": "对科研关心不足的同时，洞悉行政手段，想方设法恶心学生，例如：出尔反尔，切断"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 584,
+      "paragraphs": [
+        {
+          "content_hash": "4bd7ef315c375fd9",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊 北大信科官方澄清shi"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 588,
+      "paragraphs": [
+        {
+          "content_hash": "a435367493bf08f9",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！+1 必须避雷"
+        },
+        {
+          "content_hash": "3bb9b913390749cd",
+          "style": "NORMAL_TEXT",
+          "text": "（忠告！）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 598,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 603,
+      "at_to": 634,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "773fa67e4c877721",
+          "style": "NORMAL_TEXT",
+          "text": "你错了, 我就是在耿哥公司这里intern, 别什么都扯到人家身上, 现在美西凌晨, 我给耿哥发消息他都没回"
+        },
+        {
+          "content_hash": "0461270f403d4f51",
+          "style": "NORMAL_TEXT",
+          "text": "不是哥们，没回消息可以装睡啊。我认识一个haoran的intern，他说耿有时候回消息就是bu hui"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 813,
+      "at_to": 845,
+      "from_paragraphs": [
+        {
+          "content_hash": "27d74651d3d598b9",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的回复)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eeb8c27f269aaafb",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管是树大招风，还是有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的回复)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1026,
+      "at_to": 1058,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c3aac3324fe2e24",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)(+1)(+1)(+1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc1da540988b7226",
+          "style": "NORMAL_TEXT",
+          "text": "长得很帅啊 感觉UIUC最帅的就是他了(+1)(+1)(+1)(+1)(+1) Alexander Schwing帅多了吧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1060,
+      "paragraphs": [
+        {
+          "content_hash": "48a1d8a3648b821d",
+          "style": "NORMAL_TEXT",
+          "text": "面试PhD把候选人都拉进一个群做项目"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1709,
+      "paragraphs": [
+        {
+          "content_hash": "049434e3f986a98f",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA  Jiaqi Ma"
+        },
+        {
+          "content_hash": "730b68d923a2dd4b",
+          "style": "NORMAL_TEXT",
+          "text": "名下多篇IEEE顶刊 retraction可查，"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bdcd43bff039d736",
+          "style": "NORMAL_TEXT",
+          "text": "Retracted: Social Radars for Social Vision of Intelligent Vehicles: A New Direction for Vehicle Research and Development"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9e750591e5f40ddf",
+          "style": "NORMAL_TEXT",
+          "text": "Retracted: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "692eb0a6aa5b2c27",
+          "style": "NORMAL_TEXT",
+          "text": "Retraction Notice: Chat With ChatGPT on Intelligent Vehicles: An IEEE TIV Perspective"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "96becbbeb77fbf0b",
+          "style": "NORMAL_TEXT",
+          "text": "Retraction Notice: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1721,
+      "at_to": 1744,
+      "from_paragraphs": [
+        {
+          "content_hash": "b066cf28f706264c",
+          "style": "NORMAL_TEXT",
+          "text": "多篇论文涉嫌图从别处拼的 比如  一篇发表于Elsevier《Artificial Intelligence for Transportation》的论文—— 《CDA.AI for OpenCDA: AI Pathways for Cooperative Driving Automation Research》 https://www.sciencedirect.com/science/article/pii/S305086062500002X"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "43bf72127b627a72",
+          "style": "NORMAL_TEXT",
+          "text": "图基本都是从别处拼的，比如论文里的Figure 1来自A论文，Figure 2来自B论文，Figure3来自C论文，每篇不同来源，凑成一篇新文章（不是黑他，这是原文比对出来的） 当然 这么干也不止一次"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2c19403019ee8f63",
+          "style": "NORMAL_TEXT",
+          "text": "听说有学生被要求“从已发表论文里各取一张图重新排版”，不让问版权，问就说这是我们自己的成果（存疑，但不止一个人这么说）"
+        },
+        {
+          "content_hash": "0d6914f7f65248ca",
+          "style": "NORMAL_TEXT",
+          "text": "组里有人查了版权条款后被怼：“你不想干可以走”"
+        },
+        {
+          "content_hash": "fbf684fd21b7757e",
+          "style": "NORMAL_TEXT",
+          "text": "很多人问：撤稿了还能继续发？还能招学生？目前没有明确答复"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b1f67d781753d1c4",
+          "style": "NORMAL_TEXT",
+          "text": "（被人抓包了后到处问是谁举报的 哈哈哈 笑死）"
+        },
+        {
+          "content_hash": "7523782689bda332",
+          "style": "NORMAL_TEXT",
+          "text": "（有人说他其实人还行，不卡毕业，但论文这个真洗不动）"
+        },
+        {
+          "content_hash": "48a15f2fc5f1aaf9",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了）"
+        },
+        {
+          "content_hash": "2adafe91757a561d",
+          "style": "NORMAL_TEXT",
+          "text": ", You Yang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "658b2409282c04bb",
+          "style": "NORMAL_TEXT",
+          "text": "NUs You Yang"
+        }
+      ]
+    }
+  ]
+}

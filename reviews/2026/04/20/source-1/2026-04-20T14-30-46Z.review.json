@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-30-46Z.delta.json",
+  "delta_ts": "2026-04-20T14-30-46Z",
+  "reviewed_at_utc": "2026-04-20T14:31:42Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal attack on a specific PhD student using gendered insults ('学术妲己' implying romantic/sexual manipulation for academic gain) and unsubstantiated cheating allegations",
+      "excerpt": "Yufei Ding今年stf的phd，纯学术妲己,考试还作弊"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive documentation regarding UCLA professor Jiaqi Ma's IEEE paper retractions, suppressing specific public academic misconduct records",
+      "excerpt": "UCLA Jiaqi Ma 名下多篇IEEE顶刊 retraction可查"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Replacement of detailed allegations about Jiaqi Ma's image manipulation practices with unrelated content ('NUs You Yang'), effectively erasing specific research integrity concerns",
+      "excerpt": "多篇论文涉嫌图从别处拼的 比如  一篇发表于Elsevier... -> NUs You Yang"
+    }
+  ],
+  "prompt_sha256": "8fd9319be97fae8ba443bfdd6a3500d51341ff14f5e72f5a13a0972fe570c242",
+  "finish_reason": "stop",
+  "completion_tokens": 5673
+}
