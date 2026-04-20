@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-09-20Z.delta.json",
+  "delta_ts": "2026-04-20T15-09-20Z",
+  "reviewed_at_utc": "2026-04-20T15:10:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full real name of a student (PhD candidate) is disclosed in the context of gossip about cheating and personal relationships, which is personally identifying information about a private individual.",
+      "excerpt": "Yufei Ding"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses gendered slur '学术妲己' (academic Daji) and profanity 'sb' to attack the character of the student rather than focusing on concrete advising practices.",
+      "excerpt": "纯学术妲己"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of a substantive observation about an advisor's personality and behavior ('extreme NPD personality, treats people differently, lies') appears to suppress legitimate criticism rather than cleanup typos or off-topic content.",
+      "excerpt": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+    }
+  ],
+  "prompt_sha256": "426e33f9633a00c64780e248dec950a4985aa466c6f14e52bdec3c51c99972a1",
+  "finish_reason": "stop",
+  "completion_tokens": 4690
+}

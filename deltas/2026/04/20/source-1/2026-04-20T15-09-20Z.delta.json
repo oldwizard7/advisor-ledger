@@ -1,0 +1,252 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-05-10Z",
+    "revision_id": "AMHacu5O20J6jldDMTvjdM_x0DQZ-8QU3X_kyGpZKf0WxE1JeFi8MoIViKOJOENzaRpkOWDE7EDqoJGsUp525C9xGw",
+    "paragraph_count": 2025
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-09-20Z",
+    "revision_id": "AMHacu6M_raaBcJ6CJgo40a49s_wSH9kDzSQ8T_tsr3JqGF4c62prnSDrje7AuPp2SyAsbEkEGpr0lPWL66A3yUxUw",
+    "paragraph_count": 2025
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 13,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0064,
+    "insertion_ratio": 0.0064
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 369,
+      "at_to": 369,
+      "from_paragraphs": [
+        {
+          "content_hash": "7834efdb81fa9046",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(非本组PhD: 前面这位恶意也忒大了......这么大个学术圈竟然能被高达6个人的组2333)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d9d297bd798c37a0",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(非本组PhD: 前面这位恶意也忒大了......这么大个学术圈竟然能被高达6个人的组污染2333，骗别人可以，别把自己骗了)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 428,
+      "at_to": 428,
+      "from_paragraphs": [
+        {
+          "content_hash": "3973e022e93220f9",
+          "style": "NORMAL_TEXT",
+          "text": "-"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "89b172d839605a54",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是chuang以前的intern，至少当时对intern很不错，不怎么管，每周开会看看进度，有个快毕业的phd指导，最后给的推荐信听对面组的人说也是强推，体验挺好的"
+        },
+        {
+          "content_hash": "36c2b2243cf6a98d",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是他PhD。从组里观察，他的风格比较独特，类似东北大哥，跟学生没有什么距离感，聊天也都很随意和直接（但是底下说的黄谣从没见过），所以不是所有人都适应，但本质上还是让学生有更好出路。我个人跟他做了好几年，帮忙找实习/或者其他生活上的困难找他，他都会帮忙。科研上他说话比较直接，但都是在科研范围内，虽然听着难受但是个人觉得对科研本身还是有帮助的，想明白了也能接受"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 437,
+      "at_to": 438,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b40602cdb644675",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！（人家自由吧。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d967420bb628b42c",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！（人家自由吧。。）（不是，取关你你就玻璃心成这样吗哥们）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 439,
+      "at_to": 440,
+      "from_paragraphs": [
+        {
+          "content_hash": "944afd387990cab4",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4ec74ac493111155",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜) (）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 441,
+      "paragraphs": [
+        {
+          "content_hash": "c2c3f03f51ae9fea",
+          "style": "NORMAL_TEXT",
+          "text": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 619,
+      "from_paragraphs": [
+        {
+          "content_hash": "6a6b7767c2b28a66",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知；有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "128d1f84ad644cb3",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        },
+        {
+          "content_hash": "1f9d233c791a6762",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 623,
+      "at_to": 623,
+      "from_paragraphs": [
+        {
+          "content_hash": "5b6542136dec0fde",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）（yiwei老师还是很不错的，给不出什么指导还是过于偏颇了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0455fd6cce298cbf",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）（yiwei老师是很不错的，给不出什么指导还是过于偏颇了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 658,
+      "at_to": 658,
+      "from_paragraphs": [
+        {
+          "content_hash": "471b4ad068ef3e01",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a55f345685ab836",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校co我mmittee审过材料的大家dddd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1219,
+      "at_to": 1219,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f25835b2de7eca1b",
+          "style": "NORMAL_TEXT",
+          "text": "经常请学生吃饭"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1377,
+      "at_to": 1377,
+      "from_paragraphs": [
+        {
+          "content_hash": "eba3552915681972",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作"
+        },
+        {
+          "content_hash": "c595514edf237dd1",
+          "style": "NORMAL_TEXT",
+          "text": "项目网页的搭建"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "94d43b8cdcb14156",
+          "style": "NORMAL_TEXT",
+          "text": "cognitive map实验分析"
+        },
+        {
+          "content_hash": "28ddf82bbe285e17",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作、项目网页的搭建"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1818,
+      "at_to": 1818,
+      "from_paragraphs": [
+        {
+          "content_hash": "6424527d7f3ed67a",
+          "style": "NORMAL_TEXT",
+          "text": "传说中的华人三驾水车之首"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "337d1eb74ee73287",
+          "style": "NORMAL_TEXT",
+          "text": "传说中的华人三驾水车之首（补：传说中的水仙人自来也）"
+        }
+      ]
+    }
+  ]
+}
