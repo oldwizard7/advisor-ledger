@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-01-30Z.delta.json",
+  "delta_ts": "2026-04-20T21-01-30Z",
+  "reviewed_at_utc": "2026-04-20T21:02:20Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Names a specific student (Haoran Geng) and discusses allegations about his girlfriend's academic misconduct, which is personally identifying information about a private individual rather than a public academic figure.",
+      "excerpt": "haoran geng 的女朋友，纯学术妲己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Intensifies an appearance-based insult from 'ugly' (丑) to 'extremely ugly' (巨丑), which is a pure personal attack on physical appearance unrelated to advising practices.",
+      "excerpt": "长得巨丑玩的花"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletes a substantive defense challenging the claim that 'many students quit' and providing specific fact-checking methods (Wayback Machine, homepage photos), which appears to suppress legitimate counter-evidence rather than cleanup.",
+      "excerpt": "多人quit （谁写的多人quit？自己去wayback machine看历史上主页上列出来的的学生"
+    }
+  ],
+  "prompt_sha256": "aa699b1676c1ecd1ff111e74b4ab2c7734c0a39f47360b7a9c28eaeb64e5078e",
+  "finish_reason": "stop",
+  "completion_tokens": 5176
+}
