@@ -1,0 +1,394 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-32-40Z",
+    "revision_id": "AMHacu5UmroEHEXsIZChBEU0PQaAgz37ZeQdWBTBrzQqOJzj6OJAhyk_AorPtfw3-0YeFtMWOT7sGepCpi0KrEQMhg",
+    "paragraph_count": 838
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-36-52Z",
+    "revision_id": "AMHacu6WVOwl8yZGQQWqIr05l7zdeL69vsleKtNT9YOW2FW9IgXBP3bL-dx46tahsuyfGJ-7JE3HpMADQ7xVGB-mQA",
+    "paragraph_count": 854
+  },
+  "summary": {
+    "inserted_paragraphs": 34,
+    "deleted_paragraphs": 18,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0215,
+    "insertion_ratio": 0.0398
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 17,
+      "at_to": 17,
+      "from_paragraphs": [
+        {
+          "content_hash": "bab75adc126320f1",
+          "style": "HEADING_1",
+          "text": "USw"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90480ee2ac27e61f",
+          "style": "NORMAL_TEXT",
+          "text": "(看了一些PI底下感觉有phd在互骂，可以不可以控制一下不要这样，到底是恩怨局还是真的客观事实这样很容易分不清)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9b202ecbc6d45c6d",
+          "style": "HEADING_1",
+          "text": "US"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 31,
+      "paragraphs": [
+        {
+          "content_hash": "352230a6c668a2c5",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech prof. Yingyan (Celine) Lin"
+        },
+        {
+          "content_hash": "30ed4859f62abf39",
+          "style": "NORMAL_TEXT",
+          "text": "鸽申请者面试"
+        },
+        {
+          "content_hash": "294e79441924e812",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhDs不止一个quit了 (最近2-3年有5+phd quit/转组)"
+        },
+        {
+          "content_hash": "de32a7df24b6e20b",
+          "style": "NORMAL_TEXT",
+          "text": "对第一批毕业的PhD不错，对后面的就变差了（对第一批也很差，只不过忍了）"
+        },
+        {
+          "content_hash": "9fd4433e3463a699",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内做bio的（甚至不是同方向）本科生（不止一个）都听说过Celine组的“大名”"
+        },
+        {
+          "content_hash": "b5ce816a13a28a18",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般，组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 37,
+      "at_to": 47,
+      "from_paragraphs": [
+        {
+          "content_hash": "947bf4c1030c7859",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cbeae105c656a255",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 41,
+      "at_to": 51,
+      "from_paragraphs": [
+        {
+          "content_hash": "caf83fb31eea776b",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2b25d2c294cabeb3",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 70,
+      "at_to": 80,
+      "from_paragraphs": [
+        {
+          "content_hash": "352230a6c668a2c5",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech prof. Yingyan (Celine) Lin"
+        },
+        {
+          "content_hash": "30ed4859f62abf39",
+          "style": "NORMAL_TEXT",
+          "text": "鸽申请者面试"
+        },
+        {
+          "content_hash": "294e79441924e812",
+          "style": "NORMAL_TEXT",
+          "text": "组内PhDs不止一个quit了 (最近2-3年有5+phd quit/转组)"
+        },
+        {
+          "content_hash": "de32a7df24b6e20b",
+          "style": "NORMAL_TEXT",
+          "text": "对第一批毕业的PhD不错，对后面的就变差了（对第一批也很差，只不过忍了）"
+        },
+        {
+          "content_hash": "9fd4433e3463a699",
+          "style": "NORMAL_TEXT",
+          "text": "GT校内做bio的（甚至不是同方向）本科生（不止一个）都听说过Celine组的“大名”"
+        },
+        {
+          "content_hash": "b5ce816a13a28a18",
+          "style": "NORMAL_TEXT",
+          "text": "实际实力很一般，组内发paper多是因为Rice有个大佬帮带了她第一届学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 143,
+      "paragraphs": [
+        {
+          "content_hash": "d0f0f849b56e76e1",
+          "style": "NORMAL_TEXT",
+          "text": "I worked with both Dr. Xie and Dr. Ding, and I was one of the students affected during that transition period. It was honestly a difficult position."
+        },
+        {
+          "content_hash": "39db2bcd3373c566",
+          "style": "NORMAL_TEXT",
+          "text": "I don’t think that characterization is generalizable. From my perspective, it was more of an unfortunate mismatch — in terms of working style and how people understand the advisor–advisee commitment."
+        },
+        {
+          "content_hash": "7af03f0d122c65d6",
+          "style": "NORMAL_TEXT",
+          "text": "For the 'quit' rates, I’ve heard smaller figures myself. Such figures also don’t capture the full context."
+        },
+        {
+          "content_hash": "f808e21a7c12b733",
+          "style": "NORMAL_TEXT",
+          "text": "For the funding situation, it was a complicated situation. It involved multiple parties and broader departmental factors. My impression was that Dr. Ding tried to support students within all those constraints while handling things professionally with her colleagues."
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 161,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "db3ac85e6f175c97",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Mingyu"
+        },
+        {
+          "content_hash": "7c2807a2a62027d0",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 197,
+      "at_to": 212,
+      "from_paragraphs": [
+        {
+          "content_hash": "02aaf953d5779dda",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生养蛊，每天"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d79a98935c020f7",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生养蛊，每天半夜开会push学生"
+        },
+        {
+          "content_hash": "88f74510f80977b0",
+          "style": "NORMAL_TEXT",
+          "text": "流水线发survey，并且本人对此很骄傲，据说可以两周完成一篇survey"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 223,
+      "at_to": 239,
+      "from_paragraphs": [
+        {
+          "content_hash": "677dc5300f42c2b6",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他招的外国学生水平都很低，留着当吉祥物用的，从下面的韩国人女 AP 就能看出来）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f44f02ded68d10ea",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 323,
+      "from_paragraphs": [
+        {
+          "content_hash": "a2282e154bcbca90",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。"
+        },
+        {
+          "content_hash": "2b20aeeb78e6f20f",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 (不知道问题在哪，多科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看科研能力。你给说成啥了，他缺你那点idea吗)"
+        },
+        {
+          "content_hash": "fa1da1e0732cc0a6",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种"
+        },
+        {
+          "content_hash": "4964175b2219acb1",
+          "style": "NORMAL_TEXT",
+          "text": "Huan和组里所有的PhD MS关系都很不错"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5640ae80327f49ab",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。(只要能变成正常合作者(i.e. 能独立干点活不用手把手教)的Intern会发offer，Huan和组里所有的PhD MS Intern关系都不错) Huan 对 intern 是培养态度，会教grad如何带undergrad，到intern手上的活基本就比课程作业难一点而已。"
+        },
+        {
+          "content_hash": "44c839b82dbf64d3",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 (你给说成啥了，他缺你那点idea吗。多科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看科研能力。)"
+        },
+        {
+          "content_hash": "9045ffb68caa1d0c",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 ()"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 320,
+      "at_to": 336,
+      "from_paragraphs": [
+        {
+          "content_hash": "3621b5c9cf4294af",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧 (毕竟rhy和他都是一个组的 rhy的很多朋友都混水摸鱼进来了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ee49a459fb4f6b2",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧 (毕竟rhy和他都是一个组的 rhy的很多朋友都混水摸鱼进来了 一起闭着眼睛数钞票）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 400,
+      "at_to": 416,
+      "from_paragraphs": [
+        {
+          "content_hash": "ecf837a6f7498d3a",
+          "style": "NORMAL_TEXT",
+          "text": "能不能细说啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e512d629efa69f7d",
+          "style": "NORMAL_TEXT",
+          "text": "能不能细说啊（擅长pua学生）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 502,
+      "at_to": 518,
+      "from_paragraphs": [
+        {
+          "content_hash": "d7a6807314a76505",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5313bee77bb2b798",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人（她一作和尾作还是挺多的吧，高引的都是自己的论文）"
+        }
+      ]
+    }
+  ]
+}
