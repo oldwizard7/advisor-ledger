@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-42-20Z.delta.json",
+  "delta_ts": "2026-04-20T19-42-20Z",
+  "reviewed_at_utc": "2026-04-20T19:43:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion of ableist slur '很糖' (internet slang referencing Down syndrome) to insult postdoc interview quality",
+      "excerpt": "组里博后面试很糖"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Replacement with unsupported personal insult '纯神人' (implying weirdness/craziness) targeting professor and students",
+      "excerpt": "其和其学生纯神人"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of specific entity identifier 'reborn agi' in funding dispute context, potentially obscuring substantive evidence",
+      "excerpt": "reborn agi?"
+    }
+  ],
+  "prompt_sha256": "66a49653f4cf4920cc4ad4d64bd1a7d27e71c84b36e352610783ccd696b405ba",
+  "finish_reason": "stop",
+  "completion_tokens": 6905
+}

@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-42-20Z",
+  "reviewed_at_utc": "2026-04-20T19:43:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "a435367493bf08f9",
+      "insert_hash": "3cc6c37970f128a8",
+      "note": "removed +1, added advice tag",
+      "ghost_text": "避雷所有和此人合作过且仍保持合作的人！+1 必须避雷",
+      "insert_text": "避雷所有和此人合作过且仍保持合作的人！（忠告！）"
+    },
+    {
+      "ghost_hash": "3bb9b913390749cd",
+      "insert_hash": "3cc6c37970f128a8",
+      "note": "consolidated into previous para",
+      "ghost_text": "（忠告！）",
+      "insert_text": "避雷所有和此人合作过且仍保持合作的人！（忠告！）"
+    },
+    {
+      "ghost_hash": "ea6364d1997171e4",
+      "insert_hash": "ddd1753b13e87597",
+      "note": "minor edit at end",
+      "ghost_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了？reborn agi? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)",
+      "insert_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）你天天听谁说的, 不可能兄弟, haoran只给了他俩pieter的信, 怎么可能, 我不是pieter的funding, 是haoran帮我找的业界internship, 我猜你就是没申请好的, 来着黑吧兄弟 （你前面说是pieter lab sponsor，后面说是业界internship，你自己听听）lab sponsor是个公司你懂吗, 人家sponsor就是为了介绍connection去intern啥的懂吗?我就是去的这个 （请问是哪个lab，pieter还有闲工夫管自己的lab和amazon以外的lab？）给兄弟你讲讲清楚, 是pieter lab的sponsor, 来给talk, 耿哥推我过去, 他们有internship, 我就去了, 听懂了？?? (草，原来耿哥拿我们的钱给你付房租去了，他还欠我5000刀)"
+    },
+    {
+      "ghost_hash": "f3c0bbf9c10cd4da",
+      "insert_hash": "7da026ce9f34e24a",
+      "note": "added comment at end",
+      "ghost_text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，考得简单在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）（港校学生因为考的题和pastpapaper重复很高，过于简单没有拉开区分度所以举报教授也是喜闻乐见了hh）",
+      "insert_text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。（也就是卷b港校拉curve这么看中绩点，考得简单在美本大家都是A+多好啊。而且泄露pastpaper那位同学，你发朋友圈传播真的很不道德。。。）（港校学生因为考的题和pastpapaper重复很高，过于简单没有拉开区分度所以举报教授也是喜闻乐见了hh）（ust什么时候能不压绩点。。。）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3681,
+  "skipped_reason": null
+}
