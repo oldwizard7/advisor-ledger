@@ -1,0 +1,404 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-24-10Z",
+    "revision_id": "AMHacu674bOKrMf1-B1BXEWqHDoNSeH0YKOCmZ8fXQROs_8S-YIogJuX9VQNx-hFVxKME1SAUZajuTtZVQr1tKmpww",
+    "paragraph_count": 940
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-28-30Z",
+    "revision_id": "AMHacu7HYC8RnqorzTML5s0FYKcZlPdFk_dHxV5FkM0XvFZIvtltf4n3523oh5xXui4jCR9ro7mSjfVKB3vM6tFH8Q",
+    "paragraph_count": 945
+  },
+  "summary": {
+    "inserted_paragraphs": 31,
+    "deleted_paragraphs": 26,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0277,
+    "insertion_ratio": 0.0328
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "a7321c3d49683816",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥d）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c334ad73a915966b",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥的恩怨局，一句据说开头打遍天下，红的黑的都可以说）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 21,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "133fcebca7905710",
+          "style": "NORMAL_TEXT",
+          "text": "Rice University / pre University of Rochester Tony Geng"
+        },
+        {
+          "content_hash": "36e915eda42f6dd2",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年丧而学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 32,
+      "at_to": 35,
+      "from_paragraphs": [
+        {
+          "content_hash": "2569940971ffcd34",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(客观评价一下，不说vandy可能和她phd老板有关,她老板是很push的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c4daca5a43a5901b",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 51,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4db74ba9a995d27c",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun"
+        },
+        {
+          "content_hash": "6ba1e71bf38e03a2",
+          "style": "NORMAL_TEXT",
+          "text": "又来了个大的，坐等"
+        },
+        {
+          "content_hash": "b59e55c4085c618d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？ 🙂"
+        },
+        {
+          "content_hash": "7fb4b089a317cb30",
+          "style": "NORMAL_TEXT",
+          "text": "Sun老师除了 survey 水的多，其他没啥吧。"
+        },
+        {
+          "content_hash": "ec52b551db7027aa",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢蹭热点，sora出了马上搞一个sora的survey，后面蹭个mora，bora。"
+        },
+        {
+          "content_hash": "9e0b36540e4be38d",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste极差，认为乱水survey乱搞benchmark是对的。"
+        },
+        {
+          "content_hash": "ad5520f7852e6df5",
+          "style": "NORMAL_TEXT",
+          "text": "之前操纵过审稿被大佬抓住了"
+        },
+        {
+          "content_hash": "1210a6738535dadd",
+          "style": "NORMAL_TEXT",
+          "text": "最著名的还有llava-o1 (😂)"
+        },
+        {
+          "content_hash": "14ca3cd2a766122e",
+          "style": "NORMAL_TEXT",
+          "text": "发生啥了，围观"
+        },
+        {
+          "content_hash": "5b19907c79552ee6",
+          "style": "NORMAL_TEXT",
+          "text": "典型的上岸关门过河拆桥，劝人不发文章然后自己猛猛水"
+        },
+        {
+          "content_hash": "988724dba24eec4a",
+          "style": "NORMAL_TEXT",
+          "text": "在xhs上炒作过头，今天还是为什么现在不需要phd了，过几天就再发一个为什么现在phd这么重要"
+        },
+        {
+          "content_hash": "ce193aa289476d9d",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂PUA intern"
+        },
+        {
+          "content_hash": "e4191b5cc1af475e",
+          "style": "NORMAL_TEXT",
+          "text": "感觉对非intern特别好 会给很多有价值的建议和信息"
+        },
+        {
+          "content_hash": "41a5a67551661241",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste差但是学生据说都EB1A了，靠他瞎搞（谬传了，eb1a现在纯等，NYU的prof引用够了到现在还在等）"
+        },
+        {
+          "content_hash": "4d79a98935c020f7",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生养蛊，每天半夜开会push学生"
+        },
+        {
+          "content_hash": "88f74510f80977b0",
+          "style": "NORMAL_TEXT",
+          "text": "流水线发survey，并且本人对此很骄傲，据说可以两周完成一篇survey"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 187,
+      "at_to": 207,
+      "from_paragraphs": [
+        {
+          "content_hash": "76f5adb95cfe5347",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "156bed2c887074a6",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐...(没懂这个评论的意思是什么，没东西黑隔这硬黑是吧？）(老师人挺亲切的，口语确实不好，貌似他组里只有中国学生。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 229,
+      "at_to": 249,
+      "from_paragraphs": [
+        {
+          "content_hash": "4db74ba9a995d27c",
+          "style": "NORMAL_TEXT",
+          "text": "Lehigh Lichao Sun"
+        },
+        {
+          "content_hash": "6ba1e71bf38e03a2",
+          "style": "NORMAL_TEXT",
+          "text": "又来了个大的，坐等"
+        },
+        {
+          "content_hash": "b59e55c4085c618d",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们没人喷？ 🙂"
+        },
+        {
+          "content_hash": "7fb4b089a317cb30",
+          "style": "NORMAL_TEXT",
+          "text": "Sun老师除了 survey 水的多，其他没啥吧。"
+        },
+        {
+          "content_hash": "ec52b551db7027aa",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢蹭热点，sora出了马上搞一个sora的survey，后面蹭个mora，bora。"
+        },
+        {
+          "content_hash": "9e0b36540e4be38d",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste极差，认为乱水survey乱搞benchmark是对的。"
+        },
+        {
+          "content_hash": "ad5520f7852e6df5",
+          "style": "NORMAL_TEXT",
+          "text": "之前操纵过审稿被大佬抓住了"
+        },
+        {
+          "content_hash": "1210a6738535dadd",
+          "style": "NORMAL_TEXT",
+          "text": "最著名的还有llava-o1 (😂)"
+        },
+        {
+          "content_hash": "14ca3cd2a766122e",
+          "style": "NORMAL_TEXT",
+          "text": "发生啥了，围观"
+        },
+        {
+          "content_hash": "5b19907c79552ee6",
+          "style": "NORMAL_TEXT",
+          "text": "典型的上岸关门过河拆桥，劝人不发文章然后自己猛猛水"
+        },
+        {
+          "content_hash": "988724dba24eec4a",
+          "style": "NORMAL_TEXT",
+          "text": "在xhs上炒作过头，今天还是为什么现在不需要phd了，过几天就再发一个为什么现在phd这么重要"
+        },
+        {
+          "content_hash": "ce193aa289476d9d",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂PUA intern"
+        },
+        {
+          "content_hash": "e4191b5cc1af475e",
+          "style": "NORMAL_TEXT",
+          "text": "感觉对非intern特别好 会给很多有价值的建议和信息"
+        },
+        {
+          "content_hash": "41a5a67551661241",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste差但是学生据说都EB1A了，靠他瞎搞（谬传了，eb1a现在纯等，NYU的prof引用够了到现在还在等）"
+        },
+        {
+          "content_hash": "4d79a98935c020f7",
+          "style": "NORMAL_TEXT",
+          "text": "鼓励学生养蛊，每天半夜开会push学生"
+        },
+        {
+          "content_hash": "88f74510f80977b0",
+          "style": "NORMAL_TEXT",
+          "text": "流水线发survey，并且本人对此很骄傲，据说可以两周完成一篇survey"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 467,
+      "at_to": 472,
+      "from_paragraphs": [
+        {
+          "content_hash": "c3308084b1406a39",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）（可以来，就是爹系，受不了的话就别来）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f830736cb3a1d7b3",
+          "style": "NORMAL_TEXT",
+          "text": "有没有可能是没来的学生来打听信息哈哈哈哈（瞎猜的）（可以来，就是爹系，受不了的话就别来）(组里好像没什么女学生？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 563,
+      "at_to": 568,
+      "from_paragraphs": [
+        {
+          "content_hash": "ce5e086742a1524f",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（（）神了）"
+        },
+        {
+          "content_hash": "04fd73342d5631c0",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "957645626b71595f",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        },
+        {
+          "content_hash": "f6024578df9f9981",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 577,
+      "from_paragraphs": [
+        {
+          "content_hash": "e0bbdb578ac264b9",
+          "style": "NORMAL_TEXT",
+          "text": "楼上都弱爆了我来写几条:"
+        },
+        {
+          "content_hash": "13066b028ac94203",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste, 自己的paper只能拿neurips 主会oral 和workshop awards, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "31648a412ff47094",
+          "style": "NORMAL_TEXT",
+          "text": "（不玩抽象了，会被当真）楼上都弱爆了我来写几条:"
+        },
+        {
+          "content_hash": "1997822e08892767",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste非常棒, paper只能拿neurips 主会oral 和workshop awards, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 698,
+      "at_to": 703,
+      "from_paragraphs": [
+        {
+          "content_hash": "a26614e46e0bd1c6",
+          "style": "NORMAL_TEXT",
+          "text": "jiatao很有insight人也很好，完全应该是红榜啊！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c1416a5caedf114d",
+          "style": "NORMAL_TEXT",
+          "text": "jiatao很有insight人也很好，完全应该是红榜啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 832,
+      "at_to": 837,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f75ec66011546ab",
+          "style": "NORMAL_TEXT",
+          "text": "买github star是真的吗？（证据比较多，但是没有石锤，企业包括这种买的都是前期一堆后期火了逐步取消）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10321fbf33855db8",
+          "style": "NORMAL_TEXT",
+          "text": "买github star是真的吗？（证据比较多，但是没有石锤，企业包括这种买的都是前期一堆后期火了逐步取消）（已经实锤了，小红书去年就有人github token泄露，发现被操控点了他们lab五六个项目，后面被chao私信“威胁”删了lab名字）"
+        }
+      ]
+    }
+  ]
+}
