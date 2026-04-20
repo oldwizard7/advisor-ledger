@@ -1,0 +1,248 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T03-04-52Z",
+    "revision_id": "AMHacu69I4uFw5PszNyzye88Jl87mtP261KQrgxRXSfx1lEpYdMflrCc6ygFtQipI4TendTIOXCnyo6SyvMc-wDcmA",
+    "paragraph_count": 911
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-07-00Z",
+    "revision_id": "AMHacu45_GWld7RZz3slMa6P28bqRJVoGJAq0TsOmcvsMOKo9nQHjqoJIZ17hpxzFMt3u5jPi2XYQoSr0PfHFfg8ZQ",
+    "paragraph_count": 919
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 8,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0088,
+    "insertion_ratio": 0.0174
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 65,
+      "at_to": 65,
+      "from_paragraphs": [
+        {
+          "content_hash": "4fdc303d231f06d6",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5506eaf8d34303cb",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 67,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 71,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 88,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 178,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 295,
+      "at_to": 300,
+      "from_paragraphs": [
+        {
+          "content_hash": "7e6253551838751f",
+          "style": "NORMAL_TEXT",
+          "text": "经常威胁学生quit，或者不允许实习，威胁的理由千奇百怪（还有人因为不ban hu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "39c5520268cbec6d",
+          "style": "NORMAL_TEXT",
+          "text": "经常威胁学生quit，或者不允许实习，威胁的理由千奇百怪"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 299,
+      "at_to": 304,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3f0ff7a53aaa4c26",
+          "style": "NORMAL_TEXT",
+          "text": "学术taste比较固定，有学生因为想做diffusion被他喷quit"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 349,
+      "at_to": 354,
+      "from_paragraphs": [
+        {
+          "content_hash": "95dd3799c5742e10",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。但 PhD,MS, Intern (senior & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b77dd91636657b02",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，"
+        },
+        {
+          "content_hash": "2f105042f23e61da",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说，Huan 对学生非常 nice，个人觉得不像是毒的，上课也很不错"
+        },
+        {
+          "content_hash": "5ebd99812d5efd18",
+          "style": "NORMAL_TEXT",
+          "text": "能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。但 PhD,MS, Intern (senior & grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 545,
+      "paragraphs": [
+        {
+          "content_hash": "ec69fa6fd891971a",
+          "style": "NORMAL_TEXT",
+          "text": "是不是 bo li 的舔狗，一起开公司的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 541,
+      "at_to": 549,
+      "from_paragraphs": [
+        {
+          "content_hash": "43a59ead0e2448ba",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（一般确实是）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d3630989eacef17a",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况）据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 610,
+      "at_to": 618,
+      "from_paragraphs": [
+        {
+          "content_hash": "d814bc6c50677351",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8d3dc25c23b110e6",
+          "style": "NORMAL_TEXT",
+          "text": "给学生phd申请写黑推，最后学生其他学校全都被拒，自己顺利收入（如果是事实，这太阴了）（至少学生找工作的时候应该没写黑推，我看过一次他写过来的推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 631,
+      "at_to": 639,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8b309829e17c8025",
+          "style": "NORMAL_TEXT",
+          "text": "baix"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 707,
+      "at_to": 715,
+      "from_paragraphs": [
+        {
+          "content_hash": "57924a1097fd7d50",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu的男朋友，和自己的导师jianxiong xiao干坏事被男朋友抓了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "395c2a437585a62f",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu的女朋友，和自己的导师jianxiong xiao干坏事被男朋友抓了"
+        }
+      ]
+    }
+  ]
+}
