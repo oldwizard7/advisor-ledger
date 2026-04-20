@@ -1,0 +1,508 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-14-00Z",
+    "revision_id": "AMHacu4CPpDK23_JVCxuSEKngUVz_QZbCOSljBt3wl1Thk-ysJznJPJlP-cVBz0R_HeDyAoVKajG2h-0UnwLNSPqcA",
+    "paragraph_count": 2181
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-18-20Z",
+    "revision_id": null,
+    "paragraph_count": 2194
+  },
+  "summary": {
+    "inserted_paragraphs": 37,
+    "deleted_paragraphs": 24,
+    "operations": 23,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.011,
+    "insertion_ratio": 0.0169
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 1,
+      "paragraphs": [
+        {
+          "content_hash": "1b9dcfcd268b3dba",
+          "style": "HEADING_1",
+          "text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 22,
+      "from_paragraphs": [
+        {
+          "content_hash": "8205cfd9bcca2123",
+          "style": "NORMAL_TEXT",
+          "text": "网页版本：https://the-hidden-fish.github.io/advisor-ledger/"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "df1add0ec3345ab0",
+          "style": "NORMAL_TEXT",
+          "text": "网页版本：https://the-hidden-fish.github.io/advisor-ledger/s"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 304,
+      "at_to": 303,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6420e2fd382b11b",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个 (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，对老师骗说想去工业界）（据说今年一个中国学生都没招到 谣言有中国学生）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6ce1b8ac23d13832",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个 (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，对老师骗说想去工业界）（别造谣好吗，骗老师都来了，别人当时都没确定要去哪两边机会都在看）（据说今年一个中国学生都没招到 谣言有中国学生）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 465,
+      "at_to": 464,
+      "from_paragraphs": [
+        {
+          "content_hash": "314ce48ba55735d4",
+          "style": "NORMAL_TEXT",
+          "text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。合作的大佬们都很无奈但是没法直说什么。"
+        },
+        {
+          "content_hash": "52479029b72c20d8",
+          "style": "NORMAL_TEXT",
+          "text": "据说私生活非常混乱，他自己的a'p"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eed8104ec968d5d7",
+          "style": "NORMAL_TEXT",
+          "text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。合作的大佬们都很无奈但是没法直说什么，只能在背后说一下。"
+        },
+        {
+          "content_hash": "df2b7923a1ad55e3",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢跟学生骂/造谣别的pi"
+        },
+        {
+          "content_hash": "3abeae0118b0b276",
+          "style": "NORMAL_TEXT",
+          "text": "据说私生活非常混乱，他自己的朋友都崩溃了为什么会认识这样的人"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 487,
+      "paragraphs": [
+        {
+          "content_hash": "941eddfe4d4313d3",
+          "style": "NORMAL_TEXT",
+          "text": "同领域的，哈哈哈，久仰大名，一直想学习一个idea发三四篇不同的文章"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 488,
+      "at_to": 489,
+      "from_paragraphs": [
+        {
+          "content_hash": "1740db312cf2edac",
+          "style": "NORMAL_TEXT",
+          "text": "大家擦亮眼睛，辨别抹黑者的。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f2a582974f79a802",
+          "style": "NORMAL_TEXT",
+          "text": "大家擦亮眼睛，辨别抹黑者的恶意。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 687,
+      "at_to": 688,
+      "from_paragraphs": [
+        {
+          "content_hash": "2069b7aa74232f1f",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b8fa89d085968281",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 697,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 697,
+      "paragraphs": [
+        {
+          "content_hash": "a19e6004fca2b4fe",
+          "style": "NORMAL_TEXT",
+          "text": "别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 707,
+      "at_to": 708,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "809a1bfbdd994757",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 737,
+      "at_to": 738,
+      "from_paragraphs": [
+        {
+          "content_hash": "b4806817ed394157",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a88962210553ce0d",
+          "style": "NORMAL_TEXT",
+          "text": "耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1149,
+      "paragraphs": [
+        {
+          "content_hash": "efb1f2138dd6ea30",
+          "style": "HEADING_3",
+          "text": "  Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1395,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1514,
+      "at_to": 1524,
+      "from_paragraphs": [
+        {
+          "content_hash": "2ae175981b969815",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhuowen Tu （存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b4427c4de24de6e",
+          "style": "HEADING_2",
+          "text": "UCSD"
+        },
+        {
+          "content_hash": "c8929fc3898f6aa2",
+          "style": "HEADING_3",
+          "text": "Zhuowen Tu"
+        },
+        {
+          "content_hash": "ea94e51b48f2ca2f",
+          "style": "NORMAL_TEXT",
+          "text": "（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1526,
+      "at_to": 1538,
+      "from_paragraphs": [
+        {
+          "content_hash": "499a2c6eff1a624d",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Zhiting Hu （存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0745ae33ec658427",
+          "style": "HEADING_3",
+          "text": "Zhiting Hu"
+        },
+        {
+          "content_hash": "ea94e51b48f2ca2f",
+          "style": "NORMAL_TEXT",
+          "text": "（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1534,
+      "at_to": 1548,
+      "from_paragraphs": [
+        {
+          "content_hash": "78e318a9b73f5fde",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Lianhui Qin"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1df8341911ed86cf",
+          "style": "HEADING_3",
+          "text": "Lianhui Qin"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1539,
+      "at_to": 1553,
+      "from_paragraphs": [
+        {
+          "content_hash": "62501fe1cb874663",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Xinyu Zhang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfb123bc5a8231f1",
+          "style": "HEADING_3",
+          "text": "Xinyu Zhang"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1568,
+      "at_to": 1582,
+      "from_paragraphs": [
+        {
+          "content_hash": "1698c25c4821c434",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Hua Li"
+        },
+        {
+          "content_hash": "64a8373d2b7d7432",
+          "style": "NORMAL_TEXT",
+          "text": "极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+        },
+        {
+          "content_hash": "62b70471aa63fcd8",
+          "style": "NORMAL_TEXT",
+          "text": "组会经常PUA学生，说学生各种不认真 不努力，她自己怎么认真 努力"
+        },
+        {
+          "content_hash": "2eacde4ebfd6d27e",
+          "style": "NORMAL_TEXT",
+          "text": "不允许学生出去实习，一整年都需要在lab工作，出去实习之后 不给发TA"
+        },
+        {
+          "content_hash": "aefad2eccec8ff07",
+          "style": "NORMAL_TEXT",
+          "text": "每天都必须去lab工作"
+        },
+        {
+          "content_hash": "66109a90d050e60d",
+          "style": "NORMAL_TEXT",
+          "text": "自己很多都不会，只知道用一些三四年前的知识水paper"
+        },
+        {
+          "content_hash": "af96b28f584c9d5d",
+          "style": "NORMAL_TEXT",
+          "text": "组里去向绝大部分都不好，几乎毕业只能SDE MLE这种工"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2004,
+      "paragraphs": [
+        {
+          "content_hash": "473513cb004cde2f",
+          "style": "NORMAL_TEXT",
+          "text": "WHU,"
+        },
+        {
+          "content_hash": "ffe94dac04047e04",
+          "style": "NORMAL_TEXT",
+          "text": "WHU的没有吗？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2077,
+      "paragraphs": [
+        {
+          "content_hash": "67fe596681c9f2d6",
+          "style": "NORMAL_TEXT",
+          "text": "七剑下天山当事人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2101,
+      "at_to": 2112,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "80c8236b310477f1",
+          "style": "NORMAL_TEXT",
+          "text": "读博的时候经常pua低年级的学生。很会装的NPD，实际水平很差。据说进西湖的时候把系里所有老师舔了一遍。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2189,
+      "paragraphs": [
+        {
+          "content_hash": "be3400929f17f57a",
+          "style": "NORMAL_TEXT",
+          "text": "（我只能说上述100%都是事实）一年论文挂名100+"
+        },
+        {
+          "content_hash": "e044c7eb1bf0cc44",
+          "style": "NORMAL_TEXT",
+          "text": "组里大师兄过来直接抑郁了，经常群里辱骂学生，或者跟A说B如何，跟B说A如何，制造恶意竞争机制"
+        },
+        {
+          "content_hash": "a619ad586c2b9f6a",
+          "style": "NORMAL_TEXT",
+          "text": "听说帮助学生从另外一个博后剽窃了本子抢了玛丽居里博后的名额，最后不了了之"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 2180,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

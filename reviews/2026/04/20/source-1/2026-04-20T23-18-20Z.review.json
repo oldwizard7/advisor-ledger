@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T23-18-20Z.delta.json",
+  "delta_ts": "2026-04-20T23-18-20Z",
+  "reviewed_at_utc": "2026-04-20T23:19:06Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Added specific company email address (api@somastacks.com) associated with a professor to de-anonymize his identity in the context of accusing him of posing as an intern.",
+      "excerpt": "api@somastacks.com"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted unsupported character judgments including armchair psychological diagnosis (NPD), vague attacks on capability ('实际水平很差'), and vulgar insults describing professional networking ('把系里所有老师舔了一遍').",
+      "excerpt": "很会装的NPD，实际水平很差。据说进西湖的时候把系里所有老师舔了一遍"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deleted entire substantive entry for UIUC Hua Li containing specific advising practice complaints (toxicity, PUA, internship restrictions, lab attendance policies), appearing to suppress legitimate observations rather than perform cleanup.",
+      "excerpt": "UIUC Hua Li 极其toxic, 组里很多学生待了一年被劝退 要么就转租"
+    }
+  ],
+  "prompt_sha256": "6ba39bd930a3faaa07d10d18029f305c564b7fc6c9495cdbebf0515b97f832cd",
+  "finish_reason": "stop",
+  "completion_tokens": 4672
+}
