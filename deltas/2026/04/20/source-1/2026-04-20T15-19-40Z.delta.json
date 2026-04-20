@@ -1,0 +1,347 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-15-30Z",
+    "revision_id": "AMHacu5CVMKzbWtBEoiXtlhs6l931Mxc9eC1j33LROzGGMcedOOxhkluXwjPLE7oC8bfqEmut60mZANKs__fHp_66A",
+    "paragraph_count": 2031
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-19-40Z",
+    "revision_id": "AMHacu7VfCrHUCy6CFikXE2GdrxJaC3_tHbt9uC5p-LWpNZAFU4jR-kQgfRG7_i2BrSZiS2hv3k3eehG1kOVU33gyw",
+    "paragraph_count": 2045
+  },
+  "summary": {
+    "inserted_paragraphs": 28,
+    "deleted_paragraphs": 14,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0069,
+    "insertion_ratio": 0.0137
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 427,
+      "at_to": 427,
+      "from_paragraphs": [
+        {
+          "content_hash": "e945845897364d56",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持，从结果来看我们班那届都na'le"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "eb306a261d8ec13a",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是创总intern，当时拿了两个四大offers, 确实当时很早给我还有其他2个做的好的同学return, 但我们表达想冲击top 4， 他也很支持。从结果来看至少每个人都拿到了很多面试，也大多都去了不错的学校，但好像也有同学没把面试转化成offer, 但这个怪创总信不够强就不地道了吧。实习过程对我们很好的，他是东北人比较好爽，经常请我们吃饭聊天。现在我们还有联系，"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 430,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 430,
+      "at_to": 432,
+      "from_paragraphs": [
+        {
+          "content_hash": "26cb4ba80f678c01",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (据我所知大部分intern干得好的都有共一/一作吧...)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8e8306e58e68573d",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (据我所知大部分intern干得好的都有共一/一作吧...) （他们组没几篇paper不是共一的吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 438,
+      "at_to": 440,
+      "from_paragraphs": [
+        {
+          "content_hash": "d967420bb628b42c",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！（人家自由吧。。）（不是，取关你你就玻璃心成这样吗哥们）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "03a111ce1e0636ef",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！（人家自由吧。。）（不是，取关你你就玻璃心成这样吗哥们）（不至于吧，看他twitter互动也挺多的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 444,
+      "at_to": 446,
+      "from_paragraphs": [
+        {
+          "content_hash": "054853f1d879e8ba",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）（这还好吧，上课）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ca59388e1a531100",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）（这还好吧，上课划划水）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 525,
+      "paragraphs": [
+        {
+          "content_hash": "7b4d023eb02dad5e",
+          "style": "NORMAL_TEXT",
+          "text": "朱门酒肉臭，路有冻死骨"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 622,
+      "from_paragraphs": [
+        {
+          "content_hash": "a673a20e139b3c12",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了合作者表示这个人水平非常一般"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "742ac04b5e0c0252",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就看着某人写了上面这么长一段，zai'ci"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 881,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6048216805540b82",
+          "style": "NORMAL_TEXT",
+          "text": "根据自己以及身边人和丁老师的接触，丁老师是个非常"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1218,
+      "at_to": 1222,
+      "from_paragraphs": [
+        {
+          "content_hash": "f5d574f1b34930ac",
+          "style": "NORMAL_TEXT",
+          "text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）（哪个导师不用funding纯用爱fa d"
+        },
+        {
+          "content_hash": "ca1ba591cb6577bb",
+          "style": "NORMAL_TEXT",
+          "text": "龙哥nb"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7303fc2dc8fca7d7",
+          "style": "NORMAL_TEXT",
+          "text": "Research taste和insight一般，很多时候是在deliver funding（能写一些和学生申请相关的吗，况且我觉得如果不是senior老师，无法评价这个吧，作为学生）（申请不是为了做research吗，research和申请无关那申请是做什么用的）（进组的时候，老师让我选择了自己的方向，不是说只能做某些方向，你在攻击现在学生做的方向吗？）（没有funding怎么能养学生）（funding不都是用来养学生买资源，哪个导师不用funding，请狠狠写到红榜头条去让大家开开眼） （做过intern，我不理解为什么有人黑老师？老师给写推荐信，给资源，给指导，给我写了8篇推荐信，虽然最后没有去老师组）"
+        },
+        {
+          "content_hash": "665077f5ca5d20c7",
+          "style": "NORMAL_TEXT",
+          "text": "nb"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1377,
+      "at_to": 1381,
+      "from_paragraphs": [
+        {
+          "content_hash": "4178b37424e77b89",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold/训练实验的设计、coding与release"
+        },
+        {
+          "content_hash": "94d43b8cdcb14156",
+          "style": "NORMAL_TEXT",
+          "text": "cognitive map实验分析"
+        },
+        {
+          "content_hash": "28ddf82bbe285e17",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作、项目网页的搭建"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "26aa891e0c547c0f",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold的训练实验的设计、coding、release"
+        },
+        {
+          "content_hash": "7b2f3a5fc575f0e4",
+          "style": "NORMAL_TEXT",
+          "text": "spatial mental modeling实验分析"
+        },
+        {
+          "content_hash": "cb238dfeb4e777a5",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作项目网页的搭建"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1381,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1819,
+      "at_to": 1822,
+      "from_paragraphs": [
+        {
+          "content_hash": "5200357681d019bc",
+          "style": "NORMAL_TEXT",
+          "text": "NUS"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d0ea91c876c8811",
+          "style": "NORMAL_TEXT",
+          "text": "NUS GE, Shuzhi Sam"
+        },
+        {
+          "content_hash": "b889e7ef5cada5ee",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢扇学生大嘴巴"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1836,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5f8a88d601a000e2",
+          "style": "NORMAL_TEXT",
+          "text": "ＮＴＵ　　ｘｉｅｍｉｎｇ"
+        },
+        {
+          "content_hash": "4cf9b8f38f2a04f6",
+          "style": "NORMAL_TEXT",
+          "text": "－　ＭＡＥ　老牌傻逼教师之一。"
+        },
+        {
+          "content_hash": "6c363114f9ba4ea7",
+          "style": "NORMAL_TEXT",
+          "text": "－　平时不搞学术　天天搞真善美的佛学"
+        },
+        {
+          "content_hash": "92ffe9e7ae0dfbd7",
+          "style": "NORMAL_TEXT",
+          "text": "－　https://personal.ntu.edu.sg/mmxie/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1913,
+      "at_to": 1925,
+      "from_paragraphs": [
+        {
+          "content_hash": "29d4926863ef4412",
+          "style": "NORMAL_TEXT",
+          "text": "20年jinla"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb67fb25a73710a4",
+          "style": "NORMAL_TEXT",
+          "text": "20年进学院，20级、21级总共就7个学生全要换导师，是谁的问题真“不好说”呢"
+        },
+        {
+          "content_hash": "bc71ca632a182377",
+          "style": "NORMAL_TEXT",
+          "text": "22级就招了一个博士，到现在一篇一作也没有，指导能力也是蛮罕见的"
+        },
+        {
+          "content_hash": "8455d497431a65be",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？毕业之前还求人家干活呢，你不会忘了自己还偷自己"
+        }
+      ]
+    }
+  ]
+}

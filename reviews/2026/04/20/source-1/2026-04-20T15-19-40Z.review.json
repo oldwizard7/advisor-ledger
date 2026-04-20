@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-19-40Z.delta.json",
+  "delta_ts": "2026-04-20T15-19-40Z",
+  "reviewed_at_utc": "2026-04-20T15:20:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Profane insult '傻逼' attacking professor's character rather than concrete practices",
+      "excerpt": "老牌傻逼教师之一"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Severe abusive imagery comparing individual to rats living in cesspits alongside insults (龌龊, 恶心, 招笑)",
+      "excerpt": "多么的如过街老鼠一般生活在粪坑里"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered slur '学术妲己' (academic femme fatale) and profanity 'sb' attacking a student's character",
+      "excerpt": "学术妲己...太sb了"
+    }
+  ],
+  "prompt_sha256": "fe272e34dd6ad1f2f0b3dca2278eabfe6a5c8998b8155914893823d2bfbc6381",
+  "finish_reason": "stop",
+  "completion_tokens": 7157
+}
