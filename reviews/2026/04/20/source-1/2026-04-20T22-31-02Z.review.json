@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-31-02Z.delta.json",
+  "delta_ts": "2026-04-20T22-31-02Z",
+  "reviewed_at_utc": "2026-04-20T22:31:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive observation about a specific advisor (DaKuo Wang) describing interview practices, which appears to suppress legitimate content rather than cleanup typos or off-topic material.",
+      "excerpt": "Northeastern University DaKuo Wang ：面试面leetocde 然后和他的博士后一起面试，一起Pua 面试者"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar personal attack using profanity ('纯出生' - equivalent to 'bastard' or 'asshole') directed at a specific PhD student.",
+      "excerpt": "他妈的sp你真是纯出生"
+    }
+  ],
+  "prompt_sha256": "ea50305e7e8ed6c154bc30c86959d8e6b6251c1fbb663f1c675be8040fbe3be8",
+  "finish_reason": "stop",
+  "completion_tokens": 5865
+}

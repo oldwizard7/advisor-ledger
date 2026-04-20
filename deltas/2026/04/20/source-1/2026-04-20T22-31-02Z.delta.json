@@ -1,0 +1,255 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-26-50Z",
+    "revision_id": "AMHacu6kd167BpWHPTmWukQgab5H6YeUfnUHINE4Ep2cHPQ_oAbqsgYVC-ZeZW5VMCKLkPrIf_Muv5BZilqY4SiIUw",
+    "paragraph_count": 2156
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-31-02Z",
+    "revision_id": "AMHacu59j5uya34BWBzwdW3sD6kUHpFqva5Jtwv9ij6mWCkc2odt5fpTpDNRnC4z0DbEjGleBUf3EJMQqhtnwFYyEg",
+    "paragraph_count": 2158
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 12,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0056,
+    "insertion_ratio": 0.0065
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 70,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 103,
+      "paragraphs": [
+        {
+          "content_hash": "0a55495a93098b47",
+          "style": "NORMAL_TEXT",
+          "text": "Northeastern University DaKuo Wang ：面试面leetocde 然后和他的博士后一起面试，一起Pua 面试者"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 273,
+      "at_to": 273,
+      "from_paragraphs": [
+        {
+          "content_hash": "16d1686ab8861cb9",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b05da9af02c0c272",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了\u000b（"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 478,
+      "at_to": 478,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee40d950b06a5996",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Wenxiao Pan"
+        },
+        {
+          "content_hash": "e3796178cf3fdde4",
+          "style": "NORMAL_TEXT",
+          "text": "据说被组里学生联名举报打乱了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 842,
+      "at_to": 843,
+      "from_paragraphs": [
+        {
+          "content_hash": "6fb423c87b748ad1",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）(逆天)（牛666）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d40dacce08d3fa56",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）(逆天)（牛666）（666）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1388,
+      "at_to": 1389,
+      "from_paragraphs": [
+        {
+          "content_hash": "a8824e40ee338b4e",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生（求细嗦）(来点证据，)"
+        },
+        {
+          "content_hash": "1c0bbc2d2ca604dd",
+          "style": "NORMAL_TEXT",
+          "text": "学生玉玉了在出租屋还被找上门push （上门查水表嘛？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6fb1802a9e18866b",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生（求细嗦）(来点证据啊，玩烂梗算什么)"
+        },
+        {
+          "content_hash": "1c104ad7446bfcce",
+          "style": "NORMAL_TEXT",
+          "text": "学生玉玉了在出租屋还被找上门push （上门查水表嘛？）（玉玉是装的，知情人都知道；其次这就是学生和导师闹僵了，这么说吧，汤老师放这个学生三年博士毕业好聚好散，没有quit没有卡毕业，在这件事上已经仁至义尽了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1391,
+      "at_to": 1392,
+      "from_paragraphs": [
+        {
+          "content_hash": "c0aad6b178617f15",
+          "style": "NORMAL_TEXT",
+          "text": "爱骂学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e1bf419b113d1fe",
+          "style": "NORMAL_TEXT",
+          "text": "爱骂学生 （脾气确实燥，但现在好很多了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1393,
+      "at_to": 1394,
+      "from_paragraphs": [
+        {
+          "content_hash": "711ba1c6aa96f9ba",
+          "style": "NORMAL_TEXT",
+          "text": "照骗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "97c819c8818d674b",
+          "style": "NORMAL_TEXT",
+          "text": "照骗 （不会还有颜粉吧，我去）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1718,
+      "at_to": 1719,
+      "from_paragraphs": [
+        {
+          "content_hash": "8386aa37f5144ed3",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UGA的瓜呀(咱们是t"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "37574f5400c8562a",
+          "style": "NORMAL_TEXT",
+          "text": "有没有UGA的瓜呀(咱们是太好了还是太捞了,红黑榜都没有）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2068,
+      "at_to": 2069,
+      "from_paragraphs": [
+        {
+          "content_hash": "2795610e7fc0cf81",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8e306d8ca709e6ea",
+          "style": "NORMAL_TEXT",
+          "text": "\t做的东西非常水，什么方向都做，全是水方向。根本不管事，然后什么指导也给不出。不知道怎么去西湖的。手底下phd一个比一个toxic，把很多985/211大学的top1的本科生搞成抑郁症要吃药(后面直接疯了). 曾经被一个手底下phd带过一学期，他妈的sp你真是纯出生，装的很喜欢吹自己“两个月一篇paper””梦想是世界旅游”然后说自己实习生干不出来就别干了威胁退组等等. (这phd学生是真逆天...略有耳闻)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2072,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2b1969402c948958",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来ji”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2094,
+      "at_to": 2097,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9281c3c6a73a4ef",
+          "style": "NORMAL_TEXT",
+          "text": "NYUSH Qiaoyu Tan"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e37d7b42a8e24457",
+          "style": "NORMAL_TEXT",
+          "text": "NYUSH Qiaoyu Tan 等瓜"
+        }
+      ]
+    }
+  ]
+}
