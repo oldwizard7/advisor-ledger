@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-04-50Z.delta.json",
+  "delta_ts": "2026-04-20T02-04-50Z",
+  "reviewed_at_utc": "2026-04-20T02:06:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Ethnic slur '棒子姐' (derogatory term for Korean female) used to attack a specific student's reputation",
+      "excerpt": "韩国的那个棒子姐确实名声很差"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of specific complaint about advisor withholding good recommendation letters for interns, suppressing substantive observation about advising practices",
+      "excerpt": "其他intern也不给什么好信"
+    },
+    {
+      "type": "pii",
+      "detail": "Addition of signature 'Jiataor' identifying the individual making the comment, potentially de-anonymizing a student",
+      "excerpt": "(Jiataor)"
+    }
+  ],
+  "prompt_sha256": "fca3b3c00101e4875c24ad3a356e4eff256d1816502e80e49c43e1cb9f4e46ee",
+  "finish_reason": "stop",
+  "completion_tokens": 5925
+}

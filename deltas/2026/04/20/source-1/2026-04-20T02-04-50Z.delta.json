@@ -1,0 +1,156 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-02-40Z",
+    "revision_id": "AMHacu4rd8MOPRI5F9Wvpu4jhmLEzdmuQO8UBYEA0LLypFeVQV1Uk9Bgq03ju6rrWzdODZ53AL7Mx5zPJctOWZ8tHA",
+    "paragraph_count": 753
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-04-50Z",
+    "revision_id": "AMHacu5J0bzZL7wbv0nYZq6sSRDStdb-QAt6hUG9Blu00KsiQe9D2lwhR083ioV8fiw5DkCdFtJRfravdPanjQID0g",
+    "paragraph_count": 755
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 6,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.008,
+    "insertion_ratio": 0.0106
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 194,
+      "at_to": 194,
+      "from_paragraphs": [
+        {
+          "content_hash": "b0dc5395f01bd00f",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他的某个美国 AP学生有聊过，感觉人很好（不知道能不能说名字）（难说，我前导师也是他学生，也是AP，有毒的很）)（UVA和罗格斯塞进去俩个女生进去做ap，圈子里面都知道是走后门，韩国女生说什么发nature science，结果就一页纸）（太真实了，UVA那个真的也很有毒）（那个韩国的是吧，韩国的那个棒子姐确实名声很差）（\tUVA那个太水了，做的d）（UofA）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e5fa16db9a63578",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他的某个美国 AP学生有聊过，感觉人很好（不知道能不能说名字）（难说，我前导师也是他学生，也是AP，有毒的很）)（UVA和罗格斯塞进去俩个女生进去做ap，圈子里面都知道是走后门，韩国女生说什么发nature science，结果就一页纸）（太真实了，UVA那个真的也很有毒）（那个韩国的是吧，韩国的那个棒子姐确实名声很差）（\tUVA那个太水了，做的都是什么东西。。。这都敢塞，他好朋友在UVA，真的无法无天了）（是这样，那个老师是CE的，CE系主任Mircea Stan是Yiran的好朋友）（UofA 的那个AP 人应该还不错）（是的， 挺好的，但是还是不要提人名了吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 207,
+      "at_to": 207,
+      "from_paragraphs": [
+        {
+          "content_hash": "21ae19f85da75b90",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer养鱼，在advisor matching period一直含混不清，matching快结束的时候说sorry我不带了你自求多福吧，利用这个方法每年平均踹两个人，要么master out要么最后极限rematch到完全不匹配的导师"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0981a58040465718",
+          "style": "NORMAL_TEXT",
+          "text": "之前在普林ECE会超额发offer养鱼，在advisor matching period一直含混不清，matching快结束的时候说sorry我不带了你自求多福吧，利用这个方法每年平均踹两个人，受害者要么master out要么最后极限rematch到完全不匹配的导师"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 452,
+      "at_to": 452,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c0e805f04d05950",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf25ca51e5af895c",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 455,
+      "at_to": 455,
+      "from_paragraphs": [
+        {
+          "content_hash": "62374a665b150c1a",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充 （路人看完对intern小ken"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fdff1ad220439b48",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充 （路人看完对intern小坑对phd很好，应该去红榜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 536,
+      "paragraphs": [
+        {
+          "content_hash": "ed5515016c5e122e",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 570,
+      "at_to": 571,
+      "from_paragraphs": [
+        {
+          "content_hash": "68f45e45772c2f7b",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "938e9c25fd1ae95d",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~) (Jiataor)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 719,
+      "at_to": 720,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4aafe3d0ed713691",
+          "style": "NORMAL_TEXT",
+          "text": "夫妻店，抢一作"
+        },
+        {
+          "content_hash": "8c3527b33a27d346",
+          "style": "NORMAL_TEXT",
+          "text": "下面学生做横向叫苦连天，因此生病的不少"
+        }
+      ]
+    }
+  ]
+}
