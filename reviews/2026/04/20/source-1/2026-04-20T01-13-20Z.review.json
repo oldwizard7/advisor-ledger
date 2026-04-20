@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T01-13-20Z.delta.json",
+  "delta_ts": "2026-04-20T01-13-20Z",
+  "reviewed_at_utc": "2026-04-20T01:14:19Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Potential full name of a private individual (advisor's spouse) disclosed using pinyin",
+      "excerpt": "帮他老婆xue di"
+    }
+  ],
+  "prompt_sha256": "2b818edb1bfbd69f710cab0f2c59dd176cef2abe4ba62cd59696a38714369125",
+  "finish_reason": "stop",
+  "completion_tokens": 5140
+}

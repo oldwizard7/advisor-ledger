@@ -1,0 +1,219 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-11-10Z",
+    "revision_id": "AMHacu5agEJgT7vAVubB6GiKSH6P-ON7ambRWDQHDpNFcS6zJ6n3g9vQiw9wa_FemgaUJM2QXjOdqxutK4XBcG7Ntw",
+    "paragraph_count": 651
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-13-20Z",
+    "revision_id": "AMHacu7021I9zU5afw2m4r6UN2e5rFt-GoeppqfDPHaRFcMs_P8bRTtFus8LE-_pBCWtGE4bzdmgu8WTEdirGQ9qHQ",
+    "paragraph_count": 656
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 9,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0138,
+    "insertion_ratio": 0.0213
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "dd58a1f5c9544999",
+          "style": "NORMAL_TEXT",
+          "text": "文档创建者留言：想要证明自己的导师很好就直接去下面rebuttal。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "918ac1c88e0a3f4c",
+          "style": "NORMAL_TEXT",
+          "text": "想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 15,
+      "at_to": 15,
+      "from_paragraphs": [
+        {
+          "content_hash": "fa55700965ab221d",
+          "style": "NORMAL_TEXT",
+          "text": "2. 学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9a2140dcab61ccaa",
+          "style": "NORMAL_TEXT",
+          "text": "2. 学生要给他接小孩，送小孩去补习班，有时候带他孩子吃饭还不给钱。还要帮他砍树，修草坪，帮他老婆xue di"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 376,
+      "at_to": 376,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec954120960107cf",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经好很多了说实话"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "41072173e95282a6",
+          "style": "NORMAL_TEXT",
+          "text": "现在脾气已经好很多了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 381,
+      "at_to": 381,
+      "from_paragraphs": [
+        {
+          "content_hash": "2cdc0fb6b9fdd51e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做过intern，没有这么多intern吧，是比较inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，听说以前的Intern有项目没做出来的也给写信了，好处是给信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a8472638442fe3b9",
+          "style": "NORMAL_TEXT",
+          "text": "Intern 数量比我高三班级人数还多。（吓哭了）（我在这个组做过intern，没有这么多intern吧，是比较inclusive，一般只要感兴趣会拉入slack，可以参加group meeting，但做项目没有多少人，听说以前的Intern有项目没做出来的也给写信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 437,
+      "at_to": 437,
+      "from_paragraphs": [
+        {
+          "content_hash": "eeee460b5d58a9c2",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Xinyu Yang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "62501fe1cb874663",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Xinyu Zhang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 467,
+      "at_to": 469,
+      "from_paragraphs": [
+        {
+          "content_hash": "2d774b7561b24e97",
+          "style": "NORMAL_TEXT",
+          "text": "不是说在原学校混不下去了，然后去别的学校了？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "15b2ec0971eb60bb",
+          "style": "NORMAL_TEXT",
+          "text": "在WUSTL混不下去，连这几年的phd都被别人劝走，招不到学生直接跑路到UCSC"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 525,
+      "paragraphs": [
+        {
+          "content_hash": "3a9d407ae869e054",
+          "style": "NORMAL_TEXT",
+          "text": "刚来就有瓜吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 529,
+      "at_to": 532,
+      "from_paragraphs": [
+        {
+          "content_hash": "02e62143a0be7c0f",
+          "style": "NORMAL_TEXT",
+          "text": "回国了，自己从来没做过ai为了蹭管自己的lab叫legged AI lab"
+        },
+        {
+          "content_hash": "a925ce90eb852f4f",
+          "style": "NORMAL_TEXT",
+          "text": "CoRL是水会不许投"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bf7bcad0ee2ff268",
+          "style": "NORMAL_TEXT",
+          "text": "回国了，在上海创智"
+        },
+        {
+          "content_hash": "fa0dee765a14b525",
+          "style": "NORMAL_TEXT",
+          "text": "自己从来没做过ai为了蹭管自己的lab叫legged AI lab"
+        },
+        {
+          "content_hash": "d97245919c060c1d",
+          "style": "NORMAL_TEXT",
+          "text": "曾言CoRL是水会不许投"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 618,
+      "at_to": 622,
+      "from_paragraphs": [
+        {
+          "content_hash": "c4f8d0e8309765ea",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e05f7849a87ca26",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU, Wenzhao Lian"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
