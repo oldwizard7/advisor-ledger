@@ -1,0 +1,370 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-56-20Z",
+    "revision_id": "AMHacu5rXE1jfgKEf1quGhHf1gLQC-uphOnn9v3xQoJRZ02Xu1g2waruYunEjMqvyNSQpep-P5SF_6zsQoztsj6VVw",
+    "paragraph_count": 903
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T03-00-40Z",
+    "revision_id": "AMHacu53EUlEKiMdQvmY8EYbIZ6HRRoTik-cZwNz2pCNPgbdm6OBLJRXcVFVtHnxuujaUhaWoqtzuR7ooxpxF3Qs1w",
+    "paragraph_count": 905
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 19,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.021,
+    "insertion_ratio": 0.0232
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 5,
+      "paragraphs": [
+        {
+          "content_hash": "c635c9b55491ce60",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜群众请问各位这些中登老登是不是都是照骗，真人是不是很丑很油腻，能不能整个颜值排行"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 66,
+      "paragraphs": [
+        {
+          "content_hash": "4bf20c7bb6159325",
+          "style": "NORMAL_TEXT",
+          "text": "人很nice，所有同学都顺利毕业，去向很好。组里气氛好，天天吃nb的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 173,
+      "paragraphs": [
+        {
+          "content_hash": "6d293dd6cd6a3527",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Zhun"
+        },
+        {
+          "content_hash": "775f63691afe2ac2",
+          "style": "NORMAL_TEXT",
+          "text": "抽象"
+        },
+        {
+          "content_hash": "a32ec2ec4524a464",
+          "style": "NORMAL_TEXT",
+          "text": "上过课，给人感觉色眯眯的，很猥琐..."
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 177,
+      "paragraphs": [
+        {
+          "content_hash": "db3ac85e6f175c97",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Mingyu"
+        },
+        {
+          "content_hash": "5fdc15439de8faf3",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师怎么说，有人了解吗 （合作过 人非常好）（收到hah）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 292,
+      "paragraphs": [
+        {
+          "content_hash": "6b75b3229f93aef4",
+          "style": "NORMAL_TEXT",
+          "text": "直接在电话里骂学生sb"
+        },
+        {
+          "content_hash": "abe434a26583bdf1",
+          "style": "NORMAL_TEXT",
+          "text": "有实习生关系户（JHU师兄的学生），没干什么活直接给一作"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 341,
+      "at_to": 340,
+      "from_paragraphs": [
+        {
+          "content_hash": "e561b923c16f349a",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的intern发offer (e.g. 能独立干点活不用grad手把手教)。 Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只管执行就行。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8a2653538dcdbc14",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼。会给能变成正常合作者的intern发offer (e.g. 能独立干点活不用grad手把手教)。 会给有能力的intern分配独立的完整任务。Huan 对 intern 是培养态度，会教grad如何带undergrad，任务到intern手上会很具体可行，只管执行就行。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 344,
+      "at_to": 343,
+      "from_paragraphs": [
+        {
+          "content_hash": "adda2e812e76d2a0",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型的PI。很 push自己但不会直接push学生，能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。undergrad intern 我不熟，但PhD,MS, Intern (grad)都会觉得不错。上黑榜纯冤枉。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6ebe6db0c7dd6a8c",
+          "style": "NORMAL_TEXT",
+          "text": "Huan 人非常 nice，也极其聪明，能advise有效的建议，心软的商人型科学家。很 push 自己但不会直接 push 学生。有时候确实会阴阳几句，但都在 professional 的程度之内，能搞来算力和 funding。很注重课题组的 culture ，并且组里学生关系都不错。junior 的 intern 视角来看 unreachable，但 PhD,MS, Intern (senior, grad) 都会觉得不错。上黑榜纯冤枉。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 350,
+      "at_to": 349,
+      "from_paragraphs": [
+        {
+          "content_hash": "4982eebfcceedd70",
+          "style": "NORMAL_TEXT",
+          "text": "Sb中的sb 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 mei"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ce06ade3a191136",
+          "style": "NORMAL_TEXT",
+          "text": "Sb中的sb 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 352,
+      "at_to": 351,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "23f2e6769a493206",
+          "style": "NORMAL_TEXT",
+          "text": "脾气很差 开会暴怒摔门走人的主 ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 441,
+      "at_to": 436,
+      "from_paragraphs": [
+        {
+          "content_hash": "9377f9ee66396db9",
+          "style": "NORMAL_TEXT",
+          "text": "刘老师不应该去红榜吗（那要看这榜单的同行有多拉了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c44551098ffa7961",
+          "style": "NORMAL_TEXT",
+          "text": "刘老师不应该去红榜吗（那要看这榜单的同行有多拉了）（这还不够拉吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 452,
+      "paragraphs": [
+        {
+          "content_hash": "711ba1c6aa96f9ba",
+          "style": "NORMAL_TEXT",
+          "text": "照骗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 544,
+      "at_to": 540,
+      "from_paragraphs": [
+        {
+          "content_hash": "2ba32f245d9096ac",
+          "style": "NORMAL_TEXT",
+          "text": "是会给intern强推的老师"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0535217388d860f0",
+          "style": "NORMAL_TEXT",
+          "text": "会给写强推的老师"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 604,
+      "at_to": 600,
+      "from_paragraphs": [
+        {
+          "content_hash": "f4b72a982ffdc458",
+          "style": "NORMAL_TEXT",
+          "text": "这位在X上政治立场歪的很明显 （支持trump说是）（MEGA优化器历历在目）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4b3cc879362d73fa",
+          "style": "NORMAL_TEXT",
+          "text": "这位在X上政治立场歪的很明显 （支持trump说是）（MAGA优化器历历在目）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 657,
+      "paragraphs": [
+        {
+          "content_hash": "45ac7c481cddd2ed",
+          "style": "NORMAL_TEXT",
+          "text": "垃圾一个"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 680,
+      "paragraphs": [
+        {
+          "content_hash": "cad01ab4d557f086",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 697,
+      "at_to": 695,
+      "from_paragraphs": [
+        {
+          "content_hash": "0e171040a025937f",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jiawei Han（？？？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "172addf3224b8e95",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Jiawei Han（？？？）(??? jiawei老师你们都黑，诗人啊)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 700,
+      "paragraphs": [
+        {
+          "content_hash": "961b6c1d944e9b52",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford Shuran Song"
+        },
+        {
+          "content_hash": "57924a1097fd7d50",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu的男朋友，和自己的导师jianxiong xiao干坏事被男朋友抓了"
+        },
+        {
+          "content_hash": "f0c886fb7c2484d5",
+          "style": "NORMAL_TEXT",
+          "text": "— xhs和知乎的贴全被删了希望这次能保住"
+        },
+        {
+          "content_hash": "aa557f99a34bbd9b",
+          "style": "NORMAL_TEXT",
+          "text": "— 当然fisher yu更cs一个被窝睡不出两种人"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 747,
+      "at_to": 749,
+      "from_paragraphs": [
+        {
+          "content_hash": "fd67505c39368d6c",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Bo Wang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1bbd7c6595e0151d",
+          "style": "NORMAL_TEXT",
+          "text": "UofT Bo Wang （想听瓜）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 774,
+      "at_to": 776,
+      "from_paragraphs": [
+        {
+          "content_hash": "ef41d591757a58fe",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f1c8e492d5dd227",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）"
+        }
+      ]
+    }
+  ]
+}
