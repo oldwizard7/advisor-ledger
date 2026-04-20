@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-57-42Z.delta.json",
+  "delta_ts": "2026-04-20T15-57-42Z",
+  "reviewed_at_utc": "2026-04-20T15:58:59Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Discloses full name and personal details of a student (non-faculty member) Yufei Ding, including romantic relationship status (girlfriend of Hao Ran Geng) and unsubstantiated allegations of personal/academic misconduct, violating privacy protections for private individuals.",
+      "excerpt": "Yufei Ding 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Contains unsupported sexualized character attacks including claims of sexual repression, vulgar descriptions of mental state ('满脑子黄色废料'), and mockery regarding alleged harassment incidents.",
+      "excerpt": "此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses gendered slur '学术妲己' (academic Daji/mythical seductress) to demean a female student's academic achievements based on alleged personal relationships rather than concrete advising practices.",
+      "excerpt": "纯学术妲 己"
+    }
+  ],
+  "prompt_sha256": "76909dbe28b61b741faed5ec2d9fb52c73ae2d36127bd2d310635eaa5aeb3cf7",
+  "finish_reason": "stop",
+  "completion_tokens": 5854
+}

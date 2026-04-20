@@ -1,0 +1,538 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-45-01Z",
+    "revision_id": "AMHacu5Tq2ll__zBnMR4bbT_nexFxH9wiOOUID7OShb2mNvOI7zHR3eg3aY1-rcu78qadXWKBqT8TMOE4qIHRMMTzQ",
+    "paragraph_count": 2087
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-57-42Z",
+    "revision_id": "AMHacu4wwtz_V-gwoxT8bIc1tAFuFJzcYG-lNAGT2swGuWTP6GR5-sjyW1HVAS_2lzZtEV7wCxSq4sCLOQfFG8RfWQ",
+    "paragraph_count": 2120
+  },
+  "summary": {
+    "inserted_paragraphs": 53,
+    "deleted_paragraphs": 20,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0096,
+    "insertion_ratio": 0.025
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 93,
+      "at_to": 93,
+      "from_paragraphs": [
+        {
+          "content_hash": "0262b5e674a1ee49",
+          "style": "NORMAL_TEXT",
+          "text": "（你能给Yiwei放上黑榜，what can I say？祝你找一个比Yiwei还好的导师？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5b749b7619aec224",
+          "style": "NORMAL_TEXT",
+          "text": "（你能给Yiwei放上黑榜，what can I say？祝你找一个比Yiwei还好的导师？一个给你这么多idea还帮你改论文改图还给你资源还劝你早点休息注意身体的老师你竟然都不满意？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 95,
+      "paragraphs": [
+        {
+          "content_hash": "33849421e54d37b0",
+          "style": "NORMAL_TEXT",
+          "text": "（说实话下面这几个点，第一有没有可能是你自己问题，第二我都不觉得你说的是真实的点能算黑点，尬黑是吧？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 113,
+      "at_to": 114,
+      "from_paragraphs": [
+        {
+          "content_hash": "7bdfe074d1200dc7",
+          "style": "NORMAL_TEXT",
+          "text": "yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，"
+        },
+        {
+          "content_hash": "7d3a40bbef658879",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+        },
+        {
+          "content_hash": "21996038250370b2",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+        },
+        {
+          "content_hash": "7146c21da1ef8f45",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+        },
+        {
+          "content_hash": "a5933c1350ee99a2",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        },
+        {
+          "content_hash": "18f71bb6b08a8c11",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bc8d23455e7b19ff",
+          "style": "NORMAL_TEXT",
+          "text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）"
+        },
+        {
+          "content_hash": "4614dd806c467cd6",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了"
+        },
+        {
+          "content_hash": "2c8741238790008b",
+          "style": "NORMAL_TEXT",
+          "text": "（一共都没90篇尬黑给我看笑了）"
+        },
+        {
+          "content_hash": "94c6346aad177aad",
+          "style": "NORMAL_TEXT",
+          "text": "（不属实，王老师向来建议学生开源代码）"
+        },
+        {
+          "content_hash": "08e0de01df7ce187",
+          "style": "NORMAL_TEXT",
+          "text": "（你用不用google scholar？preprint没改成中的会议只是懒得修改了，你要不要去主页看看中了多少篇呢？）"
+        },
+        {
+          "content_hash": "7b70732ec8d75fc4",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分"
+        },
+        {
+          "content_hash": "aa691d12ef2ab1b1",
+          "style": "NORMAL_TEXT",
+          "text": "（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+        },
+        {
+          "content_hash": "c6f803d0055e0b28",
+          "style": "NORMAL_TEXT",
+          "text": "yiwei确实好的很出名，谢谢"
+        },
+        {
+          "content_hash": "0647b5ff8dca84e6",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+        },
+        {
+          "content_hash": "78053574aeaebdbd",
+          "style": "NORMAL_TEXT",
+          "text": "（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+        },
+        {
+          "content_hash": "e80afa254eb8c009",
+          "style": "NORMAL_TEXT",
+          "text": "那你现在在这里尬黑yiwei是不是蹭yiwei热度"
+        },
+        {
+          "content_hash": "c9d7e21785e56e28",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）"
+        },
+        {
+          "content_hash": "a83114d5a520caa6",
+          "style": "NORMAL_TEXT",
+          "text": "（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        },
+        {
+          "content_hash": "648ec6df6d6dcd4e",
+          "style": "NORMAL_TEXT",
+          "text": "首先，都不知道是否属实，你有证据吗？其次，有没有可能是你的问题？yiwei给我写推荐信怎么不会这么写？"
+        },
+        {
+          "content_hash": "c67c42b726c00afa",
+          "style": "NORMAL_TEXT",
+          "text": "（Yiwei和Cai都非常热衷于推学生到更高的平台，说黑推真的是）"
+        },
+        {
+          "content_hash": "3920ed64f16fd6e2",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？"
+        },
+        {
+          "content_hash": "d09a5b46dd49b682",
+          "style": "NORMAL_TEXT",
+          "text": "(说这句话百分百不了解组里情况，纯乐子)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 237,
+      "paragraphs": [
+        {
+          "content_hash": "ff64525c2012292f",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 409,
+      "paragraphs": [
+        {
+          "content_hash": "3dbc1264aca29939",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 423,
+      "at_to": 439,
+      "from_paragraphs": [
+        {
+          "content_hash": "2878e65f2270ef85",
+          "style": "NORMAL_TEXT",
+          "text": "sun老师是真的学术界垃圾桶了，早就臭了，什么屎都往arxiv上丢"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "37a1e62ed5907d06",
+          "style": "NORMAL_TEXT",
+          "text": "Sun老师是真的学术界垃圾桶了，早就臭了，什么屎都往arxiv上丢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c8a4c26daefaf47a",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 456,
+      "paragraphs": [
+        {
+          "content_hash": "6c57cabcf4536680",
+          "style": "NORMAL_TEXT",
+          "text": "和现在的学生说，你们太懒，不如之前的学生"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 491,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4cf0ac9ff7c6a467",
+          "style": "NORMAL_TEXT",
+          "text": "-我是创总的学生。之前确实听过一些传言，说他组里不给实习生一作。但其实最简单的办法是去看他们 2025 年的论文，基本上每篇都有实习生被列为共同一作。 客观来说，也有些论文里实习生的工作量未必完全达到共一的标准，但创总通常会主动帮他们争取，因为一篇共一在申请时确实能明显增强竞争力。博士申请本身不确定性就很大，有的人过程顺利，有的人运气差一些。把结果不理想简单归因到导师身上，其实不太客观。 而且创总已经尽力提供支持了，他毕竟不是其他学校的招生官。至于有人说他会故意写“黑推”，我觉得更是站不住脚。一般推荐信都是学生或 PhD 先提供 draft，他通常是在此基础上做正向补充。如果每封信都无条件把人往顶级学校比如斯坦福、MIT推，那反而会失去可信度。"
+        },
+        {
+          "content_hash": "8eca5192de11ec18",
+          "style": "NORMAL_TEXT",
+          "text": "下面评论的真实性朋友们注意zhen we"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 475,
+      "at_to": 498,
+      "from_paragraphs": [
+        {
+          "content_hash": "fafe8cc9116decf8",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4644674b38fc0e12",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学校，给他们洗脑umass是top20的强校。(说的其实是top10）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 508,
+      "paragraphs": [
+        {
+          "content_hash": "fc9996c8900fa7e9",
+          "style": "NORMAL_TEXT",
+          "text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （你要是想了解真实情况，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。他帮助了解事情真相，）"
+        },
+        {
+          "content_hash": "b1e139d3a796646f",
+          "style": "NORMAL_TEXT",
+          "text": "(我有备份)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 589,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e00b0fb00fc52e71",
+          "style": "NORMAL_TEXT",
+          "text": "\t自诩英伦数学家，"
+        },
+        {
+          "content_hash": "01692b5810bdcb17",
+          "style": "NORMAL_TEXT",
+          "text": "反向深耕 D M T。"
+        },
+        {
+          "content_hash": "c9497f5fd654d399",
+          "style": "NORMAL_TEXT",
+          "text": "族中近戚专权益，"
+        },
+        {
+          "content_hash": "2f73012793dd5c53",
+          "style": "NORMAL_TEXT",
+          "text": "门下诸生限寸权。"
+        },
+        {
+          "content_hash": "f6a7be1ac0d55642",
+          "style": "NORMAL_TEXT",
+          "text": "性自矜高偏避世，"
+        },
+        {
+          "content_hash": "12614a374a8608e5",
+          "style": "NORMAL_TEXT",
+          "text": "人情疏浅处事偏。"
+        },
+        {
+          "content_hash": "04ee83d0358e5859",
+          "style": "NORMAL_TEXT",
+          "text": "临危只会藏身退，"
+        },
+        {
+          "content_hash": "2b7e129a7f14d77b",
+          "style": "NORMAL_TEXT",
+          "text": "不问堂前乱局牵。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 660,
+      "at_to": 694,
+      "from_paragraphs": [
+        {
+          "content_hash": "43d5505787008231",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding  今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了haoran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0c80ac4e48e399fe",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 今年stanford的phd，hao ran geng 的女朋友，纯学术妲 己,考试还作弊?(点赞)被uc b取消offer（压根没下offer，angjoo没看上她，pieter不能容忍学术污点）感谢指正 pieter不能容忍学术污点怎么不把hao ran开了 据说已经快闹掰了hao ran马上就在ucb呆不下去了，且听龙吟呵呵 还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？不会刚才就是你删的吧敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为包庇学生还是真没作弊呢？ 我觉得你不是北大的，因为北大已经公开批评了造谣者真单纯啊，你也是被骗的，学校保自己和学生没看出来？我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名 不止一门课作弊，之前几个学期都有人看到过作弊 只是没说而已"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1043,
+      "at_to": 1077,
+      "from_paragraphs": [
+        {
+          "content_hash": "3a6ce6f8d0a128e0",
+          "style": "NORMAL_TEXT",
+          "text": "Duke University, Yiran Chen"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "185c9ae4e96d719f",
+          "style": "NORMAL_TEXT",
+          "text": "Duke University, Yiran Chen（存在争议，请谨慎辨别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1180,
+      "at_to": 1214,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ffa0772b7984e10",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yiling Lou"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "960da10413bf93b8",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yiling Lou （？？？不是yiling老师你们也能黑的吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1183,
+      "at_to": 1217,
+      "from_paragraphs": [
+        {
+          "content_hash": "bae947834123f747",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）（不是能不能来点真瓜大瓜，别没瓜也搁着尬挂。。。）"
+        },
+        {
+          "content_hash": "1f5c2fc6cbca23d4",
+          "style": "NORMAL_TEXT",
+          "text": "守护宇宙最好的10老师！！！！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e8a6ba52d8719aa2",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）（不是能不能来点真瓜大瓜，别没瓜也搁着尬挂。。。）（别尬黑了，no瓜）"
+        },
+        {
+          "content_hash": "b20f55291ee150f4",
+          "style": "NORMAL_TEXT",
+          "text": "守护宇宙最好的10老师！！！"
+        },
+        {
+          "content_hash": "817fb89dd92ac8c4",
+          "style": "NORMAL_TEXT",
+          "text": "10老师永远的神！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1388,
+      "at_to": 1423,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c99668d664f154d",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）（但会给intern写不错的推荐信，不会黑推，做了2个月没什么进展的intern也都给写了）"
+        },
+        {
+          "content_hash": "0fbe92fa466f692d",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（PhD也会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "94a0adc813b9e7a9",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）（但会给intern写不错的推荐信，不会黑推，做了2个月没什么进展的intern也都给写了，也不限制交多少所学校）"
+        },
+        {
+          "content_hash": "698e1083aaa96824",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是之前没pub的）（大部分项目有weekly/biweekly project meeting）（PhD也会跟老师weekly meeting说每个intern的情况，老师也会写具体的推荐信）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1393,
+      "at_to": 1428,
+      "from_paragraphs": [
+        {
+          "content_hash": "0af30bf5b980297b",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern之前没有任何pub的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "772d7a9d7cbadc3f",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意让参加组会，让join PhD project，你看带出来发论文的intern之前也有不少没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1712,
+      "paragraphs": [
+        {
+          "content_hash": "3ead240fb7dd51a2",
+          "style": "NORMAL_TEXT",
+          "text": "Waterloo Yuntian Deng"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1897,
+      "at_to": 1930,
+      "from_paragraphs": [
+        {
+          "content_hash": "200d20d59712f462",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开中医公司上头，创业项目vest周期5年锁定期，融资失败，团队基本都跑光了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "357136641a80f178",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开中医公司上头，创业项目vest周期5年锁定期, 不干满5年一分钱没有，融资失败，团队基本都跑光了"
+        }
+      ]
+    }
+  ]
+}
