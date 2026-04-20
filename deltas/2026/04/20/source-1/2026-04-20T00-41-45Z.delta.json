@@ -1,0 +1,107 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-39-40Z",
+    "revision_id": "AMHacu768StgQFVBmafvT6VI2Y2FukNePE6mSgNqJ-kSVqEsTuYNbWAur4UVWKJzWkn_7UovJ9TiBiGL2d6RBUsfEQ",
+    "paragraph_count": 582
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-41-45Z",
+    "revision_id": "AMHacu6gexhbMSEDLhbIR1xOzJjveJIR9gdUyoOpKVttfxgd5I-qFBCZ0jwQxBZDVCF96IDWuvAfnaVFy_sUyQY9lQ",
+    "paragraph_count": 581
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 5,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0086,
+    "insertion_ratio": 0.0069
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 71,
+      "from_paragraphs": [
+        {
+          "content_hash": "955e53213749dbff",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个算是某种性别歧视？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d2811b49a33ddd0f",
+          "style": "NORMAL_TEXT",
+          "text": "Push是其次，pua大师，（个人是组里phd，这个说得有点过分了吧，丁老师算个大好人了。能给可以work的idea，而且还在做不出来的时候给guidance，这个比纯放养靠谱多了。）这阿姨脾气应该说是更年期…（这个算是某种性别歧视？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 341,
+      "at_to": 341,
+      "from_paragraphs": [
+        {
+          "content_hash": "756d4f3fdfa5d2e7",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d94fabff7cca610",
+          "style": "NORMAL_TEXT",
+          "text": "学校给的fellowship，wang：“这是我给你申请的fellowhip，it is my fellowship，所以你要听我的” （666）（没问题吧？学生的fellowship确实都要老板nominate啊）（ucsb是学校统一给的，只要o就有）（之前在ucsc，那边是需要老师nominate的）（需要nominate就是老师的？那学生还是老师的呢xs，上面那个自愿哥，请老师对的起老师这两个字好吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 358,
+      "at_to": 358,
+      "from_paragraphs": [
+        {
+          "content_hash": "1a3b1d5463c8891d",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return offer率只有可怜的42.8%, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ed088eab3a912887",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向很差, 而且几乎不给return offer, 组里的return offer率只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern也不给什么好信, 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 365,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "6d48f7c2bb9705b0",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（Mindcube这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊) (一篇paper而已 who cares?)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "081a6263a21e05d4",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（Mindcube这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T00-41-45Z.delta.json",
+  "delta_ts": "2026-04-20T00-41-45Z",
+  "reviewed_at_utc": "2026-04-20T00:42:25Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Insertion reveals commenter's status as a current PhD student in the specific research group ('个人是组里phd'), which constitutes a lab-specific descriptor that could de-anonymize the individual.",
+      "excerpt": "个人是组里phd"
+    }
+  ],
+  "prompt_sha256": "86f6420fba3521942f8c7eb79721ee5f17d2b8fceb11330e143c4f1d377ba0b5",
+  "finish_reason": "stop",
+  "completion_tokens": 3317
+}
