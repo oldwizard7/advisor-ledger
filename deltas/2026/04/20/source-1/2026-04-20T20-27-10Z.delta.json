@@ -1,0 +1,230 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-22-50Z",
+    "revision_id": "AMHacu5nTdiODTsjhmNcL1p--d8RyINkxjCqeji0SFbTaO3EUGRykbXYywQMISjEX3ZeTkwGgu0Uk-YlBUFwm4OzcQ",
+    "paragraph_count": 2049
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-27-10Z",
+    "revision_id": "AMHacu4HaQLm6gXzwWwf7Q4-0l4J62P8uUta595TKeNiZL_XWyZ4HdWg9qg4qpIIadSBIYQQnTRC0vXBpvJOIwW5tg",
+    "paragraph_count": 2053
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 10,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0049,
+    "insertion_ratio": 0.0068
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 113,
+      "at_to": 113,
+      "from_paragraphs": [
+        {
+          "content_hash": "70276b5834dd780c",
+          "style": "NORMAL_TEXT",
+          "text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，10多个intern帮他干一篇paper，听说夸张的一篇paper挂11个单位他尾作（说的是这篇paper吧 https://arxiv.org/pdf/2512.22808 类似的他paper还有好多）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3b57f5b439b97424",
+          "style": "NORMAL_TEXT",
+          "text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，10多个intern帮他干一篇paper，听说夸张的一篇paper挂11个单位他尾作（说的是这篇paper吧 https://arxiv.org/pdf/2512.22808 类似的他paper还有好多）这HKU的吧 paper上也没wm跟wojciech没关系吧 有懂哥知道内幕吗 不要看人家paper多就眼红，人家每天工作时间和强度能产出这么多paper，有很多合作很正常"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 309,
+      "paragraphs": [
+        {
+          "content_hash": "99a22a1fda9a66c7",
+          "style": "NORMAL_TEXT",
+          "text": "Pitt Yufei Huang  ECE UPMC Cancer Center"
+        },
+        {
+          "content_hash": "bff6556fa32ce74f",
+          "style": "NORMAL_TEXT",
+          "text": "给组里的RA口头offer, 拿着饼吊着别人做了一年然后在ddl鸽offer"
+        },
+        {
+          "content_hash": "0720700e13c9f179",
+          "style": "NORMAL_TEXT",
+          "text": "情绪不稳定，经典名言：“你做的事不是PhD-Level”的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 444,
+      "at_to": 440,
+      "from_paragraphs": [
+        {
+          "content_hash": "92ef5434ba73565a",
+          "style": "NORMAL_TEXT",
+          "text": "面试聊过，很不尊重学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "636d08aff709301c",
+          "style": "NORMAL_TEXT",
+          "text": "面试聊过，很不尊重学生 (re: 如果指的是phd面试的话我感觉还挺好的？技术细节问的很细，会详细问具体你在)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1201,
+      "paragraphs": [
+        {
+          "content_hash": "eb3970e29006dd6b",
+          "style": "NORMAL_TEXT",
+          "text": "不是尬黑，就是会写黑推。能理解你不想写推荐信，但为什么满口答应还写黑推？反正慎重。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1296,
+      "at_to": 1293,
+      "from_paragraphs": [
+        {
+          "content_hash": "d1b35c6334b076e8",
+          "style": "NORMAL_TEXT",
+          "text": "Atlas 料这么少的吗，巅峰时期paper水王，近几年好像去搞钱了在学术界不活跃了是不是被人遗忘了？tianlong的100多篇paper不都是atlas带出来的？tianlong的科研教学管理行事风格完全从atlas那里继承过来，简直就是小号atlas"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3226137c18ee1443",
+          "style": "NORMAL_TEXT",
+          "text": "Atlas 料这么少的吗，巅峰时期paper水王，近几年好像去搞钱了在学术界不活跃了是不是被人遗忘了？tianlong的100多篇paper不都是atlas带出来的？tianlong的科研教学管理行事风格完全从他导那里继承过来，简直就是小号atlas"
+        },
+        {
+          "content_hash": "976b282abeef1c9d",
+          "style": "NORMAL_TEXT",
+          "text": "骂人这种事儿感觉在这个doc里都已经是共性了，能上黑榜的鲜有不骂人的，但这位兄弟把私聊骂学生的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1552,
+      "paragraphs": [
+        {
+          "content_hash": "0b68a2c962934261",
+          "style": "NORMAL_TEXT",
+          "text": "回复：该合作始于1月份，该学生于4月份转组，并在随后较短时间内（5月份）即将相关工作上传至 arXiv 并投稿。结合这一时间线，很难认为该工作与顾老师无关。相关核心想法是在与顾老师的讨论中逐步形成的，且有较为充分的文档证据予以支持。在时任系主任的调解下，并经相关老师和学生沟通协调，最终在论文中补充了一个各方可以接受的 contribution statement。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1555,
+      "at_to": 1555,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c51a265eca9706f2",
+          "style": "NORMAL_TEXT",
+          "text": "既然不存在不当关系，且相关学生也已明确否认相关说法，请停止传播此类不实信息。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1691,
+      "paragraphs": [
+        {
+          "content_hash": "66b2fa4a1db966f5",
+          "style": "NORMAL_TEXT",
+          "text": "笑死她的表格我一填填了四个小时，各种奇怪的东西要写还要给她发一个你做presentation的video，最后石沉大海渺无音信"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1719,
+      "paragraphs": [
+        {
+          "content_hash": "3a77196928ed3aa6",
+          "style": "NORMAL_TEXT",
+          "text": "Mbzuai"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1806,
+      "at_to": 1809,
+      "from_paragraphs": [
+        {
+          "content_hash": "fe1db3cc3bf9040b",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8a49bf382b1ad18c",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）（打的就是你，我不认识"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1841,
+      "at_to": 1844,
+      "from_paragraphs": [
+        {
+          "content_hash": "cb0bcd55f1e194e9",
+          "style": "NORMAL_TEXT",
+          "text": "不管你对You在工业界的成就持怎样主观的观点，客观来看，LuChen今天仍然站在这里。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "306980827deeff6b",
+          "style": "NORMAL_TEXT",
+          "text": "不管你在主观上对You在工业界的成就持怎样的观点，客观事实就是LuChen今天仍然站在这里。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-27-10Z.delta.json",
+  "delta_ts": "2026-04-20T20-27-10Z",
+  "reviewed_at_utc": "2026-04-20T20:27:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive, specific criticism of advisor Pitt Yufei Huang (verbal offer rescinded after a year, emotional instability, direct quote), which appears to suppress legitimate observations rather than perform cleanup.",
+      "excerpt": "Pitt Yufei Huang  ECE UPMC Cancer Center\n给组里的RA口头offer, 拿着饼吊着别人做一年然后在ddl鸽offer\n情绪不稳定，经典名言：“你做的事不是PhD-Level”的"
+    }
+  ],
+  "prompt_sha256": "f672625409a1c1476aea53fdee6a504abb9ffd92ecea59a8173a8540902ee65c",
+  "finish_reason": "stop",
+  "completion_tokens": 3700
+}

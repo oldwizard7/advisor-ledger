@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T20-27-10Z",
+  "reviewed_at_utc": "2026-04-20T20:28:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 9,
+  "n_inserts": 12,
+  "pairs": [
+    {
+      "ghost_hash": "70276b5834dd780c",
+      "insert_hash": "3b57f5b439b97424",
+      "note": "Same text with added commentary at end",
+      "ghost_text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，10多个intern帮他干一篇paper，听说夸张的一篇paper挂11个单位他尾作（说的是这篇paper吧 https://arxiv.org/pdf/2512.22808 类似的他paper还有好多）",
+      "insert_text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，10多个intern帮他干一篇paper，听说夸张的一篇paper挂11个单位他尾作（说的是这篇paper吧 https://arxiv.org/pdf/2512.22808 类似的他paper还有好多）这HKU的吧 paper上也没wm跟wojciech没关系吧 有懂哥知道内幕吗 不要看人家paper多就眼红，人家每天工作时间和强度能产出这么多paper，有很多合作很正常"
+    },
+    {
+      "ghost_hash": "92ef5434ba73565a",
+      "insert_hash": "636d08aff709301c",
+      "note": "Same text with reply in parentheses",
+      "ghost_text": "面试聊过，很不尊重学生",
+      "insert_text": "面试聊过，很不尊重学生 (re: 如果指的是phd面试的话我感觉还挺好的？技术细节问的很细，会详细问具体你在)"
+    },
+    {
+      "ghost_hash": "d1b35c6334b076e8",
+      "insert_hash": "3226137c18ee1443",
+      "note": "'atlas那里' changed to '他导那里'",
+      "ghost_text": "Atlas 料这么少的吗，巅峰时期paper水王，近几年好像去搞钱了在学术界不活跃了是不是被人遗忘了？tianlong的100多篇paper不都是atlas带出来的？tianlong的科研教学管理行事风格完全从atlas那里继承过来，简直就是小号atlas",
+      "insert_text": "Atlas 料这么少的吗，巅峰时期paper水王，近几年好像去搞钱了在学术界不活跃了是不是被人遗忘了？tianlong的100多篇paper不都是atlas带出来的？tianlong的科研教学管理行事风格完全从他导那里继承过来，简直就是小号atlas"
+    },
+    {
+      "ghost_hash": "fe1db3cc3bf9040b",
+      "insert_hash": "8a49bf382b1ad18c",
+      "note": "Same thread with added reply",
+      "ghost_text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）",
+      "insert_text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）（打的就是你，我不认识"
+    },
+    {
+      "ghost_hash": "cb0bcd55f1e194e9",
+      "insert_hash": "306980827deeff6b",
+      "note": "Rephrased with minor wording changes",
+      "ghost_text": "不管你对You在工业界的成就持怎样主观的观点，客观来看，LuChen今天仍然站在这里。",
+      "insert_text": "不管你在主观上对You在工业界的成就持怎样的观点，客观事实就是LuChen今天仍然站在这里。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3129,
+  "skipped_reason": null
+}
