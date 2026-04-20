@@ -1,0 +1,156 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-44-20Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-46-30Z",
+    "revision_id": "AMHacu6t37FSuYc0vlyYqPKW9L-55GiOt9g4anJ-6FdcyX9q3w6gVj0W2v4XNHOei_U5afuWJE4z1Pil9CeYSr6YjQ",
+    "paragraph_count": 1171
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 4,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0034,
+    "insertion_ratio": 0.0085
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e3274f59c1a54d8",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize fdobservations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 11,
+      "at_to": 11,
+      "from_paragraphs": [
+        {
+          "content_hash": "2d841e05c9bf5f91",
+          "style": "NORMAL_TEXT",
+          "text": "暂时不要开团"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "911a508e1b2f7310",
+          "style": "NORMAL_TEXT",
+          "text": "暂时不要开团；我隐藏了部分信息，我们和导师其实可以和谐共处，我们作为学生可以避雷，导师可以改正（也许吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 46,
+      "paragraphs": [
+        {
+          "content_hash": "b8fa89d085968281",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang"
+        },
+        {
+          "content_hash": "35085d7674ef8504",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 51,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "160dfcdaf59526f3",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？P.S 看你一副合作者的态度"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6e5bbc039ef85c0a",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛 怎么不去安慰安慰过去eth被他荼毒的学生们？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？P.S 看你一副合作者的态度（实在不知道这个楼上为什么如此大的对抗性，我就是张教授目前的学生，绿字说的完全就是非常客观的实话，我也同样确实不知道导以前什么状态，所以确实不知真相不予置评。但是现在的状态确实和绿字说的一样完全能感受到supportive的方方面面啊，我们无意参与不知事实的评价，但至少我绝对认可导现在的好（我会在红榜描述一下），完全没有所谓那些指控的出现，并且我很确定自己并不是所谓组里的个别outlier。而相反，我确实不知道楼上哪来这么大的怨气，对一个客观评价又是无理由驳斥的“可信度为0”，又是反讽的“心灵导师”，同样的道理你既然不知道人家说的是否是实话何必急着否定可信度呢，就事论事客观点吧，讲事实而没必要宣泄情绪，要是绿字说假话怎么敢q我们组里学生，我们出来一反驳不就炸了吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 694,
+      "paragraphs": [
+        {
+          "content_hash": "71be04fff61e6b15",
+          "style": "NORMAL_TEXT",
+          "text": "（这一条以及下面所有对intern的complaint几乎全是来自同一个账号Anonymous Kiwi, 包括下面三条, 大家谨慎鉴别）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 779,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 993,
+      "paragraphs": [
+        {
+          "content_hash": "f90dd421f5aa560a",
+          "style": "NORMAL_TEXT",
+          "text": "听说很push"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1087,
+      "at_to": 1093,
+      "from_paragraphs": [
+        {
+          "content_hash": "797dfac6df8dbf66",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多 猛猛抢一作 共一都不给你一个 美名其曰组里不搞共一这种恶臭风气"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fea11d0428a9c210",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多 猛猛抢一作 共一都不给你一个（点名姓Lu的，猛猛压榨底下的人还不分一点credit） 美名其曰组里不搞共一这种恶臭风气"
+        }
+      ]
+    }
+  ]
+}
