@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-46-10Z.delta.json",
+  "delta_ts": "2026-04-20T10-46-10Z",
+  "reviewed_at_utc": "2026-04-20T10:46:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insult attacking the critic by implying they are immature and need parental support for research ('要不要给你找个爹妈送你idea和paper？'), rather than addressing the concrete criticism of advising practices.",
+      "excerpt": "要不要给你找个爹妈送你idea和paper？"
+    }
+  ],
+  "prompt_sha256": "9cdcc585273a79d63ed68d3f7b9e51a2fe185b8c55c38e8c34dd8af6c57034e2",
+  "finish_reason": "stop",
+  "completion_tokens": 4379
+}

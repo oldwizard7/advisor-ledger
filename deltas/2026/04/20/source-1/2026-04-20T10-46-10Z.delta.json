@@ -1,0 +1,194 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-39-22Z",
+    "revision_id": "AMHacu4VlDTb2XKSnKjZWPTTRs0JlQCwE2VNSnYhcB3B17zv7h6gp_4iZ6Da_fLDHRaAmqkFw3SfBmc6NNYW6UzUZQ",
+    "paragraph_count": 1524
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-46-10Z",
+    "revision_id": "AMHacu6BXUIXQXR1fG_9JkqMP5eF1aYB6gMLubUUnw9FbfWP75cl4Eo7RHXcLK6kIDQWrZOZkddWmXh3GYGglcLEsA",
+    "paragraph_count": 1524
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 9,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0059,
+    "insertion_ratio": 0.0059
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "829fdfb3f280a3ac",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "41de352f86276bbe",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了（扯淡吧，Jitendra申过，你见过Jitendra？Jitendra跟你亲口说过会给你写推荐信？）(今年haoran的intern没有一个推荐信是Jitendra本人写的) jitendra 本人给我发的邮件"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e92723fa5eb216e",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了..."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e423320b928a5498",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 289,
+      "at_to": 289,
+      "from_paragraphs": [
+        {
+          "content_hash": "fd5f3efbb90f7087",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "63d128ecf09b8e36",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 291,
+      "at_to": 291,
+      "from_paragraphs": [
+        {
+          "content_hash": "9575249dc9c9b51c",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "36f1d26efea2936b",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，y）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 293,
+      "at_to": 293,
+      "from_paragraphs": [
+        {
+          "content_hash": "15dac24b37240ff8",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（ge m）（）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "65bdd369767e05ea",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 891,
+      "at_to": 891,
+      "from_paragraphs": [
+        {
+          "content_hash": "0703a8f089fcd46e",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）（吓哭了）（绷不住了）"
+        },
+        {
+          "content_hash": "6ec389d3cd7e8135",
+          "style": "NORMAL_TEXT",
+          "text": "大兵团"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a9ec59223349d7fe",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个(哪里来的这么多个intern？？不是在slack的就是Intern，只要感兴趣，一般都可以加到slack来听组会，组里比较inclusive让更多人来听组会, 不代表招一堆人不管)（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 ) Intern数量比我高三班级人数还多（这么多人怎么写推荐信）大兵团（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1018,
+      "at_to": 1017,
+      "from_paragraphs": [
+        {
+          "content_hash": "1c444790e1ee669d",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "77e79383e42a90e3",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）(没什么好删的，既然有这个谣言我也可以在这里实名澄清，那个quarter"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1248,
+      "at_to": 1247,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "379440120637d027",
+          "style": "NORMAL_TEXT",
+          "text": "Middle East"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1448,
+      "paragraphs": [
+        {
+          "content_hash": "a798f0b17648a922",
+          "style": "NORMAL_TEXT",
+          "text": "妈妈 我将变成萤火虫"
+        }
+      ]
+    }
+  ]
+}
