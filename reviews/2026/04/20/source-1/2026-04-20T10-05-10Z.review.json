@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-05-10Z.delta.json",
+  "delta_ts": "2026-04-20T10-05-10Z",
+  "reviewed_at_utc": "2026-04-20T10:05:54Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of 46 paragraphs removes substantive, specific allegations about advisors USC Yue Wang and UCB Haoran Geng regarding recommendation practices (writing strong recs for non-interns with personal connections, promising letters from Pieter Abbeel/Jitendra Malik but allegedly using personal Gmail), intern funding, and management issues. This appears to suppress legitimate observations rather than perform cleanup (typos, blanks, or off-topic lines).",
+      "excerpt": "USC Yue Wang 别删了，再删你是Chaowei Xiao... 今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推... UCB Haoran Geng别删了... 给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行"
+    }
+  ],
+  "prompt_sha256": "66f0306c1b4ca6677e2dc4caef0bd497654b70f1fae64aa77eaad34765d41bc0",
+  "finish_reason": "stop",
+  "completion_tokens": 4755
+}

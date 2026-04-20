@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-05-10Z",
+  "reviewed_at_utc": "2026-04-20T10:06:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 30,
+  "n_inserts": 6,
+  "pairs": [
+    {
+      "ghost_hash": "0bb0a62fd50faf96",
+      "insert_hash": "020e1ad49b0490b8",
+      "note": "Added comma after TA",
+      "ghost_text": "有funding 但一直让学生做TA 问有什么能摆脱这个状况变成RA 得到回复就是你不够努力",
+      "insert_text": "有funding 但一直让学生做TA, 问有什么能摆脱这个状况变成RA 得到回复就是你不够努力"
+    },
+    {
+      "ghost_hash": "c173e6b524170ec3",
+      "insert_hash": "c82ccc6bebd83111",
+      "note": "Removed phrase 又当又立",
+      "ghost_text": "有关申请季的几条xhs有无评价 （本人她组intern，我的评价是又当又立，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）",
+      "insert_text": "有关申请季的几条xhs有无评价 （本人她组intern，她有空发长篇大论小红书立人设，没时间回消息/提交推荐，整整拖了一个多月之久，当时给我弄的生气）"
+    },
+    {
+      "ghost_hash": "5c0306a7c7a5f5ce",
+      "insert_hash": "dcd4eb8964b21a4b",
+      "note": "Removed PhD都做得挺开心的",
+      "ghost_text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) PhD都做得挺开心的（老师你好，自己来洗地啦）(是谁写的重要吗? 我就是组里phd, RAGEN MindCube T*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你是RAGEN coauthor? )",
+      "insert_text": "1. 学术taste非常棒, 教职第一年paper就拿了不少oral/awards, 基本都是尾作, 每个学生都至少一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space, 这些大半有paper awards) （老师你好，自己来洗地啦）(是谁写的重要吗? 我就是组里phd, RAGEN MindCube T*有没有拿award上网查查便知)（李老师，RAGEN是什么？）(我说了RAGEN MindCube T*你就只拿RAGEN开刀, 你是RAGEN coauthor? )"
+    },
+    {
+      "ghost_hash": "83329e8e92fc81d2",
+      "insert_hash": "8281584cf6c9e795",
+      "note": "Removed parenthetical comment",
+      "ghost_text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错（你走运了，今年他心情好）",
+      "insert_text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4242,
+  "skipped_reason": null
+}
