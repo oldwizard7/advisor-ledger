@@ -1,0 +1,127 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-09-00Z",
+    "revision_id": "AMHacu7I7BtjSzIbf_ndsN_1Vs0AUgPhqNCZZi4YrAJa6OKAUTP56cOuWiXuVo7h4lT4JcI-e4NWsGHqUcOnNtTOLg",
+    "paragraph_count": 642
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-11-10Z",
+    "revision_id": "AMHacu5agEJgT7vAVubB6GiKSH6P-ON7ambRWDQHDpNFcS6zJ6n3g9vQiw9wa_FemgaUJM2QXjOdqxutK4XBcG7Ntw",
+    "paragraph_count": 651
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 2,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0031,
+    "insertion_ratio": 0.0169
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 146,
+      "paragraphs": [
+        {
+          "content_hash": "988724dba24eec4a",
+          "style": "NORMAL_TEXT",
+          "text": "在xhs上炒作过头，今天还是为什么现在不需要phd了，过几天就再发一个为什么现在phd这么重要"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 277,
+      "at_to": 278,
+      "from_paragraphs": [
+        {
+          "content_hash": "50db69c463bda024",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了有用的research，各种事情一个不落"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "92f66430fc64017d",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了有用的research(什么有用的research)，各种事情一个不落"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 357,
+      "at_to": 358,
+      "from_paragraphs": [
+        {
+          "content_hash": "056367c6bf91a691",
+          "style": "NORMAL_TEXT",
+          "text": "Dartmo"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c2973c7863424461",
+          "style": "NORMAL_TEXT",
+          "text": "Dartmouth Yujun Yan"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 435,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "eeee460b5d58a9c2",
+          "style": "NORMAL_TEXT",
+          "text": "UCSD Xinyu Yang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 527,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6b3ca44c9f2da12e",
+          "style": "NORMAL_TEXT",
+          "text": "UW-Madison Xiaobin Xiong"
+        },
+        {
+          "content_hash": "02e62143a0be7c0f",
+          "style": "NORMAL_TEXT",
+          "text": "回国了，自己从来没做过ai为了蹭管自己的lab叫legged AI lab"
+        },
+        {
+          "content_hash": "a925ce90eb852f4f",
+          "style": "NORMAL_TEXT",
+          "text": "CoRL是水会不许投"
+        }
+      ]
+    }
+  ]
+}
