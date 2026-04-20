@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-27-59Z.delta.json",
+  "delta_ts": "2026-04-20T12-27-59Z",
+  "reviewed_at_utc": "2026-04-20T12:28:38Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific postdoc (not the subject professor) by initials 'ljl' and reveals their current employment at a specific startup, which constitutes personally identifying information about a private individual.",
+      "excerpt": "当事人ljl已经加入国内某网红startup"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Contains personal attacks against another commenter, mocking their emotional reaction and competence ('无能狂怒', '不下头吗') rather than addressing the substance of their complaint about advising practices.",
+      "excerpt": "自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊"
+    }
+  ],
+  "prompt_sha256": "6b66e81d92e0b558eca15b173379dee554419c716bc215fdafc7d9d42c1aac45",
+  "finish_reason": "stop",
+  "completion_tokens": 3939
+}

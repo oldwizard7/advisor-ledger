@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-27-59Z",
+  "reviewed_at_utc": "2026-04-20T12:29:01Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 5,
+  "pairs": [
+    {
+      "ghost_hash": "0766cc2b4fabb65f",
+      "insert_hash": "424e5e6f0e297201",
+      "note": "inserted personal interview example in brackets",
+      "ghost_text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研[甚至愿意直接给idea的]，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？",
+      "insert_text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研[甚至愿意直接给idea的]，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试 [我今年申请phd的时候ijie还专门帮忙抽时间模拟面试]，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？"
+    },
+    {
+      "ghost_hash": "2b0e5c544e7deafe",
+      "insert_hash": "02cd3b8ffe9fcb55",
+      "note": "expanded placeholder pinyin to full question",
+      "ghost_text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）（zhe ke）",
+      "insert_text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）（这学校居然一个都没爆？）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3030,
+  "skipped_reason": null
+}

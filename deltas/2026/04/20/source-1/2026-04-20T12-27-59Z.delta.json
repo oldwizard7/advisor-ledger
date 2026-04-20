@@ -1,0 +1,112 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-25-50Z",
+    "revision_id": "AMHacu6GI1EKcKe5A4xEN-nnTpvnNkJUnqZs0MerBHEw7DG6i6gA624KjzQ9OD-Va0JeMiajmL8EPXPlHAMmd_8qXg",
+    "paragraph_count": 1834
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-27-59Z",
+    "revision_id": "AMHacu5ViHyc2pxEZNz3gADRN1iI_D-AvPwAz7dtpjxENUmRTRTKYxckEQMni1iiJvoSkxJSwiPyuxfdhaBsXjsVig",
+    "paragraph_count": 1834
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 5,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.0027
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 361,
+      "at_to": 361,
+      "from_paragraphs": [
+        {
+          "content_hash": "f0d5d3576689f7a0",
+          "style": "NORMAL_TEXT",
+          "text": "这个更多是Postdoc的问题，"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7a74d219854fd869",
+          "style": "NORMAL_TEXT",
+          "text": "这个更多是postdoc的问题，当事人ljl已经加入国内某网红startup"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 942,
+      "at_to": 942,
+      "from_paragraphs": [
+        {
+          "content_hash": "933b05f289aa081c",
+          "style": "NORMAL_TEXT",
+          "text": "会给黑推"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d7cb87ce28da9c72",
+          "style": "NORMAL_TEXT",
+          "text": "会给黑推 （蹲一下具体情况"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1585,
+      "at_to": 1585,
+      "from_paragraphs": [
+        {
+          "content_hash": "0766cc2b4fabb65f",
+          "style": "NORMAL_TEXT",
+          "text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研[甚至愿意直接给idea的]，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？"
+        },
+        {
+          "content_hash": "0c1f0bca5973857e",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "424e5e6f0e297201",
+          "style": "NORMAL_TEXT",
+          "text": "我是lijie的intern之一，从24年到现在一直和lijie合作，lijie的人品我觉得绝对是最好的那一档，她真的愿意带0基础的学生做科研[甚至愿意直接给idea的]，而且也会愿意和你交流不管是学术上还是未来发展上的问题。她要是看出身会愿意带那么多0基础的学生发顶会？甚至会愿意抽时间帮你模拟面试 [我今年申请phd的时候ijie还专门帮忙抽时间模拟面试]，没有人有义务帮你，你自己没拿到offer跑回来怪lijie给黑推，有没有可能是你bg不太行？？"
+        },
+        {
+          "content_hash": "317ef3706c83e061",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧) （ 感觉大家都掉马甲了）（别瞎定位，什么MSU，hu的臭名声远远beyond intern）(反正在我和我的圈子里面，从来没听说过谁说理解不好的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1800,
+      "at_to": 1800,
+      "from_paragraphs": [
+        {
+          "content_hash": "2b0e5c544e7deafe",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）（zhe ke）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "02cd3b8ffe9fcb55",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）（这学校居然一个都没爆？）"
+        }
+      ]
+    }
+  ]
+}
