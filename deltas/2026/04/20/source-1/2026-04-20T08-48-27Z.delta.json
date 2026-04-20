@@ -1,0 +1,239 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-44-04Z",
+    "revision_id": "AMHacu4k-ZYfaQ8wBnYAZdueKNoIeSf5qpDdiD6iIcDuOUtIeCBfoTjFfiApYZVzDuxh8ivDEsjN8PHO4J2NO6tuvg",
+    "paragraph_count": 1401
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-48-27Z",
+    "revision_id": "AMHacu7ejCr5g-KcSxhfHuBJVwqyfu9lNue25l4SvluAXMzoErFRKEFD5Te-iseE7G_bbHig59Lswof9tSUCc8TTiw",
+    "paragraph_count": 1412
+  },
+  "summary": {
+    "inserted_paragraphs": 19,
+    "deleted_paragraphs": 8,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0057,
+    "insertion_ratio": 0.0135
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 520,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc5c58201c6cdd4c",
+          "style": "NORMAL_TEXT",
+          "text": "不是学生 但是在会议上遇到想打招呼 他鼻孔朝天 hen gao"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aa1f674e7514d2a0",
+          "style": "NORMAL_TEXT",
+          "text": "不是学生 但是在会议上遇到想打招呼 我没有想去他那里读书的兴趣 他鼻孔朝天 很高傲 不搭理我 其实吧 他自己口吃 我听他说话都费劲。我没有歧视过他 但是他自己先看不起别人干什么呢"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 678,
+      "paragraphs": [
+        {
+          "content_hash": "a542f89474800bcd",
+          "style": "NORMAL_TEXT",
+          "text": "MIT hansong"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "65a9f75d9b1f5aaf",
+          "style": "NORMAL_TEXT",
+          "text": "也是老话题 喜欢PhD intern 养鱼 物竞天择原则呗 不好的发配宁古塔苦寒之地"
+        },
+        {
+          "content_hash": "cfa7761c2592ddc9",
+          "style": "NORMAL_TEXT",
+          "text": "海王 虽然30大几了还保持单身 而且处处强调自己单身 喜欢钓一线城市白富美"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 755,
+      "at_to": 760,
+      "from_paragraphs": [
+        {
+          "content_hash": "ca0b7740cba7bbaf",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "def59a79bbef17ab",
+          "style": "NORMAL_TEXT",
+          "text": "学术嘉靖，喜欢玩帝王心术制衡学生（求细嗦）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 953,
+      "paragraphs": [
+        {
+          "content_hash": "3db22a5376afcd54",
+          "style": "NORMAL_TEXT",
+          "text": "这个问题的谜底藏在谜面里，看起来是那篇文章的一作“听到了”加了名字的那个人的 idea"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 951,
+      "at_to": 957,
+      "from_paragraphs": [
+        {
+          "content_hash": "dd36082934b3be80",
+          "style": "NORMAL_TEXT",
+          "text": "RL theory圈人均被他碰瓷过"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "63ed999faa034ba1",
+          "style": "NORMAL_TEXT",
+          "text": "RL theory圈人均被他碰瓷过。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 954,
+      "at_to": 960,
+      "from_paragraphs": [
+        {
+          "content_hash": "a7616dadd61ad297",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）"
+        },
+        {
+          "content_hash": "a8cb32acfae195d6",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1c444790e1ee669d",
+          "style": "NORMAL_TEXT",
+          "text": "不给学生发工资or发半薪因为学生“不听话” （辟谣，学生本人来了，那个学期因为我签了full time intern,而且事先跟顾老板双方同意的情况下找的实习，按照规定确实不应该拿学校的钱，希望别再以讹传讹了）（纯路人，出于保护当事人目的建议删了这条，毕竟顾老师知道这是谁&&当事人还没毕业）"
+        },
+        {
+          "content_hash": "7d5e5d19ff96c1e8",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1110,
+      "at_to": 1116,
+      "from_paragraphs": [
+        {
+          "content_hash": "a7fa6254749a6ea4",
+          "style": "NORMAL_TEXT",
+          "text": "不懂带学生，没idea，压力学生"
+        },
+        {
+          "content_hash": "db2d1bf8505ce726",
+          "style": "NORMAL_TEXT",
+          "text": "多人离组"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "27b21a4619f8bf48",
+          "style": "NORMAL_TEXT",
+          "text": "Little mentorship, little original idea, harsh"
+        },
+        {
+          "content_hash": "a4781c7d37df7f5f",
+          "style": "NORMAL_TEXT",
+          "text": "Multiple students leaving"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1256,
+      "paragraphs": [
+        {
+          "content_hash": "a8ae83d1ad40001b",
+          "style": "NORMAL_TEXT",
+          "text": "诶补充一句，mike老师对学生也很好"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1294,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "121415a1b6bc2d1e",
+          "style": "NORMAL_TEXT",
+          "text": "SJTI Quanshi Zhang"
+        },
+        {
+          "content_hash": "b09c05f2a0d483c2",
+          "style": "NORMAL_TEXT",
+          "text": "做的没人关心的东西，学术taste极差，但喜欢宣称自己学术taste好"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1391,
+      "at_to": 1402,
+      "from_paragraphs": [
+        {
+          "content_hash": "fbcc3509e25a0a3c",
+          "style": "NORMAL_TEXT",
+          "text": "PUA之神（喜欢和她老公商讨怎么PUA）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96539456ae658460",
+          "style": "NORMAL_TEXT",
+          "text": "PUA+画饼之神（喜欢和她老公商讨怎么PUA），信口开河，张口就来，"
+        }
+      ]
+    }
+  ]
+}
