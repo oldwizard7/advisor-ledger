@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T10-24-22Z",
+  "reviewed_at_utc": "2026-04-20T10:25:21Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 4,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "a3919e48142ff41a",
+      "insert_hash": "79facda9e789ddb9",
+      "note": "Extended with additional parenthetical remark",
+      "ghost_text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作",
+      "insert_text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，"
+    },
+    {
+      "ghost_hash": "61ef012b60c5266e",
+      "insert_hash": "bfd0f6a5c5ee3b40",
+      "note": "Simplified parenthetical wording",
+      "ghost_text": "Manling这么nice的老师竟然会被放到黑榜 (可以先看一下红榜对应的描述再看下面的)",
+      "insert_text": "Manling这么nice的老师竟然会被放到黑榜 (可以看一下红榜对应的描述)"
+    },
+    {
+      "ghost_hash": "262f3e3bb8af97c8",
+      "insert_hash": "12e93bbca43de31b",
+      "note": "Corrected 'pretrain' to 'train'",
+      "ghost_text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以pretrain一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)",
+      "insert_text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以train一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2710,
+  "skipped_reason": null
+}

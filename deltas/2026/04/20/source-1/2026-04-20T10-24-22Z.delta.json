@@ -1,0 +1,144 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T10-20-10Z",
+    "revision_id": "AMHacu7eYzxYx_yb5a-Ulhpf4l96Jqvy2pkFZzauZuiWbgtmFfpt_nq62nRtyhtLjnCrPUsUeUrbr7G5TGVWogLabQ",
+    "paragraph_count": 1507
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T10-24-22Z",
+    "revision_id": "AMHacu4iGqhCkc9PKgGVAtae-umOzNqvlub6CKf4FXPvbhdJcvBH4mqIZR4SrhZrvF3Lza6wp7gSlx5IUUVSmPiktQ",
+    "paragraph_count": 1513
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 4,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.0066
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 160,
+      "at_to": 160,
+      "from_paragraphs": [
+        {
+          "content_hash": "a3919e48142ff41a",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "79facda9e789ddb9",
+          "style": "NORMAL_TEXT",
+          "text": "Phd实习期间在ibm认识他，他有天下午留下来问我，我的phd老板和她老板有没有什么不正当关系 (我当时真的是fxxk it)。当时他还想抱我老板大腿，就开始造黄谣 (? 好猎奇)，之前还听别人说过，他在mit博后的时候抢国内来暑研的paper，把学生名字删掉，自己当一作（学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言，"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 226,
+      "paragraphs": [
+        {
+          "content_hash": "2069b7aa74232f1f",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        },
+        {
+          "content_hash": "4337d5fc43b31528",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "a370a1e7f1efaa87",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 235,
+      "paragraphs": [
+        {
+          "content_hash": "04c17fde1595c6fd",
+          "style": "NORMAL_TEXT",
+          "text": "intern本人来辟谣了, 这个纯瞎扯, 我确认每封信都是老板申过的, 因为他还cc过我改名字, 我填错信息了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 891,
+      "at_to": 896,
+      "from_paragraphs": [
+        {
+          "content_hash": "61ef012b60c5266e",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜 (可以先看一下红榜对应的描述再看下面的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfd0f6a5c5ee3b40",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜 (可以看一下红榜对应的描述)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 901,
+      "at_to": 906,
+      "from_paragraphs": [
+        {
+          "content_hash": "262f3e3bb8af97c8",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以pretrain一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "12e93bbca43de31b",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的phd里面是return的接近有一半(42.8%) （那里有这个数？4.28吧）(是说phd里return来的有42.8%, 不是42.8%的intern发了return ), 其他intern去向也都不错\u000b3. 组里资源, 一篇paper至少budget 2k-20k usd（虽然但是，一台h100 node一周就2000不止了吧）(没有, 一台H100 train一周几乎可以train一个7b小模型了, 开发时间都是用学校机器, 不会租卡, 只有上大规模实验才租卡)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1372,
+      "at_to": 1377,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "762b0a73a2cecb9c",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal: 第一点李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？"
+        },
+        {
+          "content_hash": "fa85a867cf349c36",
+          "style": "NORMAL_TEXT",
+          "text": "第二点有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你"
+        }
+      ]
+    }
+  ]
+}

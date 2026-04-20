@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T10-24-22Z.delta.json",
+  "delta_ts": "2026-04-20T10-24-22Z",
+  "reviewed_at_utc": "2026-04-20T10:25:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Added text contains a personal insult characterizing the subject as a 'troublemaker/shit-stirrer' (学术圈的搅屎棍) and attacking their character with unsupported generalizations about spreading rumors, rather than focusing on concrete advising practices.",
+      "excerpt": "学术圈的搅屎棍，擅长把两个毫不相干的人迅速配对散播谣言"
+    }
+  ],
+  "prompt_sha256": "acbd5b8a7917535bc5af199453d7365f40d2cc3ef290524902d020976db21faa",
+  "finish_reason": "stop",
+  "completion_tokens": 4085
+}
