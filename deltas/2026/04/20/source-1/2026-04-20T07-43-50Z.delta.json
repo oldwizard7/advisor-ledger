@@ -1,0 +1,714 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-39-35Z",
+    "revision_id": "AMHacu4GzDPScrvJaD-TmHNZU3YutFhMd53wz952zTEzUgXdlgIgLCAqHEZHR4b_3v2Z9B4NTS1v_TXXU9txXCuDOw",
+    "paragraph_count": 1304
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-43-50Z",
+    "revision_id": "AMHacu5kWjL0Spxu46Co88DWgnRBRzvR19ynnqxjjoWzMI4BTsLDuQokegJX6Y57tcZk1b9fKyiK-3ojI-5BkQdhgw",
+    "paragraph_count": 1317
+  },
+  "summary": {
+    "inserted_paragraphs": 66,
+    "deleted_paragraphs": 53,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0406,
+    "insertion_ratio": 0.0501
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 149,
+      "at_to": 149,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1c89d00348b04547",
+          "style": "NORMAL_TEXT",
+          "text": "MIT Manya Ghobadi"
+        },
+        {
+          "content_hash": "aec4f2736356c174",
+          "style": "NORMAL_TEXT",
+          "text": "在google期间 特别菜 呆了不到一年就被赶走。去了微软降级先做postdoc"
+        },
+        {
+          "content_hash": "fb4c7f844e29caa2",
+          "style": "NORMAL_TEXT",
+          "text": "MIT的教职 靠她男朋友adam Chlipala拿到并维持"
+        },
+        {
+          "content_hash": "3228cb071acc06cd",
+          "style": "NORMAL_TEXT",
+          "text": "赶走了国男postdoc 对方J签证"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 197,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "6ad0a141361e6b14",
+          "style": "NORMAL_TEXT",
+          "text": "老板保送教职 能力堪忧 很难指导学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "02c5a3a5ee6b3f48",
+          "style": "NORMAL_TEXT",
+          "text": "老板保送教职 能力堪忧 很难指导学生；"
+        },
+        {
+          "content_hash": "e828374b62c0bdaa",
+          "style": "NORMAL_TEXT",
+          "text": "在瑞士滑雪会议上和一堆白胡子老爷爷讲, 自己不和中国男老师合作, 后某位白胡子老爷爷在香港PES会议上说，你们中国人怎么还歧视自己人呢（全场哗然）"
+        },
+        {
+          "content_hash": "d4d619c1455eab7a",
+          "style": "NORMAL_TEXT",
+          "text": "当年JHU的职位单纯就是diversity hiring, 她当时没有竞争对手, Ian白胡子老爷爷的关门弟"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 343,
+      "at_to": 348,
+      "from_paragraphs": [
+        {
+          "content_hash": "7dc8e76ce1807221",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，和很多企业有很多合作。作为MLSys这种偏工程的学科，这d"
+        },
+        {
+          "content_hash": "48f82ce007e7076e",
+          "style": "NORMAL_TEXT",
+          "text": "1.组里氛围很好。每个学生方向相关但又不完全相同，因此没有任何组内恶意竞争且合作频繁。组里经常聚餐，也有各种活动，可以从他们lab的主页看到照片。"
+        },
+        {
+          "content_hash": "0450aa2e6d47ff8f",
+          "style": "NORMAL_TEXT",
+          "text": "2.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到好的岗位）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0490410a78dd4a18",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，和很多企业有很多合作。作为MLSys这种偏工程的学科，这对学生的个人发展很有帮助。能做有意义的topic，也能建立和业界的connection。"
+        },
+        {
+          "content_hash": "fdc9aee65b5dae09",
+          "style": "NORMAL_TEXT",
+          "text": "2.组里氛围很好。每个学生方向相关但又不完全相同，因此没有任何组内恶意竞争且合作频繁。组里经常聚餐，也有各种活动，可以从他们lab的主页看到照片。"
+        },
+        {
+          "content_hash": "af34915eab8a14b2",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到好的岗位）"
+        },
+        {
+          "content_hash": "04efa045cf3cc405",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来推测，一定不会是特别轻松，没有任何压力的。但是能在这种sup p"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 559,
+      "at_to": 564,
+      "from_paragraphs": [
+        {
+          "content_hash": "4482a26cf2c78f7d",
+          "style": "NORMAL_TEXT",
+          "text": "尤老师人很好啊，开会的时候聊天都非常nice"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "965696c5ce9ae4d2",
+          "style": "NORMAL_TEXT",
+          "text": "尤老师人很好啊，开会的时候聊天都非常nice(同意)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 571,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7d4aaa4a12081b1c",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji （？ji老师人很好啊）（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "e72fe2168bdc2579",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评做的不好的地方（对事不对人），其他时候相处融洽，来世还当heng学生（我也想去miromind!）"
+        },
+        {
+          "content_hash": "64984375e3784d9a",
+          "style": "NORMAL_TEXT",
+          "text": "比较以funding project为重，早八晚零敬业型advisor，人很nice很容易相处"
+        },
+        {
+          "content_hash": "abedce30ca2ee119",
+          "style": "NORMAL_TEXT",
+          "text": "老师组里三个track，near-future faculty 相当于 TBD，PHD student 属于 TBD collaborator，研究生和本科生属于 MSL"
+        },
+        {
+          "content_hash": "cfa6bb5659495840",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice(+1) (+2)"
+        },
+        {
+          "content_hash": "ec88db6c92d6d2b5",
+          "style": "NORMAL_TEXT",
+          "text": "上述请去红榜说。。。季姮就属于打听学生phd offer，一开始就是画饼，给一堆鱼offer，最后只挑把她列top1的。天生愿意给她当牛马肯定好处多多:)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cc042550d57c523b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yu-Xiong Wang"
+        },
+        {
+          "content_hash": "2eab565214af0c7c",
+          "style": "NORMAL_TEXT",
+          "text": "听说对学生比较push"
+        },
+        {
+          "content_hash": "2e4d8de0cd60d72b",
+          "style": "NORMAL_TEXT",
+          "text": "听说不放学生毕业"
+        },
+        {
+          "content_hash": "14accec82e5d52ab",
+          "style": "NORMAL_TEXT",
+          "text": "学生纯牛马，拿PhD当postdoc用，还都延毕"
+        },
+        {
+          "content_hash": "4c9c4d0f38eb8916",
+          "style": "NORMAL_TEXT",
+          "text": "对学术比较push，不放学生毕业"
+        },
+        {
+          "content_hash": "8cbc874360bec513",
+          "style": "NORMAL_TEXT",
+          "text": "听说有intern闹掰了"
+        },
+        {
+          "content_hash": "af88f19a6d00cf19",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern申请结果最好只有uiuc ms（有认识intern最后去了CMU LTI PhD）"
+        },
+        {
+          "content_hash": "785ce9bca3ac9cdd",
+          "style": "NORMAL_TEXT",
+          "text": "听说对phd不是很好"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c9c92ae46324dd8a",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Minjia zhang"
+        },
+        {
+          "content_hash": "e2483bb376d2c4d9",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼"
+        },
+        {
+          "content_hash": "5c50dfc19ec6afff",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3ffa0772b7984e10",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yiling Lou"
+        },
+        {
+          "content_hash": "3a9d407ae869e054",
+          "style": "NORMAL_TEXT",
+          "text": "刚来就有瓜吗"
+        },
+        {
+          "content_hash": "77bb50395f96090b",
+          "style": "NORMAL_TEXT",
+          "text": "看过微博"
+        },
+        {
+          "content_hash": "0aecb1445716b596",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d29ef273fac53534",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Kevin Chang"
+        },
+        {
+          "content_hash": "9c30f0bbdf2beb42",
+          "style": "NORMAL_TEXT",
+          "text": "经典黑推王，全校无人不知"
+        },
+        {
+          "content_hash": "c4e3487232752389",
+          "style": "NORMAL_TEXT",
+          "text": "名人名言：“It’s not enough that I should succeed, others should fail.”"
+        },
+        {
+          "content_hash": "4511eb1d091e9ca6",
+          "style": "NORMAL_TEXT",
+          "text": "上课戏耍学生，给学生作业份份好评，最后给个C-，导致学生GPA爆炸，申请季炸裂"
+        },
+        {
+          "content_hash": "85da31140907a88e",
+          "style": "NORMAL_TEXT",
+          "text": "学生据说全跑了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fb599bc4af6919f9",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Daniel Kang"
+        },
+        {
+          "content_hash": "ef08efe546aa921b",
+          "style": "NORMAL_TEXT",
+          "text": "天天因为dating app被人挂。。"
+        },
+        {
+          "content_hash": "d399be60a1ec0992",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑了http://xhslink.com/o/2KZfkRJ8GZ6 (这位真是个重量级)"
+        },
+        {
+          "content_hash": "020c97a27cd39bd7",
+          "style": "NORMAL_TEXT",
+          "text": "有朋友在他组里，一个活分给两个组搞，不过是之前的事了，还保不保真不清楚"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 605,
+      "at_to": 649,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac8698c2472b2fff",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）（听说成瘾者，可忽略）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）（先拿到unc offer defer一年去做的postdoc）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ddd1d79f0b36f4cd",
+          "style": "NORMAL_TEXT",
+          "text": "听说找教职的时候，面试的几个学校，committee 反馈都是太水了，一看到简历就捏鼻子那种 （不是说放弃了耶鲁的教职offer吗）（听说成瘾者，可忽略）(能不能少一些听说，据说，有1说1，从结果来看，Austin到UNC，PhD直接找到AP属于很罕见的case，大部分都得往下找才行)（mit and harvard读了postdoc吧）（先拿UNC offer再defer一年去做的postdoc）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 753,
+      "paragraphs": [
+        {
+          "content_hash": "965286e9e8d00d8b",
+          "style": "NORMAL_TEXT",
+          "text": "有几个逻辑漏洞："
+        },
+        {
+          "content_hash": "ba1da291bb0df7a5",
+          "style": "NORMAL_TEXT",
+          "text": "那位“不在组内”的学生跟转组的学生是否是同一人？"
+        },
+        {
+          "content_hash": "ee8820fca4675d8a",
+          "style": "NORMAL_TEXT",
+          "text": "什么叫做”不在组内“，是否曾经在组内过？"
+        },
+        {
+          "content_hash": "543a97f52f227611",
+          "style": "NORMAL_TEXT",
+          "text": "转组的同学跟下面的事件是否有关？如果曾经在组内过，如果因为发生下面的事情转了组，也不能讲“不在组内”或者就跟没有发生过，这个老师做过的事情就跟没做过一样。如果这样这个榜上所有的老师都可以把相关学生开掉然后说“也不在组内” 😂"
+        },
+        {
+          "content_hash": "ab413c8c7b66352a",
+          "style": "NORMAL_TEXT",
+          "text": "事件是客观的，看法是主观的，比如下面已经有学生承认确实帮忙喂过猫，不同的人看法不一样很正常。下面的事件是否真实发生过？比如是否真的有人可以回国半年，有人家人去世就只能第二年暑假再说？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 934,
+      "paragraphs": [
+        {
+          "content_hash": "7d4aaa4a12081b1c",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Heng Ji （？ji老师人很好啊）（存在争议，请谨慎辨别）"
+        },
+        {
+          "content_hash": "e72fe2168bdc2579",
+          "style": "NORMAL_TEXT",
+          "text": "组里phd，去年刚毕业，overall Heng不算完美，但是也是在方方面面fully supportive。有时候比较严厉会批评做的不好的地方（对事不对人），其他时候相处融洽，来世还当heng学生（我也想去miromind!）"
+        },
+        {
+          "content_hash": "64984375e3784d9a",
+          "style": "NORMAL_TEXT",
+          "text": "比较以funding project为重，早八晚零敬业型advisor，人很nice很容易相处"
+        },
+        {
+          "content_hash": "abedce30ca2ee119",
+          "style": "NORMAL_TEXT",
+          "text": "老师组里三个track，near-future faculty 相当于 TBD，PHD student 属于 TBD collaborator，研究生和本科生属于 MSL"
+        },
+        {
+          "content_hash": "cfa6bb5659495840",
+          "style": "NORMAL_TEXT",
+          "text": "Heng真的nice(+1) (+2)"
+        },
+        {
+          "content_hash": "ec88db6c92d6d2b5",
+          "style": "NORMAL_TEXT",
+          "text": "上述请去红榜说。。。季姮就属于打听学生phd offer，一开始就是画饼，给一堆鱼offer，最后只挑把她列top1的。天生愿意给她当牛马肯定好处多多:)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "cc042550d57c523b",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yu-Xiong Wang"
+        },
+        {
+          "content_hash": "2eab565214af0c7c",
+          "style": "NORMAL_TEXT",
+          "text": "听说对学生比较push"
+        },
+        {
+          "content_hash": "2e4d8de0cd60d72b",
+          "style": "NORMAL_TEXT",
+          "text": "听说不放学生毕业"
+        },
+        {
+          "content_hash": "14accec82e5d52ab",
+          "style": "NORMAL_TEXT",
+          "text": "学生纯牛马，拿PhD当postdoc用，还都延毕"
+        },
+        {
+          "content_hash": "4c9c4d0f38eb8916",
+          "style": "NORMAL_TEXT",
+          "text": "对学术比较push，不放学生毕业"
+        },
+        {
+          "content_hash": "8cbc874360bec513",
+          "style": "NORMAL_TEXT",
+          "text": "听说有intern闹掰了"
+        },
+        {
+          "content_hash": "af88f19a6d00cf19",
+          "style": "NORMAL_TEXT",
+          "text": "听说intern申请结果最好只有uiuc ms（有认识intern最后去了CMU LTI PhD）"
+        },
+        {
+          "content_hash": "785ce9bca3ac9cdd",
+          "style": "NORMAL_TEXT",
+          "text": "听说对phd不是很好"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c9c92ae46324dd8a",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Minjia zhang"
+        },
+        {
+          "content_hash": "e2483bb376d2c4d9",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼"
+        },
+        {
+          "content_hash": "5c50dfc19ec6afff",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3ffa0772b7984e10",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Yiling Lou"
+        },
+        {
+          "content_hash": "3a9d407ae869e054",
+          "style": "NORMAL_TEXT",
+          "text": "刚来就有瓜吗"
+        },
+        {
+          "content_hash": "77bb50395f96090b",
+          "style": "NORMAL_TEXT",
+          "text": "看过微博"
+        },
+        {
+          "content_hash": "0aecb1445716b596",
+          "style": "NORMAL_TEXT",
+          "text": "这位是不是也是夫妻店（是的）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d29ef273fac53534",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Kevin Chang"
+        },
+        {
+          "content_hash": "9c30f0bbdf2beb42",
+          "style": "NORMAL_TEXT",
+          "text": "经典黑推王，全校无人不知"
+        },
+        {
+          "content_hash": "c4e3487232752389",
+          "style": "NORMAL_TEXT",
+          "text": "名人名言：“It’s not enough that I should succeed, others should fail.”"
+        },
+        {
+          "content_hash": "4511eb1d091e9ca6",
+          "style": "NORMAL_TEXT",
+          "text": "上课戏耍学生，给学生作业份份好评，最后给个C-，导致学生GPA爆炸，申请季炸裂"
+        },
+        {
+          "content_hash": "85da31140907a88e",
+          "style": "NORMAL_TEXT",
+          "text": "学生据说全跑了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "fb599bc4af6919f9",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC Daniel Kang"
+        },
+        {
+          "content_hash": "ef08efe546aa921b",
+          "style": "NORMAL_TEXT",
+          "text": "天天因为dating app被人挂。。"
+        },
+        {
+          "content_hash": "d399be60a1ec0992",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑了http://xhslink.com/o/2KZfkRJ8GZ6 (这位真是个重量级)"
+        },
+        {
+          "content_hash": "020c97a27cd39bd7",
+          "style": "NORMAL_TEXT",
+          "text": "有朋友在他组里，一个活分给两个组搞，不过是之前的事了，还保不保真不清楚"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1048,
+      "at_to": 1061,
+      "from_paragraphs": [
+        {
+          "content_hash": "230bd9d82e05c9f6",
+          "style": "NORMAL_TEXT",
+          "text": "以前从GSU过来的，组内曾经有多名学生退学，非常PUSH，非常擅长PUA，直接对第一学期来的学生说我觉得你没有进度这样子没法五年按时毕业。2025年NeurIPS投稿完后给学生放一周假，我同学因为太累了在家休息了5天，最后去纽约玩了两天，后续回来开会时，他说那你前面为什么bu'a'l"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ffbc645153f3b9a6",
+          "style": "NORMAL_TEXT",
+          "text": "以前从GSU过来的，组内曾经有多名学生退学，非常PUSH，非常擅长PUA，直接对第一学期来的学生说我觉得你没有进度这样子没法五年按时毕业。2025年NeurIPS投稿完后给学生放一周假，我同学因为太累了在家休息了5天，最后去纽约玩了两天，后续回来开会时，他说那你前面为什么不来实验室做实验。会对学生大吼大叫和骂人，对外人和自己的学生完全两幅面孔，部分学生躯体化并看心理医生。"
+        },
+        {
+          "content_hash": "3f3c13045c01b4d3",
+          "style": "NORMAL_TEXT",
+          "text": "进组前进组后完全两幅面孔，进组前会说经费充足，画大饼。进来后告诉你那是他以前在GSU拿的带不过来，给学生fb"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d929a508aa679104",
+          "style": "NORMAL_TEXT",
+          "text": "UMN Kangjie Lu"
+        },
+        {
+          "content_hash": "f8aece864f0eda43",
+          "style": "NORMAL_TEXT",
+          "text": "自己和自己的神人学生往linu把linux kernel的开发者搞火从而ban掉umn域名下的所有提交"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1127,
+      "at_to": 1145,
+      "from_paragraphs": [
+        {
+          "content_hash": "ac6a05983fb20be8",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "25c33fcc83ee8a82",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1195,
+      "paragraphs": [
+        {
+          "content_hash": "684b7a1d5e187d70",
+          "style": "NORMAL_TEXT",
+          "text": "SIT Xin Lou"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1202,
+      "paragraphs": [
+        {
+          "content_hash": "b3cdb433d2a3d8ef",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Yi Yang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "96684c5361db2556",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露 喜欢炫耀自己拿了多少经费 想买什么车子 对学生扣扣搜搜 做项目不会多给一分钱补贴"
+        },
+        {
+          "content_hash": "4cd56d3009b5163e",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多 猛猛抢一作 共一都不给你一个 美名其曰组里不搞共一这种恶臭风气（点名姓Lu的，猛猛压榨底下的人甚至不分一点credit）"
+        },
+        {
+          "content_hash": "98ee684d5a1c3ade",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习 顶组找你不让去 只让你去他谈的垃圾项目 钱都到他自己手里"
+        },
+        {
+          "content_hash": "d79edce580b89bd9",
+          "style": "NORMAL_TEXT",
+          "text": "根本不懂科研"
+        }
+      ]
+    }
+  ]
+}
