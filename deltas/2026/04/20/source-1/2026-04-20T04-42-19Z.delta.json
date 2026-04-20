@@ -1,0 +1,117 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-40-19Z",
+    "revision_id": "AMHacu4qJxa4KWapVvxn4pjpp6-ZuiUo_QzWExK0J4IEoWLZLRot5KnnhpJJi12zR-_2iWKWqOEZiTGCWws-rpFSFw",
+    "paragraph_count": 1106
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-42-19Z",
+    "revision_id": "AMHacu4pjTIJBjw6E0y1Yv1VQ-6snt0gBHFqt1hPozGKrAQEVAx7cot2SQ9OIv00QKF7lctZaXVZ5-7TzMuXYJ1T7A",
+    "paragraph_count": 1102
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 9,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0081,
+    "insertion_ratio": 0.0045
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 20,
+      "at_to": 20,
+      "from_paragraphs": [
+        {
+          "content_hash": "a231c9d6695357a3",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥的恩怨局，一句据说开头打遍天下，红的黑的都可以说）？ni'shan'chu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c00168c15680c45b",
+          "style": "NORMAL_TEXT",
+          "text": "说实话，很多"
+        },
+        {
+          "content_hash": "ceb1a2c3fd9429cd",
+          "style": "NORMAL_TEXT",
+          "text": "学生和phd老板本来就是奴隶和奴隶主的关系，老板可以随意开除学生，随意压榨学生，学生就是抱怨一下有什么问题？？？抱怨的意思是可以捕风捉影+人身攻击，恶意揣测？但凡有证据我觉得也是合情合理，很多时候关系本来就是不对等的，并不是开脱，只是你"
+        },
+        {
+          "content_hash": "c334ad73a915966b",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥的恩怨局，一句据说开头打遍天下，红的黑的都可以说）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 334,
+      "paragraphs": [
+        {
+          "content_hash": "7edded55d4126100",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu"
+        },
+        {
+          "content_hash": "57ab3f236c06d502",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）"
+        },
+        {
+          "content_hash": "bd7910665097290f",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作"
+        },
+        {
+          "content_hash": "6c9cfabbe69c4955",
+          "style": "NORMAL_TEXT",
+          "text": "最厉害的学生（贡献了yun fu最多引用，给他发了好几篇代表作）拿到哈佛博后不给写推荐信，要求留在本组读博后，闹掰以后直接再也不给写推荐信，逼的人只能离开美国读博后，到处哭诉（真哭）"
+        },
+        {
+          "content_hash": "66aa6e07ba2d1289",
+          "style": "NORMAL_TEXT",
+          "text": "自己创业让学生全部过来当免费ic，出去实习要尾作而且还不能忘了组里的活，赚了钱自己买了大house"
+        },
+        {
+          "content_hash": "43da04c8ce3d1baf",
+          "style": "NORMAL_TEXT",
+          "text": "搞了一堆intern过来实习，实则养蛊，phd前几年的quit不少"
+        },
+        {
+          "content_hash": "8e009e789d12da8d",
+          "style": "NORMAL_TEXT",
+          "text": "出了名的喜欢骂人、威胁人（断funding警告，延毕警告），迟到也是家常便饭"
+        },
+        {
+          "content_hash": "e760923f2f9f001e",
+          "style": "NORMAL_TEXT",
+          "text": "此人极其自私。在学生（phd student兼公司员工）妻子预产期临近申请休假时，他以‘医学预产期不准、实际产期常会推后’为由拒绝批假。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 390,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
