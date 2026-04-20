@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-24-41Z.delta.json",
+  "delta_ts": "2026-04-20T14-24-41Z",
+  "reviewed_at_utc": "2026-04-20T14:25:40Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Disclosure of private email address (api@somastacks.com) associated with a professor's company, which could de-anonymize individuals linked to that domain",
+      "excerpt": "这两个图片的所有人都来自你公司api@somastacks.com这个邮箱"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character attack attacking the subject's conscience and moral character rather than specific advising practices",
+      "excerpt": "你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Poetic personal attack using inflammatory, dehumanizing language (敲骨吸髓, 画饼充饥) and unsupported character judgments",
+      "excerpt": "自诩多情浪漫客，云端指导马行空。门生寥落三两只，廉价ＲＡ满大营。画饼充饥谈岁月，敲骨吸髓算工分。"
+    }
+  ],
+  "prompt_sha256": "02439bba392b51457a830c673b35cc78c76a281c759e085dc6ac36978035466f",
+  "finish_reason": "stop",
+  "completion_tokens": 5945
+}

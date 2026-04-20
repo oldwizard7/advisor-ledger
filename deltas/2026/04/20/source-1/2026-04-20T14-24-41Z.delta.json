@@ -1,0 +1,499 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-20-30Z",
+    "revision_id": "AMHacu5Z52iW9Xe55LRElvC32dlarUJaFHvX12qf1HG3nHEkfGJaukkQJ2zS_N2t_jT3OZJ5st4FihLQQ1ltwAae0g",
+    "paragraph_count": 1914
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-24-41Z",
+    "revision_id": "AMHacu67bUOiJSRO4Cy93TrK2SgGsaPuyAV1dPkzeapuR4p8jiikjAr-abf0iQPYA8X5QAGhc75CStv77fwe1ndA8Q",
+    "paragraph_count": 1955
+  },
+  "summary": {
+    "inserted_paragraphs": 54,
+    "deleted_paragraphs": 13,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0068,
+    "insertion_ratio": 0.0276
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 20,
+      "paragraphs": [
+        {
+          "content_hash": "ea47f9b40e5d3055",
+          "style": "NORMAL_TEXT",
+          "text": "经典老坑了。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 124,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 231,
+      "at_to": 234,
+      "from_paragraphs": [
+        {
+          "content_hash": "2325af2a6af2f092",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又强，导致竞争过于激烈，很多申请结果就一般了。一般指的是跟自己的期望相比，但是因为于intern本身就强，总体而言还是能去不错的学校。当然，去别的地方做暑研也许能申到更好的学校（无奈笑）。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8fa261e4dda9f5e8",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又强，导致竞争过于激烈，很多申请结果就一般了。一般指的是跟自己的期望相比，但是因为于intern本身就强，总体而言还是能去不错的学校。当然，去别的地方做暑研也许能申到更好的学校。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 403,
+      "paragraphs": [
+        {
+          "content_hash": "644ebf129a5bf953",
+          "style": "NORMAL_TEXT",
+          "text": "IUB, Fengguang Song"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 549,
+      "paragraphs": [
+        {
+          "content_hash": "9a847c6994a7d05d",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽失败怎么被删了，自己感觉丢人就别去面试啊，讲的什么东西。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 576,
+      "at_to": 583,
+      "from_paragraphs": [
+        {
+          "content_hash": "9cdcde996ec30a00",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 再往后还有呢，他这事之后做的paper，也禁不起查"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "00e91c9b1f1b8d44",
+          "style": "NORMAL_TEXT",
+          "text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 再往后还有呢，他这事之后做的paper，也禁不起查\u000b旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 587,
+      "at_to": 594,
+      "from_paragraphs": [
+        {
+          "content_hash": "ab40984feb802078",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a62102f6809c2ec",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信。（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟 反问这个黑哥 你去哪了？敢说吗？申不好就是 mentor 问题啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 595,
+      "at_to": 602,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f4693172fe10cef",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "089caaf5bfe2941f",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃了耿浩然，这两个图片的所有人都来自你公司api@somastacks.com这个邮箱。应该只有你有权限吧？你在这里假装自己intern给自己硬洗，你自己良心过得去吗？那么多intern那么多家庭花了这么多钱哈哈哈哈哈哈还真是,但哥们可能没有良心"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 808,
+      "at_to": 815,
+      "from_paragraphs": [
+        {
+          "content_hash": "92807b8377e0d6b7",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）（不要用龌龊的词了，大家都做科研）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "24f8329de7ccfe3e",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）（不要用龌龊的词了，大家都是做科研的，不能因为利益conflict就用这种词，应该摆事实讲道理）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 810,
+      "at_to": 817,
+      "from_paragraphs": [
+        {
+          "content_hash": "ae5f26eeda8d0bb0",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）（非要让别人把paper link贴出来？洗地时候注意别惹急了）（毕业三个？其中有个人天天找认识人骂fu yun啊，怎么不提）"
+        },
+        {
+          "content_hash": "71df95215873de08",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文数量要求。之前组内整体水平高，很多人确实能做到接近甚至超过10篇一作，但实际毕业篇数因人而异，3-7篇都很常见，也有人能做到十几篇一作并拿到很强的教职。老师鼓励多出成果，本质上是为了学生未来的竞争力，不是机械卡毕业。真要说组里的“门槛”，那也是高标准、高产出，而不是低级压榨。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "19971be2b93dfd50",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）（非要让别人把paper link贴出来？洗地时候注意别惹急了）（毕业三个？其中有个人天天找认识人骂fu yun啊，怎么不提）（不要给我们内部造谣了）"
+        },
+        {
+          "content_hash": "1f25f1052a882108",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文数量要求。之前组内整体水平高，很多人确实能做到接近甚至超过10篇一作，但实际毕业篇数因人而异，3-7篇都很常见，也经常有人能做到十几篇一作并拿到很强的教职。老师鼓励多出成果，本质上是为了学生未来的竞争力，不是机械卡毕业。真要说组里的“门槛”，那也是高标准、高产出，而不是低级压榨。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 817,
+      "at_to": 824,
+      "from_paragraphs": [
+        {
+          "content_hash": "51155abf7e1fe896",
+          "style": "NORMAL_TEXT",
+          "text": "这也不符合事实。导师招实习生一直很谨慎，这两年反而基本不怎么收，因为默认是按未来读博名额的标准去看。确实会有极少数新人实习生自己犯很严重的问题，但组里通常都低调处理，不会到处说，更不会故意毁人。把个别人的不适配说成“养蛊”，只能说明说这话的人自己心态有问题。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d3dcdb295484520f",
+          "style": "NORMAL_TEXT",
+          "text": "这也不符合事实。导师招实习生一直很谨慎，这两年反而基本不怎么收，因为默认是按未来读博名额的标准去看。确实会有一两个新人实习生自己犯很严重的问题，但考虑到学生个人前途，组里都低调处理了，不会到处说，更不会故意毁人。把个别人的不适配说成“养蛊”，只能说明说这话的人自己心态有问题。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 927,
+      "at_to": 934,
+      "from_paragraphs": [
+        {
+          "content_hash": "d2c3da3a249d741f",
+          "style": "NORMAL_TEXT",
+          "text": "她这个创业公司真的很难绷，虽然她bu'dong"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "018ac03efa38ed8b",
+          "style": "NORMAL_TEXT",
+          "text": "她这个创业公司真的很难绷，虽然她不懂没关系，但是招的人看起来更不懂"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 962,
+      "at_to": 969,
+      "from_paragraphs": [
+        {
+          "content_hash": "84a4ed7a810567f3",
+          "style": "NORMAL_TEXT",
+          "text": "按照白人的标准，大海写的信确实pian'cha"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0eb6d49c8312c23",
+          "style": "NORMAL_TEXT",
+          "text": "按照白人的标准，大海写的信确实偏差"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1122,
+      "at_to": 1129,
+      "from_paragraphs": [
+        {
+          "content_hash": "147e30df2f89ae67",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research(什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ead546edf26fc90",
+          "style": "NORMAL_TEXT",
+          "text": "写本子，做横向，除了做不出有用的research (什么有用的research)，各种事情一个不落(非常supportive，组里所有PhD从一年级暑假开始就全部都有业界intern，平时parttime也比比皆是)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1125,
+      "at_to": 1132,
+      "from_paragraphs": [
+        {
+          "content_hash": "ab7f004e0eded987",
+          "style": "NORMAL_TEXT",
+          "text": "我不行了，他是在很多人面前都说了其他老师的坏话吗，我也听别人吐槽过（还搁这听说呢，听谁说，人名来）（谁主张，谁举证）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "57d7260c19a536f5",
+          "style": "NORMAL_TEXT",
+          "text": "我不行了，他是在很多人面前都说了其他老师的坏话吗，我也听别人吐槽过（还搁这听说呢，听谁说，人名来）（谁主张，谁举证）（你是谁，人名来）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1702,
+      "at_to": 1709,
+      "from_paragraphs": [
+        {
+          "content_hash": "ad918bf9ad719a99",
+          "style": "NORMAL_TEXT",
+          "text": "NUS, You Yang"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "049434e3f986a98f",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA  Jiaqi Ma"
+        },
+        {
+          "content_hash": "730b68d923a2dd4b",
+          "style": "NORMAL_TEXT",
+          "text": "名下多篇IEEE顶刊 retraction可查，"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bdcd43bff039d736",
+          "style": "NORMAL_TEXT",
+          "text": "Retracted: Social Radars for Social Vision of Intelligent Vehicles: A New Direction for Vehicle Research and Development"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9e750591e5f40ddf",
+          "style": "NORMAL_TEXT",
+          "text": "Retracted: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "692eb0a6aa5b2c27",
+          "style": "NORMAL_TEXT",
+          "text": "Retraction Notice: Chat With ChatGPT on Intelligent Vehicles: An IEEE TIV Perspective"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "96becbbeb77fbf0b",
+          "style": "NORMAL_TEXT",
+          "text": "Retraction Notice: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b066cf28f706264c",
+          "style": "NORMAL_TEXT",
+          "text": "多篇论文涉嫌图从别处拼的 比如  一篇发表于Elsevier《Artificial Intelligence for Transportation》的论文—— 《CDA.AI for OpenCDA: AI Pathways for Cooperative Driving Automation Research》 https://www.sciencedirect.com/science/article/pii/S305086062500002X"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "43bf72127b627a72",
+          "style": "NORMAL_TEXT",
+          "text": "图基本都是从别处拼的，比如论文里的Figure 1来自A论文，Figure 2来自B论文，Figure3来自C论文，每篇不同来源，凑成一篇新文章（不是黑他，这是原文比对出来的） 当然 这么干也不止一次"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2c19403019ee8f63",
+          "style": "NORMAL_TEXT",
+          "text": "听说有学生被要求“从已发表论文里各取一张图重新排版”，不让问版权，问就说这是我们自己的成果（存疑，但不止一个人这么说）"
+        },
+        {
+          "content_hash": "0d6914f7f65248ca",
+          "style": "NORMAL_TEXT",
+          "text": "组里有人查了版权条款后被怼：“你不想干可以走”"
+        },
+        {
+          "content_hash": "fbf684fd21b7757e",
+          "style": "NORMAL_TEXT",
+          "text": "很多人问：撤稿了还能继续发？还能招学生？目前没有明确答复"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b1f67d781753d1c4",
+          "style": "NORMAL_TEXT",
+          "text": "（被人抓包了后到处问是谁举报的 哈哈哈 笑死）"
+        },
+        {
+          "content_hash": "7523782689bda332",
+          "style": "NORMAL_TEXT",
+          "text": "（有人说他其实人还行，不卡毕业，但论文这个真洗不动）"
+        },
+        {
+          "content_hash": "48a15f2fc5f1aaf9",
+          "style": "NORMAL_TEXT",
+          "text": "（也不是完全不能洗，有的图确实引了，但引了也没要许可啊……这就尬住了）"
+        },
+        {
+          "content_hash": "2adafe91757a561d",
+          "style": "NORMAL_TEXT",
+          "text": ", You Yang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1845,
+      "paragraphs": [
+        {
+          "content_hash": "ca537dd84decb8df",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU C Wu"
+        },
+        {
+          "content_hash": "8b27c91b59507268",
+          "style": "NORMAL_TEXT",
+          "text": "自诩多情浪漫客，"
+        },
+        {
+          "content_hash": "b905668745c48a09",
+          "style": "NORMAL_TEXT",
+          "text": "云端指导马行空。"
+        },
+        {
+          "content_hash": "95e38a0ce1d03a43",
+          "style": "NORMAL_TEXT",
+          "text": "门生寥落三两只，"
+        },
+        {
+          "content_hash": "93a39ecffaae8f4d",
+          "style": "NORMAL_TEXT",
+          "text": "廉价ＲＡ满大营。"
+        },
+        {
+          "content_hash": "87368f641aa83b91",
+          "style": "NORMAL_TEXT",
+          "text": "画饼充饥谈岁月，"
+        },
+        {
+          "content_hash": "9b0517c5e91515d3",
+          "style": "NORMAL_TEXT",
+          "text": "敲骨吸髓算工分。"
+        },
+        {
+          "content_hash": "d994b71df2eef8aa",
+          "style": "NORMAL_TEXT",
+          "text": "资本大鳄皆掩面，"
+        },
+        {
+          "content_hash": "2217c69690f230da",
+          "style": "NORMAL_TEXT",
+          "text": "惊呼手腕不如君！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
