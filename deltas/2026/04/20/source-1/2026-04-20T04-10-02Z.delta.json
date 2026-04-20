@@ -1,0 +1,179 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-08-02Z",
+    "revision_id": "AMHacu5KTQZnyfqt2SYBtS1qloRgxPy9LiWLIShKStyZzH7ut7VHMqrDZgOVJRc9CrOkMwoiATgFnA5wG-UIU7ADsg",
+    "paragraph_count": 1059
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-10-02Z",
+    "revision_id": "AMHacu42n4IcT4XUqFA2L8CFFQF6Dca7u45YS_VGkcCE1LIFj4mRbIYs3roXAMiT4XyPl4ZN6sCkIK_LBkEknylnmg",
+    "paragraph_count": 1075
+  },
+  "summary": {
+    "inserted_paragraphs": 20,
+    "deleted_paragraphs": 4,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0038,
+    "insertion_ratio": 0.0186
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 54,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "cda163faaac07599",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9601e3bec6246946",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 487,
+      "at_to": 487,
+      "from_paragraphs": [
+        {
+          "content_hash": "38caa7e39ce5eb52",
+          "style": "NORMAL_TEXT",
+          "text": "You老师人很好，不至于上黑榜"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6608f89d89a474a6",
+          "style": "NORMAL_TEXT",
+          "text": "You老师人很好，不至于上黑榜(+1)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 609,
+      "paragraphs": [
+        {
+          "content_hash": "bcd210dd680cd776",
+          "style": "NORMAL_TEXT",
+          "text": "呵呵 （细说）"
+        },
+        {
+          "content_hash": "deded0bea90e787a",
+          "style": "NORMAL_TEXT",
+          "text": "这哥们应该去榜首（来点猛料，只听说是个坑）（蹲）（给他送榜首吧）"
+        },
+        {
+          "content_hash": "7b465296ed47c9ef",
+          "style": "NORMAL_TEXT",
+          "text": "另外警告一下在这里一直删除信息的xcw的走狗，这个b人干的事情几乎全天下人都知道！你删的了一时删不了一世。我们的目的永远是让这个人永远招不到学生！！！"
+        },
+        {
+          "content_hash": "374d263779398e34",
+          "style": "NORMAL_TEXT",
+          "text": "你在jb删，我就直接实名给你发xhs、一亩三分地和知乎！警告你！被这个b人坑害的学生至少有上百人！你要是再jb删我们直接实名了！(先生大义！）我们群众的力量足够把你跟你的走狗一波带走。别给脸不要脸！"
+        },
+        {
+          "content_hash": "e71222b0a90f91dd",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University"
+        },
+        {
+          "content_hash": "9c5cda7f0ece351b",
+          "style": "NORMAL_TEXT",
+          "text": "没能力没资源，被全世界各地的合作者举报到UW-Madison后被开除；之后想跑去普渡，普渡打电话给wisc背调后果断reject；后逃跑到jhu（私立学校只背调crime）(btw为什么私立学校只背调crime)（私立学校对于过往经历和reputation调查没有那么严格）（因为什么事情举报的？）（看下面）"
+        },
+        {
+          "content_hash": "25e2fde311109a6b",
+          "style": "NORMAL_TEXT",
+          "text": "把学生关在办公室里要求查看学生电脑和手机，要求学生删除和其聊天记录（我艹这他妈真逆天，直接报警不是无敌了）（报警了 学校调查他动用了非常多的人）（这合法吗？？这怎么没有新闻爆出）(wisc也要脸；但是这个b由于跑得太快，wisc还在调查就让这个b跑了，于是后面调查报告以及处理结果不得不中断)"
+        },
+        {
+          "content_hash": "17581afe3a22dc95",
+          "style": "NORMAL_TEXT",
+          "text": "多次和学校系主任和管理funding的小蜜吵架"
+        },
+        {
+          "content_hash": "aa71086b32b97972",
+          "style": "NORMAL_TEXT",
+          "text": "爆一个，跟自己的博后老板bo li, UIUC谈过恋爱（wtf）（wtf??)（是这样的，另外加一句，bo li、anima（cal tech）都是非常恶臭的圈子，总的来说ai safety的不要碰！！！）（btw bo li之前和女学生在uiuc撕扯头发打起来了，然后被uiuc开除，后去uchi，然后去了uchi之后又被举报回来了）（开除后还能返聘吗）（tenure了学校没有办法）"
+        },
+        {
+          "content_hash": "6966ea311c2b8861",
+          "style": "NORMAL_TEXT",
+          "text": "之前paper挂名一位madison外国导师，结果没有经过人家同意，这名外国导师据报道学校；然后xcw问gpt怎么样把这个事情甩锅给自己的学生，有完整的聊天记录！（这怎么access到的？）（他和学生一起share账号 然后忘记删了）（哎呦笑死我了）（这个事情wisc CS正式调查和找他了）"
+        },
+        {
+          "content_hash": "4001ed19334fe03a",
+          "style": "NORMAL_TEXT",
+          "text": "此外，问gpt自己的孩子应该取什么名字才能以后至少是个phd (这你都知道？)"
+        },
+        {
+          "content_hash": "2e130845ecc10ab2",
+          "style": "NORMAL_TEXT",
+          "text": "还有！给学生写推荐信使用gmail，推荐信内容大概率黑推，导致学生直接被desk reject"
+        },
+        {
+          "content_hash": "179c534bf86f6a24",
+          "style": "NORMAL_TEXT",
+          "text": "我们继续！不许学生假期正常休假，只要微信/slack半个小时没回复就破口大骂；给学生半夜三四点直接打电话（微信call），不管学生是否在睡觉"
+        },
+        {
+          "content_hash": "eebd4b8f1fac0c80",
+          "style": "NORMAL_TEXT",
+          "text": "虽然是madison的ap之前，但是常年不在madison，让学生替他抗房租（哈哈哈哈哈哈哈这个笑死我了）(笑死了太难绷了)"
+        },
+        {
+          "content_hash": "34fddf9796907932",
+          "style": "NORMAL_TEXT",
+          "text": "答应一位学生说自己去jhu了，等过两年再把他带过去，一直把这个学生寄养在别的老师名下。"
+        },
+        {
+          "content_hash": "4ecfb2abf0afedc1",
+          "style": "NORMAL_TEXT",
+          "text": "其著名狗腿学生也是个sb，被刺同组学生，给xcw打小报告；据我所知是抢了其他学生的一作，都是别的学生干的。（这个再补充一下，这个狗腿学生也是个大水车，啥也不懂全靠push intern干活）（补充一下，这个确实，xcw有很多不要脸的狗腿）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 881,
+      "at_to": 898,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b50c19dda422106",
+          "style": "NORMAL_TEXT",
+          "text": "招进来几个学生跑几个学生"
+        },
+        {
+          "content_hash": "d4289bbce4807db8",
+          "style": "NORMAL_TEXT",
+          "text": "扬言要打学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
