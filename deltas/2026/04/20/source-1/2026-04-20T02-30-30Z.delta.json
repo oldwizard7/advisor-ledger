@@ -1,0 +1,292 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-26-10Z",
+    "revision_id": "AMHacu4E1SudGjpIlHtpEWDbI4mDrdsCN8YwtSm9KHFTRIVYbB9jvs_0RUo9kgCDU4PsF-Gr3Knxh9iX7RtQK4q4tg",
+    "paragraph_count": 819
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-30-30Z",
+    "revision_id": "AMHacu6suvVChq54MwtTaaU9wMrFu8MEC20OeSrseNs4zqj_W78lcfZXTajAWCTM1BaQtup86sCTIt8MVmHfezy7EA",
+    "paragraph_count": 837
+  },
+  "summary": {
+    "inserted_paragraphs": 26,
+    "deleted_paragraphs": 8,
+    "operations": 14,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0098,
+    "insertion_ratio": 0.0311
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 17,
+      "paragraphs": [
+        {
+          "content_hash": "bab75adc126320f1",
+          "style": "HEADING_1",
+          "text": "USw"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 27,
+      "paragraphs": [
+        {
+          "content_hash": "68797064a656ce6d",
+          "style": "NORMAL_TEXT",
+          "text": "只会DM GNN 灌水那一套，发表大量academic rubbish paper"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 37,
+      "at_to": 40,
+      "from_paragraphs": [
+        {
+          "content_hash": "130fe0a1aa27a1c7",
+          "style": "NORMAL_TEXT",
+          "text": "UQ, Yujun Cai"
+        },
+        {
+          "content_hash": "09528a7e9c19e672",
+          "style": "NORMAL_TEXT",
+          "text": "Yiwei Wang 夫妻店（后面是不是有？而且澳大利亚的别写到美国这个）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f00ce11c2b50e506",
+          "style": "NORMAL_TEXT",
+          "text": "TAMU/Rice Xia Hu"
+        },
+        {
+          "content_hash": "0a25194b0c6d5705",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃回国内了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 221,
+      "at_to": 222,
+      "from_paragraphs": [
+        {
+          "content_hash": "dec0458330ef9db9",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "677dc5300f42c2b6",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他招的外国学生水平都很低，留着当吉祥物用的，从下面的韩国人女 AP 就能看出来）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 227,
+      "paragraphs": [
+        {
+          "content_hash": "e238653ef112b06a",
+          "style": "NORMAL_TEXT",
+          "text": "他招的外国学生都不怎么干活，大部分水平也都很低，留着当吉祥物yong"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 277,
+      "at_to": 277,
+      "from_paragraphs": [
+        {
+          "content_hash": "b068e86c622d17c9",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a85c1c8104a0cf13",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 307,
+      "at_to": 307,
+      "from_paragraphs": [
+        {
+          "content_hash": "5cff9594690c7f73",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 (15min自我介绍 15min讲一篇指定paper 15min讲一个followup)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a593a92186d9278f",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 (不知道问题在哪，很科学的面试流程，15min自我介绍，15min讲一篇指定paper看阅读能力，15min讲一个具体的followup看科研能力。你给说成啥了，他缺你那点idea吗)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 309,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 610,
+      "paragraphs": [
+        {
+          "content_hash": "d3a9146376ca26e3",
+          "style": "NORMAL_TEXT",
+          "text": "似乎是bu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 651,
+      "paragraphs": [
+        {
+          "content_hash": "047880d228ad6610",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Stanford的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "98fc3a9762837e1f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有MIT的瓜，求求🥺"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 656,
+      "paragraphs": [
+        {
+          "content_hash": "b7b72130f82dc5d5",
+          "style": "NORMAL_TEXT",
+          "text": "懂得都懂"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 695,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 698,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7a89fc6c1d0c3119",
+          "style": "NORMAL_TEXT",
+          "text": "HKU chen ran"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 831,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "86936315fce40c12",
+          "style": "HEADING_1",
+          "text": "AU"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "130fe0a1aa27a1c7",
+          "style": "NORMAL_TEXT",
+          "text": "UQ, Yujun Cai"
+        },
+        {
+          "content_hash": "09528a7e9c19e672",
+          "style": "NORMAL_TEXT",
+          "text": "Yiwei Wang 夫妻店（后面是不是有？而且澳大利亚的别写到美国这个）"
+        }
+      ]
+    }
+  ]
+}

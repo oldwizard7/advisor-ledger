@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-30-30Z.delta.json",
+  "delta_ts": "2026-04-20T02-30-30Z",
+  "reviewed_at_utc": "2026-04-20T02:31:01Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion adds unsupported personal insults regarding sexual behavior and psychological state ('性压抑太严重', '约炮失败还恼羞成怒') that constitute pure character attack rather than criticism of concrete advising practices",
+      "excerpt": "（在微信约炮胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）"
+    }
+  ],
+  "prompt_sha256": "b748a93609e2a89ece52bf55dc9949f783733390a7b55e0e08e5e5e1661d4c0b",
+  "finish_reason": "stop",
+  "completion_tokens": 2424
+}
