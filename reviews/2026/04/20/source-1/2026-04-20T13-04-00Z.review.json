@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-04-00Z.delta.json",
+  "delta_ts": "2026-04-20T13-04-00Z",
+  "reviewed_at_utc": "2026-04-20T13:04:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of student (Yufei Ding) identified alongside specific allegations about admissions and conduct",
+      "excerpt": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment using derogatory gendered term '学术妲己' (academic Daji) against a student",
+      "excerpt": "纯学术妲己"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of substantive allegations regarding NJIT professor Hao Wang's policy violations, idea theft, and harassment claims, not merely cleanup",
+      "excerpt": "NJIT hao wang...老婆是在多大当TA的时候勾搭上的，违反policy，读书期间抢idea，不止一次想追同组女生"
+    }
+  ],
+  "prompt_sha256": "e4511af17f58ce1d3be7e48f1d8245667106d50762b96a8a38c9aa97770a9960",
+  "finish_reason": "stop",
+  "completion_tokens": 4573
+}

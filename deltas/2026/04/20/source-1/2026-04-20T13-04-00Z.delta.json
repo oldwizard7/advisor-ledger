@@ -1,0 +1,131 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-01-52Z",
+    "revision_id": "AMHacu7GqttIhV-TyXII0-CSUofSbBywfR4ojqt9u9_GF8JXkti8b_SA5VpNUi7J2FtBx-TycK3mfNHoFiv5yYHFLg",
+    "paragraph_count": 1874
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-04-00Z",
+    "revision_id": "AMHacu6NWPjjhmA8W-7-gEMym0UD3gJk3u2bXKmH8DsbCCUvKSTGG-_4j7y1So6DP5rd9riKdSU4D3RsyqonyFKX5A",
+    "paragraph_count": 1872
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 7,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0027
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 558,
+      "paragraphs": [
+        {
+          "content_hash": "429d0ef13a49527b",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？ (点赞)被ucb取消offer 还有这事，那stf为啥不取消？ stf on hold 了，但后来北大没作为，因此又给offer了北大也是离谱"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 559,
+      "paragraphs": [
+        {
+          "content_hash": "4e89cd2fa6be07ca",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？被ucb取消offer 还有这事，那stf为啥不取消？ (点赞)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 622,
+      "at_to": 622,
+      "from_paragraphs": [
+        {
+          "content_hash": "b85a4c68798535c2",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a23cc1a8abf33b92",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1551,
+      "paragraphs": [
+        {
+          "content_hash": "08647e9891664351",
+          "style": "NORMAL_TEXT",
+          "text": "NJIT hao wang (被删了？)"
+        },
+        {
+          "content_hash": "0029cb22b2004090",
+          "style": "NORMAL_TEXT",
+          "text": "老婆是在多大当TA的时候勾搭上的，违反policy，读书期间抢idea，不止一次想追同组女生，分手或失败以后暗戳戳背地里搞人，散播谣言，可以看看他的导师UofT baochun li，上梁不正下梁歪"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1637,
+      "at_to": 1634,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f91cb46ed5fa78f4",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK, Douqi"
+        },
+        {
+          "content_hash": "bca468fd287807f8",
+          "style": "NORMAL_TEXT",
+          "text": " 曾经的知乎“红人”，高强度自搜，举报所有帖子。之前知乎"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1672,
+      "at_to": 1670,
+      "from_paragraphs": [
+        {
+          "content_hash": "f2b409fad74951ea",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说1、2都是多少年的小黑子纠纷，组里学生在工业界的出路都是非常好的，参见实验室网站；luchen打工更是无稽之谈，目前为了避嫌没有学生正在luchen里实习）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "200c2598cce68039",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说1、2都是多少年的小黑子纠纷，组里学生在工业界/学术界的出路都是非常好的，参见实验室网站；luchen打工更是无稽之谈，目前为了避嫌没有学生正在luchen里实习）"
+        }
+      ]
+    }
+  ]
+}
