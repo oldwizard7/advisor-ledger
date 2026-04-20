@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-02-40Z.delta.json",
+  "delta_ts": "2026-04-20T02-02-40Z",
+  "reviewed_at_utc": "2026-04-20T02:03:52Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of racial slur '棒子姐' (a derogatory term for Koreans) to attack a female professor's character",
+      "excerpt": "韩国的那个棒子姐确实名声很差"
+    },
+    {
+      "type": "pii",
+      "detail": "Mention of specific student intern by name/nickname '小ken' in a negative context, potentially identifying a private individual",
+      "excerpt": "路人看完对intern小ken"
+    }
+  ],
+  "prompt_sha256": "eebe552982f56d47c54bf9b9a2e2734a249aca93ca7f4b1a110485d9e3fce786",
+  "finish_reason": "stop",
+  "completion_tokens": 6027
+}

@@ -1,0 +1,222 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-00-30Z",
+    "revision_id": "AMHacu6k0t7Nk10jsw3k88AoPqOHPTTG1vtym3OZ8Ndjv_pfIrDeZZWuAU4QozPAZ_8B3IBBcgZ1Cuji-O47a-39XA",
+    "paragraph_count": 749
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-02-40Z",
+    "revision_id": "AMHacu4rd8MOPRI5F9Wvpu4jhmLEzdmuQO8UBYEA0LLypFeVQV1Uk9Bgq03ju6rrWzdODZ53AL7Mx5zPJctOWZ8tHA",
+    "paragraph_count": 753
+  },
+  "summary": {
+    "inserted_paragraphs": 12,
+    "deleted_paragraphs": 8,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0107,
+    "insertion_ratio": 0.0159
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 194,
+      "at_to": 194,
+      "from_paragraphs": [
+        {
+          "content_hash": "c37a80abdd1c734e",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他de)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0dc5395f01bd00f",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他的某个美国 AP学生有聊过，感觉人很好（不知道能不能说名字）（难说，我前导师也是他学生，也是AP，有毒的很）)（UVA和罗格斯塞进去俩个女生进去做ap，圈子里面都知道是走后门，韩国女生说什么发nature science，结果就一页纸）（太真实了，UVA那个真的也很有毒）（那个韩国的是吧，韩国的那个棒子姐确实名声很差）（\tUVA那个太水了，做的d）（UofA）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 196,
+      "at_to": 196,
+      "from_paragraphs": [
+        {
+          "content_hash": "814e5a2308f3514a",
+          "style": "NORMAL_TEXT",
+          "text": "此人面相就一脸圆滑，没搞过什么正经工作出来过，混圈子的王，天天水EDA圈子"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eb6f3a57394f10b6",
+          "style": "NORMAL_TEXT",
+          "text": "此人面相就一脸圆滑，没搞过什么正经工作出来过，只会让学生干这干那然后自己出去吹嘘，混圈子的王，天天水EDA圈子"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 199,
+      "at_to": 199,
+      "from_paragraphs": [
+        {
+          "content_hash": "1e37abf223de0955",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）biwei人这么好。。。完全好人来的 哪里来的离谱听说脾气不好。。。(老师脾气很好不 push,)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f228c3dc22521351",
+          "style": "NORMAL_TEXT",
+          "text": "老师在创业，跟着她很难发paper，而且听说这个老师脾气很不好（她这创业项目看乐我一大批商科同学）（Biwei也有人喷？）biwei人这么好。。。完全好人来的 哪里来的离谱听说脾气不好。。。(老师脾气很好不 push,创业没那么多精力带学生可能是的，但脾气真的好)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 208,
+      "at_to": 208,
+      "from_paragraphs": [
+        {
+          "content_hash": "42b86f36b07ece88",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4dec1f9ff228f6ff",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平很强，但是人品有点一言难尽。之前在USC的时候招的PhD一个都没带到Princeton，现在又去Berkeley高就了（去berkeley的前一年还招了个学生，也没带走，留在pton不管）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 264,
+      "paragraphs": [
+        {
+          "content_hash": "f2079ff33243529f",
+          "style": "NORMAL_TEXT",
+          "text": "不给组里学生实习？就是和工业界的关系搞得很差"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 296,
+      "at_to": 297,
+      "from_paragraphs": [
+        {
+          "content_hash": "233c1b87ae25ef01",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，不懂技术，纯靠学生探索 (啊？？真嘟假嘟) graph area还是有点名气的吧。怎么就水平低了，拿点concrete example出来可以不"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bd7e729b104ed690",
+          "style": "NORMAL_TEXT",
+          "text": "水平低，不懂技术，纯靠学生探索 (啊？？真嘟假嘟) gnn还是有点名气的吧。怎么就水平低了，拿点concrete example出来可以不"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 300,
+      "at_to": 301,
+      "from_paragraphs": [
+        {
+          "content_hash": "0352b06859ae5363",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊，摸着自己的良心"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "310a88dd316278fe",
+          "style": "NORMAL_TEXT",
+          "text": "实习生有人道心破碎直接回国保研了 看记录https://the-hidden-fish.github.io/advisor-ledger/，这句话加了又删，小红书都被不同人给挂了还洗啊，摸着自己的良心 （什么原因道心破碎了。放点事实可以不，别净人身攻击了。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 447,
+      "at_to": 448,
+      "from_paragraphs": [
+        {
+          "content_hash": "38980386d1379d98",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作，去nw绰绰有余了吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "725b7aa33fe3e650",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top  paper还要么是一作/共一，要么是尾作)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 454,
+      "at_to": 455,
+      "from_paragraphs": [
+        {
+          "content_hash": "385259321152a6ed",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "62374a665b150c1a",
+          "style": "NORMAL_TEXT",
+          "text": "5. 欢迎补充 （路人看完对intern小ken"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 699,
+      "paragraphs": [
+        {
+          "content_hash": "9790534e6f3f7dbd",
+          "style": "NORMAL_TEXT",
+          "text": "这人真的算thu吗我忽然请问（"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 720,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 732,
+      "paragraphs": [
+        {
+          "content_hash": "ba6165f241b34f03",
+          "style": "NORMAL_TEXT",
+          "text": "让保研生暑假打了几个月工，说99%可以拿offer。结果被鸽"
+        }
+      ]
+    }
+  ]
+}
