@@ -1,0 +1,75 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-59-00Z",
+    "revision_id": "AMHacu7e-t5s7ETitMT_870A_Fg21anYEg1WZeXSoSupqWnrzqwyN3_dzg1qpaTlmaGun5KSfsdvxuJA6K_pU2vA5w",
+    "paragraph_count": 2035
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T18-01-10Z",
+    "revision_id": "AMHacu6SaQfRTtmI8bYHtZa9AJsPU3JmVag_Ltt2rzRDi6UlI5xdSlhpWifDF1ct8nrtzEHBIaP5xZEOlYMh5KysLQ",
+    "paragraph_count": 2036
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 2,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.001,
+    "insertion_ratio": 0.0015
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 146,
+      "at_to": 146,
+      "from_paragraphs": [
+        {
+          "content_hash": "2df329b71047cb56",
+          "style": "NORMAL_TEXT",
+          "text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗？最多的一个人也就投稿了32篇，谢谢"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "984b80a863b3ad0f",
+          "style": "NORMAL_TEXT",
+          "text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 841,
+      "paragraphs": [
+        {
+          "content_hash": "43388ac1fc6b146c",
+          "style": "NORMAL_TEXT",
+          "text": "推荐信比较客观，不会写得太夸张"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1817,
+      "at_to": 1818,
+      "from_paragraphs": [
+        {
+          "content_hash": "b01e11cccdb79c2c",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9fc3981422da3365",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事N天不回复的）"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T18-01-10Z.delta.json",
+  "delta_ts": "2026-04-20T18-01-10Z",
+  "reviewed_at_utc": "2026-04-20T18:01:41Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Added parenthetical describes specific student misconduct (caught running experiments for other groups, N-day non-response to RA tasks) detailed enough to de-anonymize individuals within the lab",
+      "excerpt": "（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事N天不回复的）"
+    }
+  ],
+  "prompt_sha256": "f2389a64febb926530e07517c692630438f3c4b458c2857a30c1b6f40acb6946",
+  "finish_reason": "stop",
+  "completion_tokens": 2463
+}

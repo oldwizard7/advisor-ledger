@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T18-01-10Z",
+  "reviewed_at_utc": "2026-04-20T18:01:53Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 2,
+  "n_inserts": 3,
+  "pairs": [
+    {
+      "ghost_hash": "2df329b71047cb56",
+      "insert_hash": "984b80a863b3ad0f",
+      "note": "truncated, removed latter part",
+      "ghost_text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗？最多的一个人也就投稿了32篇，谢谢",
+      "insert_text": "btw，并没有投稿44篇哦，iclr统计网站你没看过吗"
+    },
+    {
+      "ghost_hash": "b01e11cccdb79c2c",
+      "insert_hash": "9fc3981422da3365",
+      "note": "added parenthetical explanation",
+      "ghost_text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去",
+      "insert_text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事N天不回复的）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1493,
+  "skipped_reason": null
+}
