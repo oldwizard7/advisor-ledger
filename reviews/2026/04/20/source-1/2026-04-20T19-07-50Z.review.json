@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-07-50Z.delta.json",
+  "delta_ts": "2026-04-20T19-07-50Z",
+  "reviewed_at_utc": "2026-04-20T19:09:14Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported rumor about professor's personal conduct (affair) presented as character judgment rather than advising practice critique",
+      "excerpt": "UCSB Lingqi yan 坊间传说和女博后出轨，老婆闹到学校"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Replacement of specific criticism with watered-down versions that contradict original claims (e.g., adding 'never scolded anyone' after 'bad temper', 'true but changed' after 'many quit'), suppressing substantive observations",
+      "excerpt": "长期PUA组内学生，实习期间高强度打工；Depends on projects...多人quit；true, but changed"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal attack on identified student (influencer) attacking character and academic ability",
+      "excerpt": "组里有著名xhs学术女网红(Blue whale?)，tpami是被送的，学术能力为0，人是最mean的"
+    }
+  ],
+  "prompt_sha256": "1c22fc616a4595cbe9f261ed24c1ab2d3a33d4c2a42e58a62e6f058afccee0e9",
+  "finish_reason": "stop",
+  "completion_tokens": 6980
+}

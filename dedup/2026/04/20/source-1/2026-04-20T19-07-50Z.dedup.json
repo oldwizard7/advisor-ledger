@@ -1,0 +1,76 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T19-07-50Z",
+  "reviewed_at_utc": "2026-04-20T19:10:09Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 11,
+  "n_inserts": 18,
+  "pairs": [
+    {
+      "ghost_hash": "7a8d469950a59289",
+      "insert_hash": "90fd0034181c9129",
+      "note": "completed truncated parenthetical",
+      "ghost_text": "对intern的态度都很好，给人的感觉很和蔼。（你没事吧）（you ju",
+      "insert_text": "对intern的态度都很好，给人的感觉很和蔼。（你没事吧）（我真挺愉快的，好奇你有多不愉快）"
+    },
+    {
+      "ghost_hash": "2bf7861dbe9b2e57",
+      "insert_hash": "de56d1d99edc7910",
+      "note": "added research interest comment",
+      "ghost_text": "N体验）",
+      "insert_text": "N体验）（感觉他之前的research工作都挺有意思的）"
+    },
+    {
+      "ghost_hash": "b60df1666d6128b6",
+      "insert_hash": "aa7efc71ffd1d3e3",
+      "note": "added project stats defense",
+      "ghost_text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题) （就硬黑，）",
+      "insert_text": "他那篇nature子刊说数据都是编的，这件事后来还让james zou也知道了，很多人后来没和sun合作了 (这个就有点当别人是傻子了，这个项目人家完全开源，checkpoint也有，我跑过，没啥问题) （就硬黑，项目700+星，引用600+，全开源）"
+    },
+    {
+      "ghost_hash": "993737650a9e2e96",
+      "insert_hash": "e1e23fb5219c417c",
+      "note": "added conference comparison",
+      "ghost_text": "只考虑icml/neurips，说某些其他领域顶会=arxiv （666）",
+      "insert_text": "只考虑icml/neurips，说某些其他领域顶会=arxiv （666）（现在顶会都彼此彼此吧）"
+    },
+    {
+      "ghost_hash": "33553011ed0b83f2",
+      "insert_hash": "6fb423c87b748ad1",
+      "note": "added reaction tag",
+      "ghost_text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）(逆天)",
+      "insert_text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）(逆天)（牛666）"
+    },
+    {
+      "ghost_hash": "dea921c51e25408b",
+      "insert_hash": "27b1bc93d560d3c9",
+      "note": "added project dependency caveat",
+      "ghost_text": "长期PUA组内学生，实习期间高强度打工",
+      "insert_text": "长期PUA组内学生，实习期间高强度打工；Depends on projects，合作 PIs，合作PhDs"
+    },
+    {
+      "ghost_hash": "ef84e711dc0fccaa",
+      "insert_hash": "6449b593fb487df9",
+      "note": "added 'never swore' clarification",
+      "ghost_text": "Push家常便饭，脾气差，心里折磨",
+      "insert_text": "Push家常便饭，脾气差，心里折磨；没骂过人"
+    },
+    {
+      "ghost_hash": "63f97816edf58146",
+      "insert_hash": "cae3cde846a84c71",
+      "note": "added quit status clarification",
+      "ghost_text": "多人quit",
+      "insert_text": "多人quit；true, but changed"
+    },
+    {
+      "ghost_hash": "b3237624aa1d45bd",
+      "insert_hash": "e4f7b0ce3bfefdc8",
+      "note": "added counter about deleted comments",
+      "ghost_text": "\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统LightRAG的使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我只知道他们的开源系统算是最接近系统级的了，反正我周边研究生同学们用的挺多的)  (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...) 。组里做过实习完全不push，非常支持博士实习，申请都是强推。上过课也meeting过course project，周边的人接触过的都感觉很nice的，也很尊重学生。用过他们的开源项目，当时一打开发现他们好几个项目是天天都在更新...(这一点在学术界已经很少见了) （支持黄老师去红榜，就冲对学生很好）（666控评是吧，）",
+      "insert_text": "\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统LightRAG的使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我只知道他们的开源系统算是最接近系统级的了，反正我周边研究生同学们用的挺多的)  (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...) 。组里做过实习完全不push，非常支持博士实习，申请都是强推。上过课也meeting过course project，周边的人接触过的都感觉很nice的，也很尊重学生。用过他们的开源项目，当时一打开发现他们好几个项目是天天都在更新...(这一点在学术界已经很少见了) （支持黄老师去红榜，就冲对学生很好）（666控评是吧，造假买星的评论咋给删了，果然很符合之前评论里说的威胁洗贴的论断）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 7195,
+  "skipped_reason": null
+}
