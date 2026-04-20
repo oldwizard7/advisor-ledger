@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-03-30Z.delta.json",
+  "delta_ts": "2026-04-20T19-03-30Z",
+  "reviewed_at_utc": "2026-04-20T19:04:40Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Initials 'zwj' identify a specific student involved in the mentioned Stanford PhD cheating scandal, serving as a lab-specific descriptor detailed enough to de-anonymize the individual",
+      "excerpt": "(zwj? 很有名了hh)"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion of substantive discussion about UCLA professor Quanquan Gu including specific allegations regarding student conflicts, idea theft, and personal conduct, suppressing detailed legitimate observations about this advisor",
+      "excerpt": "UCLA Quanquan Gu (存在争议，请谨慎识别)"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive content about UPenn professor Lingjie Liu including specific student attrition rates, advising practices, and past controversies, removing legitimate observations rather than performing cleanup",
+      "excerpt": "UPenn Lingjie Liu\n水平很差，控制欲强，对学生很差"
+    }
+  ],
+  "prompt_sha256": "cc8fd78f6e327f77fd5d5ed120a328fefadec78f05f26ca4c3f88432d6312d24",
+  "finish_reason": "stop",
+  "completion_tokens": 5231
+}
