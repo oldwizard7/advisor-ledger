@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-01-30Z.delta.json",
+  "delta_ts": "2026-04-20T14-01-30Z",
+  "reviewed_at_utc": "2026-04-20T14:02:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive observation about advisor Sewon Min regarding coding interview requirements and micromanagement practices, not merely cleanup",
+      "excerpt": "UC Berkeley, Sewon Min\nIntern进组要先考一轮coding interview，micromanage (这也算黑点？)"
+    },
+    {
+      "type": "pii",
+      "detail": "Full name of student (ding yufei) disclosed in context of personal relationships and academic reputation at PKU",
+      "excerpt": "ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Direct insult using derogatory term (脑残) directed at professor Yue Wang",
+      "excerpt": "yue是脑残吗"
+    }
+  ],
+  "prompt_sha256": "3a3139c5963b040fe8a5c32b6613e7ec3cd124d50d75c509c882c0e4adb66d27",
+  "finish_reason": "stop",
+  "completion_tokens": 2399
+}

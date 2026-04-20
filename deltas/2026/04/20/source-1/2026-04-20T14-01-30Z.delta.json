@@ -1,0 +1,77 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-59-20Z",
+    "revision_id": "AMHacu6KMdL7fae2KKKgZBAUL_-mNklFhAMy4BkYQh7Dvcgctds3R4UifruRKFDOAzwcqdiyq_0xvhyx_HupTnB7rw",
+    "paragraph_count": 1902
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-01-30Z",
+    "revision_id": "AMHacu4Fkem-nEpZXuL9qoDq9eP3smfbBpT9PJMXkBwtvuKr-zHNq5D1ADKHFbdQF-3htrNzOxwJR1UNEoZkUv1KyA",
+    "paragraph_count": 1900
+  },
+  "summary": {
+    "inserted_paragraphs": 2,
+    "deleted_paragraphs": 4,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0021,
+    "insertion_ratio": 0.0011
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 237,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7b4a7aa0a470fd2d",
+          "style": "NORMAL_TEXT",
+          "text": "UC Berkeley, Sewon Min"
+        },
+        {
+          "content_hash": "86c6b100659f5628",
+          "style": "NORMAL_TEXT",
+          "text": "Intern进组要先考一轮coding interview，micromanage (这也算黑点？)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 575,
+      "paragraphs": [
+        {
+          "content_hash": "c9a9b4ba7620f7f3",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1684,
+      "at_to": 1682,
+      "from_paragraphs": [
+        {
+          "content_hash": "259f2a59b694a582",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "be160c4dbc96dabc",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢) （这还有打拳的，要打你们去xhs上单独开贴对打。。。）"
+        }
+      ]
+    }
+  ]
+}
