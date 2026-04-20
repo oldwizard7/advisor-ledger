@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-24-22Z.delta.json",
+  "delta_ts": "2026-04-20T17-24-22Z",
+  "reviewed_at_utc": "2026-04-20T17:25:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Pure personal attack containing insults ('好恶心' / disgusting, '利益相关者jian' / derogatory slur, '踩着别人的尸骨上位' / stepping on others' bones) without substantive criticism of advising practices.",
+      "excerpt": "这种人好恶心，光是看到都气得发抖了，若干年后踩着别人的尸骨上位之后再装作一副伪善的样子又是一堆人美美吻上去了，利益相关者jian"
+    }
+  ],
+  "prompt_sha256": "2e87b44fba1e737b5865a6e852c448fd93ebc5685b3fad83b1ef4bb86cc954ba",
+  "finish_reason": "stop",
+  "completion_tokens": 3740
+}
