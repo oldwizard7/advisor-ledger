@@ -1,0 +1,166 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-04-20Z",
+    "revision_id": "AMHacu60yeaDk4XD2OpTYthUzOqqEhjlOTjD05PEJ7xN_wWlaYvKEJdnKtRAcojUmG8VAf4874nRukdbIejNW3UMqg",
+    "paragraph_count": 1216
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-06-25Z",
+    "revision_id": null,
+    "paragraph_count": 1203
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 16,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0132,
+    "insertion_ratio": 0.0025
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 65,
+      "at_to": 65,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1dc90dc65f8a428",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？哥们你是什么心灵导师嘛？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "160dfcdaf59526f3",
+          "style": "NORMAL_TEXT",
+          "text": "(楼上+1) (楼上从前不知道不予评价那就请别把toxic当成空穴来风，eth 四大毒王之一就是四大毒王之一，eth 学生都知道的谈什么空穴来风？办公室里用f words问候学生，交代任务定成当天的 ddl，手下的phd student quit的也是空穴来风？劝楼上不要尬赞，很可能只是你是outlier)（一般对内对外都是两副嘴脸，要是合作者都感觉toxic那真别混了）（并非独立合作者，和其目前所有学生都有交流，所得出的关心和supportive都是亲身经历和其目前学生的评价，之前的情况确实不知道也不确定楼上所说是否属实，现在的supportive却都是亲身经历保真）（乐了你问他目前学生谁会和你掏心窝子说话？你的这句保真在我这边可信度为0 哥们你是什么心灵导师嘛？另外人家现在tenure又跑startup的不那么管了不代表之前ap的那摊子破事就可以就此揭过，人家毒王兄弟fisher yu现在在华某为做的好好的等于他之前是个好人？P.S 看你一副合作者的态度"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 85,
+      "at_to": 85,
+      "from_paragraphs": [
+        {
+          "content_hash": "dd28fc5941b54d1b",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（嫉妒人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "00e7c60b4962ae7a",
+          "style": "NORMAL_TEXT",
+          "text": "【就是个臭里海的口气还那么大，真以为自己是什么玩意啊？滚去写你的survey去吧（嫉妒人家survey 引用高了？😄）】(楼上+1)（别搞学校歧视好吗）（人身攻击？你以为你是莽村李宏伟？）(笑死我了）（谴责学校/人身攻击）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 717,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 720,
+      "at_to": 719,
+      "from_paragraphs": [
+        {
+          "content_hash": "0d8db046dde5f818",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给学生，可以说比起以前更像是用爱发电。对于年轻老师而言，在繁忙的工作/项目压力下"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b395f57ab80f64c5",
+          "style": "NORMAL_TEXT",
+          "text": "人在manling组，来帮老师说几句。首先，深感现在学术圈戾气太重。。师生矛盾过于常见以至于骂导师似乎成为了一种政治正确，但在公共平台发言，个人认为应该区分开哪些是个人经历带来的情绪和偏见，哪些是对后来人有价值的客观讨论。其次，作为在Manling组待过很长时间的老人，我眼里的manling谦逊温和，也尽自己所能的考虑大家的需求。在这个帖子下面说“只会浪费intern时间，无指导无资源”的说法，我觉得并不公平。我觉得有了vibe coding之后，现在的科研环境本来就发生了很大的变化。老师愿意花时间给Junior学生，可以说比起以前更像是用爱发电。对于年轻老师而言，在繁忙的工作/项目压力下，还愿意额外投入时间找方向，给反馈，对于commitment很少的RA来说不是理所当然的义务。。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 741,
+      "paragraphs": [
+        {
+          "content_hash": "2ba7345e00488e91",
+          "style": "NORMAL_TEXT",
+          "text": "我是MindCube的共同一作的PhD学生，特此想来这里澄清一下关于MindCube所谓“抢Intern credits”的相关事宜。关于 MindCube 这篇工作的 authorship，我想澄清一些事实。"
+        },
+        {
+          "content_hash": "c35c0d117cf3b47b",
+          "style": "NORMAL_TEXT",
+          "text": "我从项目启动之初就是 co-first author，这一点在最初的分工中已经明确。我的职责包括与合作者讨论 idea refinement、实验设计、annotation scheme 设计、human annotator 对接流程，以及 benchmark analysis 的方向。"
+        },
+        {
+          "content_hash": "0c19aa7db4baa3d3",
+          "style": "NORMAL_TEXT",
+          "text": "在后续的推进过程中，我的 contribution 持续增长。具体而言，我承担了以下工作："
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 745,
+      "paragraphs": [
+        {
+          "content_hash": "3db582ca0621c09f",
+          "style": "NORMAL_TEXT",
+          "text": "正文的绝大部分写作"
+        },
+        {
+          "content_hash": "7a9d87f50c255fd8",
+          "style": "NORMAL_TEXT",
+          "text": "storyline 和 framing 的多轮迭代（与其他 collaborators 共同推进）"
+        },
+        {
+          "content_hash": "5f62750e4ec924ce",
+          "style": "NORMAL_TEXT",
+          "text": "后续 analysis 实验的设计与代码实现"
+        },
+        {
+          "content_hash": "4c25255f2c188081",
+          "style": "NORMAL_TEXT",
+          "text": "正文中全部的 figures 的制作"
+        },
+        {
+          "content_hash": "c595514edf237dd1",
+          "style": "NORMAL_TEXT",
+          "text": "项目网页的搭建"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "631da787fa3284ca",
+          "style": "NORMAL_TEXT",
+          "text": "我的合作者（即该 intern）同样做出了重要贡献，包括 initial idea drafting、数据收集（这是一项大量的工作，我完全认可）、实验讨论与分析参与，以及 appendix 前几章的撰写。"
+        },
+        {
+          "content_hash": "c173b7b493ff9d4d",
+          "style": "NORMAL_TEXT",
+          "text": "关于作者排序：我们在暑期合作期间就已经就 credit assignment 进行了充分讨论，最终双方一致同意按姓名字母序排列。这是一个双方认可的决定，不存在任何一方\"被抢 credit\"的情况。"
+        },
+        {
+          "content_hash": "ecf41f28e15e32dd",
+          "style": "NORMAL_TEXT",
+          "text": "以上是事实。希望在讨论中能够基于事实，而非揣测。"
+        }
+      ]
+    }
+  ]
+}
