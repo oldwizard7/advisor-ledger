@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-59-20Z",
+  "reviewed_at_utc": "2026-04-20T14:00:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 7,
+  "n_inserts": 5,
+  "pairs": [
+    {
+      "ghost_hash": "4a344b5eec5e88e8",
+      "insert_hash": "b235ff365c377c74",
+      "note": "added parenthetical question",
+      "ghost_text": "论文数据造假，美化数据",
+      "insert_text": "论文数据造假，美化数据 （需要证据？）"
+    },
+    {
+      "ghost_hash": "3f859b4d02def86b",
+      "insert_hash": "3ce6673f4bdddf6c",
+      "note": "completed cut-off sentence",
+      "ghost_text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很轻易qian'z",
+      "insert_text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很容易就能抢占学弟的科研成果，而这件事在组里是被导师默许的。"
+    },
+    {
+      "ghost_hash": "2517555a581b7078",
+      "insert_hash": "9c11ed5adba8dc0c",
+      "note": "completed parenthetical note",
+      "ghost_text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为知道的，另外）",
+      "insert_text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为知道的，另外还有一些是从别的老师那跑到May这的）"
+    },
+    {
+      "ghost_hash": "f0c6eadbe2a5781d",
+      "insert_hash": "ba325e6426f4ee8a",
+      "note": "added comment at end",
+      "ghost_text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）",
+      "insert_text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）（junxian要走了，ust nlp缺少顶梁柱了。）"
+    },
+    {
+      "ghost_hash": "846b5b18ce6fe5b6",
+      "insert_hash": "f5ea676d7bcc122b",
+      "note": "added defensive clarification",
+      "ghost_text": "小红书bio里写升学辅导，这钱也要赚？",
+      "insert_text": "小红书bio里写升学辅导，这钱也要赚？（这个有点尬黑，欺负may中文不好是吧。她也不收费，单纯提供一些信息罢了。）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2292,
+  "skipped_reason": null
+}

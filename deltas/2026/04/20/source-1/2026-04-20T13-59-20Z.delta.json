@@ -1,0 +1,137 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-57-15Z",
+    "revision_id": "AMHacu5sroysR2Tfmj8Ipal7J_Y4qgk4z9Oc-XDoOGY4hJZ_05ZgQW_6evlSlpJQgjhftDNNpjt1Edz5ljVclxMtWw",
+    "paragraph_count": 1904
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-59-20Z",
+    "revision_id": "AMHacu6KMdL7fae2KKKgZBAUL_-mNklFhAMy4BkYQh7Dvcgctds3R4UifruRKFDOAzwcqdiyq_0xvhyx_HupTnB7rw",
+    "paragraph_count": 1902
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 7,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0026
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 119,
+      "at_to": 119,
+      "from_paragraphs": [
+        {
+          "content_hash": "4a344b5eec5e88e8",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b235ff365c377c74",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据 （需要证据？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 433,
+      "at_to": 433,
+      "from_paragraphs": [
+        {
+          "content_hash": "3f859b4d02def86b",
+          "style": "NORMAL_TEXT",
+          "text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很轻易qian'z"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3ce6673f4bdddf6c",
+          "style": "NORMAL_TEXT",
+          "text": "组里没有组会，大部分一般学生几个月见不到一次导师。而论文是否能投稿，科研进展如何纯靠带的师兄给导师汇报，师兄很容易就能抢占学弟的科研成果，而这件事在组里是被导师默许的。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 578,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c9a9b4ba7620f7f3",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）(不就是ghr的npy吗？ding yufei 在pku赫赫有名) yue是脑残吗? 怎么可能(你还别说，我也震惊了，但确实是真的)(能细说吗？给ta写强推不至于给别人写黑推吧？) 我听到的版本没说黑推，但说其他的都比最强的差一档，不管哪种都很离谱了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1675,
+      "at_to": 1673,
+      "from_paragraphs": [
+        {
+          "content_hash": "2517555a581b7078",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为知道的，另外）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c11ed5adba8dc0c",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为知道的，另外还有一些是从别的老师那跑到May这的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1677,
+      "at_to": 1675,
+      "from_paragraphs": [
+        {
+          "content_hash": "f0c6eadbe2a5781d",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ba325e6426f4ee8a",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）（junxian要走了，ust nlp缺少顶梁柱了。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1679,
+      "at_to": 1677,
+      "from_paragraphs": [
+        {
+          "content_hash": "846b5b18ce6fe5b6",
+          "style": "NORMAL_TEXT",
+          "text": "小红书bio里写升学辅导，这钱也要赚？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f5ea676d7bcc122b",
+          "style": "NORMAL_TEXT",
+          "text": "小红书bio里写升学辅导，这钱也要赚？（这个有点尬黑，欺负may中文不好是吧。她也不收费，单纯提供一些信息罢了。）"
+        }
+      ]
+    }
+  ]
+}

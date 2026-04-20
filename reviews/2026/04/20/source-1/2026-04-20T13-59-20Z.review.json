@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-59-20Z.delta.json",
+  "delta_ts": "2026-04-20T13-59-20Z",
+  "reviewed_at_utc": "2026-04-20T14:00:07Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive allegations about an advisor's recommendation letter practices (USC Yue Wang allegedly writing strong recommendations for a student who was not an intern while writing poor recommendations for actual interns). While the deleted text also contains PII (full name 'ding yufei') and ad hominem content ('yue是脑残吗'), the removal of the entire substantive claim about recommendation letter practices appears to suppress a legitimate observation about advising behavior rather than perform simple cleanup.",
+      "excerpt": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+    }
+  ],
+  "prompt_sha256": "a74518f0a2ae002a4e9f5b43b495c4318e7c15d24d175db44025912ae140c936",
+  "finish_reason": "stop",
+  "completion_tokens": 5015
+}
