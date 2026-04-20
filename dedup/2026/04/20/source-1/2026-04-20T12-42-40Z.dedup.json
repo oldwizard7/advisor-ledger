@@ -1,0 +1,34 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T12-42-40Z",
+  "reviewed_at_utc": "2026-04-20T12:43:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "a2940686c9139892",
+      "insert_hash": "c297078a0d9ec017",
+      "note": "appended (???) at end",
+      "ghost_text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）",
+      "insert_text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）(???)"
+    },
+    {
+      "ghost_hash": "be43edf92cb06225",
+      "insert_hash": "270297b490817881",
+      "note": "removed parenthetical note",
+      "ghost_text": "性压抑（具体就不说了，保护当事人）",
+      "insert_text": "性压抑"
+    },
+    {
+      "ghost_hash": "6b9f3122c52c47ba",
+      "insert_hash": "414e37fa8a7b8c26",
+      "note": "expanded CUHK SZ to full name",
+      "ghost_text": "\u000bCUHK SZ",
+      "insert_text": "\u000bCUHK Shenzhen （插眼等瓜）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1564,
+  "skipped_reason": null
+}

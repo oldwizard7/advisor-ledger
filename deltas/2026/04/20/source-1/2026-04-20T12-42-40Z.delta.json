@@ -1,0 +1,115 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-38-30Z",
+    "revision_id": "AMHacu5GbnkzA2LJ43N81GP33l5lhGnGQtGTGmuunw71xdZIeShBeLMBOFndZrZGwDVnIXPexU7EoZErv2TKt-u7Jw",
+    "paragraph_count": 1855
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-42-40Z",
+    "revision_id": "AMHacu4uvaILRIi_rz2QBj8rScmZGsRAL3tG7rohdR5clLnwJchveBEpXdv1juTSdkfOuDV4b7kwIfHmCtAvqDTtgA",
+    "paragraph_count": 1859
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 3,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0016,
+    "insertion_ratio": 0.0038
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 439,
+      "paragraphs": [
+        {
+          "content_hash": "f0973b5fbfc3c8cf",
+          "style": "NORMAL_TEXT",
+          "text": "zu'li"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 640,
+      "at_to": 641,
+      "from_paragraphs": [
+        {
+          "content_hash": "a2940686c9139892",
+          "style": "NORMAL_TEXT",
+          "text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c297078a0d9ec017",
+          "style": "NORMAL_TEXT",
+          "text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）(???)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1060,
+      "at_to": 1061,
+      "from_paragraphs": [
+        {
+          "content_hash": "be43edf92cb06225",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑（具体就不说了，保护当事人）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "270297b490817881",
+          "style": "NORMAL_TEXT",
+          "text": "性压抑"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1654,
+      "paragraphs": [
+        {
+          "content_hash": "65e7c786947c53ed",
+          "style": "NORMAL_TEXT",
+          "text": "PolyU Ping Li"
+        },
+        {
+          "content_hash": "d1c631ed94dec31d",
+          "style": "NORMAL_TEXT",
+          "text": "xhs名人，骂学生sb上了热帖"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1822,
+      "at_to": 1826,
+      "from_paragraphs": [
+        {
+          "content_hash": "6b9f3122c52c47ba",
+          "style": "NORMAL_TEXT",
+          "text": "\u000bCUHK SZ"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "414e37fa8a7b8c26",
+          "style": "NORMAL_TEXT",
+          "text": "\u000bCUHK Shenzhen （插眼等瓜）"
+        }
+      ]
+    }
+  ]
+}
