@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-11-30Z.delta.json",
+  "delta_ts": "2026-04-20T17-11-30Z",
+  "reviewed_at_utc": "2026-04-20T17:12:18Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student by ethnicity and academic status ('Middle Eastern MPhil'), which in a specific lab context is detailed enough to de-anonymize.",
+      "excerpt": "那个中东的Mphi刚来就被她踢走了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Uses the gendered slur 'academic Daji' (学术妲己), a character attack implying sexual manipulation without substantive evidence, constituting an unsupported character judgment.",
+      "excerpt": "学术妲己"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Contains profanity/insult using '出生' (euphemism for beast/animal) to describe the advisor's group.",
+      "excerpt": "出生窝"
+    }
+  ],
+  "prompt_sha256": "9157acc074ccb0f0c04b01af734bb6a8b0d22f23d4900dd68eca93d4f49030bc",
+  "finish_reason": "stop",
+  "completion_tokens": 4558
+}

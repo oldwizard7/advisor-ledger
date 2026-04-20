@@ -1,0 +1,335 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-05-10Z",
+    "revision_id": "AMHacu6iZeFjXb2pp-YdkJy-tyfw2NizpYI8BLzgIkzfyHCEQwaow3BxxUBgOPTB4Wrbq4sQhMuTR7oWe-SPGIWwHw",
+    "paragraph_count": 2087
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T17-11-30Z",
+    "revision_id": "AMHacu7OPworccWNMuZrxi-gbmQIWeRdipvl3VCF_D4DFBNv4pyMh5kNOm2mWIIhAKsoaJ0Q_FLQuluAEd0cnxdlsw",
+    "paragraph_count": 2099
+  },
+  "summary": {
+    "inserted_paragraphs": 24,
+    "deleted_paragraphs": 12,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0057,
+    "insertion_ratio": 0.0114
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 69,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "23776f0774bf6d4f",
+          "style": "NORMAL_TEXT",
+          "text": "MIT Wojciech Matusik"
+        },
+        {
+          "content_hash": "b4abec20375d8fca",
+          "style": "NORMAL_TEXT",
+          "text": "听说有点瓜？"
+        },
+        {
+          "content_hash": "008b04b9583112f4",
+          "style": "NORMAL_TEXT",
+          "text": "他学生很能灌水"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 189,
+      "paragraphs": [
+        {
+          "content_hash": "89fcb5fce78d1cfc",
+          "style": "NORMAL_TEXT",
+          "text": "太对味了，全世界所有人都在偷你gqq的绝妙idea"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 198,
+      "paragraphs": [
+        {
+          "content_hash": "ef4bb8477bf99c1c",
+          "style": "NORMAL_TEXT",
+          "text": "Frontier labs全投了一遍根本没人要他。现在能在seed也是因为早期刚在美国发展招不到人的时候让他混进去的，现在在字节也是人人喊打"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 194,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "7d5e5d19ff96c1e8",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "98e03d7d9b39fa09",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么(装什么外宾，你应该问问整个圈子有多少人没被gqq恶心过吗)，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 645,
+      "at_to": 651,
+      "from_paragraphs": [
+        {
+          "content_hash": "a75a6534a659a86c",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友（即下方hao ran geng + yufei ding) 让人怀疑是否有利益交换。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4f29f211465df39c",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友（即下方haoran geng + yufei ding) 让人怀疑是否有利益交换。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 648,
+      "at_to": 654,
+      "from_paragraphs": [
+        {
+          "content_hash": "395a9bc85d18e31c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee6b52c64a099f5d",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自告诉导师自己是学术妲 己，至于科研不是有耿哥和炮灰们顶着吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1067,
+      "at_to": 1073,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea384103cd9883b3",
+          "style": "NORMAL_TEXT",
+          "text": "Push，脾气差"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "71b1ab7804dcfab0",
+          "style": "NORMAL_TEXT",
+          "text": "Push，脾气差  (反对，完全不push）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1754,
+      "paragraphs": [
+        {
+          "content_hash": "f69e2bb0b215ff6f",
+          "style": "NORMAL_TEXT",
+          "text": "HKU Hengshuang Zhao"
+        },
+        {
+          "content_hash": "a5ab45ca441ebd26",
+          "style": "NORMAL_TEXT",
+          "text": "又是一位重量级"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1807,
+      "at_to": 1816,
+      "from_paragraphs": [
+        {
+          "content_hash": "d6027e2d99b235c2",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f0642040dde7f5d",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组（目前没有人转出吧，听说前几个是cmh去pennState之后may代为指导的，另外还有一些是从别的老师那跑到May这的）（那个中东的Mphi刚来就被她踢走了，她跟另一个Mphil闹的也很僵）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1809,
+      "at_to": 1818,
+      "from_paragraphs": [
+        {
+          "content_hash": "1be9eb595e7b6bfe",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）（junxian要走了，ust nlp缺少顶梁柱了。）（Junxian要去哪啊？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f6c5bb46df0f5430",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）（junxian要走了，ust nlp缺少顶梁柱了。）（Junxian要去哪啊？）（Meta，跟Yu Tao一起去）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1814,
+      "at_to": 1823,
+      "from_paragraphs": [
+        {
+          "content_hash": "c853d854a4c480c9",
+          "style": "NORMAL_TEXT",
+          "text": "老师即使不懂的地方也能摇人来帮忙，总之人脉还是广的，但其中有多少能用的关系还是要自己辨别一下了。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96818c91e4593ffa",
+          "style": "NORMAL_TEXT",
+          "text": "老师即使不懂的地方也能摇人来帮忙，总之人脉还是广的，但其中有多少能用的关系还是要自己辨别一下了。（大多数关系都是她以为的，其实对方都懒得理她）"
+        },
+        {
+          "content_hash": "b01e11cccdb79c2c",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1827,
+      "at_to": 1836,
+      "from_paragraphs": [
+        {
+          "content_hash": "9992837749017670",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统LightRAG的使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我只知道他们的开源系统算是最接近系统级的了，反正我周边研究生同学们用的挺多的) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...) 。组里做过实习完全不push，非常支持博士实习，申请都是强推。上过课也meeting过course project，周边的人接触过的都感觉很nice的，也很尊重学生。用过他们的开源项目，当时一打开发现他们好几个项目是天天都在更新...(这一点在学术界已经很少见了) （支持黄老师去红榜，就冲学生很好）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b36eac82c69bd491",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。（回归家庭了）\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统LightRAG的使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我只知道他们的开源系统算是最接近系统级的了，反正我周边研究生同学们用的挺多的) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...) 。组里做过实习完全不push，非常支持博士实习，申请都是强推。上过课也meeting过course project，周边的人接触过的都感觉很nice的，也很尊重学生。用过他们的开源项目，当时一打开发现他们好几个项目是天天都在更新...(这一点在学术界已经很少见了) （支持黄老师去红榜，就冲学生很好）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1829,
+      "at_to": 1838,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f406ea3e85c019f6",
+          "style": "NORMAL_TEXT",
+          "text": "NU"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1852,
+      "at_to": 1861,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "30d1875af7bcfbe0",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Xinchao Wang"
+        },
+        {
+          "content_hash": "2896eed943349440",
+          "style": "NORMAL_TEXT",
+          "text": "懂不懂最差导师的含金量"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1940,
+      "paragraphs": [
+        {
+          "content_hash": "77579405e1fabbd5",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生都是骂他的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2017,
+      "at_to": 2028,
+      "from_paragraphs": [
+        {
+          "content_hash": "b6299e4957288754",
+          "style": "NORMAL_TEXT",
+          "text": "瓜田"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e8d39278497f5f33",
+          "style": "NORMAL_TEXT",
+          "text": "瓜田，出生窝"
+        },
+        {
+          "content_hash": "31d7205a61d23560",
+          "style": "NORMAL_TEXT",
+          "text": "导师离婚三次，手底下一堆学生集体抢intern一作，(吃瓜好不热闹)"
+        }
+      ]
+    }
+  ]
+}
