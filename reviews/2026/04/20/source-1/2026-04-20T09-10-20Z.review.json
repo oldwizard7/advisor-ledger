@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-10-20Z.delta.json",
+  "delta_ts": "2026-04-20T09-10-20Z",
+  "reviewed_at_utc": "2026-04-20T09:11:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported personal insult using derogatory term '垃圾人' (trash/garbage person).",
+      "excerpt": "垃圾人只知道乱黑"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Broad character attack asserting the subject is entirely dishonest without specific evidence in this clause.",
+      "excerpt": "满口谎言，没有一句实话"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Accusatory personal attack implying Chaowei Xiao is the one deleting content, used as an insult/threat.",
+      "excerpt": "再删你是Chaowei Xiao"
+    }
+  ],
+  "prompt_sha256": "8205ec169f9deb4499cd342cae62ffafdf0e229b010c57d673dfa4e87b0fa56b",
+  "finish_reason": "stop",
+  "completion_tokens": 4874
+}
