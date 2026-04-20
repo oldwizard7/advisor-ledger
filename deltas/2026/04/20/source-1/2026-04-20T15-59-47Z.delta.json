@@ -1,0 +1,163 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-57-42Z",
+    "revision_id": "AMHacu4wwtz_V-gwoxT8bIc1tAFuFJzcYG-lNAGT2swGuWTP6GR5-sjyW1HVAS_2lzZtEV7wCxSq4sCLOQfFG8RfWQ",
+    "paragraph_count": 2120
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-59-47Z",
+    "revision_id": "AMHacu7wVWPXxZuqf2lh6fG6bOFFW1MVKVehXb-TjqiAsZwxgns_fcwRnAk4a2Ht7ZWY-ldpgjOR_pcLk03m0NYF4Q",
+    "paragraph_count": 2122
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 7,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0033,
+    "insertion_ratio": 0.0042
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 121,
+      "at_to": 121,
+      "from_paragraphs": [
+        {
+          "content_hash": "c6f803d0055e0b28",
+          "style": "NORMAL_TEXT",
+          "text": "yiwei确实好的很出名，谢谢"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6454b08e80ff48e2",
+          "style": "NORMAL_TEXT",
+          "text": "Yiwei确实好的很出名，谢谢，全是低分的话请你拿一下数据，talk is cheap，show me the data？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 127,
+      "at_to": 127,
+      "from_paragraphs": [
+        {
+          "content_hash": "648ec6df6d6dcd4e",
+          "style": "NORMAL_TEXT",
+          "text": "首先，都不知道是否属实，你有证据吗？其次，有没有可能是你的问题？yiwei给我写推荐信怎么不会这么写？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cc6f913e2def93df",
+          "style": "NORMAL_TEXT",
+          "text": "首先，都不知道是否属实，你有证据吗《传闻》，还自导自演？其次，有没有可能是你的问题？yiwei给我写推荐信怎么不会这么写？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 131,
+      "at_to": 131,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fc385b81f1201b9c",
+          "style": "NORMAL_TEXT",
+          "text": "……，你到底是不是组里的？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 421,
+      "paragraphs": [
+        {
+          "content_hash": "c8a4c26daefaf47a",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 440,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c8a4c26daefaf47a",
+          "style": "NORMAL_TEXT",
+          "text": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 493,
+      "at_to": 492,
+      "from_paragraphs": [
+        {
+          "content_hash": "8eca5192de11ec18",
+          "style": "NORMAL_TEXT",
+          "text": "下面评论的真实性朋友们注意zhen we"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "388d0b117618aad0",
+          "style": "NORMAL_TEXT",
+          "text": "下面评论的真实性朋友们注意真伪。目前看到说骂哭逼疯等都是组内phd能证实不存在的事情。包括之前版本有人故意gong"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9c39fa8873efeabf",
+          "style": "NORMAL_TEXT",
+          "text": "楼上的能别洗地了吗。我亲眼见证本科同学拿了chuang gan和另外一位老板的暑研offer，最后没有选择chuang gan，然后n"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 508,
+      "at_to": 510,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc9996c8900fa7e9",
+          "style": "NORMAL_TEXT",
+          "text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （你要是想了解真实情况，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。他帮助了解事情真相，）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "af3005a292b73718",
+          "style": "NORMAL_TEXT",
+          "text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （真实情况是，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。他好心帮助了解事情真相，问他是否跟这个人真的发生事情。后来被人截图）"
+        }
+      ]
+    }
+  ]
+}

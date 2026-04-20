@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T15-59-47Z",
+  "reviewed_at_utc": "2026-04-20T16:01:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 6,
+  "n_inserts": 8,
+  "pairs": [
+    {
+      "ghost_hash": "648ec6df6d6dcd4e",
+      "insert_hash": "cc6f913e2def93df",
+      "note": "added 《传闻》and 自导自演",
+      "ghost_text": "首先，都不知道是否属实，你有证据吗？其次，有没有可能是你的问题？yiwei给我写推荐信怎么不会这么写？",
+      "insert_text": "首先，都不知道是否属实，你有证据吗《传闻》，还自导自演？其次，有没有可能是你的问题？yiwei给我写推荐信怎么不会这么写？"
+    },
+    {
+      "ghost_hash": "c8a4c26daefaf47a",
+      "insert_hash": "c8a4c26daefaf47a",
+      "note": "identical",
+      "ghost_text": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝",
+      "insert_text": "☀️ 既然上榜了 Dongping Chen 还能缺席吗？听他的intern亲口说啥也不参与 直接硬挂尾作project lead，貌似有料，打个窝"
+    },
+    {
+      "ghost_hash": "8eca5192de11ec18",
+      "insert_hash": "388d0b117618aad0",
+      "note": "completed zhen we to 真伪",
+      "ghost_text": "下面评论的真实性朋友们注意zhen we",
+      "insert_text": "下面评论的真实性朋友们注意真伪。目前看到说骂哭逼疯等都是组内phd能证实不存在的事情。包括之前版本有人故意gong"
+    },
+    {
+      "ghost_hash": "fc9996c8900fa7e9",
+      "insert_hash": "af3005a292b73718",
+      "note": "rewrote ending parenthetical",
+      "ghost_text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （你要是想了解真实情况，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。他帮助了解事情真相，）",
+      "insert_text": "● 微信发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）（在微信约炮满嘴聊骚胆子太大，还敢约学术圈子里面的，此人性压抑太严重，约炮失败还恼羞成怒）（不确定是不是约炮，也许只是嘴贱，满脑子黄色废料）（好爱好像谈）(聊天记录为真，约炮未被证实，请大家理性吃瓜。) （真实情况是，一个学生被另外一个纽约知名学者感情欺骗了，这个人正好是他哥们。他好心帮助了解事情真相，问他是否跟这个人真的发生事情。后来被人截图）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4359,
+  "skipped_reason": null
+}

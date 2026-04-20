@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-59-47Z.delta.json",
+  "delta_ts": "2026-04-20T15-59-47Z",
+  "reviewed_at_utc": "2026-04-20T16:00:39Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Accuses commenter of fabricating or staging claims ('自导自演') without substantiation, constituting an unsupported character judgment rather than addressing factual disagreements.",
+      "excerpt": "还自导自演？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Challenges commenter's standing via identity questioning ('你到底是不是组里的'), an ad hominem attack on credibility rather than a substantive response to the claims made.",
+      "excerpt": "你到底是不是组里的？"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Accuses another user of dishonest motive ('洗地' / whitewashing/shilling) without evidence, constituting a personal attack on character rather than engaging with the factual debate.",
+      "excerpt": "楼上的能别洗地了吗"
+    }
+  ],
+  "prompt_sha256": "c6dc388bd29762f2f635f12dfb7dce1a3935d74df6236ea1d983ac4c5fbe6fec",
+  "finish_reason": "stop",
+  "completion_tokens": 5116
+}
