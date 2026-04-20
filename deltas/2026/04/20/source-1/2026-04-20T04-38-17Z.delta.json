@@ -1,0 +1,97 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-36-13Z",
+    "revision_id": "AMHacu5N1AN3H9mjqeT4LI1buYP1wrO1_cIvSIzgxlr-3gVvTrU3AiD_QUALmo_WAfD9WcI7b_sWA5AEsWwZAZfCLA",
+    "paragraph_count": 1102
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-38-17Z",
+    "revision_id": "AMHacu4WqAaPXivJtLwkVcg7RZTtCaEl9-eocHLVDqL7ekdwPawapRctxnK7VLlk8VcDk2v1BYt8UgwwwUpmU59aJA",
+    "paragraph_count": 1105
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 2,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0018,
+    "insertion_ratio": 0.0045
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 20,
+      "at_to": 20,
+      "from_paragraphs": [
+        {
+          "content_hash": "ef43b09212ce9df8",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥的恩怨局，一句据说开头打遍天下，红的黑的都可以说）这个文档的初衷已经变了，仿佛来到了微博评论区，戾气太重了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1400bd44c938c402",
+          "style": "NORMAL_TEXT",
+          "text": "（那当然妥妥的恩怨局，一句据说开头打遍天下，红的黑的都可以说）这个文档的初衷已经变了，仿佛来到了微博评论区，戾气太重了。不排除有污点乃至道德水平不高的人，但是这个文档中，很多都是捕风捉影的评论，某些人i"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 22,
+      "paragraphs": [
+        {
+          "content_hash": "acac86c0e609ca90",
+          "style": "NORMAL_TEXT",
+          "text": "l"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 177,
+      "paragraphs": [
+        {
+          "content_hash": "fb42c40370fbd7a2",
+          "style": "NORMAL_TEXT",
+          "text": "请大家别再涉及学生信息了，学生是无辜的！～"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 821,
+      "at_to": 823,
+      "from_paragraphs": [
+        {
+          "content_hash": "8220cf29a2f38694",
+          "style": "NORMAL_TEXT",
+          "text": "AP 第一年就有学生quit"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c59abc06313d1e24",
+          "style": "NORMAL_TEXT",
+          "text": "AP 第一年就有学生quit了吧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 928,
+      "paragraphs": [
+        {
+          "content_hash": "0beedd029e1e0c3f",
+          "style": "NORMAL_TEXT",
+          "text": "是不是有个他的女学生刚去港科任教，也有大瓜，在小红书看过，有无老哥知道的？"
+        }
+      ]
+    }
+  ]
+}
