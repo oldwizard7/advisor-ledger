@@ -1,0 +1,167 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-45-45Z",
+    "revision_id": "AMHacu5cSkqI6FSKrXOxNSO4KAN3SRM40D45ZiqrwJJNge73eXSA5fRGyrWZRZHfNvhTYztT946t0PIjQ5bq_5ZVtQ",
+    "paragraph_count": 2026
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T17-50-30Z",
+    "revision_id": "AMHacu5I6LhicY4H6nH5udP2QLFGPI07OePmPnh8cL3IiSy-pTspa3vdgNhMRNSQGEyNp-6COQC1HIx8UiDgDWQdkA",
+    "paragraph_count": 2029
+  },
+  "summary": {
+    "inserted_paragraphs": 9,
+    "deleted_paragraphs": 6,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.003,
+    "insertion_ratio": 0.0044
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 30,
+      "at_to": 30,
+      "from_paragraphs": [
+        {
+          "content_hash": "d43d8a1984e6a0f3",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "94aa3394e74d894d",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 201,
+      "paragraphs": [
+        {
+          "content_hash": "e92cd226be5db228",
+          "style": "NORMAL_TEXT",
+          "text": "在字节人人喊打怎么删了？？？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 613,
+      "paragraphs": [
+        {
+          "content_hash": "095d20fbc2e00fb6",
+          "style": "NORMAL_TEXT",
+          "text": "-----------"
+        },
+        {
+          "content_hash": "eab8000816ea28c9",
+          "style": "NORMAL_TEXT",
+          "text": "注意：此发帖人造谣成性还喜欢乱咬人，已经造谣坑害多个同学！！！请各位仔细斟酌！！可信度极低！！！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 622,
+      "from_paragraphs": [
+        {
+          "content_hash": "4856539a6645263d",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University 没想到你一个人还读过那么多学校啊"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e71222b0a90f91dd",
+          "style": "NORMAL_TEXT",
+          "text": "补充一个，据我所知的来自全世界的举报包括但是不限于 清北、新加坡国立、uiuc、nvidia、wisASU, 川大、中科大、电子科技大学、南洋理工、澳大利亚Sydney University"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 670,
+      "at_to": 673,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a55f345685ab836",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校co我mmittee审过材料的大家dddd"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "471b4ad068ef3e01",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1368,
+      "at_to": 1371,
+      "from_paragraphs": [
+        {
+          "content_hash": "f4ba280719c1ec55",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了.。。其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过一段时间, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f08bc1b0953e01b",
+          "style": "NORMAL_TEXT",
+          "text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过一段时间, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1813,
+      "at_to": 1816,
+      "from_paragraphs": [
+        {
+          "content_hash": "be160c4dbc96dabc",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢) （这还有打拳的，要打你们去xhs上单独开贴对打。。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f87256f793ae22dc",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢) （这还有打拳的，要打你们去xhs上单独开贴对打。。。）(就是)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1918,
+      "at_to": 1921,
+      "from_paragraphs": [
+        {
+          "content_hash": "c3dba9b9658c6475",
+          "style": "NORMAL_TEXT",
+          "text": "这人坑过多少学生就不用说了吧？从深圳一路坑过来。当年在深圳干的那些事情不知道还有多少人记得。(展开说说?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "90c930bd40ead874",
+          "style": "NORMAL_TEXT",
+          "text": "这人坑过多少学生就不用说了吧？从深圳一路坑过来。当年在深圳干的那些事情不知道还有多少人记得。(展开说说?) （让学生用学校的卡挖矿，被人揪出来就跑了）"
+        }
+      ]
+    }
+  ]
+}

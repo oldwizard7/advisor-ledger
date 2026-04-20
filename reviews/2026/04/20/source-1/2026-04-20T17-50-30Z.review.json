@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-50-30Z.delta.json",
+  "delta_ts": "2026-04-20T17-50-30Z",
+  "reviewed_at_utc": "2026-04-20T17:51:06Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character attack accusing the poster of habitual lying and harming students without substantiation",
+      "excerpt": "注意：此发帖人造谣成性还喜欢乱咬人，已经造谣坑害多个同学！！！请各位仔细斟酌！！可信度极低！！！"
+    }
+  ],
+  "prompt_sha256": "a29ea6f90f77355990f0026630fbdb45b4aa56e0c99c8507ba0211e58197597c",
+  "finish_reason": "stop",
+  "completion_tokens": 3110
+}
