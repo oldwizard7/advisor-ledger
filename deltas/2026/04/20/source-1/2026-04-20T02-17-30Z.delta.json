@@ -1,0 +1,412 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-15-20Z",
+    "revision_id": "AMHacu7yPeER2EJHKbjqzlilUlfgNTrQE5jJWoPU6DGXLKjniL5MuGqqF3bVZoXiWITpHJCn5VZ2aUyYdzYKnX2hhA",
+    "paragraph_count": 807
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-17-30Z",
+    "revision_id": "AMHacu5X8po_IO4wk-4NInNQx-AKdQi3Ovv7JByzMSKVLtuOmlMeUYhtYx4nDmAvO_3gWaoXSfGxMaDeXaDQHRYWjw",
+    "paragraph_count": 797
+  },
+  "summary": {
+    "inserted_paragraphs": 24,
+    "deleted_paragraphs": 34,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0421,
+    "insertion_ratio": 0.0301
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 2,
+      "paragraphs": [
+        {
+          "content_hash": "4c045ca7f3a32e58",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI，请大家帮忙维护一些学生隐私。"
+        },
+        {
+          "content_hash": "851c88d4deed87f0",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息"
+        },
+        {
+          "content_hash": "ee5d22c5fd08d811",
+          "style": "NORMAL_TEXT",
+          "text": "老师怎么怎么样不代表学生怎么样，不希望这个影响到大家以后的职业发展，大家看过之后也不要对某些老师组里的学生产生 bias"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 18,
+      "at_to": 21,
+      "from_paragraphs": [
+        {
+          "content_hash": "781a3622cc567228",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，bang'mang）"
+        },
+        {
+          "content_hash": "08291eede718a9bf",
+          "style": "NORMAL_TEXT",
+          "text": "* 组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        },
+        {
+          "content_hash": "415bda9ce530b1e0",
+          "style": "NORMAL_TEXT",
+          "text": "* 7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "fb2adeda7011b3db",
+          "style": "NORMAL_TEXT",
+          "text": "* 在美国看CCF的神人"
+        },
+        {
+          "content_hash": "114ead89e480e822",
+          "style": "NORMAL_TEXT",
+          "text": "* 而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai）"
+        },
+        {
+          "content_hash": "956fef036eae028d",
+          "style": "NORMAL_TEXT",
+          "text": "* 2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了"
+        },
+        {
+          "content_hash": "2a283be2c1b58999",
+          "style": "NORMAL_TEXT",
+          "text": "* ICLR投稿无数篇，榜上有名，且全是低分"
+        },
+        {
+          "content_hash": "738aa50ca4aeffcc",
+          "style": "NORMAL_TEXT",
+          "text": "* 在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+        },
+        {
+          "content_hash": "37ac21e91fc7c206",
+          "style": "NORMAL_TEXT",
+          "text": "* 传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）"
+        },
+        {
+          "content_hash": "6381dd54c340b68d",
+          "style": "NORMAL_TEXT",
+          "text": "* 至今没有PhD入学的学生？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "da3ed437aebf537c",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）"
+        },
+        {
+          "content_hash": "fd5f3efbb90f7087",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        },
+        {
+          "content_hash": "13ded3e367e9ee97",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "9575249dc9c9b51c",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人"
+        },
+        {
+          "content_hash": "2542fabe772b5698",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）"
+        },
+        {
+          "content_hash": "4614dd806c467cd6",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了"
+        },
+        {
+          "content_hash": "7b70732ec8d75fc4",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分"
+        },
+        {
+          "content_hash": "0647b5ff8dca84e6",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+        },
+        {
+          "content_hash": "947bf4c1030c7859",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）"
+        },
+        {
+          "content_hash": "3920ed64f16fd6e2",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 65,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "45bb78491a50bf03",
+          "style": "NORMAL_TEXT",
+          "text": "Gatech"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 122,
+      "paragraphs": [
+        {
+          "content_hash": "4dd8a9ac01c3beae",
+          "style": "NORMAL_TEXT",
+          "text": "MIT paul liang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "092f9b50f9209441",
+          "style": "NORMAL_TEXT",
+          "text": "UCSB Yuheng Bu"
+        },
+        {
+          "content_hash": "b03f8100829bb69b",
+          "style": "NORMAL_TEXT",
+          "text": "又要做横向又要做TA，说话老难听，PUA人（但是除去这些还是挺负责的）（其实我感觉个人能力挺好的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 216,
+      "at_to": 214,
+      "from_paragraphs": [
+        {
+          "content_hash": "6e5fa16db9a63578",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他的某个美国 AP学生有聊过，感觉人很好（不知道能不能说名字）（难说，我前导师也是他学生，也是AP，有毒的很）)（UVA和罗格斯塞进去俩个女生进去做ap，圈子里面都知道是走后门，韩国女生说什么发nature science，结果就一页纸）（太真实了，UVA那个真的也很有毒）（那个韩国的是吧，韩国的那个棒子姐确实名声很差）（\tUVA那个太水了，做的都是什么东西。。。这都敢塞，他好朋友在UVA，真的无法无天了）（是这样，那个老师是CE的，CE系主任Mircea Stan是Yiran的好朋友）（UofA 的那个AP 人应该还不错）（是的， 挺好的，但是还是不要提人名了吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "538c57351458606e",
+          "style": "NORMAL_TEXT",
+          "text": "他的学生去了学术界不少都是名声很差，说“这个老师很push”已经是很好的评价了 (也不是，和他的某个美国 AP学生有聊过，感觉人很好（根据指南，这里不让说名字）（难说，我前导师也是他学生，也是AP，有毒的很）)（UVA和罗格斯塞进去俩个女生进去做ap，圈子里面都知道是走后门，韩国女生说什么发nature science，结果就一页纸）（太真实了，UVA那个真的也很有毒）（那个韩国的是吧，韩国的那个棒子姐确实名声很差）（\tUVA那个太水了，做的都是什么东西。。。这都敢塞，他好朋友在UVA，真的无法无天了）（是这样，那个老师是CE的，CE系主任Mircea Stan是Yiran的好朋友）（UofA 的那个AP 人应该还不错）（是的， 挺好的，但是还是不要提人名了吧）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 340,
+      "at_to": 338,
+      "from_paragraphs": [
+        {
+          "content_hash": "cc32636bf8b5c844",
+          "style": "NORMAL_TEXT",
+          "text": "跟zju kui ren和cispa的yang zhang串通审稿，近几年中了不少安全四大的文章，但是质量奇低"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b28f4b3f60715288",
+          "style": "NORMAL_TEXT",
+          "text": "跟zju kui ren和cispa的yang zhang串通审稿，因此近几年中了不少安全四大的文章，但是质量奇低"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 368,
+      "at_to": 366,
+      "from_paragraphs": [
+        {
+          "content_hash": "b93ea354ec9d64b7",
+          "style": "NORMAL_TEXT",
+          "text": "路边一条蛆，组里学生方差太大，有牛逼的也有根本me"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2d7ff9e6eec3e8c4",
+          "style": "NORMAL_TEXT",
+          "text": "路边一条蛆，组里学生方差太大且不指导学生，有牛逼的也有根本没有任何科研能力的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 402,
+      "at_to": 400,
+      "from_paragraphs": [
+        {
+          "content_hash": "74d52116ef48f8a6",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 第一年要做密码学, yu全力支持给他拉合作者，第二个项目做ai4sci 2年没出结果最后拿best student paper，给足了时间和耐心，现在毕业找工作还帮人各处frontier labs问。啥叫意见很大？到底啥叫意见很大？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "17f638c5d38dfff6",
+          "style": "NORMAL_TEXT",
+          "text": "对白人意见很大，私下里经常喷同方向的各种好论文 （逆天，就一个白人学生 第一年要做密码学, yu全力支持给他拉合作者，第二个项目做ai4sci 2年没出结果最后拿best student paper，给足了时间和耐心，现在毕业找工作还帮人各处frontier labs问。啥叫意见很大？到底啥叫意见很大？）（我也想要被yu意见很大lol）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 570,
+      "from_paragraphs": [
+        {
+          "content_hash": "d88c5d374392ebf5",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生  https://www.1point3acres.com/bbs/thread-833309-1-1.html"
+        },
+        {
+          "content_hash": "cb4d1b36f11f8df1",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，让学生非要投paper，造假也要投出去，学生已经身体状况很差了也必须要投"
+        },
+        {
+          "content_hash": "00763048175e8ff7",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候学生第一年没有一作就开除，有学生博三博四也被开除"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3e2146138ef08921",
+          "style": "NORMAL_TEXT",
+          "text": "从Gtech跳槽的时候没处理好之前的学生 （基本上就是全部开除了） https://www.1point3acres.com/bbs/thread-833309-1-1.html"
+        },
+        {
+          "content_hash": "ba4ed437e0ab2a35",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死"
+        },
+        {
+          "content_hash": "b39dc896cdf99c7d",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候中国学生第一年没有一作就开除，有学生博三博四也被开除"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 576,
+      "at_to": 574,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2976a0b6ddc1990c",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔白人，白人没有被开除的，也不push"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 617,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "462f99c3b9059970",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang (为什么删掉了)"
+        },
+        {
+          "content_hash": "a61274ef79751e89",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。"
+        },
+        {
+          "content_hash": "13ded3e367e9ee97",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "9575249dc9c9b51c",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人"
+        },
+        {
+          "content_hash": "7ed90bf9e24829a9",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）"
+        },
+        {
+          "content_hash": "a7dfef478d55eff4",
+          "style": "NORMAL_TEXT",
+          "text": "据说会给黑推？"
+        },
+        {
+          "content_hash": "f0d017e62454b184",
+          "style": "NORMAL_TEXT",
+          "text": "目前没有招phd"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 773,
+      "at_to": 763,
+      "from_paragraphs": [
+        {
+          "content_hash": "caf25604ce6d603c",
+          "style": "NORMAL_TEXT",
+          "text": "当他的学生就是亏欠他的，要还三年窄"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c15d1d72ca2f5fe",
+          "style": "NORMAL_TEXT",
+          "text": "在他看来当他的学生就是亏欠他的，要还三年债，天天随时待命就好了"
+        }
+      ]
+    }
+  ]
+}

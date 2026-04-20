@@ -1,0 +1,33 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-17-30Z.delta.json",
+  "delta_ts": "2026-04-20T02-17-30Z",
+  "reviewed_at_utc": "2026-04-20T02:18:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Use of ethnic slur '棒子姐' (derogatory term for Korean women) to attack a student's character",
+      "excerpt": "韩国的那个棒子姐确实名声很差"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar personal insult comparing professor to a maggot ('路边一条蛆')",
+      "excerpt": "路边一条蛆，组里学生方差太大"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive entries about MIT Paul Liang and UCSB Yuheng Bu containing specific criticisms of advising practices (horizontal projects, TA workload, PUA behavior)",
+      "excerpt": "MIT paul liang... UCSB Yuheng Bu... 又要做横向又要做TA，说话老难听，PUA人"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of restored entry for UC Merced Yiwei Wang containing detailed criticisms (publication requirements, lab management, recommendation letter practices)",
+      "excerpt": "UC Merced, Yiwei Wang (为什么删掉了)... 7篇ccf-a三年毕业... 据说会给黑推"
+    }
+  ],
+  "prompt_sha256": "30bfe4ab16a0d6a8eef0c0ee8c1f4affbedfdcee6566d11fef7dc023ee69bb6c",
+  "finish_reason": "stop",
+  "completion_tokens": 4765
+}
