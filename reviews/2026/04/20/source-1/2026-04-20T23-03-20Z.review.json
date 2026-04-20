@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T23-03-20Z.delta.json",
+  "delta_ts": "2026-04-20T23-03-20Z",
+  "reviewed_at_utc": "2026-04-20T23:04:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Insertion reveals identifying details about private individuals: specific location (Atlanta), housing arrangement (2b2b at friend's home), and describes a high school student and PhD student involved in a paid tutoring scheme. This is detailed enough to de-anonymize the individuals.",
+      "excerpt": "国内高中生飞来亚特兰大住在我朋友的家里(2b2b)找了个他的PHD给他辅导科研"
+    },
+    {
+      "type": "pii",
+      "detail": "Appended signature appears to be a real full name of a private individual (likely a student editor) added to the document header.",
+      "excerpt": "jia tao 画"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment attacking the subject's motives/greed ('wants too much') rather than focusing on specific verifiable advising practices.",
+      "excerpt": "这人就是想要的太多了"
+    }
+  ],
+  "prompt_sha256": "8a6d2305601af1505a9704e08b696f2f9bd74be8945fce3df030d567a2c2caac",
+  "finish_reason": "stop",
+  "completion_tokens": 5847
+}

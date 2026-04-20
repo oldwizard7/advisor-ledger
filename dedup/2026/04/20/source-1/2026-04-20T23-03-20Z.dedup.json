@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T23-03-20Z",
+  "reviewed_at_utc": "2026-04-20T23:04:42Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 13,
+  "pairs": [
+    {
+      "ghost_hash": "b39a230df8acdb76",
+      "insert_hash": "3b7a1c1ce44eac93",
+      "note": "Same deadline notice, added text at end",
+      "ghost_text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本。o",
+      "insert_text": "Submission Deadline：30分钟后开启清理模式，去重，删除敏感信息，有需要的可以现在保存副本jia tao 画"
+    },
+    {
+      "ghost_hash": "d914cad1d4a4cd0c",
+      "insert_hash": "b7a40bc98ea94a68",
+      "note": "Split paragraph, first part matches",
+      "ghost_text": "好人就该被枪指着吗？如果是抹黑的信息也要永远流传在学生群体中吗？受害者还要思考为什么吗？老师难道就没有人权吗？（你要是反驳不了就别怪学生流传了）(这不就是有罪论吗？还要我们抛开肚子自己证明清白呗)",
+      "insert_text": "好人就该被枪指着吗？如果是抹黑的信息也要永远流传在学生群体中吗？受害者还要思考为什么吗？老师难道就没有人权吗？"
+    },
+    {
+      "ghost_hash": "0c4ec89e67dc4786",
+      "insert_hash": "789765c604a7dc1e",
+      "note": "Typo in author list, same defense text",
+      "ghost_text": " 虽然，这个文档自由发言，但是不代表可以没有证据的推断：事实上，显然不是10多个intern 干一篇文章，这个文章的第一作者是lead。 第二作者帮了很大的帮，其他同学也有许多付出（付出计算资源的同学，我们也包含在了author list）。2025年夏天核心成员每周都在weekly meeting（偶尔biweekly - 比如NeurIPS，SIGA DDL附近）。至于机构：我在那个夏天开始远程科研助手所以机构是MIT，但是我还没有在HKU毕业，因此是2个机构。另外，尽管对于“水”的定义大家各自有各自的看法，但是，我觉得EgoReact尝试了使用VDM来尝试scale up这个任务，以及是第一个使用AR模式的做这个任务work，我认为不应该被直接划到“水”的范畴。 支持",
+      "insert_text": " 虽然，这个文档自由发言，但是不代表可以没有证据的推断：事实上，显然不是10多个intern 干一篇文章，这个文章的第一作者是lead。 第二作者帮了很大的帮，其他同学也有许多付出（付出计算资源的同学，我们也包含在了auth 후or list）。2025年夏天核心成员每周都在weekly meeting（偶尔biweekly - 比如NeurIPS，SIGA DDL附近）。至于机构：我在那个夏天开始远程科研助手所以机构是MIT，但是我还没有在HKU毕业，因此是2个机构。另外，尽管对于“水”的定义大家各自有各自的看法，但是，我觉得EgoReact尝试了使用VDM来尝试scale up这个任务，以及是第一个使用AR模式的做这个任务work，我认为不应该被直接划到“水”的范畴。 支持"
+    },
+    {
+      "ghost_hash": "ea0ccc25daeacc90",
+      "insert_hash": "8b2f6ddb50ba7227",
+      "note": "Exact match UCLA",
+      "ghost_text": "UCLA",
+      "insert_text": " UCLA"
+    },
+    {
+      "ghost_hash": "96becbbeb77fbf0b",
+      "insert_hash": "3b288fee3cffb319",
+      "note": "Typo Brain/Brangin, same retraction notice",
+      "ghost_text": "Retraction Notice: A Secured Vehicle Brain: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS",
+      "insert_text": "Retraction Notice: A Secured Vehicle Brangin: DAO-Based Collaborative Perception and Decision-Making Systems for Intelligent Vehicles in CPSS"
+    },
+    {
+      "ghost_hash": "097c2f1e35dc308e",
+      "insert_hash": "4841fb3f630fc680",
+      "note": "Split entry, first part matches",
+      "ghost_text": "Yale，Rex Ying（存在争议，请谨慎辨别）",
+      "insert_text": "Yale，"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3530,
+  "skipped_reason": null
+}
