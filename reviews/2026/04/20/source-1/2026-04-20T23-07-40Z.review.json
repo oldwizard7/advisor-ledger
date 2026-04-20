@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T23-07-40Z.delta.json",
+  "delta_ts": "2026-04-20T23-07-40Z",
+  "reviewed_at_utc": "2026-04-20T23:08:23Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full names of students (Yufei Ding, Haoran Geng) and extensive personal details including academic misconduct allegations, romantic relationships, and admissions status sufficient to identify private individuals.",
+      "excerpt": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生...今年stanford的phd，haoran geng 的女朋友，纯学术妲 己,考试还作弊"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Pure personal insult without substantive criticism of advising practices.",
+      "excerpt": "垃圾一个"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive content about advisor Emory Liang Zhao regarding AI paper writing and student paper mill practices, appearing to suppress legitimate observations rather than perform cleanup.",
+      "excerpt": "Emory Liang Zhao（再TM删给你发一亩三分地）...和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引"
+    }
+  ],
+  "prompt_sha256": "10dea256bf1ecc50f26199f2d82c375d9e8e4d169e10441a3dfea40532216de0",
+  "finish_reason": "stop",
+  "completion_tokens": 4276
+}
