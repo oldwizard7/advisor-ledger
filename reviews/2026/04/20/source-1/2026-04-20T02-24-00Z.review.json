@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-24-00Z.delta.json",
+  "delta_ts": "2026-04-20T02-24-00Z",
+  "reviewed_at_utc": "2026-04-20T02:24:43Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies specific student by academic history and personal circumstances (Dalian Tech PhD who quit after childbirth at Duke), detailed enough to de-anonymize",
+      "excerpt": "还有一个是大连理工的博士，被陈老师忽悠来读二博了，但是来了杜克后生孩子就quit了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attacks on professor's appearance and sexual conduct (Photoshopping, threesome allegations) rather than academic advising practices",
+      "excerpt": "p图天天包装自己帅"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of reference to Stanford AI4S professor, potentially suppressing substantive observation about specific advisor",
+      "excerpt": "Stanford 某AI4S老师"
+    }
+  ],
+  "prompt_sha256": "5ad19e54926e9b3689064120db08209d139e52e016edb5fd4287ecf5e9386f31",
+  "finish_reason": "stop",
+  "completion_tokens": 3285
+}

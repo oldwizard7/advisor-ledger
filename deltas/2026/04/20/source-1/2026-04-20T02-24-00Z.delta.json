@@ -1,0 +1,309 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-19-40Z",
+    "revision_id": "AMHacu7FCsqfAcBz5FiBAtbvvniOeQKuHjhaCvS1VxOrYLhxNMu5FQWZ7vZdCgvXrhGxPYsIbrINlAezLsNb-dlkWg",
+    "paragraph_count": 800
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-24-00Z",
+    "revision_id": "AMHacu6FMapCz3Jqij1ypuC2Bq3o4YGzCEhQEalPcyHkmsbeEYvWWMkbtvlpT_5p-FHpk5K4rcZIBgtf06zdQPcl2g",
+    "paragraph_count": 810
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 11,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0138,
+    "insertion_ratio": 0.0259
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 4,
+      "paragraphs": [
+        {
+          "content_hash": "ee5d22c5fd08d811",
+          "style": "NORMAL_TEXT",
+          "text": "老师怎么怎么样不代表学生怎么样，不希望这个影响到大家以后的职业发展，大家看过之后也不要对某些老师组里的学生产生 bias"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 19,
+      "paragraphs": [
+        {
+          "content_hash": "dd59d993dc00b223",
+          "style": "NORMAL_TEXT",
+          "text": "小红书上有他的评价"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4345cc8cd2cff816",
+          "style": "NORMAL_TEXT",
+          "text": "Northwestern University Kaize Ding"
+        },
+        {
+          "content_hash": "8e85c214ff45d631",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅"
+        },
+        {
+          "content_hash": "0096e88efb1eb3d1",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 212,
+      "at_to": 216,
+      "from_paragraphs": [
+        {
+          "content_hash": "ca9894ebdd8ec39a",
+          "style": "NORMAL_TEXT",
+          "text": "曾经忽悠一个来读博后的学生读了个二博（其他人爆料）（那个二博哥们自己也有点神）（是这样，这个学生后来去了学术界似乎名声也不好）(最后那哥们不是去 umd AP 来着，组里学生最后出路也都不错吧)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8d360c95d60e8977",
+          "style": "NORMAL_TEXT",
+          "text": "曾经忽悠一个来读博后的学生读了个二博（其他人爆料）（那个二博哥们自己也有点神）（是这样，这个学生后来去了学术界似乎名声也不好）(最后那哥们不是去 umd AP 来着，组里学生最后出路也都不错吧)（陈老师不止忽悠一个人读二博，还有一个是大连理工的博士，被陈老师忽悠来读二博了，但是来了杜克后生孩子就quit了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 296,
+      "paragraphs": [
+        {
+          "content_hash": "7b2da7016ac178eb",
+          "style": "NORMAL_TEXT",
+          "text": "PS: UD竟然就peng老师上榜，证明某些老师还是境界"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 367,
+      "paragraphs": [
+        {
+          "content_hash": "2195f5520ae6f7aa",
+          "style": "NORMAL_TEXT",
+          "text": "我不行了，他是在很多人面前都说了其他老师的坏话吗，我也听别人吐槽过"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 375,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 405,
+      "paragraphs": [
+        {
+          "content_hash": "c0aad6b178617f15",
+          "style": "NORMAL_TEXT",
+          "text": "爱骂学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 486,
+      "at_to": 495,
+      "from_paragraphs": [
+        {
+          "content_hash": "2284f947ca1d3790",
+          "style": "NORMAL_TEXT",
+          "text": "楼上都弱爆了我来写几条, 让你们看看什么才是实至名归的菜导:"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e0bbdb578ac264b9",
+          "style": "NORMAL_TEXT",
+          "text": "楼上都弱爆了我来写几条:"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 488,
+      "at_to": 497,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea0d37efa7fedc2c",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向差, 而且几乎不给return offer, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        },
+        {
+          "content_hash": "2388f17261fb1708",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里穷, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "21d65e583adde165",
+          "style": "NORMAL_TEXT",
+          "text": "2. intern去向, 组里的return占phd只有可怜的42.8% （那里有这个数？4.28吧）, 其他intern 去向也只有UIUC, NUS, Wisc, UPenn, 完全达不到四大水平 (Duke +1)"
+        },
+        {
+          "content_hash": "285bed9273e53a81",
+          "style": "NORMAL_TEXT",
+          "text": "3. 组里资源, 一篇paper居然只能花可怜的2k-20k usd, 而且居然没有128*H100, 学生只能自己拿着钱去外面租卡（虽然但是，一台h100 node一周就2000不止了吧）（不是吧，每个phd都有8H100随时用啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 520,
+      "at_to": 529,
+      "from_paragraphs": [
+        {
+          "content_hash": "6dc89ab774a4e67a",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "093bbb64487d2356",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。（我再也不玩抽象了 因为会被当真sb）（这算rebuttal成功了吗 能进红榜没"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 572,
+      "at_to": 581,
+      "from_paragraphs": [
+        {
+          "content_hash": "ba4ed437e0ab2a35",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "519caa625fff2024",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 611,
+      "at_to": 620,
+      "from_paragraphs": [
+        {
+          "content_hash": "d4e41d0d8982c17e",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~) (Jiatao人很好啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee94fe1c3ac1df2e",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~) (Jiatao人很好啊)（好滴！）(jiatao人好+10086）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 618,
+      "paragraphs": [
+        {
+          "content_hash": "6f524ac7638766c9",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford 某AI4S老师"
+        },
+        {
+          "content_hash": "739fe8496eb7da6b",
+          "style": "NORMAL_TEXT",
+          "text": "直接点名？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 634,
+      "paragraphs": [
+        {
+          "content_hash": "77bb50395f96090b",
+          "style": "NORMAL_TEXT",
+          "text": "看过微博"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 716,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 789,
+      "at_to": 798,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8461da2aaf5d9fea",
+          "style": "NORMAL_TEXT",
+          "text": "据说有瓜"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 809,
+      "paragraphs": [
+        {
+          "content_hash": "2acdaca0573ac775",
+          "style": "NORMAL_TEXT",
+          "text": "CASIA,"
+        }
+      ]
+    }
+  ]
+}
