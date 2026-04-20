@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-05-10Z.delta.json",
+  "delta_ts": "2026-04-20T15-05-10Z",
+  "reviewed_at_utc": "2026-04-20T15:05:58Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Personal insults directed at critics including calling them a 'clown' (小丑🤡) and saying they 'bite randomly' (乱咬人)",
+      "excerpt": "小丑🤡一个，大家都不理你不代表你可以一直乱咬人"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Condescending personal attack characterizing critics as 'children' (孩子) who are 'mentally broken' (破防了) due to application failures",
+      "excerpt": "自己申请不好或者申请不上是不是破防了孩子"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insulting rhetorical question asking if critics need parents to provide research ideas and papers",
+      "excerpt": "要不要给你找个爹妈送你idea和paper"
+    }
+  ],
+  "prompt_sha256": "81d2d0f18cf31dc8bdfd9f99116b4da96a5b204c3f034756f6745842af433648",
+  "finish_reason": "stop",
+  "completion_tokens": 4771
+}

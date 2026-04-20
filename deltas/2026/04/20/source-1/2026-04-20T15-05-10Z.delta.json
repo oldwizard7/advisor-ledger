@@ -1,0 +1,276 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-03-00Z",
+    "revision_id": "AMHacu6XoX4xcX0t8vdL6BPZIu_R37rQf2SrcAsMc5-VAIW2nmKW1O1Cj5xvYmTQ3SKuPjxqiYmURVVUbUmkNouATQ",
+    "paragraph_count": 1995
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-05-10Z",
+    "revision_id": "AMHacu5O20J6jldDMTvjdM_x0DQZ-8QU3X_kyGpZKf0WxE1JeFi8MoIViKOJOENzaRpkOWDE7EDqoJGsUp525C9xGw",
+    "paragraph_count": 2025
+  },
+  "summary": {
+    "inserted_paragraphs": 34,
+    "deleted_paragraphs": 4,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.002,
+    "insertion_ratio": 0.0168
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 86,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "40541063d0a0b164",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        },
+        {
+          "content_hash": "47abfac80b954b61",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）（yiwei老师还是很不错的，给不出什么指导还是过于偏颇了"
+        },
+        {
+          "content_hash": "329d7e127334b486",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+        },
+        {
+          "content_hash": "b46801d3f7383a67",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）"
+        },
+        {
+          "content_hash": "bd93891ea90fee4e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "7d3a40bbef658879",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+        },
+        {
+          "content_hash": "21996038250370b2",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+        },
+        {
+          "content_hash": "7146c21da1ef8f45",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+        },
+        {
+          "content_hash": "a5933c1350ee99a2",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        },
+        {
+          "content_hash": "18f71bb6b08a8c11",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+        },
+        {
+          "content_hash": "1e5e39520f4b9125",
+          "style": "NORMAL_TEXT",
+          "text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合子作学生带小礼物）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 343,
+      "paragraphs": [
+        {
+          "content_hash": "40541063d0a0b164",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        },
+        {
+          "content_hash": "47abfac80b954b61",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）（yiwei老师还是很不错的，给不出什么指导还是过于偏颇了"
+        },
+        {
+          "content_hash": "329d7e127334b486",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+        },
+        {
+          "content_hash": "b46801d3f7383a67",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）"
+        },
+        {
+          "content_hash": "bd93891ea90fee4e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "7d3a40bbef658879",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+        },
+        {
+          "content_hash": "21996038250370b2",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+        },
+        {
+          "content_hash": "7146c21da1ef8f45",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+        },
+        {
+          "content_hash": "a5933c1350ee99a2",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        },
+        {
+          "content_hash": "18f71bb6b08a8c11",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+        },
+        {
+          "content_hash": "1e5e39520f4b9125",
+          "style": "NORMAL_TEXT",
+          "text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合子作学生带小礼物）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 342,
+      "at_to": 369,
+      "from_paragraphs": [
+        {
+          "content_hash": "40d361e682b94637",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7834efdb81fa9046",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）(非本组PhD: 前面这位恶意也忒大了......这么大个学术圈竟然能被高达6个人的组2333)（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 427,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3973e022e93220f9",
+          "style": "NORMAL_TEXT",
+          "text": "-"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 594,
+      "at_to": 623,
+      "from_paragraphs": [
+        {
+          "content_hash": "a23cc1a8abf33b92",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5b6542136dec0fde",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）（yiwei老师还是很不错的，给不出什么指导还是过于偏颇了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 654,
+      "at_to": 683,
+      "from_paragraphs": [
+        {
+          "content_hash": "5e6fe79f8d11ee98",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做 孩子醒醒吧，你没问问别的intern对他什么评价吗 我或多或少听说过, 但是我觉得有些intern可能稍微有点过激了, 就是没申请太好, 就想着归因到mentor, 我其实也能理解, 但是我做判断是会排除这些外部因素的, 他现在给我开的工资非常非常好, 项目我也喜欢, 我就觉得可以做做 劝不动了，祝你h"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b29b324450249a46",
+          "style": "NORMAL_TEXT",
+          "text": "耿哥雇佣公司的intern来替自己洗？我之前是Berkeley的intern, 现在大四接着干有什么问题吗请问? 耿哥这届有3个intern最后出来一块创业了, 他要是真的烂成那样, 我们也不会跟他做 孩子醒醒吧，你没问问别的intern对他什么评价吗 我或多或少听说过, 但是我觉得有些intern可能稍微有点过激了, 就是没申请太好, 就想着归因到mentor, 我其实也能理解, 但是我做判断是会排除这些外部因素的, 他现在给我开的工资非常非常好, 项目我也喜欢, 我就觉得可以做做 劝不动了，祝你好运吧"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1222,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1346,
+      "at_to": 1376,
+      "from_paragraphs": [
+        {
+          "content_hash": "59aaae3fce0965bb",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold/训练实验的设计训练代码搭建与release"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4178b37424e77b89",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold/训练实验的设计、coding与release"
+        }
+      ]
+    }
+  ]
+}
