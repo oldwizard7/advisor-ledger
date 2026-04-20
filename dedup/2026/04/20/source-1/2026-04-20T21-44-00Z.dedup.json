@@ -1,0 +1,62 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-44-00Z",
+  "reviewed_at_utc": "2026-04-20T21:45:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 11,
+  "pairs": [
+    {
+      "ghost_hash": "ed65a7bc13106669",
+      "insert_hash": "0c4ec89e67dc4786",
+      "note": "added support at end",
+      "ghost_text": " 虽然，这个文档自由发言，但是不代表可以没有证据的推断：事实上，显然不是10多个intern 干一篇文章，这个文章的第一作者是lead。 第二作者帮了很大的帮，其他同学也有许多付出（付出计算资源的同学，我们也包含在了author list）。2025年夏天核心成员每周都在weekly meeting（偶尔biweekly - 比如NeurIPS，SIGA DDL附近）。至于机构：我在那个夏天开始远程科研助手所以机构是MIT，但是我还没有在HKU毕业，因此是2个机构。另外，尽管对于“水”的定义大家各自有各自的看法，但是，我觉得EgoReact尝试了使用VDM来尝试scale up这个任务，以及是第一个使用AR模式的做这个任务work，我认为不应该被直接划到“水”的范畴。",
+      "insert_text": " 虽然，这个文档自由发言，但是不代表可以没有证据的推断：事实上，显然不是10多个intern 干一篇文章，这个文章的第一作者是lead。 第二作者帮了很大的帮，其他同学也有许多付出（付出计算资源的同学，我们也包含在了author list）。2025年夏天核心成员每周都在weekly meeting（偶尔biweekly - 比如NeurIPS，SIGA DDL附近）。至于机构：我在那个夏天开始远程科研助手所以机构是MIT，但是我还没有在HKU毕业，因此是2个机构。另外，尽管对于“水”的定义大家各自有各自的看法，但是，我觉得EgoReact尝试了使用VDM来尝试scale up这个任务，以及是第一个使用AR模式的做这个任务work，我认为不应该被直接划到“水”的范畴。 支持"
+    },
+    {
+      "ghost_hash": "9b99f4eb4f6b5398",
+      "insert_hash": "c9844f43de42afa9",
+      "note": "added parenthetical warning",
+      "ghost_text": "多名学生quit",
+      "insert_text": "多名学生quit（避雷，别申）"
+    },
+    {
+      "ghost_hash": "160fda6e8cc46922",
+      "insert_hash": "b5c8b5938ea70b4e",
+      "note": "rewrote details on support",
+      "ghost_text": "跟这个榜其他人相比居然成了大善人",
+      "insert_text": "(感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目，主要问题可能是对组内工作拿末作比较执着以及有时候情绪不是十分稳定, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源还是很多的 （不觉得她对intern很在乎 会随时开人），她对学生也很support ，学生去向也很好（当然caltech本科生去向差不了 其他的难说），无论是工业界还是学术界，教职能去到top10，工业界也基本是顶级大厂。和四大的connection也十分紧密，每年都有本科生去到Stanford, MIT, UW这种学校读phd的，（但是这些本科生本身就是caltech的顶尖选手）)"
+    },
+    {
+      "ghost_hash": "8759d6fbf9deb6d0",
+      "insert_hash": "2597b5097a4a1bd0",
+      "note": "added defense of Kimia",
+      "ghost_text": "有双胞胎姐妹Kimia在JHU做AP 两个人都很a菜 顺便避雷",
+      "insert_text": "有双胞胎姐妹Kimia在JHU做AP 两个人都很a菜 顺便避雷 (Kimia 人还可以，就是正常的导师，很擅长向外社交，拉合作，学生也可以实习，组内氛围也很友好）"
+    },
+    {
+      "ghost_hash": "0000000000000000",
+      "insert_hash": "0000000000000000",
+      "note": "empty line preserved",
+      "ghost_text": "",
+      "insert_text": ""
+    },
+    {
+      "ghost_hash": "6604c631cb5003b3",
+      "insert_hash": "fe8a97e962944e7e",
+      "note": "minor wording adjustment",
+      "ghost_text": "对不喜欢的学生就暗示不适合读phd，劝退",
+      "insert_text": "对不喜欢的学生暗示不适合读phd，劝退"
+    },
+    {
+      "ghost_hash": "5496e25f02763e34",
+      "insert_hash": "c31d5f6b9a4bf2be",
+      "note": "rewrote ending complaint",
+      "ghost_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)(亲身经历：这个intern真的有毒，谁对他越好，谁越欠他的，不给他letter的组他连提都不敢提)",
+      "insert_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)(亲身经历：这个intern找组里phd要idea和compute，想当作自己在那个红榜老师那边的kpi，结果自己几个月什么都没做出来，又回组里，letter也没拿到)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3256,
+  "skipped_reason": null
+}

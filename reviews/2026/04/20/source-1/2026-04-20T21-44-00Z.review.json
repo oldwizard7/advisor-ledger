@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-44-00Z.delta.json",
+  "delta_ts": "2026-04-20T21-44-00Z",
+  "reviewed_at_utc": "2026-04-20T21:44:47Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Deleted text contains full names of students (dingyufei, zhaowanjia) and specific allegations about their academic misconduct and exam cheating",
+      "excerpt": "dingyufei考试作弊我就在考试现场...zhaowanjia"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted text contains vulgar insult '舔白人' (bootlicking white people) which is a personal attack/character slur rather than concrete criticism of advising practices",
+      "excerpt": "中国人但是歧视亚洲学生舔白人"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive allegations about advisor's academic integrity (demo fraud investigated by institution, manipulation of application scores) alongside student names, potentially suppressing legitimate criticism of advising practices",
+      "excerpt": "当时demo造假北大bkl都开会处理了...给dingyufei在bkl申请打高分"
+    }
+  ],
+  "prompt_sha256": "55e57aa50d86d2db8321707ea061daf58776a48e4347b084b65d37eecd464cef",
+  "finish_reason": "stop",
+  "completion_tokens": 4648
+}
