@@ -1,0 +1,291 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-19-50Z",
+    "revision_id": "AMHacu4-3jvYloDBVkPrFqjyujj0PUIWlqxtm6xe_vYHwMVbowhTqj-ImoO3gc8F3iWtN9PVm7TWnscFCLyH6mp1cw",
+    "paragraph_count": 1138
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-21-52Z",
+    "revision_id": "AMHacu7a_xtaTmN78nLPaqxVJTqXw16SQU1Z8qOXGhKD0VFNFoC4T2QtHqPnhlPkCgoQZHIf7gXF6RCjYEpW0SXuIw",
+    "paragraph_count": 1140
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 15,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0132,
+    "insertion_ratio": 0.0149
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 28,
+      "at_to": 28,
+      "from_paragraphs": [
+        {
+          "content_hash": "3c5079016d807906",
+          "style": "NORMAL_TEXT",
+          "text": "666哥们的意思是内部人员能给你盒出匿名文档创建者，内部人员是ceo罢，建议反手一个起诉"
+        },
+        {
+          "content_hash": "fc7b0c3328810c72",
+          "style": "NORMAL_TEXT",
+          "text": "（这不算泄露用户隐私/公司机密吗？）（当然算了，赔钱赔死，所以发邮件这位呵呵呵）（他还实名学校邮箱发，自爆卡车）（吃准了作者讲武德给他马赛克了，不如直接发出来给我们看看吧）"
+        },
+        {
+          "content_hash": "da047c04c9b5e27e",
+          "style": "NORMAL_TEXT",
+          "text": "（"
+        },
+        {
+          "content_hash": "665af0b5c61ab90c",
+          "style": "NORMAL_TEXT",
+          "text": "帮忙按照字体大小（笑死，人才啊）复原了，不用谢哦 ( 笑死我了）（不过确定是他吗？）（就那几个用中文的老师，就他喜欢告人，就他没被人维护，你猜为什么）"
+        },
+        {
+          "content_hash": "f2e44c6c9545f08b",
+          "style": "NORMAL_TEXT",
+          "text": "）"
+        },
+        {
+          "content_hash": "937ce94f88edd8eb",
+          "style": "NORMAL_TEXT",
+          "text": "作者评论：大家知道是谁就行了，我不想在这个文档里细讲，等一个小时以后再说，说不定我真被开了；如果我没被开再更新！"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "03fcffbe58446eee",
+          "style": "NORMAL_TEXT",
+          "text": "【先隐藏了，等看看我会不会被Google官方开盒】（不可能的吧，最多social engineering？但这铁铁违法吧）（楼主你要真被开了你就发财了）"
+        },
+        {
+          "content_hash": "92a10973b323c033",
+          "style": "NORMAL_TEXT",
+          "text": "他知道我的邮箱了，不过我的邮箱是假的，不知道他会不会IP定位什么的。"
+        },
+        {
+          "content_hash": "49d45d16c68b02e9",
+          "style": "NORMAL_TEXT",
+          "text": "作者评论：大家知道是谁就行了，我不想在这个文档里细讲，等一个小时以后再说，说不定我真被开了；如果我没被开再更新！（伟大，无需多盐）支持贴主"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 195,
+      "paragraphs": [
+        {
+          "content_hash": "bed088afd37cc70a",
+          "style": "NORMAL_TEXT",
+          "text": "他在小红书上有账号还在招生，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 321,
+      "at_to": 319,
+      "from_paragraphs": [
+        {
+          "content_hash": "5bb047636ac7f43d",
+          "style": "NORMAL_TEXT",
+          "text": "顶了，还是中式英文。。。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "37d44387a8dd52de",
+          "style": "NORMAL_TEXT",
+          "text": "顶了，还是中式英文。。。(不懂，用英文咋啦？)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 446,
+      "paragraphs": [
+        {
+          "content_hash": "7ec3465b9a0192cf",
+          "style": "NORMAL_TEXT",
+          "text": "拿国内的投资创业真的没问题吗？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 469,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "37b50cc254ff574b",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Richard Peng"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 503,
+      "at_to": 504,
+      "from_paragraphs": [
+        {
+          "content_hash": "815f2235367f5094",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错) （是真写了黑推，这洗不了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aaa010993ae06304",
+          "style": "NORMAL_TEXT",
+          "text": "给不少人写了黑推，ranking特别低那种 (undergrad我无法观测，但Huan给组里MS写推荐信的时候会明确承诺强推。huan 人非常 nice，也极其聪明，能advise有效的建议，很push自己但不会直接push学生。 并且组里学生关系都不错) （是真写了黑推，这洗不了）(身边不止一个人，非undergradna l)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 677,
+      "at_to": 678,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c2c29f9b41a3889",
+          "style": "NORMAL_TEXT",
+          "text": "Manling这么nice的老师竟然会被放到黑榜，丧心病狂！！！（可以先看一下红榜对应的描述再看下面的）"
+        },
+        {
+          "content_hash": "2a9d781f7069891a",
+          "style": "NORMAL_TEXT",
+          "text": "\t纯路人，黑榜只写黑的（黑的有不实之处，也只许放那边不管了是吧？），怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，如果老师很nice的话被黑也挺冤的，大家也可以理性判断)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3069d0fe3f04125a",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd非常适合来这里，有很多黑工intern给你打工。下面那"
+        },
+        {
+          "content_hash": "138f2cd2ad9e3e18",
+          "style": "NORMAL_TEXT",
+          "text": "纯路人，黑榜只写黑的（黑的有不实之处，也只许放那边不管了是吧？），怎么有人在下面疯狂洗，想写好的去红榜，这负责洗的人还开始搞人身攻击了？(也是路人，主要是红榜没人看呀，都只看黑榜，如果老师很nice的话被黑也挺冤的，大家也可以理性判断)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 809,
+      "at_to": 810,
+      "from_paragraphs": [
+        {
+          "content_hash": "4fff48461da4d0ea",
+          "style": "NORMAL_TEXT",
+          "text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，可怜的学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science （不是说"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bea07a5a27467785",
+          "style": "NORMAL_TEXT",
+          "text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 821,
+      "at_to": 822,
+      "from_paragraphs": [
+        {
+          "content_hash": "7dfaf80df0c49652",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击（什么时候人身攻击了，都是就事论事）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c8b7d85eed324377",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击（什么时候人身攻击了，都是就事论事）（笑死，自己水平差啥都不会，到你这里就变成人身攻击了？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 823,
+      "at_to": 824,
+      "from_paragraphs": [
+        {
+          "content_hash": "9c3d3a7072212e66",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，d"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4ed86fa26ed9e4fb",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 826,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 928,
+      "at_to": 930,
+      "from_paragraphs": [
+        {
+          "content_hash": "c1ed0e1e8f82c830",
+          "style": "NORMAL_TEXT",
+          "text": "海王一个申请季能养几十条鱼，在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d13641c569314598",
+          "style": "NORMAL_TEXT",
+          "text": "海王，一个申请季能养几十条鱼，在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1013,
+      "at_to": 1015,
+      "from_paragraphs": [
+        {
+          "content_hash": "7d3186a918a7008d",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "070354a94dc86b71",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Y）"
+        }
+      ]
+    }
+  ]
+}

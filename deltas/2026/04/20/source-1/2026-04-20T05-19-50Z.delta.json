@@ -1,0 +1,107 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T05-17-40Z",
+    "revision_id": "AMHacu4oeusYnsSDtv0eWeOSoqValXoxYOKriziDHYjmAhuxsCS8BpJ2I0DnbTOLGjaIRs9wZSeECxWWviwO38KBbg",
+    "paragraph_count": 1133
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T05-19-50Z",
+    "revision_id": "AMHacu4-3jvYloDBVkPrFqjyujj0PUIWlqxtm6xe_vYHwMVbowhTqj-ImoO3gc8F3iWtN9PVm7TWnscFCLyH6mp1cw",
+    "paragraph_count": 1138
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 2,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0018,
+    "insertion_ratio": 0.0062
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 30,
+      "at_to": 30,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "da047c04c9b5e27e",
+          "style": "NORMAL_TEXT",
+          "text": "（"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 32,
+      "paragraphs": [
+        {
+          "content_hash": "f2e44c6c9545f08b",
+          "style": "NORMAL_TEXT",
+          "text": "）"
+        },
+        {
+          "content_hash": "937ce94f88edd8eb",
+          "style": "NORMAL_TEXT",
+          "text": "作者评论：大家知道是谁就行了，我不想在这个文档里细讲，等一个小时以后再说，说不定我真被开了；如果我没被开再更新！"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 253,
+      "paragraphs": [
+        {
+          "content_hash": "c014fb50d986039d",
+          "style": "NORMAL_TEXT",
+          "text": "以前认识，push是挺push的，但本质上还是好人（但我没当过她学生"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 805,
+      "at_to": 808,
+      "from_paragraphs": [
+        {
+          "content_hash": "9ba21c41befb28ba",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a3ef51420be53ea",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech Yang Song"
+        },
+        {
+          "content_hash": "4fff48461da4d0ea",
+          "style": "NORMAL_TEXT",
+          "text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，可怜的学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science （不是说"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 928,
+      "paragraphs": [
+        {
+          "content_hash": "c1ed0e1e8f82c830",
+          "style": "NORMAL_TEXT",
+          "text": "海王一个申请季能养几十条鱼，在已经有很多鱼的情况下还在小红书发招生贴"
+        }
+      ]
+    }
+  ]
+}
