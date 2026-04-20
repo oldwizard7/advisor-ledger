@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-49-49Z.delta.json",
+  "delta_ts": "2026-04-20T11-49-49Z",
+  "reviewed_at_utc": "2026-04-20T11:50:30Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies specific PhD student by name/handle 'jagengmao' with negative characterization",
+      "excerpt": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large deletion suppressing substantive observations about advisor Yi R. (May) Fung including student transfer rates, intern funding issues, and ghosting allegations",
+      "excerpt": "HKUST,  Yi R. (May) Fung\n转组学生较多，有学生刚入学就转组\n实习生要自费科研，没有指导"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of specific criticism about PhD management practices while retaining other content",
+      "excerpt": "对phd没有任何的管理方法"
+    }
+  ],
+  "prompt_sha256": "d9551af15f310047ad90498caba42175097818f8c258512d44b2443baaf0cac3",
+  "finish_reason": "stop",
+  "completion_tokens": 3566
+}

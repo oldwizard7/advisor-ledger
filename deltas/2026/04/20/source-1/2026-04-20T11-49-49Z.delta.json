@@ -1,0 +1,481 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-45-45Z",
+    "revision_id": "AMHacu6NDtg-ezZBEXz1KBPbMlvsyPCi-aovqaJQD2-8TxnxzgehJ7O-cc3pVD0tdzawvu_Pww72igSR9dXPdlUotw",
+    "paragraph_count": 1504
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-49-49Z",
+    "revision_id": "AMHacu6tsVUdYLLJodmd_ytcsQTNz5MtlerWBZt4P-voFNYaF3My2gw__TmL28QujHVfKHf5e4Ww7H2OsPw_5IFTNQ",
+    "paragraph_count": 1497
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 34,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0226,
+    "insertion_ratio": 0.018
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 44,
+      "at_to": 44,
+      "from_paragraphs": [
+        {
+          "content_hash": "924af7810bbf87a1",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）(xiao'h)"
+        },
+        {
+          "content_hash": "3e0a7e4bef65acf1",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）（哪里来的谣言？）"
+        },
+        {
+          "content_hash": "4dc7ef81228c3107",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)（那个学术是因为学术不端才被劝退的，然后这个人在xhs上疯狂发黑贴）"
+        },
+        {
+          "content_hash": "68797064a656ce6d",
+          "style": "NORMAL_TEXT",
+          "text": "只会DM GNN 灌水那一套，发表大量academic rubbish paper"
+        },
+        {
+          "content_hash": "a5b1c75b7d0ace89",
+          "style": "NORMAL_TEXT",
+          "text": "本人是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助，改论文啥的也都很仔细。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "16bf78153e391fb7",
+          "style": "NORMAL_TEXT",
+          "text": "这都没人说的？和女学生的瓜在小红书上闹得沸沸扬扬，p图天天包装自己帅 (确实帅啊，这没得黑）"
+        },
+        {
+          "content_hash": "da40383ca18bd5e4",
+          "style": "NORMAL_TEXT",
+          "text": "三人行，典中典（到底是三角恋还是三人行，这词很诡异啊）（跟谁3p啊？？wc）【哪里来的谣言？】"
+        },
+        {
+          "content_hash": "9dcadf2d665b7295",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？(相处下来感觉对学生还挺好的)【那个学术是因为学术不端才被劝退的，然后这个人在xhs上疯狂发黑贴】"
+        },
+        {
+          "content_hash": "8cbba2d21833a6cc",
+          "style": "NORMAL_TEXT",
+          "text": "只会DM GNN 灌水那一套，发表大量academic rubbish paper 【你发了什么好paper？要不挂出来给大家看看？他之前是做dm的，现在dm落寞了而已，而且你要做agent，llm这些新方向kaize肯定是支持的好吧】"
+        },
+        {
+          "content_hash": "d22a769ca6f575d9",
+          "style": "NORMAL_TEXT",
+          "text": "本人是kaize组里的intern，和组里的phd也有很多交流，kaize对学生和intern非常好好吧，找实习或者写推荐信都会很积极的帮助，改论文啥的也都很仔细【可以说是我遇到的改论文最仔细的老师了，没有之一】。论文署名也很公正，都是按contribution来的。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 225,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ec010b56a12a4314",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天phd jagengmao没水平-个人带十几个intern啥都做不出来只想着水论文 (这事跟yue没关系吧，要不单开一个)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 230,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "c9f91cf583be0ded",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 真热闹  berkeley vision组一直风气堪忧 但是其他组管得还是严的 pieter sergey一直都是100%自己写信 想造假他们的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a82398b1b30a6f90",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... 真热闹"
+        },
+        {
+          "content_hash": "a08b105e4e67790b",
+          "style": "NORMAL_TEXT",
+          "text": "BAIR的Dynamics真的恐怖如斯, 看起来很多bair phd出没"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 232,
+      "at_to": 236,
+      "from_paragraphs": [
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "471b4ad068ef3e01",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）berkeley vision组一直风气堪忧 但是pieter组管得还是严的 想造假pieter的信难得很 来自jitendra什么不明gmail的信 各大学校committee审过材料的大家dddd"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 283,
+      "paragraphs": [
+        {
+          "content_hash": "da9ffece42561500",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 289,
+      "at_to": 294,
+      "from_paragraphs": [
+        {
+          "content_hash": "f1dc0aed810d629d",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9a680d86a3eb0d6f",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 291,
+      "at_to": 296,
+      "from_paragraphs": [
+        {
+          "content_hash": "b9808dfae987acb7",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？）"
+        },
+        {
+          "content_hash": "0514c23a683466e9",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b46801d3f7383a67",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）"
+        },
+        {
+          "content_hash": "b36c1d4b8e99f654",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 303,
+      "paragraphs": [
+        {
+          "content_hash": "ffd74f1fe06d2fab",
+          "style": "NORMAL_TEXT",
+          "text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合作学生带小礼物）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 362,
+      "paragraphs": [
+        {
+          "content_hash": "22fcf405492d88e9",
+          "style": "NORMAL_TEXT",
+          "text": "0 research guidance 100 东亚 pua toxic拉满, 经典言论包括不仅限于“i pay you a lot”"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 723,
+      "at_to": 730,
+      "from_paragraphs": [
+        {
+          "content_hash": "d44a08de3981889d",
+          "style": "NORMAL_TEXT",
+          "text": "hen"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5ae5fb35686a088a",
+          "style": "NORMAL_TEXT",
+          "text": "人一定是好人，push我觉得见仁见智，slack发你消息算push？没见过他微信要命的催过谁？不知道水平低在哪，你是觉得藤校AP有手就行？黑不黑我不懂，反正没给我写黑的，不然我也没有工作offer，如果你是自己乱搞把人惹急了，那就是你的不对了哈。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 739,
+      "at_to": 746,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb340f013ae05cf9",
+          "style": "NORMAL_TEXT",
+          "text": "游艇派对这一块"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 905,
+      "at_to": 912,
+      "from_paragraphs": [
+        {
+          "content_hash": "23b38501460df98a",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。对phd没有任何的管理方法，phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？(intern和advisor永远是双向选择, 首先组里所有做出project的人一定全都给了推荐信, 没有例外, 其次有些没做出来的也给了推荐信, phd和prof有利益绑定没错, 但是由这个就揣测对intern不好是不是逻辑太跨越了? 而且照这么说难道要对intern比对phd更好才行?那是不是对phd好的老师都不是好老师了?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "156b6222a41d28b8",
+          "style": "NORMAL_TEXT",
+          "text": "Intern不要考虑，phd适合来这里，有很多黑工intern给你打工。她是典型的’rising star’，放养intern，任由phd管理。prof和phd才是利益共同体，最简单的，你被抢credit了，她会站在你这里吗？她缺你这一个intern吗？想明白这点就可以了。phd也是刚入学1-2年，只会浪费intern的时间。那么作为intern，你申请时候的推荐信和pub很大程度上要看phd的人品了，众所周知有几个人品不行的。已经有不少intern都被压榨了，组里数十个intern，你的推荐信真的能脱颖而出？另外，后面争议这么大，篇幅之长本文档之最，真的还需要考虑吗？(intern和advisor永远是双向选择, 首先组里所有做出project的人一定全都给了推荐信, 没有例外, 其次有些没做出来的也给了推荐信, phd和prof有利益绑定没错, 但是由这个就揣测对intern不好是不是逻辑太跨越了? 而且照这么说难道要对intern比对phd更好才行?那是不是对phd好的老师都不是好老师了?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 912,
+      "at_to": 919,
+      "from_paragraphs": [
+        {
+          "content_hash": "3e07fc36b31174c9",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）(那你还想怎么样? 能讲research skill还不是因为带intern, 知道intern需要什么skill, 能总结出training lecture? 每天给你开八个小时会你又说push?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "83fc24146cf53568",
+          "style": "NORMAL_TEXT",
+          "text": "4. summer每周lab meeting讲research skill（这有什么用吗？骗骗自己就可以了 不用没话找话的）(那你还想怎么样? 能讲research skill还不是因为带intern, 知道intern需要什么skill, 能总结出training lecture? 每天给你开会你又说push?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1250,
+      "at_to": 1257,
+      "from_paragraphs": [
+        {
+          "content_hash": "7599794ac322f5b7",
+          "style": "NORMAL_TEXT",
+          "text": "（xswl,prof自己下场假装第三方rebuttal？组里多少黑工看看主页的alumni就知道）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9b66bfcc3c66ca27",
+          "style": "NORMAL_TEXT",
+          "text": "（xswl,prof自己下场假装第三方rebuttal？组里多少黑工看看主页的alumni就知道，资源是mbzuai funding+为了出活有什么说服力。 关于科研自己看看搁浅和中稿率就知道什么策略dddd。教授到底什么实力，科研指导多少，随便拿她的论文拷问细节就漏）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1269,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "759f0f2066c19cd7",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST,  Yi R. (May) Fung"
+        },
+        {
+          "content_hash": "4ef81a67f99a25f6",
+          "style": "NORMAL_TEXT",
+          "text": "转组学生较多，有学生刚入学就转组"
+        },
+        {
+          "content_hash": "0f60219260e92866",
+          "style": "NORMAL_TEXT",
+          "text": "实习生要自费科研，没有指导"
+        },
+        {
+          "content_hash": "f0c6eadbe2a5781d",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）"
+        },
+        {
+          "content_hash": "87f257293f4d0467",
+          "style": "NORMAL_TEXT",
+          "text": "称病不朝鸽intern，水平也差，很早之前说要去 hkust，但是后来一段时间又删了，之后又二次官宣了，神奇"
+        },
+        {
+          "content_hash": "846b5b18ce6fe5b6",
+          "style": "NORMAL_TEXT",
+          "text": "小红书bio里写升学辅导，这钱也要赚？"
+        },
+        {
+          "content_hash": "04449d3617ba105d",
+          "style": "NORMAL_TEXT",
+          "text": "24年在xhs发帖子招intern，招了之后又放鸽子"
+        },
+        {
+          "content_hash": "1099da8808c8b5d3",
+          "style": "NORMAL_TEXT",
+          "text": "她从heng ji组毕业的时候，heng发了有庆祝照片的推、也更新了网站news说may要加入hkust。之后xhs有人转载了heng的推，不久之后xhs帖子、heng的推、网站更新都删了。虽然感觉这个没用的观察毫无意义但还是interesting hhh"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "259f2a59b694a582",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1f1c8e492d5dd227",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4c1c47e1a53f9817",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️所以她本科是哪的，为啥不写？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1315,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "444452fb6dd656ca",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Michael Xie"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1430,
+      "paragraphs": [
+        {
+          "content_hash": "e441f7f140179fea",
+          "style": "NORMAL_TEXT",
+          "text": "组里不让私下实习。本科硕士走组里的合作实习，工资要上交，连房补都没有。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1470,
+      "at_to": 1463,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "581be70dbda35731",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1480,
+      "at_to": 1473,
+      "from_paragraphs": [
+        {
+          "content_hash": "15e67c4ab45d1476",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "340b0ac4cf90c6f0",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥或者难题丢给学生后出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看人下菜碟（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ]
+    }
+  ]
+}
