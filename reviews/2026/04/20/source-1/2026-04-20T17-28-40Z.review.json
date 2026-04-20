@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-28-40Z.delta.json",
+  "delta_ts": "2026-04-20T17-28-40Z",
+  "reviewed_at_utc": "2026-04-20T17:29:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Repeated deletion of substantive content regarding UC Merced professor Yiwei Wang, including specific claims about graduation requirements (7篇ccf-a三年毕业), authorship policies, and recommendation letter practices. These deletions appear to suppress legitimate observations about advising practices rather than perform cleanup (typos or off-topic content).",
+      "excerpt": "UC Merced, Yiwei Wang...7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业..."
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion of profane insults '出生导师，出生学生' (beast/animal advisor and student) constitutes a pure personal attack using vulgar language without substantive criticism of concrete advising practices.",
+      "excerpt": "瓜田，出生导师，出生学生，出生窝"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion of '坑王' (king of pits/traps) appears to be an unsupported derogatory nickname intended as a personal insult rather than substantive criticism of advising behavior.",
+      "excerpt": "坑王？？？"
+    }
+  ],
+  "prompt_sha256": "5838190c6c9044d0ac46dcb4baee291324312f5b2404411ad8b108f71c38bef4",
+  "finish_reason": "stop",
+  "completion_tokens": 5414
+}
