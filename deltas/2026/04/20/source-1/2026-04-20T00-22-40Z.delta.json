@@ -1,0 +1,114 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T00-20-30Z",
+    "revision_id": "AMHacu7-4orr76IN6ndEIU4BnYjGqSssmVg3uhDuo2wBAZYV4GYWQSToTqmqcVXLGedngPbP0pwmDKNyZ146r0OSGA",
+    "paragraph_count": 573
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T00-22-40Z",
+    "revision_id": "AMHacu7o99rAc8ERzc-K4nF3EtK2ticla1p4NZbWz_IL_4-wPGtt537GqDuabGgZDgKPnyxf7tzxpDV6S3uhPgc0yA",
+    "paragraph_count": 568
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 8,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.014,
+    "insertion_ratio": 0.0053
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 9,
+      "paragraphs": [
+        {
+          "content_hash": "e6436b4fbc52c315",
+          "style": "NORMAL_TEXT",
+          "text": "为啥开了phd黑榜，这样不太好吧，等一下变成撕逼大战了。。。"
+        },
+        {
+          "content_hash": "7b55f2fbe1353470",
+          "style": "NORMAL_TEXT",
+          "text": "?咋删了"
+        },
+        {
+          "content_hash": "829c2ed1025736a9",
+          "style": "NORMAL_TEXT",
+          "text": "Move 到下面了，没啥大瓜"
+        },
+        {
+          "content_hash": "9b202ecbc6d45c6d",
+          "style": "HEADING_1",
+          "text": "US"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 326,
+      "at_to": 321,
+      "from_paragraphs": [
+        {
+          "content_hash": "66bae3fa270e190c",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "71b7d41384f78150",
+          "style": "NORMAL_TEXT",
+          "text": "开公司，让学生给他打工，实习要尾作 （不给任何劳务报酬？）（fake，本科生都有工资，只是偏低）（那感觉还行其实？)（公司也不是他的，而且去的学生都给了工资。也就一个印度phd去了，那人之前也没啥别的去处）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 347,
+      "at_to": 342,
+      "from_paragraphs": [
+        {
+          "content_hash": "57a2b6c83bae1444",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一，也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0c819a152fc80dc6",
+          "style": "NORMAL_TEXT",
+          "text": "            纯路人，读过的几篇她的 paper 都不是一作或者尾作，且综合来看学术轨迹也并不像是能靠自己去 nw 的人 (她还是挺多代表作的吧，现在top 8 paper还要么是一作/共一，要么是尾作，当时找教职是NLP那届最好的candidate之一（你应该是没找过教职），也拿到最多的offer，她之前教职经验分享写了有10+offer）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 452,
+      "at_to": 447,
+      "from_paragraphs": [
+        {
+          "content_hash": "796c6886180610e3",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7c2b38bac34c9c89",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）"
+        }
+      ]
+    }
+  ]
+}
