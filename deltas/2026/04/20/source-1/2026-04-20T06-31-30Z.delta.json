@@ -1,0 +1,98 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-27-20Z",
+    "revision_id": null,
+    "paragraph_count": 1160
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-31-30Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 2,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0017,
+    "insertion_ratio": 0.006
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "b770a59cb98974b1",
+          "style": "NORMAL_TEXT",
+          "text": "This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b88e9b54e2daf041",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way."
+        },
+        {
+          "content_hash": "5ab889bbc36c75f3",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的误解。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "6411fa573d24169f",
+          "style": "NORMAL_TEXT",
+          "text": "修正已完成："
+        },
+        {
+          "content_hash": "fcf82f018c883205",
+          "style": "NORMAL_TEXT",
+          "text": "删除了所有空白理由的导师名单"
+        },
+        {
+          "content_hash": "c52402490589e638",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebuttal"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 914,
+      "paragraphs": [
+        {
+          "content_hash": "67bc6daedc7dff1a",
+          "style": "NORMAL_TEXT",
+          "text": "严格，但是绝对是优秀的导师"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 939,
+      "paragraphs": [
+        {
+          "content_hash": "4279bede014cf02f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有University of Virginia的瓜，求求🥺"
+        }
+      ]
+    }
+  ]
+}
