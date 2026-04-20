@@ -1,0 +1,157 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-59-00Z",
+    "revision_id": "AMHacu4NN8oFq5ZWoXXqoBZhbUdTxJ_R2XH6WHDtbM84rZLbz9rznOoj0D078Fbdcxy_1lsMCK87esz8tIGdELRvXw",
+    "paragraph_count": 1350
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-01-01Z",
+    "revision_id": "AMHacu4Bui5n06PL5kLQJE9ZzRJ7ThG2H-u3J8RooBkTHQeA859pPpogJr03sTNQWFQU1_k0i81Q7f8AU8iJGwkSAw",
+    "paragraph_count": 1356
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 5,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0081
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 19,
+      "at_to": 19,
+      "from_paragraphs": [
+        {
+          "content_hash": "855b39a829ea17b2",
+          "style": "NORMAL_TEXT",
+          "text": "MIT, Kaiming He"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d027830b2f51ec0b",
+          "style": "NORMAL_TEXT",
+          "text": "MIT, Kaiming He （？？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 51,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "124dc8414c797a52",
+          "style": "NORMAL_TEXT",
+          "text": "组里那个逆天phd jiageng"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 365,
+      "at_to": 368,
+      "from_paragraphs": [
+        {
+          "content_hash": "b716bca5a9370133",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来看，一定不会是特别轻松没有任何压力的。但处理压力本身就是PhD的必修课，能在这种导师supportive且同学nice的氛围下上好这一课，是非常幸运的。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2a2ad2dfd8ce2ab5",
+          "style": "NORMAL_TEXT",
+          "text": "最后，从丁老师组里的publication数目来看，一定不会是特别轻松没有任何压力的。但处理压力本身就是PhD的必修课，能在导师supportive且同学nice的氛围下上好这一课，对学生而言是一种幸运。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1243,
+      "at_to": 1246,
+      "from_paragraphs": [
+        {
+          "content_hash": "c640928b4bbbda15",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，就这样居然还是xhs网红，别被骗了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bcbcbca7090636e2",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1247,
+      "at_to": 1250,
+      "from_paragraphs": [
+        {
+          "content_hash": "bdbc1edcf2eb2b1b",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢一作"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "97244e1a05f8fd6e",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（点名姓Lu的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1318,
+      "at_to": 1321,
+      "from_paragraphs": [
+        {
+          "content_hash": "bf859615204ffd63",
+          "style": "NORMAL_TEXT",
+          "text": "老师很强啊, 好多顶会顶刊, 二作加通讯,"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "9f449d507abcdfed",
+          "style": "NORMAL_TEXT",
+          "text": "EITech, Wentao Zhu"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
