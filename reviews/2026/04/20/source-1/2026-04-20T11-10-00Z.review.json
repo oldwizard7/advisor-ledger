@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-10-00Z.delta.json",
+  "delta_ts": "2026-04-20T11-10-00Z",
+  "reviewed_at_utc": "2026-04-20T11:10:41Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Mentions specific individual 'haoran' (likely a student or junior researcher) by name alongside detailed descriptors of their role in handling recommendation letters, supervising interns, and specific interactions at BAIR, which could de-anonymize the private individual.",
+      "excerpt": "难道不是haoran最后一天才告诉你\"正确\"的邮箱"
+    }
+  ],
+  "prompt_sha256": "4147a2bc9b2e75f0606177dcda5742472875a764c459ab7156ab2d980e2abec4",
+  "finish_reason": "stop",
+  "completion_tokens": 4413
+}

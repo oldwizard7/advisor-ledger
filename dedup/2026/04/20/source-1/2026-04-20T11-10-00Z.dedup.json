@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T11-10-00Z",
+  "reviewed_at_utc": "2026-04-20T11:11:04Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 3,
+  "n_inserts": 5,
+  "pairs": [
+    {
+      "ghost_hash": "0f8481ab2a3c3e62",
+      "insert_hash": "9a28db970a1c2a81",
+      "note": "completed truncated sentence, expanded",
+      "ghost_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，er bu s",
+      "insert_text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, ta"
+    },
+    {
+      "ghost_hash": "1115bd8aba7ef55d",
+      "insert_hash": "e2e9a5a87c522421",
+      "note": "added placement details to same review",
+      "ghost_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 无论是学术界还是工业界。",
+      "insert_text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 无论是学术界还是工业界, 教职很多都去top10了, 也基本都是去大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3053,
+  "skipped_reason": null
+}

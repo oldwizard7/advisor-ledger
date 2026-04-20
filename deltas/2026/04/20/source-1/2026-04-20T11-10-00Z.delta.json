@@ -1,0 +1,110 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T11-07-50Z",
+    "revision_id": "AMHacu7h5FVNHOlhh-Lz0yORHTTM-1VcGC0wIxIyd8c5oOnvE_WfrEOjDRLqVxb_BP5L-FQfgcZLe0O-Hwa1oNX-0Q",
+    "paragraph_count": 1498
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T11-10-00Z",
+    "revision_id": "AMHacu5pbLIszTT-V86zX3OXe8p4-9yybKp-XKoria9BYOnj_E7ecYB2MZeCe1nYDbOHnBGBLlfNDwwiAgx0CsKjsw",
+    "paragraph_count": 1501
+  },
+  "summary": {
+    "inserted_paragraphs": 6,
+    "deleted_paragraphs": 3,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.002,
+    "insertion_ratio": 0.004
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 233,
+      "at_to": 233,
+      "from_paragraphs": [
+        {
+          "content_hash": "2487e02ce4abec73",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb9116e1c53a5c0e",
+          "style": "NORMAL_TEXT",
+          "text": "真热闹  jitendra还有berkeley vision组一直奇奇怪怪 风气堪忧 但是"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 237,
+      "at_to": 237,
+      "from_paragraphs": [
+        {
+          "content_hash": "0f8481ab2a3c3e62",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，er bu s"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9a28db970a1c2a81",
+          "style": "NORMAL_TEXT",
+          "text": "真敢发啊，那我问你，jintendra给你写推荐信用的是什么邮箱，如果邮箱没有问题，哪里来的这封邮件？另外，你应该发一封没有cc haoran的证据，否则你无法证明你不是本人 是我填错邮箱了好吗, 看看内容 你为什么会填错邮箱呢，难道不是haoran最后一天才告诉你“正确”的邮箱，一个gmail，而不是jitendra本人的学校邮箱吗？我本来以为你是haoran的intern, 你这么说就不像了, haoran和jitendra都说的很清楚, 那天jitendra就在bair, 是jitendra看不过来那么多申请email, 专门弄了单独的号, 因为haoran给争取了没有信的数量限制, jitendra怕信太多看不过来, 所以新弄了邮箱, 如果他敢随便造假gmail, ta"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 950,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1060,
+      "at_to": 1061,
+      "from_paragraphs": [
+        {
+          "content_hash": "1115bd8aba7ef55d",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 无论是学术界还是工业界。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e2e9a5a87c522421",
+          "style": "NORMAL_TEXT",
+          "text": "感觉稍微有失偏颇, 阿老师对很多工作的还是很负责的，特别是NO相关的项目, 主要可能对组内工作拿末作比较执着, 但这个问题大多数老师都有吧。我觉得只要在他们组踏实干，anima能给的资源绝对是顶配的, 无论是学术界还是工业界, 教职很多都去top10了, 也基本都是去大厂。然后和四大的connection非常紧密，每年都有本科生去四大，普林，UW之类的学校。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1254,
+      "paragraphs": [
+        {
+          "content_hash": "fb5fc298ebffe694",
+          "style": "NORMAL_TEXT",
+          "text": "利益相关，大家自行判断。lijie的合作者之一。可以说lijie是我合作过这么多人里面对学生最nice的一个了。首先"
+        }
+      ]
+    }
+  ]
+}
