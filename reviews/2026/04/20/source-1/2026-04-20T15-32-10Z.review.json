@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T15-32-10Z.delta.json",
+  "delta_ts": "2026-04-20T15-32-10Z",
+  "reviewed_at_utc": "2026-04-20T15:33:02Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of substantive observations about specific advisor Wang Pao (descriptions of gaming with students and verbal abuse) and replacement with only the university name 'HUST', suggesting suppression of legitimate content rather than routine cleanup",
+      "excerpt": "HUST Wang Pao\n天天打游戏，还拉着学生打游戏\n出口成渣，辱骂"
+    }
+  ],
+  "prompt_sha256": "24e08ecf5724e131894ede81a4d60fd9a93245eb076805e64f64473e596503d8",
+  "finish_reason": "stop",
+  "completion_tokens": 3933
+}

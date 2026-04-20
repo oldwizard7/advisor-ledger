@@ -1,0 +1,301 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T15-25-55Z",
+    "revision_id": "AMHacu4CsfkTjrEDsnodY8AyeoSHGd336Tb98CQl9RGPPseCSjiKu-aadlow6LYtKJRpwSB9nQDEMplee0nQyBe08g",
+    "paragraph_count": 2053
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T15-32-10Z",
+    "revision_id": "AMHacu4Q5eANLPLP3Er1qwJKdeY6OqyQZVSD0QzLQ2S_ziwJHe_E4MJEfWwqbck64Jmqb4FaAkNN8IUqZetTkNpPdA",
+    "paragraph_count": 2064
+  },
+  "summary": {
+    "inserted_paragraphs": 24,
+    "deleted_paragraphs": 13,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0063,
+    "insertion_ratio": 0.0116
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "0f766d3b6eb6051e",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友情提示：根据事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "59333b895159f922",
+          "style": "NORMAL_TEXT",
+          "text": "PS. 本文档是匿名文档，请随意补充和修改。 (友，事实自由说话，可以反驳其他人的不实信息) 想要证明自己的导师很好，或者修正下面内容的不实之处，就直接去下面rebuttal和补充信息，请用特殊颜色标记。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 425,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6f43e0e020f42c67",
+          "style": "NORMAL_TEXT",
+          "text": "GWU,  Howie Huang"
+        },
+        {
+          "content_hash": "e2b729f359d207b3",
+          "style": "NORMAL_TEXT",
+          "text": "   * 著名养蛊专家 associate 转正prof 那几年 招5个开3个 进来不到3月说不知道学生的strength在哪里，还让学生opt来干活 恶心得一批"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f90682d745831058",
+          "style": "NORMAL_TEXT",
+          "text": "GWU, Ahmed Louri"
+        },
+        {
+          "content_hash": "eea4285b92f31363",
+          "style": "NORMAL_TEXT",
+          "text": "   * 一亩三分地上可搜看看十多年前在UA的时候什么样子 和学生闹到criminal charge 被强制休假 15年还是16年来的gwu 反正gwu ece 也是烂摊子一个 除了lan tian是一股清流之外 没有值得来的老板"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b9cc00bcfcc2aaf8",
+          "style": "NORMAL_TEXT",
+          "text": "   *  ece随便问个senior phd应该都能略知一二(QAQ 一个老外招一堆中国学生 什么成分还用说吗) 之前面过 感觉不好相处 而且是拉着几个毕业的学生一块group interview"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 432,
+      "at_to": 444,
+      "from_paragraphs": [
+        {
+          "content_hash": "91add0452fd341aa",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是他PhD。从组里观察，他的风格比较独特，类似东北大哥，跟学生没有什么距离感，聊天也都很随意和直接（但是底下说的黄谣从没见过），所以不是所有人都适应，但本质上还是让学生有更好出路。我个人跟他做了好几年，帮忙找实习/或者其他生活上的困难找他，他都会帮忙。科研上他说话比较直接，但都是在科研范围内，个人觉得对科研本身还是有帮助的，想明白了也能接受"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d7c4743a4967e94e",
+          "style": "NORMAL_TEXT",
+          "text": "- 本人是他PhD。从组里观察，他的风格比较独特，类似东北大哥，跟学生没有什么距离感，聊天也都很随意和直接（但是底下说的黄谣没见过），所以不是所有人都适应，但本质上还是让学生有更好出路。我个人跟他做了好几年，帮忙找实习/或者其他生活上的困难找他，他都会帮忙。科研上他说话比较直接，但都是在科研范围内，个人觉得对科研本身还是有帮助的，想明白了也能接受"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 446,
+      "at_to": 458,
+      "from_paragraphs": [
+        {
+          "content_hash": "47c7b0e64a5a856f",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是，他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "27912d1c1c7cbe50",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（这个都是八百年前的谣了，还有人继续翻呢啊。 真实情况是他北航毕业，当时特朗普对国防qi他老板想让他留在美国，没交香港推荐信。第二年也确实拿了美国很多面试和offer。他当时pub还拿不到国内offer吗？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 623,
+      "at_to": 635,
+      "from_paragraphs": [
+        {
+          "content_hash": "b27e1b1aed46b3ff",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有咩用可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8c39fd1b9fd97ce7",
+          "style": "NORMAL_TEXT",
+          "text": "要不说说学术妲 己？这没法洗了吧 人尽皆知；唯一一篇一作是ghr送的，据说耿哥还强行把她塞进了另一篇paper里，一作表示不认识她但出于对ghr的尊重还是加进去了还真是，我是耿哥intern，耿哥亲口跟我们炫耀这个事，只能说太sb了 合作者表示这个人水平非常一般 真合作者就盯着某人写了上面这么长一段，再染成不同的颜色。。。有没有可能是被别人删了，有人重新粘贴上去的，为了区分不同人的对话重新染色？别在这洗了，摸着自己良心说话 我觉得没必要洗吧，你这谣造的 明眼人自己会判断 我不想参与撕。我看到是多个人写的，只不过后来被删了，别在这明眼人上了，so just keep quiet，你说的每个字都在支持一个踩着多少人上位的学术妲 己，不管是否有意，你在做帮凶。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1219,
+      "paragraphs": [
+        {
+          "content_hash": "cf3a88af5b2ac5c2",
+          "style": "NORMAL_TEXT",
+          "text": "这位和楼下好像很熟啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1383,
+      "at_to": 1394,
+      "from_paragraphs": [
+        {
+          "content_hash": "26aa891e0c547c0f",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold的训练实验的设计、coding、release"
+        },
+        {
+          "content_hash": "7b2f3a5fc575f0e4",
+          "style": "NORMAL_TEXT",
+          "text": "spatial mental modeling实验分析"
+        },
+        {
+          "content_hash": "cb238dfeb4e777a5",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作项目网页的搭建"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4178b37424e77b89",
+          "style": "NORMAL_TEXT",
+          "text": "scaffold/训练实验的设计、coding与release"
+        },
+        {
+          "content_hash": "94d43b8cdcb14156",
+          "style": "NORMAL_TEXT",
+          "text": "cognitive map实验分析"
+        },
+        {
+          "content_hash": "28ddf82bbe285e17",
+          "style": "NORMAL_TEXT",
+          "text": "正文中大部分的 figures 的制作、项目网页的搭建"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1785,
+      "at_to": 1796,
+      "from_paragraphs": [
+        {
+          "content_hash": "ba325e6426f4ee8a",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）（junxian要走了，ust nlp缺少顶梁柱了。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1be9eb595e7b6bfe",
+          "style": "NORMAL_TEXT",
+          "text": "学术水平，请看Google Scholar (路人感觉看着很正常，有什么问题呢) (👈可以看看她phd期间发的一作，我没记错的话3-4篇一作其中有2篇ACL级别的顶会吧…) （可以看看其他HKUST ap比如junxian he的profile）（junxian属于outlier了吧）（也给不出学生什么很有insight的指导，不过参考她phd发的paper也合理了lol）（junxian要走了，ust nlp缺少顶梁柱了。）（Junxian要去哪啊？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1928,
+      "paragraphs": [
+        {
+          "content_hash": "df2b41bdb1467d68",
+          "style": "NORMAL_TEXT",
+          "text": "水平差，指导没有，很会骗经费，但是经费也不拿来给学生用"
+        },
+        {
+          "content_hash": "546528eba02b39eb",
+          "style": "NORMAL_TEXT",
+          "text": "学术全靠问ai"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1933,
+      "at_to": 1946,
+      "from_paragraphs": [
+        {
+          "content_hash": "c142ba113a1c3a33",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？懂人家做的东西吗？毕业之前还求人家干活呢，你不会忘了自己还偷自己硕士导师的数据这件事吧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4aa7858f14aeae4e",
+          "style": "NORMAL_TEXT",
+          "text": "21级的快毕业了，还没走人呢，6月初就发邮件给学生的美国学校说学生有学术诚信问题，脸呢？懂人家做的东西吗？毕业之前还求人家干活呢，你不会忘了自己还偷自己硕士导师的数据这件事吧，要不要我给师祖发个邮件。哦，忘了，你还偷了师祖的工具源码，这东西我现在手上还有哦，包括所有的截图"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1935,
+      "at_to": 1948,
+      "from_paragraphs": [
+        {
+          "content_hash": "5188f43475afec8c",
+          "style": "NORMAL_TEXT",
+          "text": "HUST Wang Pao"
+        },
+        {
+          "content_hash": "90f20ea86528832f",
+          "style": "NORMAL_TEXT",
+          "text": "天天打游戏，还拉着学生打游戏"
+        },
+        {
+          "content_hash": "b00d8a7edf812eea",
+          "style": "NORMAL_TEXT",
+          "text": "出口成渣，辱骂"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c93e77d0f0f3f8d",
+          "style": "NORMAL_TEXT",
+          "text": "HUST"
+        }
+      ]
+    }
+  ]
+}
