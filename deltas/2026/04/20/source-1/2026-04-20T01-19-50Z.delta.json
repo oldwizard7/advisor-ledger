@@ -1,0 +1,115 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-17-40Z",
+    "revision_id": "AMHacu5rdDYvHJDElr4dsxp7_-uEqP5CruW3Vm4zQ-SclTjqY5OUzYCqtc3YS1MnaBueqemlf9QKwqUKZhU_8mtWXg",
+    "paragraph_count": 660
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-19-50Z",
+    "revision_id": "AMHacu7HvajtV-nVZGFG77mfq6oW7YjzwPdfkl4YO8lb5nrjoWPrkt6VUQrj8oGzOYMHz_ziToJvAaFoePzMYDB3qg",
+    "paragraph_count": 658
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 6,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0091,
+    "insertion_ratio": 0.0061
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 274,
+      "at_to": 274,
+      "from_paragraphs": [
+        {
+          "content_hash": "55ec3ffb82a4b5e0",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）（之后没法master out了）（感觉知道这件事的人不多吧）（这学生想去四大"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "640017adca11378e",
+          "style": "NORMAL_TEXT",
+          "text": "他 2024年加入 UNC, 组里已经有 24年 入学的 phd master out 了（其实在美国master out挺常见的，有的人读着读着有更好的想法。感觉这种其实都还好吧。）（关键quit 了之后人家重新申了其他的 phd）（之后没法master out了）（感觉知道这件事的人不多吧）（这学生把他当跳板，去四大了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 297,
+      "at_to": 297,
+      "from_paragraphs": [
+        {
+          "content_hash": "b8a32b53b146ccd3",
+          "style": "NORMAL_TEXT",
+          "text": "我来问道无余说，云在"
+        },
+        {
+          "content_hash": "4b03103897ea77b2",
+          "style": "NORMAL_TEXT",
+          "text": "青天水在瓶"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "368314e958f26a3e",
+          "style": "NORMAL_TEXT",
+          "text": "我来问道无余说，云在青天水在瓶"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 399,
+      "at_to": 398,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0ced2ca41d0ee886",
+          "style": "NORMAL_TEXT",
+          "text": "据说有瓜，还是只是水平不行？"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 508,
+      "paragraphs": [
+        {
+          "content_hash": "7c2b38bac34c9c89",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 534,
+      "paragraphs": [
+        {
+          "content_hash": "7c2b38bac34c9c89",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）"
+        }
+      ]
+    }
+  ]
+}
