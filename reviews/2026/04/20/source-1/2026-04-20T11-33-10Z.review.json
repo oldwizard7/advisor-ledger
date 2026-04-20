@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T11-33-10Z.delta.json",
+  "delta_ts": "2026-04-20T11-33-10Z",
+  "reviewed_at_utc": "2026-04-20T11:35:03Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Disclosure of student's full name (Ding Yufei) and institutional affiliation (PKU) in context of personal relationship gossip",
+      "excerpt": "不就是ghr的npy吗？ding yufei 在pku赫赫有名"
+    },
+    {
+      "type": "pii",
+      "detail": "Disclosure of student's full name (BQ Yin) in authorship dispute rebuttal",
+      "excerpt": "我的合作者（本人在此--BQ Yin）同样做出了重要贡献"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Pure profanity-based insult (傻逼) without substantive criticism of advising practices",
+      "excerpt": "纯傻逼，逼得学生要自杀"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Ableist slur (智障) attacking cognitive ability rather than specific academic conduct",
+      "excerpt": "交流起来像是智障"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Physical appearance attack (又矮又丑) unrelated to advising competence",
+      "excerpt": "又矮又丑(您这是有多帅啊，还攻击上教授长相了"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported sexual/psychological character judgment (性压抑) and mocking comparison to internet meme (北美孙笑川)",
+      "excerpt": "此人性压抑太严重，约炮失败还恼羞成怒"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Dehumanizing imagery (爬满了蛆和老鼠) and unsupported character assassination",
+      "excerpt": "仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆"
+    }
+  ],
+  "prompt_sha256": "2ee0c111f2a3b8a3926736da8ecc2f47b1dcd88e20b01962a5632551ea05dae9",
+  "finish_reason": "stop",
+  "completion_tokens": 4476
+}
