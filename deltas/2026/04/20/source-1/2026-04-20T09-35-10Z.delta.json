@@ -1,0 +1,201 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-30-57Z",
+    "revision_id": "AMHacu5H10cmZ-oOAzIG41g16ghHdsLn9sRugc0OqqGoFzbdfhB6ebBVr6wlSbCqtNz4JxNk7Bug9Mvd7O6naqT5vw",
+    "paragraph_count": 1494
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-35-10Z",
+    "revision_id": "AMHacu6BpzMZVaBt24uKbMBrEGeu4iyLSUxJrDNswR1V64Gu0v9tGTBD84HWhqdaZgf6nCtakoBI0q7kjBMdwLcHzA",
+    "paragraph_count": 1503
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 7,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0047,
+    "insertion_ratio": 0.0106
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 47,
+      "paragraphs": [
+        {
+          "content_hash": "29a317e2efe37108",
+          "style": "NORMAL_TEXT",
+          "text": "组里氛围"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 73,
+      "at_to": 74,
+      "from_paragraphs": [
+        {
+          "content_hash": "abaa445d322fcc7e",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）（说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/教授人品de）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "40d361e682b94637",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）（非本组PhD：说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/师生关系/教授人品的评价。这种节奏跟本Doc完全脱节。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 75,
+      "at_to": 76,
+      "from_paragraphs": [
+        {
+          "content_hash": "8b79f311d4cc1c84",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））(所以你们聊了这么久硬是sun哥一个solid的工作都说不出来吗))并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ccd1b07ea9bccb71",
+          "style": "NORMAL_TEXT",
+          "text": "+1， 本人是超哥曾经 intern，个人觉得超哥人品非常好，对学生和家庭都挺负责的，关于survey和benchmark其他project了解不多，但是本人参与的都是很solid的project，(孙哥有solid的project? Name one, please! （你有什么solid project，name， please？(我没说我有啊，但这边不是说孙老师有？想洗刷一下自己对他的误解，因为以前看了很多孙老师的感觉说实话 味如嚼蜡)（我比较了解孙哥，感觉sun老师就是比较会水，这算不上什么黑点吧。灌灌文章也有罪吗？）（碰瓷openai，title叫sora就有罪了）（好吧，了解了，谢谢解答，这样我对孙老师和他的组有个更清晰的picture了））(所以你们聊了这么久硬是sun哥一个solid的工作都说不出来吗))并且对intern很nice，会帮忙找下家，然后有比较大的问题会直接私聊打电话。（取个名就有罪，被法律制裁了？学术炒作归炒作，跟人品什么的没啥关系，这种讨论完全脱离本Doc主体）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 194,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 225,
+      "at_to": 224,
+      "from_paragraphs": [
+        {
+          "content_hash": "ee9648436b6405a3",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1cf1a36402af996b",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱 (Pieter知道你是谁吗还Pieter sponsor, Pieter组管理很严格，除非正式进组，否则怎么可能随便给一个phd的intern发钱？) Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 331,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bebc7f82ed3aee71",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1e1af6706d3752b9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7e319a94cab682ad",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ee9648436b6405a3",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bf8c02ef890ff7a1",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况..."
+        },
+        {
+          "content_hash": "8585d0ff1b1a4677",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此:"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 905,
+      "at_to": 915,
+      "from_paragraphs": [
+        {
+          "content_hash": "265b1e1a9001dc15",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，大部分是之前没有任何pub的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3ce896695cae3abf",
+          "style": "NORMAL_TEXT",
+          "text": "人比较多是比较inclusive吧，只要感兴趣就愿意给机会，让参加组会，让join PhD project，你看带出来发论文的intern，tin是之前没有任何pub的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1363,
+      "paragraphs": [
+        {
+          "content_hash": "bcbcbca7090636e2",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-35-10Z.delta.json",
+  "delta_ts": "2026-04-20T09-35-10Z",
+  "reviewed_at_utc": "2026-04-20T09:36:08Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full names of private individuals/students (Feishi Wang, Charlie Cheng) are disclosed in the context of a specific dispute with the advisor, which identifies non-public figures",
+      "excerpt": "Feishi Wang Charlie Cheng 应该是这两个（那请问你是这两位中的谁呢，这两位据我所知和Haoran Geng已经闹掰了）"
+    }
+  ],
+  "prompt_sha256": "96a575bff49892ef096985e5be6e0593542519861c7151c4e532094a41107550",
+  "finish_reason": "stop",
+  "completion_tokens": 4709
+}
