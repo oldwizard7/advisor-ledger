@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-22-54Z.delta.json",
+  "delta_ts": "2026-04-20T09-22-54Z",
+  "reviewed_at_utc": "2026-04-20T09:23:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Solicits real names of students who did not receive recommendation letters, encouraging disclosure of private individuals' identities",
+      "excerpt": "要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar personal attack using excrement reference to insult other commenters rather than address advising practices",
+      "excerpt": "你们这些人脑子是有屎?"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletes substantive observations about a specific advisor's intern management (accepting excessive students, lack of guidance/resources), appearing to suppress legitimate criticism",
+      "excerpt": "她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota"
+    }
+  ],
+  "prompt_sha256": "7726fa8c02bf7bf9801d3a87f78d6e3ac2ab22b4e050373e8ffaf81c4f67c1f1",
+  "finish_reason": "stop",
+  "completion_tokens": 2902
+}

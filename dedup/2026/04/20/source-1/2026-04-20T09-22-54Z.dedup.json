@@ -1,0 +1,90 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T09-22-54Z",
+  "reviewed_at_utc": "2026-04-20T09:24:05Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 16,
+  "pairs": [
+    {
+      "ghost_hash": "6b3714b71c431764",
+      "insert_hash": "7e319a94cab682ad",
+      "note": "Added rebuttal at end",
+      "ghost_text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。",
+      "insert_text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡"
+    },
+    {
+      "ghost_hash": "5243c2896d0a894f",
+      "insert_hash": "ee9648436b6405a3",
+      "note": "Added challenge at end",
+      "ghost_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup",
+      "insert_text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱"
+    },
+    {
+      "ghost_hash": "1ec95b6121de4a0a",
+      "insert_hash": "b0d648ffa4242237",
+      "note": "Filled empty parenthetical",
+      "ghost_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）()",
+      "insert_text": "没钱到招不了一个phd (没钱只是不乱招人的体面借口 。去年招了四个phd，今年发了三个phd offer。基本上intern有产出都会给return。)(只是没钱招你。。。）(有些话不体面还是不说了)"
+    },
+    {
+      "ghost_hash": "756d8c373e0fe81a",
+      "insert_hash": "756d8c373e0fe81a",
+      "note": "Identical text",
+      "ghost_text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）",
+      "insert_text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+    },
+    {
+      "ghost_hash": "c4f0dfce7a5af84c",
+      "insert_hash": "f4c48f88e00f9434",
+      "note": "Minor wording, added info",
+      "ghost_text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写比较好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）",
+      "insert_text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会写好的推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（不少intern是没pub的，也不太看学校）"
+    },
+    {
+      "ghost_hash": "7eadf1f4b8fbb987",
+      "insert_hash": "7a694c095524c064",
+      "note": "Added decorative emojis",
+      "ghost_text": "UCLA Quanquan Gu（大的来了）",
+      "insert_text": "UCLA Quanquan Gu（✨✨✨✨大的来了）🎉🎉🎉🎉"
+    },
+    {
+      "ghost_hash": "e0e59f2c83fe7e6f",
+      "insert_hash": "d2d3ff9d29f6faf3",
+      "note": "Added text at end",
+      "ghost_text": "学生得不到指导，没idea，压力学生。",
+      "insert_text": "学生得不到指导，没idea，压力学生。批评学生ideat"
+    },
+    {
+      "ghost_hash": "4cfca9f156f56eb9",
+      "insert_hash": "f76d1211d302114e",
+      "note": "Rephrased first sentence",
+      "ghost_text": "对学生有意见不进行有效沟通，突然发难。 半年3个博士离组。",
+      "insert_text": "对学生有意见不进行沟通和指导，突然发难。期待学生从她的负反馈里悟到她想要什么。"
+    },
+    {
+      "ghost_hash": "4cfca9f156f56eb9",
+      "insert_hash": "85f3efb757713b48",
+      "note": "Same second sentence",
+      "ghost_text": "对学生有意见不进行有效沟通，突然发难。 半年3个博士离组。",
+      "insert_text": "半年3个博士离组。"
+    },
+    {
+      "ghost_hash": "b7cca898316be06b",
+      "insert_hash": "e1b781fc97be7836",
+      "note": "Fixed capitalization",
+      "ghost_text": "Cityu xiangyu zha",
+      "insert_text": "CityU Xiangyu Zhao"
+    },
+    {
+      "ghost_hash": "11e1803e893210d7",
+      "insert_hash": "9c1adaed61fd0827",
+      "note": "Added question at end",
+      "ghost_text": "Peking,",
+      "insert_text": "Peking, 求问北大"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5108,
+  "skipped_reason": null
+}
