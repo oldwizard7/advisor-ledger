@@ -1,0 +1,90 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T21-26-59Z",
+  "reviewed_at_utc": "2026-04-20T21:28:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 12,
+  "n_inserts": 14,
+  "pairs": [
+    {
+      "ghost_hash": "c6543b1074724f5b",
+      "insert_hash": "3cfd84f793b394f7",
+      "note": "removed asterisks, rephrased ending",
+      "ghost_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？*****，一人写了一篇垃圾论文屁用没有，申请全靠人自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校，这事我们整个cs系都知道]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】",
+      "insert_text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】[〈--- geng自己来洗了？？？好文章？？一人写了一篇垃圾论文屁用没有，申请全靠人自己学新东西，别来洗了，quit后的去处跟这有🐦关系，甚至学生想去同校其他老师那，前脚别人刚答应接受，后脚geng就跑去找老师单聊说坏话，然后第二天立马被拒，真歹毒，最后被逼的只能靠自己申外校，这事整个cs系上下连prof都知道😂]【第一年quit的学生去处好，是学生自己重新申请的，跟这个老师本身没关系，这老师完全不会帮忙只会倒踩一脚】"
+    },
+    {
+      "ghost_hash": "4148a4b154d8d302",
+      "insert_hash": "5f13207463832508",
+      "note": "sentence split into two paragraphs",
+      "ghost_text": "每周要求日报，每周周报24 小时内需要根据feedback 重跑实验补数据，如果周报是周五，那么你很幸运了，你将有整整一个周末的时间全部用在周报correction, 还不快快感恩",
+      "insert_text": "每周要求日报，每周周报24 小时内需要根据feedback 重跑实验补数据，如果周报是周五，那么你很幸运了，你将有整整一个周末"
+    },
+    {
+      "ghost_hash": "ae1ff64c2b4de97a",
+      "insert_hash": "e016bbe459576944",
+      "note": "added doubt about ranking",
+      "ghost_text": "宾大cis第一烂导",
+      "insert_text": "宾大cis第一烂导（第一存疑）"
+    },
+    {
+      "ghost_hash": "364281c354774546",
+      "insert_hash": "a842adf3e497ebe6",
+      "note": "added clarifying question",
+      "ghost_text": "AP 第一年就有学生quit了吧（听说不是quit，是换导师？）",
+      "insert_text": "AP 第一年就有学生quit了吧（听说不是quit，是换导师？）（说的是一个人吗）"
+    },
+    {
+      "ghost_hash": "8f2b5d604930adaf",
+      "insert_hash": "d4fa3ceae2fd549f",
+      "note": "added skeptical question",
+      "ghost_text": "对intern很差 几乎没有拿到offer的 没return任何人 （没合作过，但是知道几个他的intern申请情况都不错？虽然没return是真的）",
+      "insert_text": "对intern很差 几乎没有拿到offer的 没return任何人 （没合作过，但是知道几个他的intern申请情况都不错？虽然没return是真的）（不错在哪）"
+    },
+    {
+      "ghost_hash": "2c539334816b67e6",
+      "insert_hash": "bfccecff5595ed01",
+      "note": "added songlin's new affiliation",
+      "ghost_text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 知情人评价, 王鹤告的是一个叫songlin wei的人, 不是horan, 但是是他们一块的paper 旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊",
+      "insert_text": "Paper造假 听说过这个事情, 但是已经辟谣了, 这种就别瞎传了...谁辟谣了？我作为亲自参加项目的intern，我证实这一点，算吗？你要是还不服，信不信我把paper名字和证据列上来？ 这件事bair人尽皆知 洗不掉的 知情人回答一波, 我是stanford phd, 但是有人向stf bkl举报了haoran造假的事情, 后来stf官方成立了调查委员会调查, 最后发现没有造假  说是wanghe替他担保说他没造假，这事才过去的，但其实wanghe跟他是一条船的 你们stf很多老师都不太相信这个调查结果 bkl也调查过，那个说辞有点灰色地带，比较难以界定，论文写的不清不楚，他怎么解释也可以。那他后面的论文还有和银河的知识产权纠纷呢，怎么没人提，不都被wanghe告了吗 知情人评价, 王鹤告的是一个叫songlin wei的人, 不是horan, 但是是他们一块的paper songlin已经离开wanghe组去yue wang组里了 旁观者视角：关于paper造假确实不能乱指责，毕竟很多都“辟谣”了，咱也不好说，但这位同学的paper可不是一两篇，我复现过他早年仿真的2篇论文，都是不太work的，这不算造假，但是很难评啊"
+    },
+    {
+      "ghost_hash": "c297078a0d9ec017",
+      "insert_hash": "ff1340b42ea3055f",
+      "note": "added stardew valley comment",
+      "ghost_text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）(???)",
+      "insert_text": "学生要帮他砍树，修草坪，帮他老婆雪地救援，搬家具（这不是国内教授的作风么）(???) 星露谷啊嗯"
+    },
+    {
+      "ghost_hash": "1af860c944c36d1d",
+      "insert_hash": "6604c631cb5003b3",
+      "note": "added explicit dismissal hint",
+      "ghost_text": "对不喜欢的学生就暗示不适合读phd",
+      "insert_text": "对不喜欢的学生就暗示不适合读phd，劝退"
+    },
+    {
+      "ghost_hash": "89dd939f2afab91e",
+      "insert_hash": "43a273a81b2888e4",
+      "note": "added past vs present context",
+      "ghost_text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动",
+      "insert_text": "他自己还在念phd的时候，出去开neurips，他要求全组其他出来开会的phd晚上都得在酒店改paper，他要改写作，不能自由行动（猴年马月的事情了，现在当了PI都是自己在酒店干活 学生自由活动）"
+    },
+    {
+      "ghost_hash": "c0c617d5c726d777",
+      "insert_hash": "c0c617d5c726d777",
+      "note": "identical rephrasing",
+      "ghost_text": "讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了",
+      "insert_text": "讲真，除了intern多一些你未必有return，manling本人人还可以吧，也接受你没有论文经验，对小白来说第一段科研做这个也不错了"
+    },
+    {
+      "ghost_hash": "6f08bc1b0953e01b",
+      "insert_hash": "d60061544e239518",
+      "note": "changed duration wording",
+      "ghost_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过一段时间, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)",
+      "insert_text": "（下面所有的complaint几乎全是来自同一个账号Anonymous Pumpkin, 疑似在组里work拿了letter但没有发出一作paper/没有心仪去向从而反目成仇的intern, 谨慎鉴别）(phd声明: 绞尽脑汁只能想到一个intern, 来龙去脉是这样, 大家自行判断, 如有误伤抱歉但真想不到其他人了: 这intern和phd(我)之前一起合作, 他自己有篇paper一直没中, 以为manling给他写的黑推导致自己phd没申请上, 但是主要是他的推荐信写的真挺强的, 打分也很高, 那些面试就是证明, 他也拿到了某校 offer. 这个intern心里很没数, 他想letter里写\"Strongest Student of this year\", phd就说这个得改改, 因为组里今年有发出来一些特别好的paper的, 真不能给他这么写, 然后他可能因此反目成仇了... 其实申请的时候还帮过他, 当时有个老师不愿意给他写推荐信, 他自己去一红榜老师处work过几个月, 也不愿意给他写推荐信, 还是manling组里临时帮他找的推荐人. 申请的时候还一直问能不能发personal note. 后来他很想去的学校私下问情况, manling也都给了点对点的personal strong recommendation, 没专门邀功而已, 后来该校还update说抱歉他record没过committee)(所以最后去哪里了)(开盒信息还是不分享了)"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 5947,
+  "skipped_reason": null
+}

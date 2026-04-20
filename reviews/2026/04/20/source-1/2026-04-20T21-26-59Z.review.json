@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T21-26-59Z.delta.json",
+  "delta_ts": "2026-04-20T21-26-59Z",
+  "reviewed_at_utc": "2026-04-20T21:27:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Replacement of placeholder with unsupported personal insult ('最臭' / 'most smelly') targeting a Princeton CS professor without substantive criticism of advising practices.",
+      "excerpt": "普林cszui chou"
+    },
+    {
+      "type": "pii",
+      "detail": "Addition of specific current affiliation/location information about a named junior researcher (Songlin Wei) that could de-anonymize them, including their move from one professor's group to another (Yue Wang's group).",
+      "excerpt": "songlin已经离开wanghe组去yue wang组里了"
+    }
+  ],
+  "prompt_sha256": "0b00e199a263ec3a943acd0b63381644758d7039d8d95f7d89d13c9bf374d75c",
+  "finish_reason": "stop",
+  "completion_tokens": 5274
+}
