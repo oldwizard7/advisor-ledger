@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-40-27Z.delta.json",
+  "delta_ts": "2026-04-20T13-40-27Z",
+  "reviewed_at_utc": "2026-04-20T13:41:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Appended insult '大郎该吃药了' (a sarcastic slur implying the target is foolish or deluded, akin to 'take your meds') to a defense of a professor. This is a pure personal attack rather than criticism of concrete advising practices.",
+      "excerpt": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了"
+    }
+  ],
+  "prompt_sha256": "39400678e7fb88feee0eaf12b1a638bcc25364032ae73d2a60945418cefa11e3",
+  "finish_reason": "stop",
+  "completion_tokens": 2308
+}

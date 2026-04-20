@@ -1,0 +1,107 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T13-38-20Z",
+    "revision_id": "AMHacu40RRpBSiffNURkboGj5kBdKg3eMiLXLMinuC2x5LNJm6VEHH3APebUwg6pi3i_e2Vsfyx73cJpDJyki6iDhQ",
+    "paragraph_count": 1894
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-40-27Z",
+    "revision_id": "AMHacu5j4LzhiTyRtW5GvrIpHaODFEZ-8KzssIEKBBb2ZgLLsf51jnZ9JwTRzRBlPALOiGhfPshviijEqmalmFTTpw",
+    "paragraph_count": 1893
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 5,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0026,
+    "insertion_ratio": 0.0021
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 365,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "699d9ea6c88f3c07",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (大部分intern干得好的都有共一/一作吧...)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfe8578638cd82df",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (大部分intern干得好的都有共一/一作吧...) (这事真有证据吗？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 595,
+      "at_to": 595,
+      "from_paragraphs": [
+        {
+          "content_hash": "5c082ed1b9d5ebd3",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0fc5cf9f22a853fa",
+          "style": "NORMAL_TEXT",
+          "text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱大郎该吃药了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 939,
+      "at_to": 938,
+      "from_paragraphs": [
+        {
+          "content_hash": "afb11e4e3ebb3ae6",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）(高年级快毕业的学生都有很好的去处，低年级或者刚入学的学生也都妥善安排到了系里他老师组）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9faedd33772cadc6",
+          "style": "NORMAL_TEXT",
+          "text": "现在已经逃（？？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）(高年级快毕业的学生都能顺利完成答辩，并且有很好的去处，并没有听说谁因为老师离开未能毕业的，其他低年级或者刚入学的学生也都妥善安排到了系里他老师组）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1532,
+      "at_to": 1531,
+      "from_paragraphs": [
+        {
+          "content_hash": "85f3efb757713b48",
+          "style": "NORMAL_TEXT",
+          "text": "半年3个博士离组。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e53cdb65457fb327",
+          "style": "NORMAL_TEXT",
+          "text": "半年3个博士离组。(好险我在发完邮件后看到了这个）"
+        }
+      ]
+    }
+  ]
+}
