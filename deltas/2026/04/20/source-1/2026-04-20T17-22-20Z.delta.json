@@ -1,0 +1,960 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T17-11-30Z",
+    "revision_id": "AMHacu7OPworccWNMuZrxi-gbmQIWeRdipvl3VCF_D4DFBNv4pyMh5kNOm2mWIIhAKsoaJ0Q_FLQuluAEd0cnxdlsw",
+    "paragraph_count": 2099
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T17-22-20Z",
+    "revision_id": "AMHacu7fc9lFyQ6eZXgFguBhOjJkrXvI2GIYLZmsY4aNXODKUvIxNQD7ZnLRfE7pD0iMkwbTKG7hn_qQf9ilm80Rfw",
+    "paragraph_count": 2043
+  },
+  "summary": {
+    "inserted_paragraphs": 42,
+    "deleted_paragraphs": 98,
+    "operations": 30,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0467,
+    "insertion_ratio": 0.0206
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 60,
+      "paragraphs": [
+        {
+          "content_hash": "b0b1b10ca8d4d06e",
+          "style": "NORMAL_TEXT",
+          "text": "waitwait，他和女学生的事怎么就被忽略了，这个问题明显很严重啊，为啥都在说人好"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 183,
+      "at_to": 185,
+      "from_paragraphs": [
+        {
+          "content_hash": "83a5120c06eeed69",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）（有没有可能是吃瓜群众乱编的剧本？）（感觉像涉事女学生在这里使劲找人洗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "852633641b1f968a",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）（有没有可能是吃瓜群众乱编的剧本？）（感觉像涉事女学生在这里使劲找人洗）（给我看乐了，这洗的也太差了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 196,
+      "at_to": 198,
+      "from_paragraphs": [
+        {
+          "content_hash": "b235ff365c377c74",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据 （需要证据？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e3cb238614eea7d6",
+          "style": "NORMAL_TEXT",
+          "text": "论文数据造假，美化数据 （需要证据？） 乐，上github看看他最高引llm paper有多少人抱怨复现不出来的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 198,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "ef4bb8477bf99c1c",
+          "style": "NORMAL_TEXT",
+          "text": "Frontier labs全投了一遍根本没人要他。现在能在seed也是因为早期刚在美国发展招不到人的时候让他混进去的，现在在字节也是人人喊打"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c8dc8667fbda7702",
+          "style": "NORMAL_TEXT",
+          "text": "LLM frontier labs全投了一遍根本没人要他。现在能在seed也是因为早期刚在美国发展招不到人的时候让他混进去的。在字节里也是人人喊打。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 200,
+      "at_to": 202,
+      "from_paragraphs": [
+        {
+          "content_hash": "98e03d7d9b39fa09",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么(装什么外宾，你应该问问整个圈子有多少人没被gqq恶心过吗)，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b91a1a9bd31c73f2",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么(装什么外宾，你应该问问整个圈子有多少人没被gqq恶心过)，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。（什么避重就轻 ==)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 258,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2dfaefaadd143059",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao"
+        },
+        {
+          "content_hash": "a84a0f4c6936b83c",
+          "style": "NORMAL_TEXT",
+          "text": "听说有瓜 打个窝"
+        },
+        {
+          "content_hash": "ff64525c2012292f",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 366,
+      "paragraphs": [
+        {
+          "content_hash": "9fb6a975cf6bc8a1",
+          "style": "NORMAL_TEXT",
+          "text": "外面接项目搞钱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d0ab21bdb2934b01",
+          "style": "NORMAL_TEXT",
+          "text": "Columbia Baron Law"
+        },
+        {
+          "content_hash": "5125468de5b60323",
+          "style": "NORMAL_TEXT",
+          "text": "自己本身是adj prof然后招学生去自己公司实习做AI，但实际上没有任何computing资源和思路，学生被搞抑郁了后玩办公室政治，让小导push你，micromanagement，查你考勤和working time，最后把你甩给其他team做跟researchha"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 552,
+      "at_to": 553,
+      "from_paragraphs": [
+        {
+          "content_hash": "e19bb8c3367a0eb1",
+          "style": "NORMAL_TEXT",
+          "text": "(我有备份)（要不你把名字留下，把当事人找来一起去警察局，看看怎么回事，在这儿写个有备份是什么意思）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "e136ff1f0eab3597",
+          "style": "NORMAL_TEXT",
+          "text": "（要不你把名字留下，把当事人找来一起去警察局，看看怎么回事，在这儿写个有备份是什么意思）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 623,
+      "paragraphs": [
+        {
+          "content_hash": "6a7b389ce13f2373",
+          "style": "NORMAL_TEXT",
+          "text": "拿着一堆谣言在这里闹麻了🤣一个人编那么多条很累吧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 654,
+      "at_to": 656,
+      "from_paragraphs": [
+        {
+          "content_hash": "ee6b52c64a099f5d",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自告诉导师自己是学术妲 己，至于科研不是有耿哥和炮灰们顶着吗"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fce4fe54aed7eb0c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生 引起众怒了属于是，可以移步下面的haoran geng看看，这俩蛇鼠一窝 ,建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己，至于科研和推荐信，不是有耿哥和炮灰们顶着吗"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 736,
+      "paragraphs": [
+        {
+          "content_hash": "46050cd0be23ceaa",
+          "style": "NORMAL_TEXT",
+          "text": "UNC Y"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 773,
+      "at_to": 778,
+      "from_paragraphs": [
+        {
+          "content_hash": "b47308786779e8d2",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "33553011ed0b83f2",
+          "style": "NORMAL_TEXT",
+          "text": "（这里的邮件是一封黑色背景的，内容过于离谱比白色背景的离谱很多，不确定是被和谐了还是被删除了，补档一次，若出于文档安全原因删除请注明）（6666）（6666）（已取餐😋😋）(逆天)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 776,
+      "at_to": 781,
+      "from_paragraphs": [
+        {
+          "content_hash": "98f988842b1d840f",
+          "style": "NORMAL_TEXT",
+          "text": "电话催命，每天都有电话很多时候不止一个，早7到晚12（12点后7点前也会接到电话），周一到周日，随时打过来，基本都40min往上，内容都是他的理想人生，电话响几声不接他就重新打过来破口大骂了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3364f8785542cbfd",
+          "style": "NORMAL_TEXT",
+          "text": "电话催命，每天都有电话很多时候不止一个，早7到晚12（12点后7点前也会接到电话），周一到周日，随时打过来，基本都40min往上，内容都是他的理想人生，电话响几声不接他就重新打过来破口大骂了（真实，他们组的同学经常吃着饭聊着天人就不见了接电话去了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 972,
+      "at_to": 977,
+      "from_paragraphs": [
+        {
+          "content_hash": "192ec578193182fe",
+          "style": "NORMAL_TEXT",
+          "text": "极其push, 曾经会长时间zoom和学生一起，让一堆intern在里面，方便监工"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a1ca10c4f4101377",
+          "style": "NORMAL_TEXT",
+          "text": "极其 push, 曾经会长时间zoom和学生一起，让一堆intern在里面，方便监工"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1014,
+      "at_to": 1019,
+      "from_paragraphs": [
+        {
+          "content_hash": "ea8a5a11316028ca",
+          "style": "NORMAL_TEXT",
+          "text": "在这学校上过学的学生都知道这人有多变态吧？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c7e7d4aa7219a354",
+          "style": "NORMAL_TEXT",
+          "text": "在这学校上过学的学生都知道这人有多变态吧？ 人送外号RU 老巫婆，让学生带孩子，家里草坪除草（对你没听错）各种杂活使唤 phd。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1016,
+      "at_to": 1021,
+      "from_paragraphs": [
+        {
+          "content_hash": "308756d2d1653ee2",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲极强"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d138069e627e8f0c",
+          "style": "NORMAL_TEXT",
+          "text": "控制欲极强，一言不合半夜 60s 微信语音让你听，然后必须写小作文道歉。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1020,
+      "at_to": 1025,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5c96346ac2c8bd04",
+          "style": "NORMAL_TEXT",
+          "text": "Rutgers University, Dimitris N. Metaxas"
+        },
+        {
+          "content_hash": "833c386e7a0d25fa",
+          "style": "NORMAL_TEXT",
+          "text": "有了解这位大佬的吗...蹲一个"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1440,
+      "paragraphs": [
+        {
+          "content_hash": "e8f9e164cd28f375",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Manling老师组里的RA，我看到以上的评论，深表痛心。我愿意给大家分享一下我的故事。遇见Manling老师之前，我待的科研组是相当的toxic，被pua每天工作十几个小时，人型gpu被转满，人生攻击，我几乎每一天都在痛苦中度过，几乎几度放弃科研。幸运的是，我遇见了Manling老师，我发誓和Manling老师做科研的这段时间是我最开心的时候，Manling老师管理的科研组整体的氛围非常positive，我记得我偶尔去参加in person的组会，赶上了几次Manling老师请我们奶茶，我也私下和Manling老师聊科研，她会耐心的引导你，走的时候会随手送给你一瓶小饮料。从人品上来看，Manling是我目前见过最好的老师。科研层面，Manling老师会细心引导你。我记得有一次我收到了一封邮件问我之前文章一些问题，Manling老师先是恭喜我，然后告诉我该如何回复，因为我投稿的文章中涉及到了这封邮件的一些内容，Manling老师也细心教我如何处理这件事情。我觉得身为一个rising star advisor，然后schedule那么满，还愿意去细心的引导RA的科研，我真搞不明白黑子们到底如何定义好advisor。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "08c5a92b7af1184c",
+          "style": "NORMAL_TEXT",
+          "text": "针对于上面表述的问题，例如有抱怨上来先和phd work来写一篇文章。大哥 or 大姐，manling老师从来不会强制说你一定要干某位phd的项目。如果你有一定的科研经历，能有lead project的能力，manling老师会更鼓励你独立lead project，就比如说我和Manling老师的项目就是我自己lead的。你如果没有科研经历的话，那么能让phd带你写一篇文章to begin with，难道不是最好的学习路径吗？phd申请是一件困难的事情，不是说申请不到phd就要埋怨自己的推荐人，有时候多找自身的原因。我们应该发自内心感恩那些帮助过我们的人，而不是过河拆桥，颠倒黑白。能写出这种颠倒黑白的东西我大概也能猜出来为什么你申请不上phd了，人品就有问题。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1540,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2dfaefaadd143059",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao"
+        },
+        {
+          "content_hash": "a84a0f4c6936b83c",
+          "style": "NORMAL_TEXT",
+          "text": "听说有瓜 打个窝"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1609,
+      "paragraphs": [
+        {
+          "content_hash": "2c0b3339440ee55f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有老杭二人知道某 stanford phd 姐的故事"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1625,
+      "at_to": 1632,
+      "from_paragraphs": [
+        {
+          "content_hash": "86c6b100659f5628",
+          "style": "NORMAL_TEXT",
+          "text": "Intern进组要先考一轮coding interview，micromanage (这也算黑点？)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "475f6c5320cacb26",
+          "style": "NORMAL_TEXT",
+          "text": "Intern进组要先考一轮coding interview，micromanage (这也算黑点？) (考code不是很正常么)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1764,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1825,
+      "at_to": 1834,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "80bceaa63a8fed53",
+          "style": "NORMAL_TEXT",
+          "text": "曾给所有人答应写强推，但是有人发现申hkpfs的推全是good，没有excellent，导致没过校推，还是卡点提交的，不给换推荐人的机会"
+        },
+        {
+          "content_hash": "d160bb1937d7e3c6",
+          "style": "NORMAL_TEXT",
+          "text": "NLP课考试基本照搬past paper，不但考了曾经教过，现在没讲的内容，past paper也因为在google drive没有藏好导致被部分同学找到。被很多学生联名上书举报学校，最后被迫让midterm成绩作废。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1830,
+      "at_to": 1840,
+      "from_paragraphs": [
+        {
+          "content_hash": "001ed74077294392",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)（may的中文有时候有歧义导致误会hh，我觉得还是善解人意的吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "818045b8477d7b42",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️补充：情绪很不稳定，爱拿学生撒气 （jiheng还是may？）(may 人还挺好吧？）(may人很友善的，可以很平等地交流沟通)（may的中文有时候有歧义导致误会hh，我觉得还是善解人意的吧）（可能前面的人没见过她不稳定的时候，反正很恐怖，虽然她事后有道歉）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1836,
+      "at_to": 1846,
+      "from_paragraphs": [
+        {
+          "content_hash": "b36eac82c69bd491",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。（回归家庭了）\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统LightRAG的使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我只知道他们的开源系统算是最接近系统级的了，反正我周边研究生同学们用的挺多的) (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...) 。组里做过实习完全不push，非常支持博士实习，申请都是强推。上过课也meeting过course project，周边的人接触过的都感觉很nice的，也很尊重学生。用过他们的开源项目，当时一打开发现他们好几个项目是天天都在更新...(这一点在学术界已经很少见了) （支持黄老师去红榜，就冲学生很好）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3536ed23733b0127",
+          "style": "NORMAL_TEXT",
+          "text": "之前很nice的老师，近几年不怎么hands-on带学生了。（回归家庭了）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7843a357e5d9411b",
+          "style": "NORMAL_TEXT",
+          "text": "HKUST yang can"
+        },
+        {
+          "content_hash": "2718c3cc66c2c6d7",
+          "style": "NORMAL_TEXT",
+          "text": "组里毫无积累和科研氛围，除非来之前已经是学术大佬否则避雷（他不是数学系的吗，跟kani一起把原来zhang）"
+        },
+        {
+          "content_hash": "4b09f47b936f5943",
+          "style": "NORMAL_TEXT",
+          "text": "\u000b\u000b\u000bHKU, Chao Huang Github stars的谣言能不能解释一下？(之前那个黑帖的作者都道歉承认信息有误了，从他们开源系统LightRAG的使用者(毕设)的角度来看，他们也都有一直在迭代，而且确实挺实用的。) (我只知道他们的开源系统算是最接近系统级的了，反正我周边研究生同学们用的挺多的)  (我是组里的学生，说实话Chao算是对每个学生都很supportive的了，很支持大家做自己感兴趣的项目，这样还被黑...) 。组里做过实习完全不push，非常支持博士实习，申请都是强推。上过课也meeting过course project，周边的人接触过的都感觉很nice的，也很尊重学生。用过他们的开源项目，当时一打开发现他们好几个项目是天天都在更新...(这一点在学术界已经很少见了) （支持黄老师去红榜，就冲对学生很好）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1838,
+      "at_to": 1852,
+      "from_paragraphs": [
+        {
+          "content_hash": "f406ea3e85c019f6",
+          "style": "NORMAL_TEXT",
+          "text": "NU"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "99de628c92e0363a",
+          "style": "NORMAL_TEXT",
+          "text": "NUS Shuicheng Yan (为什么没人提这位)"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1891,
+      "paragraphs": [
+        {
+          "content_hash": "9fc4508238942e7c",
+          "style": "HEADING_1",
+          "text": "CN"
+        },
+        {
+          "content_hash": "0679cbc82a4d5298",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua, Yang Yuan"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "d92dc712eba7614a",
+          "style": "NORMAL_TEXT",
+          "text": "代表作On the power of foundation models, 用AI审一下一眼就发现所有theorem都是错的，逆变斜变符号写反了"
+        },
+        {
+          "content_hash": "357136641a80f178",
+          "style": "NORMAL_TEXT",
+          "text": "主要精力花在开中医公司上头，创业项目vest周期5年锁定期, 不干满5年一分钱没有，融资失败，团队基本都跑光了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2daeb57c61a2e209",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua Yan Wang"
+        },
+        {
+          "content_hash": "d6c1f87fc90e1adb",
+          "style": "NORMAL_TEXT",
+          "text": "每天自称自己对实习生很好，实则养鱼的不得了"
+        },
+        {
+          "content_hash": "8f5704f9285c9ede",
+          "style": "NORMAL_TEXT",
+          "text": "组里一个实习生装自己是polyU phd在外面装逼替他招学生，实则自己本科刚毕业，一个ap招的本科实习生在外面招自己的实习生，是否有点太抽象了（确实搜不到主页，论文机构也是乱挂的）（回前面的, 他还喜欢玩知乎和xhs然后被人喷，名字叫压缩即智能"
+        },
+        {
+          "content_hash": "fe47e7adfbce7d54",
+          "style": "NORMAL_TEXT",
+          "text": "这人真的算thu吗我忽然请问（THU AIR的应该是）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1258d19901d393c9",
+          "style": "NORMAL_TEXT",
+          "text": "Tsinghua Shixia L 养鱼，打黑工的那种"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "93274a0c328c7e62",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU SAI第一批老师没几个正常人，后续进来的老师明显科研素养和人品上好很多，建议直接去找他们学生了解"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "53705925f31caf45",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Yong-lu Li"
+        },
+        {
+          "content_hash": "0a1bb285e35ed4ba",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导，去那里也只有给博士生打工"
+        },
+        {
+          "content_hash": "797e5f10370b87c2",
+          "style": "NORMAL_TEXT",
+          "text": "只能说pua大师，面试的时候就看得出来"
+        },
+        {
+          "content_hash": "a89fd2a28161ece6",
+          "style": "NORMAL_TEXT",
+          "text": "AI改论文，盯着标点符号猛改，坚信AI是对的，改半天时态改不明白"
+        },
+        {
+          "content_hash": "e4b737611a4e9bfd",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表，对同一个人还能有两幅嘴脸。就这样居然还是xhs网红，千万别被骗了(甚至xhs指名道姓内涵王兴兴，狂妄的没边了，发现留言人多就删帖)(人品有问题，阴阳同学院其他女教授，婊，贱，bitch)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ad993171a0e856fc",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal:"
+        },
+        {
+          "content_hash": "c3e3c2ad4d8149e5",
+          "style": "NORMAL_TEXT",
+          "text": "第一点：李老师官网写的很清楚： stage one: 作为co-author经历整个科研流程，整个部分不是博士生指导你难道还要老师自己指导吗？stage two是自己提出idea然后自己做，我认识的同学有从stage one走到 stage two的，在stage two的时候李老师确实指导，我想问写第一点的同学是stage one还是stage two? 还是说自己刚进实验室就想自己发一作paper呀，那请问之前训练过模型吗，做过实验吗？？？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "15f36a1d9120fc79",
+          "style": "NORMAL_TEXT",
+          "text": "第二点：有任何证据吗，你说别人pua，列举下证据呀，不然我还能说你纯飙呢"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0d6c5d99035aca6f",
+          "style": "NORMAL_TEXT",
+          "text": "第三点：你是不是魔怔了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bacf0be82eb9b59f",
+          "style": "NORMAL_TEXT",
+          "text": "第四点：请具体说明两幅嘴脸，否则等同瞎飙，李老师貌似没有内涵阴阳同学院其他女教授哦，如果有，请列举具体情节，你自己心里这么想不代表别人也这么想"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "121415a1b6bc2d1e",
+          "style": "NORMAL_TEXT",
+          "text": "SJTI Quanshi Zhang"
+        },
+        {
+          "content_hash": "b09c05f2a0d483c2",
+          "style": "NORMAL_TEXT",
+          "text": "做的没人关心的东西，学术taste极差，但喜欢宣称自己学术taste好"
+        },
+        {
+          "content_hash": "77a158f79402a057",
+          "style": "NORMAL_TEXT",
+          "text": "同时攻击性比较强，觉得别人做的都不行"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "28e3bad6f30cf055",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Li Niu"
+        },
+        {
+          "content_hash": "fc1a64f4dc801053",
+          "style": "NORMAL_TEXT",
+          "text": "\t- 牛之自信，天天碰瓷这碰瓷那，实际啥也不懂，瞎指挥，做的一地鸡毛"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "b3cdb433d2a3d8ef",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Yi Yang"
+        },
+        {
+          "content_hash": "35418a59513c11f1",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（+2, 点名姓Lu的）（其实每个博后都干过）"
+        },
+        {
+          "content_hash": "f862c400c52d31dd",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露喜欢炫耀自己拿了多少经费想买什么车子对学生扣扣搜搜做项目不会多给一分钱补贴"
+        },
+        {
+          "content_hash": "def5a28c614e5aff",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习 顶组找你不让去 只让你去他谈的垃圾项目钱都到他自己手里 最后那些人靠自己努力去了好的地方 还被归功于是自己推的"
+        },
+        {
+          "content_hash": "d79edce580b89bd9",
+          "style": "NORMAL_TEXT",
+          "text": "根本不懂科研"
+        },
+        {
+          "content_hash": "a30d5efa701514ff",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢和外面吹牛逼说自己学生去oai gdm 斯坦福 结果那些人全都是叛徒和yy爆了的"
+        },
+        {
+          "content_hash": "77579405e1fabbd5",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生都是骂他的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "5f96ff13b4fa74ef",
+          "style": "NORMAL_TEXT",
+          "text": "XD不至于，你喷你的博后就行了（你有本事就反驳，不要删）"
+        },
+        {
+          "content_hash": "967248c9f945a164",
+          "style": "NORMAL_TEXT",
+          "text": "带你的博后搞的鬼，你就狠狠喷他就行（其他的也没说错）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "2e39fb28f352bca3",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Kui Ren"
+        },
+        {
+          "content_hash": "1a726502a818b2a4",
+          "style": "NORMAL_TEXT",
+          "text": "读博期间伪造数据跟导师闹翻，导师将他从主页上除名"
+        },
+        {
+          "content_hash": "bf4c9513dc831f1d",
+          "style": "NORMAL_TEXT",
+          "text": "在美国水了一堆期刊文章，没几篇顶会，回国后靠着浙大的学生还有跟别的学校的reviewer串通审稿，每年给自己搞10几篇安全四大"
+        },
+        {
+          "content_hash": "3b4d1eec3eeeffce",
+          "style": "NORMAL_TEXT",
+          "text": "水平差，只会搞关系，学术道德差"
+        },
+        {
+          "content_hash": "5316aafc77efdfb5",
+          "style": "NORMAL_TEXT",
+          "text": "他举报的Xiaofeng wang (+1 还是自爆的，还发了朋友圈庆祝)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "8a5b41ae15649693",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU Changqing Zou"
+        },
+        {
+          "content_hash": "df2b41bdb1467d68",
+          "style": "NORMAL_TEXT",
+          "text": "水平差，指导没有，很会骗经费，但是经费也不拿来给学生用"
+        },
+        {
+          "content_hash": "546528eba02b39eb",
+          "style": "NORMAL_TEXT",
+          "text": "学术全靠问ai"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2009,
+      "at_to": 1960,
+      "from_paragraphs": [
+        {
+          "content_hash": "e18426b41d2c6a6f",
+          "style": "NORMAL_TEXT",
+          "text": "实验室的存在证明了一件事，学生们从不低贱，没有导师指导没有科研资源，学生们一样可以创造出伟大的成就"
+        },
+        {
+          "content_hash": "e441f7f140179fea",
+          "style": "NORMAL_TEXT",
+          "text": "组里不让私下实习。本科硕士走组里的合作实习，工资要上交，连房补都没有。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ae8bc3c509aaacb5",
+          "style": "NORMAL_TEXT",
+          "text": "实验室的存在证明了一件事，学生们从不低贱，没有导师指导没有科研资源，学生们一样可以创造出伟大的成就。本科硕士走组里的合作实习，工资要上交，连房补都没有。"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 2049,
+      "paragraphs": [
+        {
+          "content_hash": "ea69f9f920d58f4b",
+          "style": "NORMAL_TEXT",
+          "text": "EITech(东方理工), (插眼), 既然都有 SUSTech, ShanghaiTech, Westlake U, 不能没有我 EIT."
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 2063,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "02cd3b8ffe9fcb55",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）（这学校居然一个都没爆？）"
+        },
+        {
+          "content_hash": "d20088f1b4ad988f",
+          "style": "NORMAL_TEXT",
+          "text": "（插眼等瓜）"
+        }
+      ]
+    }
+  ]
+}

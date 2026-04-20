@@ -1,0 +1,38 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-22-20Z.delta.json",
+  "delta_ts": "2026-04-20T17-22-20Z",
+  "reviewed_at_utc": "2026-04-20T17:23:16Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name and institution of a student (not professor) explicitly identified, violating privacy",
+      "excerpt": "Yufei Ding (PKU) 不是只放prof吗怎么学生也开出来了.. 注意这不是丁老师，是同名学生"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported accusation that commenter is fabricating rumors alone, with mocking emoji",
+      "excerpt": "拿着一堆谣言在这里闹麻了🤣一个人编那么多条很累吧"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Derogatory slurs comparing students to mythical femme fatale (妲己) and vermin (蛇鼠一窝)",
+      "excerpt": "建议给这个妲 己的stf导师发邮件举报：https://web.stanford.edu/~bohg/ jeanette也是神人，怎么看上这姐们的 热知识，妲 己不会亲自承认是学术妲 己"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Substantive criticism about advisor Emory Liang Zhao regarding academic misconduct (AI-generated papers) removed",
+      "excerpt": "Emory Liang Zhao\n听说有瓜 打个窝\n和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Mass deletion of entries for multiple advisors (Tsinghua Yang Yuan, Yan Wang, SJTU Yong-lu Li, ZJU Yi Yang, Kui Ren, etc.) containing specific misconduct allegations",
+      "excerpt": "Tsinghua, Yang Yuan\n\n代表作On the power of foundation models, 用AI审一下一眼就发现所有theorem都是错的"
+    }
+  ],
+  "prompt_sha256": "68414f1fc0c42395a6dc1e81a907ff9eea4c79da622953727adedc9e248077e4",
+  "finish_reason": "stop",
+  "completion_tokens": 5617
+}
