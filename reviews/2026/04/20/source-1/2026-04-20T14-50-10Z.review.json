@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-50-10Z.delta.json",
+  "delta_ts": "2026-04-20T14-50-10Z",
+  "reviewed_at_utc": "2026-04-20T14:51:15Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Identifies a specific student by unique combination of advisor affiliation (Yufei Ding), institution (Stanford PhD), and specific adverse events (cancelled UCB offer, PKU investigation), which constitutes lab-specific descriptors detailed enough to de-anonymize a private individual.",
+      "excerpt": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Contains gendered slur '学术妲己' (academic Daji) implying moral corruption through sexual manipulation, and unsupported character judgments like '苍蝇不叮没缝的蛋' (victim-blaming aphorism), rather than criticism of concrete advising practices.",
+      "excerpt": "纯学术妲 己,考试还作弊?(点赞)...苍蝇不叮没缝的蛋"
+    }
+  ],
+  "prompt_sha256": "ef4c378d490951995791bbe459037608c8c79ac4e2c47da67f5ed92e67732c2e",
+  "finish_reason": "stop",
+  "completion_tokens": 6221
+}

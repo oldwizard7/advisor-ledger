@@ -1,0 +1,315 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-45-50Z",
+    "revision_id": "AMHacu5le6K-tTQ3MQdRjMnLMUN8Kpg9Ucyen7XDbF16P4V17-Pzmn2moUHS8hmIizBvj44kh5KHgGOeag2kvISoKA",
+    "paragraph_count": 1977
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-50-10Z",
+    "revision_id": "AMHacu5ZmMUQ37uWblGfD8GzKz7iypmz17dLnXzfBN2mcBZZSko5v4-7BlgGUhPaeBvleqQEaj7pEMCu-ZPPHQ1unQ",
+    "paragraph_count": 1990
+  },
+  "summary": {
+    "inserted_paragraphs": 24,
+    "deleted_paragraphs": 11,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0056,
+    "insertion_ratio": 0.0121
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 21,
+      "at_to": 21,
+      "from_paragraphs": [
+        {
+          "content_hash": "9dd04fa23c54b3cd",
+          "style": "NORMAL_TEXT",
+          "text": "听说手下postdoc质量太差，基本带不了学生，不提供任何指导，只会push"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "225bb207fca738d1",
+          "style": "NORMAL_TEXT",
+          "text": "听说手下postdoc质量太差，基本带不了学生，不提供任何指导，只会push（指的是postdoc）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 23,
+      "from_paragraphs": [
+        {
+          "content_hash": "40e8f836f3d06064",
+          "style": "NORMAL_TEXT",
+          "text": "总引用bu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ee457276d3d047c6",
+          "style": "NORMAL_TEXT",
+          "text": "总引用还比不过后两位一篇，就别侮辱水车了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 26,
+      "at_to": 26,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc5f81b5074bffe5",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，她的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d43d8a1984e6a0f3",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 397,
+      "paragraphs": [
+        {
+          "content_hash": "6e48253216db0276",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Chuang老师的学生，基于以上和以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里待过的本科生ms和各种intern有去CMU, MIT, Stanford, Princeton, UIUC, UCSD, UCLA的 3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 402,
+      "paragraphs": [
+        {
+          "content_hash": "070cf5f11e973c97",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Chuang老师的学生，基于以上和以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里待过的本科生ms和各种intern3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 406,
+      "paragraphs": [
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 408,
+      "paragraphs": [
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 417,
+      "paragraphs": [
+        {
+          "content_hash": "3202ccd39840b855",
+          "style": "NORMAL_TEXT",
+          "text": "（他的学生）现在他对学生还不错，平时交流内容也都挺正常的生活和科研，没见到上面说，一起合作过的intern也有好几个去四大的"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 420,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 588,
+      "at_to": 588,
+      "from_paragraphs": [
+        {
+          "content_hash": "252d592a45d7cc25",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b55a8e588689b349",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取"
+        },
+        {
+          "content_hash": "98df927d4ba4aacc",
+          "style": "NORMAL_TEXT",
+          "text": "消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，有人来洗了？敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知；有十几个人都看到你作弊了怎么洗 学校保着你真以为自己没作弊了？还有招北大的同学和学弟学妹打黑工 文章不给挂名"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 607,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0b0ada0819358995",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，帮忙补充回去，Yiwei你在害怕什么！？）（没有人删你的帖子，ai判断你是谣言自动删了，小丑🤡一个，大家都不理你不代表你可以一直乱咬人，真别埋没了好老师，多的话见红榜吧）（按本人的了解，下面除了毕业条件属实外其他均不属实，从语气到内容看上去更像是贴主情绪输出）"
+        },
+        {
+          "content_hash": "0ecfbba6e9ad492a",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳，还主动和我说过如果想合作他那边有idea可以拿出来一块做）(申请季被鸽过面试.....很想知道为什么后续不回邮件了)"
+        },
+        {
+          "content_hash": "329d7e127334b486",
+          "style": "NORMAL_TEXT",
+          "text": "7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）（能知道这些的你也不少花心思，自己申请不好或者申请不上是不是破防了孩子）"
+        },
+        {
+          "content_hash": "b46801d3f7383a67",
+          "style": "NORMAL_TEXT",
+          "text": "在美国看CCF的神人（ccf只是一个参考标准，那要不要跟你说英语告诉你入学就可以毕业？） （不属实，王老师认可COLM等会议）"
+        },
+        {
+          "content_hash": "bd93891ea90fee4e",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）（夫妻店也能黑？你见过哪个夫妻店ddl前两天早上五点帮你改论文改图片的？要不要给你找个爹妈）（在和王老师合作中蔡老师也给了相当多帮助，特别是论文写作）"
+        },
+        {
+          "content_hash": "7d3a40bbef658879",
+          "style": "NORMAL_TEXT",
+          "text": "2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了（一共都没90篇尬黑给我看笑了）（不属实，王老师向来建议学生开源代码）"
+        },
+        {
+          "content_hash": "21996038250370b2",
+          "style": "NORMAL_TEXT",
+          "text": "ICLR投稿无数篇，榜上有名，且全是低分（兄弟你iclr多少分我倒要看看，全是低分怎么中稿这么多？自己没写出来破防了？）"
+        },
+        {
+          "content_hash": "7146c21da1ef8f45",
+          "style": "NORMAL_TEXT",
+          "text": "在当其他老师的舔狗和被国内老师舔两个形态之间切换（666，和几个学术上的好友在会议上交流算舔，黑的没招了吧）"
+        },
+        {
+          "content_hash": "a5933c1350ee99a2",
+          "style": "NORMAL_TEXT",
+          "text": "传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）（干没干过这种事他看到了自己心里清楚）（真的吗？）（fake，yiwei老师几乎每个intern的推荐信都是学生自己写的，你自己活做的怎么样心里有点数）"
+        },
+        {
+          "content_hash": "18f71bb6b08a8c11",
+          "style": "NORMAL_TEXT",
+          "text": "至今没有PhD入学的学生？(说这句话百分百不了解组里情况，纯乐子)"
+        },
+        {
+          "content_hash": "1e5e39520f4b9125",
+          "style": "NORMAL_TEXT",
+          "text": "（王老师对学生肯定是没得说的，相当关心学生就业，并且会给合子作学生带小礼物）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 652,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 968,
+      "at_to": 981,
+      "from_paragraphs": [
+        {
+          "content_hash": "4d238ee669587be8",
+          "style": "NORMAL_TEXT",
+          "text": "（来自目前在读的：其实感觉组里挺好的，没shang'shu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "20d4a8f799097328",
+          "style": "NORMAL_TEXT",
+          "text": "来自目前在读的：单论组里读博或者搞科研氛围，个人感觉挺好的，没上述这么离谱的，以及陈老师人对组里同学也挺好的，如果你有独立科研能力目前组里能给很大的科研自由度（当然，组里其他杂事也会有，这个也需要个人去协调好自己时间，我目前整体来看"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1159,
+      "at_to": 1172,
+      "from_paragraphs": [
+        {
+          "content_hash": "b887253d4e7191bd",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b66a58f09ea1bd13",
+          "style": "NORMAL_TEXT",
+          "text": "(有没有人觉得以下几点，对于想做点事的phd来说，全是优点（就看下面的3个点有什么大问题吗，除了push）)（拉倒吧，这是优点？睁开眼看看 怀疑老师本人）(不是本人，纯路人)(优秀的人会自己push自己)（同意）（优点尼玛？当年找教职差点找不到，五十名开外的学校老师都集体封他骂不招paper machine（老师的问题，和学生申请有什么关系？转移矛盾？），最后上岸全靠mohit）（他不是说自己放弃了耶鲁的教职吗）（别看说什么，看做什么）（这是红榜那真绝了）（无名懒猴我们喜欢你）（这些信息对申请没有任何帮助）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1169,
+      "paragraphs": [
+        {
+          "content_hash": "83be170c154d73c5",
+          "style": "NORMAL_TEXT",
+          "text": "说其他老师的坏话（学术不行, 工作垃圾之类的）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1708,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
