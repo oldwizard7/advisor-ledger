@@ -1,0 +1,299 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-36-56Z",
+    "revision_id": "AMHacu7PbsNNQXduyZswOndmqVC9VwIc7tNDF7qpHq7Ui2aAP4dvL4F0iRfOnzq0Z926F_nDxq6EI_vTQHxDIla3AQ",
+    "paragraph_count": 1403
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-40-00Z",
+    "revision_id": "AMHacu4e6JmVGfuCDi07oaESr-PcAcAA6Zht-BKNcvMOAwMQwHRnIdFamyP4onLaimEY32o9KYL4TIMcNo_ySfEajA",
+    "paragraph_count": 1402
+  },
+  "summary": {
+    "inserted_paragraphs": 16,
+    "deleted_paragraphs": 17,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0121,
+    "insertion_ratio": 0.0114
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 44,
+      "at_to": 44,
+      "from_paragraphs": [
+        {
+          "content_hash": "58e04e672f8aa934",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识，感觉都很健康且前途光明啊？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "314671aa87dfe566",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识(几个高年级phd)，感觉都很健康且前途光明啊？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 98,
+      "at_to": 98,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5a072a7067a2b8f2",
+          "style": "NORMAL_TEXT",
+          "text": "sun老师是真的学术界垃圾桶了，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 185,
+      "at_to": 185,
+      "from_paragraphs": [
+        {
+          "content_hash": "bddd9c65a9346246",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2069b7aa74232f1f",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 192,
+      "at_to": 192,
+      "from_paragraphs": [
+        {
+          "content_hash": "78edd702c322792d",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao!!!"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6d44ba4041cfd1f",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng 别删了，再删你是Chaowei Xiao，有种来rebuttal!!!"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 381,
+      "at_to": 381,
+      "from_paragraphs": [
+        {
+          "content_hash": "2833f9b9be5f1bee",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师。组里的placement也都可以查到。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cab3e0d15c4addff",
+          "style": "NORMAL_TEXT",
+          "text": "我也是丁老师的学生，丁老师是我见过最insightful和supportive的老师。这个文档里很多人都只是在fa xie希望大家理性分别。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 582,
+      "at_to": 583,
+      "from_paragraphs": [
+        {
+          "content_hash": "a88954ea61ed44e2",
+          "style": "NORMAL_TEXT",
+          "text": "灌学生酒，搞酒桌文化，暗示学生送酒"
+        },
+        {
+          "content_hash": "05095ba5f4602098",
+          "style": "NORMAL_TEXT",
+          "text": "很push，但是自己不懂技术"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f649413aa26a887d",
+          "style": "NORMAL_TEXT",
+          "text": "搞酒桌文化，灌学生酒，暗示学生送酒"
+        },
+        {
+          "content_hash": "1ed97f0dfe70ec31",
+          "style": "NORMAL_TEXT",
+          "text": "很push，但是自己不怎么懂技术"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 732,
+      "at_to": 733,
+      "from_paragraphs": [
+        {
+          "content_hash": "55a708cadf6ede87",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54ab263a0904e930",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)(也感兴趣，组里学生能提供些信息吗？)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 735,
+      "at_to": 736,
+      "from_paragraphs": [
+        {
+          "content_hash": "b797e74f20ecf1d3",
+          "style": "NORMAL_TEXT",
+          "text": "朋友花了6年才毕业，但应该没啥"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d190b3d87c59bee",
+          "style": "NORMAL_TEXT",
+          "text": "朋友很高产，但是花了6年才毕业，但应该没啥别的黑料？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1110,
+      "at_to": 1111,
+      "from_paragraphs": [
+        {
+          "content_hash": "a9d6ff8129272988",
+          "style": "NORMAL_TEXT",
+          "text": "坊间评价，不会带学生，没idea，学生被压力去看心理医生。批评学生idea不行，但说不出行的东西，人菜瘾大。"
+        },
+        {
+          "content_hash": "a893d73fd3a920cd",
+          "style": "NORMAL_TEXT",
+          "text": "活在QA时代 不会与时俱进。做科研没有魄力。自己的科研热情不高。"
+        },
+        {
+          "content_hash": "51ab6a94f37c51e1",
+          "style": "NORMAL_TEXT",
+          "text": "平时对学生有意见不清晰说给学生听，突然发难。期待学生从她的负反馈里悟到她想要什么。"
+        },
+        {
+          "content_hash": "e91fc70ca7ff158d",
+          "style": "NORMAL_TEXT",
+          "text": "听说半年3个学生离组。或发pip信或当面开除，用的都是同一套理由。"
+        },
+        {
+          "content_hash": "48dfa39303301c4a",
+          "style": "NORMAL_TEXT",
+          "text": "业界connection可以忽略不计。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a514d42e12307344",
+          "style": "NORMAL_TEXT",
+          "text": "坊间评价，不带学生，没idea，压力学生。"
+        },
+        {
+          "content_hash": "d7e84b5805c23c21",
+          "style": "NORMAL_TEXT",
+          "text": "科研热情不高。"
+        },
+        {
+          "content_hash": "482663e83e457d21",
+          "style": "NORMAL_TEXT",
+          "text": "平时对学生有意见不清晰说给学生听，突然发难。听说半年3个学生离组。或发pi"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1242,
+      "at_to": 1241,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4c94485e0c21ae6c",
+          "style": "NORMAL_TEXT",
+          "text": "v"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1346,
+      "at_to": 1345,
+      "from_paragraphs": [
+        {
+          "content_hash": "a6081b36c09008b6",
+          "style": "NORMAL_TEXT",
+          "text": "CSU, Xu Su"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a7bf41e1b5505f85",
+          "style": "NORMAL_TEXT",
+          "text": "CSU, Xu Su(是 xiu su吗...)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1402,
+      "at_to": 1401,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "86936315fce40c12",
+          "style": "HEADING_1",
+          "text": "AU"
+        }
+      ]
+    }
+  ]
+}

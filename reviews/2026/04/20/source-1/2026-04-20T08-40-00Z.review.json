@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T08-40-00Z.delta.json",
+  "delta_ts": "2026-04-20T08-40-00Z",
+  "reviewed_at_utc": "2026-04-20T08:41:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Calling a professor '学术界垃圾桶' (trash can of academia) constitutes a pure personal insult without substantive criticism of concrete advising practices.",
+      "excerpt": "sun老师是真的学术界垃圾桶了"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion of detailed substantive observations about a specific advisor—including allegations about students seeing psychologists, specific firing patterns ('半年3个学生离组'), and industry connections—replaced with vague short statements. This appears to suppress legitimate criticism rather than perform cleanup.",
+      "excerpt": "坊间评价，不会带学生，没idea，学生被压力去看心理医生。批评学生idea不行，但说不出行的东西，人菜瘾大。活在QA时代 不会与时俱进。做科研没有魄力。自己的科研热情不高。平时对学生有意见不清晰说给学生听，突然发难。期待学生从她的负反馈里悟到她想要什么。听说半年3个学生离组。或发pip信或当面开除，用的都是同一套理由。业界connection可以忽略不计。"
+    }
+  ],
+  "prompt_sha256": "c4452ddf9f2b14e3309633f7350dd05b9751fb64aabdb6d6b68a8bd1b042b509",
+  "finish_reason": "stop",
+  "completion_tokens": 3268
+}
