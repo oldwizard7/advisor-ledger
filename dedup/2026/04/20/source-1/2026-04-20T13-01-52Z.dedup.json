@@ -1,0 +1,41 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-01-52Z",
+  "reviewed_at_utc": "2026-04-20T13:03:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 10,
+  "n_inserts": 10,
+  "pairs": [
+    {
+      "ghost_hash": "752549443fbd8102",
+      "insert_hash": "4e89cd2fa6be07ca",
+      "note": "Added cheating allegation details",
+      "ghost_text": "Yufei Ding 今年stf的phd，纯学术妲己 (点赞)",
+      "insert_text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？被ucb取消offer 还有这事，那stf为啥不取消？ (点赞)"
+    },
+    {
+      "ghost_hash": "c999d0e38b35858c",
+      "insert_hash": "13fd757009622e53",
+      "note": "Minor punctuation fix",
+      "ghost_text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)666",
+      "insert_text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁草，原来耿哥拿我们的钱给你付房租去了)666"
+    },
+    {
+      "ghost_hash": "8ea3e89677a470ab",
+      "insert_hash": "b85a4c68798535c2",
+      "note": "Added supportive testimonial",
+      "ghost_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）",
+      "insert_text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳）"
+    },
+    {
+      "ghost_hash": "dc6df00c1a74d7e3",
+      "insert_hash": "f2b409fad74951ea",
+      "note": "Completed cut-off parenthetical",
+      "ghost_text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说12都是多少年的",
+      "insert_text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说1、2都是多少年的小黑子纠纷，组里学生在工业界的出路都是非常好的，参见实验室网站；luchen打工更是无稽之谈，目前为了避嫌没有学生正在luchen里实习）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3373,
+  "skipped_reason": null
+}

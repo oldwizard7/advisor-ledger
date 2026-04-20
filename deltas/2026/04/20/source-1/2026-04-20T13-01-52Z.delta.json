@@ -1,0 +1,186 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-57-40Z",
+    "revision_id": "AMHacu4l9P3pVJKL4qkxoxp-eZl8ofGGDBl1-ucpPguXs93qbIY9r9SMStLq4wCScJMnn5aIbNPE7e6pnMpnyDYQcQ",
+    "paragraph_count": 1874
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T13-01-52Z",
+    "revision_id": "AMHacu7GqttIhV-TyXII0-CSUofSbBywfR4ojqt9u9_GF8JXkti8b_SA5VpNUi7J2FtBx-TycK3mfNHoFiv5yYHFLg",
+    "paragraph_count": 1874
+  },
+  "summary": {
+    "inserted_paragraphs": 10,
+    "deleted_paragraphs": 10,
+    "operations": 7,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0053,
+    "insertion_ratio": 0.0053
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 17,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "3212ac7029283e5f",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Min Xu"
+        },
+        {
+          "content_hash": "4c357172f5b6bb85",
+          "style": "NORMAL_TEXT",
+          "text": "听他 master 学生说 手底下 1000多个 intern？貌似有料，打个窝"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 556,
+      "at_to": 559,
+      "from_paragraphs": [
+        {
+          "content_hash": "752549443fbd8102",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己 (点赞)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4e89cd2fa6be07ca",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding 今年stf的phd，纯学术妲己,考试还作弊？被ucb取消offer 还有这事，那stf为啥不取消？ (点赞)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 568,
+      "at_to": 571,
+      "from_paragraphs": [
+        {
+          "content_hash": "c999d0e38b35858c",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁的）(草，原来耿哥拿我们的钱给你付房租去了)666"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "13fd757009622e53",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern钱，几千、几万美金的都有 intern本人证明, 不可能, 耿哥帮我找了便宜的房子, 还给我发过学校demo的补助（你也不看看你住的是谁草，原来耿哥拿我们的钱给你付房租去了)666"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 619,
+      "at_to": 622,
+      "from_paragraphs": [
+        {
+          "content_hash": "8ea3e89677a470ab",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b85a4c68798535c2",
+          "style": "NORMAL_TEXT",
+          "text": "组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）(没合作过别评价了好吧，能手把手帮你改图的你数得出10个吗？8卡a100老师自掏腰包给你租卡都不满意？要不要给你找个爹妈送你idea和paper？我们phd，intern和老师之间都是哥们一样，微信都是秒回，你是来找爹妈还是来找导师的？)（不属实，王老师对新手的指导相当多，还会给idea）（没有吧，之前和王老师有过一次合作，他直接要把一篇基本上写完的文章的一作给我，虽然后来我去别的学校了就没继续合作，但是王老师是很好沟通的）（完全不认可，尽管我不是王老师的学生，但我和王老师指导的一位学生非常熟悉，自己也和王老师交流过，我觉得王老师交流的过程中非常诚恳）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1533,
+      "at_to": 1536,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "98a8a30fe93976aa",
+          "style": "NORMAL_TEXT",
+          "text": "（有具体的说法吗，没怎么看到过说老师不好的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1669,
+      "at_to": 1672,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc6df00c1a74d7e3",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说12都是多少年的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f2b409fad74951ea",
+          "style": "NORMAL_TEXT",
+          "text": "You老师对自己组里面的学生还是很好的，总是有些不了解任何的小黑子任性抹黑，建议具体可以找组里的任何一位学生了解情况。（先不说1、2都是多少年的小黑子纠纷，组里学生在工业界的出路都是非常好的，参见实验室网站；luchen打工更是无稽之谈，目前为了避嫌没有学生正在luchen里实习）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1677,
+      "at_to": 1680,
+      "from_paragraphs": [
+        {
+          "content_hash": "829e3fbbd2e05a93",
+          "style": "NORMAL_TEXT",
+          "text": "无学术能力。不懂LLM甚至不懂老本行、可能只知道特定数据集处理了。"
+        },
+        {
+          "content_hash": "98d0da34bf4df5d4",
+          "style": "NORMAL_TEXT",
+          "text": "常年失踪。要求你秒回但zha"
+        },
+        {
+          "content_hash": "c12ff917083aa8ac",
+          "style": "NORMAL_TEXT",
+          "text": "情商为负数 不让正常请假。不给写推荐信、不给内推、养鱼。"
+        },
+        {
+          "content_hash": "13543316b2ebcf0f",
+          "style": "NORMAL_TEXT",
+          "text": "手下有学生学术不端 组内区别对待 资源浪费倾斜。"
+        },
+        {
+          "content_hash": "5a2e8dc824495acc",
+          "style": "NORMAL_TEXT",
+          "text": "和某牛津博士PY交易 牺牲学生利益换取通讯。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9847d1e4177a9a1c",
+          "style": "NORMAL_TEXT",
+          "text": "无学术能力。常年失踪。要求你秒回但找她永远不在。"
+        },
+        {
+          "content_hash": "961c484876e82e41",
+          "style": "NORMAL_TEXT",
+          "text": "情商为负数。手下有学生学术不端 组内区别对待 资源浪费倾斜。"
+        }
+      ]
+    }
+  ]
+}

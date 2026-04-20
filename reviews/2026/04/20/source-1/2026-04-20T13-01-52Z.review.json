@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T13-01-52Z.delta.json",
+  "delta_ts": "2026-04-20T13-01-52Z",
+  "reviewed_at_utc": "2026-04-20T13:02:34Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive allegations about specific advising practices—including denying normal leave, withholding recommendation letters and referrals, stringing students along (养鱼), and a quid pro quo arrangement with an Oxford PhD regarding authorship—while retaining vaguer character judgments. This appears to suppress concrete legitimate observations rather than perform cleanup of typos or off-topic content.",
+      "excerpt": "- 不让正常请假。不给写推荐信、不给内推、养鱼。\n- 和某牛津博士PY交易 牺牲学生利益换取通讯。"
+    }
+  ],
+  "prompt_sha256": "ed5841109e61be72124b05cadda034db55af37588b9029a066a2db7fb42c1485",
+  "finish_reason": "stop",
+  "completion_tokens": 4110
+}
