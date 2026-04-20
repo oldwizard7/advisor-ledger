@@ -1,0 +1,133 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T09-28-56Z",
+    "revision_id": "AMHacu790enEPHM-CAWiVJvo3bHbXsgV6NOey8oVi2EKDUosPF57dChBOtr4HATpByA2s2vBjiHeBuedNFzmsvj9AQ",
+    "paragraph_count": 1480
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T09-30-57Z",
+    "revision_id": "AMHacu5H10cmZ-oOAzIG41g16ghHdsLn9sRugc0OqqGoFzbdfhB6ebBVr6wlSbCqtNz4JxNk7Bug9Mvd7O6naqT5vw",
+    "paragraph_count": 1494
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 1,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0007,
+    "insertion_ratio": 0.01
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 46,
+      "paragraphs": [
+        {
+          "content_hash": "d4832f7160e2204e",
+          "style": "NORMAL_TEXT",
+          "text": "UChicago Junchen Jiang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 71,
+      "at_to": 73,
+      "from_paragraphs": [
+        {
+          "content_hash": "a0102ffbccf0bfe9",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）（说taste差的这位朋友，请问你的代表作是什么，学术taste）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "abaa445d322fcc7e",
+          "style": "NORMAL_TEXT",
+          "text": "本人就是lichao学生，我们5个phd算上刚毕业的也都还在呢，都觉得孙哥又给自由又推资源，人品做事什么都好。Intern我不了解全部，但据我观察到的，凡做得好的都给推荐给资源实习卡，推去更好学校的就一堆，一作也都给了本科生。算了，孙哥对学生有多好，对你们也不重要，你们也不是真的关心我们。（但你们的taste是真差，能别再污染学术圈了吗）（说taste差的这位朋友，请问你的代表作是什么，学术taste是你的主观意见，不要代入对学生出路/教授人品de）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 219,
+      "paragraphs": [
+        {
+          "content_hash": "bebc7f82ed3aee71",
+          "style": "NORMAL_TEXT",
+          "text": "作为知情人不知道谁在说这些, 过于离谱真的看不下去了:/"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1e1af6706d3752b9",
+          "style": "NORMAL_TEXT",
+          "text": "1. 我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用, 耿哥还给我推荐了2个审稿机会。推荐信上, 耿哥帮我拿到了Jitendra和一个UC Davis老师的信（哪个UC Davis的老师，你敢说出来吗？）Junshan Zhang, 耿哥帮我问了好多轮争取到的（你拉倒吧，Junshan Zhang和Haoran Geng是什么关系我不知道，已经闹掰了）我不知道后续, 我只知道, 耿哥真的在努力帮我, 我觉得上面的评论纯纯扯淡 （是本人吧，我知道今年谁拿了Junshan Zhang的推荐信，有哪个是申的好的？）我就申的不错, 我自己满意了, 我来之前都没有paper（敢问你去哪了) 我不想被开盒, 涉及隐私了, 可以告诉你top10北美phd 我知道他有几个intern申的挺烂的, 但是这些人本来就没啥paper好吧兄弟"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "7e319a94cab682ad",
+          "style": "NORMAL_TEXT",
+          "text": "2. 据我所知, 耿哥今年带的intern确实多, 但远没有传言那么离谱...他今年有6个intern,每个最后都拿到了至少一封推荐信(两个人拿了pieter+jitendra)。这6个人里面,有4个人耿哥都帮忙搞了2 封及以上的推荐信。 因为剩下的都不给推荐信，所以你只知道六个人我所有人都认识, 你有本事举个例子啊, 要是有谁没拿到信的看到了也来贴个名字, 咱就是看看谁在这扯淡"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ee9648436b6405a3",
+          "style": "NORMAL_TEXT",
+          "text": "3. 我清华学长(现在在UW)发给我了我的申请页面, 我的推荐信不是所有人里最强的,但是我觉得fair。请黑子们拿出证据再来黑。我家里条件很困难, intern期间我爸生病住院, 是耿哥直接帮我付了房租, 还帮我找了 intern机会赚钱(澄清一下:是 Pieter lab sponsor,不是什么耿哥的 startup 请贴聊天记录，不然我会觉得你在这捣乱"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bf8c02ef890ff7a1",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况..."
+        },
+        {
+          "content_hash": "8585d0ff1b1a4677",
+          "style": "NORMAL_TEXT",
+          "text": "PS:必须说一句, 关于Jitendra用gmail发信的问题, 他今年给所有intern写的信都是gmail发的。我当时也很怀疑, 专门发邮件向他本人确认过, 他说too much email, hard to handle with my own email。贴图在此:"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 701,
+      "paragraphs": [
+        {
+          "content_hash": "1f5c2fc6cbca23d4",
+          "style": "NORMAL_TEXT",
+          "text": "守护宇宙最好的10老师！！！！"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

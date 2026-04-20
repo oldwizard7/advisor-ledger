@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T09-30-57Z.delta.json",
+  "delta_ts": "2026-04-20T09-30-57Z",
+  "reviewed_at_utc": "2026-04-20T09:31:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Insertion contains detailed self-identifying descriptors about a student including specific publication metrics (3 papers, 70 citations), educational background (Tsinghua), personal family circumstances (father's hospitalization, financial hardship), and PhD admission outcome (top10 North America) that collectively are detailed enough to de-anonymize the individual.",
+      "excerpt": "我是耿哥去年带的intern。这期间我发了3篇 paper(虽然一篇拒了, 一篇workshop), 攒了70个引用...我家里条件很困难, intern期间我爸生病住院...我清华学长(现在在UW)...可以告诉你top10北美phd"
+    }
+  ],
+  "prompt_sha256": "4f1cc5cadd77e42fae281b4d31eedcb20c528765ab51f85c182b32ba391c6a7c",
+  "finish_reason": "stop",
+  "completion_tokens": 3868
+}
