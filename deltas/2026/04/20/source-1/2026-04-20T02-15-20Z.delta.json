@@ -1,0 +1,545 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-11-10Z",
+    "revision_id": "AMHacu4HCOg4zQbiuMlyiS_tT4b-VBP2Qw3p1eQf0yewPX5pzVe2AGRViblbi5fkrEM7NPtftx6ks1AE0-dooEZQcQ",
+    "paragraph_count": 760
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-15-20Z",
+    "revision_id": "AMHacu7yPeER2EJHKbjqzlilUlfgNTrQE5jJWoPU6DGXLKjniL5MuGqqF3bVZoXiWITpHJCn5VZ2aUyYdzYKnX2hhA",
+    "paragraph_count": 807
+  },
+  "summary": {
+    "inserted_paragraphs": 61,
+    "deleted_paragraphs": 14,
+    "operations": 19,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0184,
+    "insertion_ratio": 0.0756
+  },
+  "operations": [
+    {
+      "op": "delete",
+      "at_from": 4,
+      "paragraphs": [
+        {
+          "content_hash": "4c045ca7f3a32e58",
+          "style": "NORMAL_TEXT",
+          "text": "任何对PhD学生本人的评论都需要被删除，本文档只针对PI，请大家帮忙维护一些学生隐私。"
+        },
+        {
+          "content_hash": "851c88d4deed87f0",
+          "style": "NORMAL_TEXT",
+          "text": "不要提任何 PhD 学生的名字或者关键的、可能被开盒的隐私信息"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 14,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c936d78c5e126adb",
+          "style": "NORMAL_TEXT",
+          "text": "NW Xinyu Xing"
+        },
+        {
+          "content_hash": "01a79cde09d48613",
+          "style": "NORMAL_TEXT",
+          "text": "这个老师有没有瓜，当时申请的时候被朋友劝退了"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "781a3622cc567228",
+          "style": "NORMAL_TEXT",
+          "text": "UC Merced,  Yiwei Wang（看到被删了，bang'mang）"
+        },
+        {
+          "content_hash": "08291eede718a9bf",
+          "style": "NORMAL_TEXT",
+          "text": "* 组里intern 非常多，给不出什么指导，性格奇怪。（面试过，很不尊重人/聊的不开心的话基本就立马摆脸色）"
+        },
+        {
+          "content_hash": "415bda9ce530b1e0",
+          "style": "NORMAL_TEXT",
+          "text": "* 7篇ccf-a三年毕业，6篇ccf-a三年半毕业，5篇ccf-a四年毕业，并且要求这些paper都是学生唯一一作，导师为唯一通讯作者（这算不算积分制？）"
+        },
+        {
+          "content_hash": "fb2adeda7011b3db",
+          "style": "NORMAL_TEXT",
+          "text": "* 在美国看CCF的神人"
+        },
+        {
+          "content_hash": "114ead89e480e822",
+          "style": "NORMAL_TEXT",
+          "text": "* 而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai）"
+        },
+        {
+          "content_hash": "956fef036eae028d",
+          "style": "NORMAL_TEXT",
+          "text": "* 2025年发了无数篇arxiv，一搜主页全是preprint（90篇），代码不开源，Benchmark也不开源给我看笑了"
+        },
+        {
+          "content_hash": "2a283be2c1b58999",
+          "style": "NORMAL_TEXT",
+          "text": "* ICLR投稿无数篇，榜上有名，且全是低分"
+        },
+        {
+          "content_hash": "738aa50ca4aeffcc",
+          "style": "NORMAL_TEXT",
+          "text": "* 在当其他老师的舔狗和被国内老师舔两个形态之间切换"
+        },
+        {
+          "content_hash": "37ac21e91fc7c206",
+          "style": "NORMAL_TEXT",
+          "text": "* 传闻会给人写黑推，邮件给申请老师指名道姓地骂得很难听（真的假的？）"
+        },
+        {
+          "content_hash": "6381dd54c340b68d",
+          "style": "NORMAL_TEXT",
+          "text": "* 至今没有PhD入学的学生？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 250,
+      "paragraphs": [
+        {
+          "content_hash": "c400fa225fcfa283",
+          "style": "NORMAL_TEXT",
+          "text": "Umass，Gan Chuang"
+        },
+        {
+          "content_hash": "e952deae4ffd3391",
+          "style": "NORMAL_TEXT",
+          "text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，暑研不答应留下不给一作"
+        },
+        {
+          "content_hash": "010188d6b292b2b5",
+          "style": "NORMAL_TEXT",
+          "text": "学生联名写信举报坏老师"
+        },
+        {
+          "content_hash": "03d29d5bbb3c8fe2",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文够了也不让毕业 （← 最大一届学生才博三为什么有这条）(因为ml不少人3年毕业的？）"
+        },
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        },
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        },
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        },
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        },
+        {
+          "content_hash": "e1004e17c066f231",
+          "style": "NORMAL_TEXT",
+          "text": "这个大哥可太有意思了，一个词形容就是幼稚。他会在twitter follow 你然后当你回关以后再取消follow以此骗取follwer，我当时心里想说这不可能吧，这么一个这么年轻有为，整天说着学术，喊着公平正义的老师绝对不可能干出这件事，要不然这个人他得有多么的龌龊，恶心，招笑，多么的如过街老鼠一般生活在粪坑里，多么的守护着他那脆弱的自尊，多么的愚蠢地玩弄一些幼稚园的把戏。直到我和其他朋友对了一下 才发现这并不是偶然，我的偶像滤镜碎了一地，伤心！！"
+        },
+        {
+          "content_hash": "47ef48ba016f47be",
+          "style": "NORMAL_TEXT",
+          "text": "对于intern纯畜生行为，我一个心地善良充满学术热情的兄弟在他那里做完intern以后都没有以前爱笑了，收到了他一直的pua，压迫，打击。"
+        },
+        {
+          "content_hash": "aa5ccf50bd74b329",
+          "style": "NORMAL_TEXT",
+          "text": "大家千万不要单纯看这个人照片觉得他阳光开朗像是一个人，实际上真人从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆。（文采大师）"
+        },
+        {
+          "content_hash": "c2c3f03f51ae9fea",
+          "style": "NORMAL_TEXT",
+          "text": "极端npd人格，看人下菜，嘴里没一句实话，平等恶心所有人。"
+        },
+        {
+          "content_hash": "ddee1f97cfd90a92",
+          "style": "NORMAL_TEXT",
+          "text": "没有边界感，言语低俗，爱打听隐私，造黄谣。+1 线下和自己学生聊天以学生情感关系作为主要话题。"
+        },
+        {
+          "content_hash": "79c69b58226ed365",
+          "style": "NORMAL_TEXT",
+          "text": "骗港大自己拿到清华和其他学校offer，港大彻查后取消offer。(还有这种事情？保真吗）（听说当年去找另一个candiate换offer 人家没鸟他）"
+        },
+        {
+          "content_hash": "b068e86c622d17c9",
+          "style": "NORMAL_TEXT",
+          "text": "xhs发私信给女生“你有没有过一夜情？”被当时女生爆出来之后从此在CV届传为美谈（这个有证据吗）(不知道这个瓜的话说明不算做CV Research的PhD了我说实话）"
+        },
+        {
+          "content_hash": "5caea8354e9ec033",
+          "style": "NORMAL_TEXT",
+          "text": "自己的课改为seminar形式然后整个扔给自己phd负责（从logistics到找分享者）"
+        },
+        {
+          "content_hash": "a9262091668e17d0",
+          "style": "NORMAL_TEXT",
+          "text": "学生暑期实习还需要高强度做组内工作。"
+        },
+        {
+          "content_hash": "92479a116d1631e0",
+          "style": "NORMAL_TEXT",
+          "text": "mit-ibm lab 这地方有说法的"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 285,
+      "paragraphs": [
+        {
+          "content_hash": "bc235ffc068ad523",
+          "style": "NORMAL_TEXT",
+          "text": "师从Yiran Chen，这方面的细节可以去上面陈老板的模块去看"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 271,
+      "at_to": 305,
+      "from_paragraphs": [
+        {
+          "content_hash": "95e2bcbe64406044",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧 (毕竟rhy和他都是一个组的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3621b5c9cf4294af",
+          "style": "NORMAL_TEXT",
+          "text": "You老师似乎在Meta了吧 (毕竟rhy和他都是一个组的 rhy的很多朋友都混水摸鱼进来了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 280,
+      "at_to": 314,
+      "from_paragraphs": [
+        {
+          "content_hash": "2ee6d32c6b126466",
+          "style": "NORMAL_TEXT",
+          "text": "现在在全力搞自己的公司（据说公司的氛围延续了他们那群人指导学生的氛围，招了一群phd，但是把他们当牛马postdoc，非常累非常push）g i"
+        },
+        {
+          "content_hash": "0970450615a257e1",
+          "style": "NORMAL_TEXT",
+          "text": "是本人知道的被中外所有合作者老师学生都说aggressive的一个顶校老师，有学生说她曾经zoom有过奇怪行为"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 339,
+      "paragraphs": [
+        {
+          "content_hash": "cec516f41fb38e13",
+          "style": "NORMAL_TEXT",
+          "text": "据说他本人在UVA也快待不下去了"
+        },
+        {
+          "content_hash": "cc32636bf8b5c844",
+          "style": "NORMAL_TEXT",
+          "text": "跟zju kui ren和cispa的yang zhang串通审稿，近几年中了不少安全四大的文章，但是质量奇低"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 323,
+      "at_to": 358,
+      "from_paragraphs": [
+        {
+          "content_hash": "550f9624dab9cba4",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "848727e23eb5fab2",
+          "style": "NORMAL_TEXT",
+          "text": "DM/GNN这几个老师，全都都枪毙肯定有无辜的，但是隔一个枪毙一个那必定全是漏网之鱼(网友都是人才！)（同意，某stanford gnn组出来的ap也不例外）（+1000000000）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 367,
+      "paragraphs": [
+        {
+          "content_hash": "43906bf387fff18c",
+          "style": "NORMAL_TEXT",
+          "text": "贡献一个，可以放工业界，去了XTX，贼起劲叫投简历，需要PhD去实习，投了结果三天就拒。"
+        },
+        {
+          "content_hash": "b93ea354ec9d64b7",
+          "style": "NORMAL_TEXT",
+          "text": "路边一条蛆，组里学生方差太大，有牛逼的也有根本me"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 383,
+      "paragraphs": [
+        {
+          "content_hash": "db1dc3bdb8e2a419",
+          "style": "NORMAL_TEXT",
+          "text": "这个老师似乎招了很多人"
+        },
+        {
+          "content_hash": "ecf837a6f7498d3a",
+          "style": "NORMAL_TEXT",
+          "text": "能不能细说啊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 409,
+      "at_to": 448,
+      "from_paragraphs": [
+        {
+          "content_hash": "dbd23a2ba86afba4",
+          "style": "NORMAL_TEXT",
+          "text": "没有时间观念，开会迟到一俩小时"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "42fcad99e56f3111",
+          "style": "NORMAL_TEXT",
+          "text": "没有时间观念，开会通常迟到一俩小时"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 440,
+      "at_to": 479,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f29220af605becc",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota了没）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        },
+        {
+          "content_hash": "b8ab4c4659ab58f8",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（她当时没代表作都是堆的。。自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "957645626b71595f",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        },
+        {
+          "content_hash": "bfc7811dd0ec37ba",
+          "style": "NORMAL_TEXT",
+          "text": "据说当年找教职，吃组里资源堆出来的，还block了组里其他人的申请，有人有怨言 （细说？）(啥意思，不给别的学生写推荐信？)（有ji老师的事吗）（当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（自己看一下就知道，怎么突出？找教职那会就一千多引（这个“就”字，一看就是大佬评论），最高那篇就100多还是covid）（在组内突出，这不是说她block别人？）（堆资源是看不到吧？）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（你说的没错啊，Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling三个黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（我了个超大鱼池）（我勒个集团军）（这么多人怎么写推荐信）(那么多项目呢兄弟，很多都不是公开的)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 457,
+      "at_to": 496,
+      "from_paragraphs": [
+        {
+          "content_hash": "081a6263a21e05d4",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（Mindcube这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ee23595db33081d",
+          "style": "NORMAL_TEXT",
+          "text": "Mindcube不是实习生做的吗，怎么成phd代表作了，抢credits不太好吧？(哦确实mindcube是实习生和phd共一, 那phd还有篇ENACT也是代表作, 你不说我都忘了, 算1.5篇)（你看看intern主页上intern物理第一，phd自己主页上自己第一，manl主页一开始intern第一后来又变成phd了）（这个论文为什么一作变来变去，是否有瓜）(没有瓜 正常不同阶段贡献不同作者变动) (前面说有瓜的自己去看arxiv github commits行不行啊)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 482,
+      "at_to": 521,
+      "from_paragraphs": [
+        {
+          "content_hash": "c8d8d5e933189f0c",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？他博导也是佬完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6dc89ab774a4e67a",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 534,
+      "at_to": 573,
+      "from_paragraphs": [
+        {
+          "content_hash": "ed5515016c5e122e",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cb4d1b36f11f8df1",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，让学生非要投paper，造假也要投出去，学生已经身体状况很差了也必须要投"
+        },
+        {
+          "content_hash": "00763048175e8ff7",
+          "style": "NORMAL_TEXT",
+          "text": "在GT的时候学生第一年没有一作就开除，有学生博三博四也被开除"
+        },
+        {
+          "content_hash": "369fdb3f72781c12",
+          "style": "NORMAL_TEXT",
+          "text": "抛妻弃子，找小三"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 584,
+      "at_to": 626,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f524ac7638766c9",
+          "style": "NORMAL_TEXT",
+          "text": "Stanford 某AI4S老师"
+        },
+        {
+          "content_hash": "739fe8496eb7da6b",
+          "style": "NORMAL_TEXT",
+          "text": "直接点名？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 634,
+      "at_to": 677,
+      "from_paragraphs": [
+        {
+          "content_hash": "fa8c55a0a168638e",
+          "style": "NORMAL_TEXT",
+          "text": "无需多言"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3af15cceab136c81",
+          "style": "NORMAL_TEXT",
+          "text": "伟大无需多言"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 766,
+      "paragraphs": [
+        {
+          "content_hash": "39373783cbcb96d8",
+          "style": "NORMAL_TEXT",
+          "text": "WHU， Qian Wang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 773,
+      "paragraphs": [
+        {
+          "content_hash": "caf25604ce6d603c",
+          "style": "NORMAL_TEXT",
+          "text": "当他的学生就是亏欠他的，要还三年窄"
+        }
+      ]
+    }
+  ]
+}

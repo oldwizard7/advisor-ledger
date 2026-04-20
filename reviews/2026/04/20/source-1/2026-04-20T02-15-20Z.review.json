@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T02-15-20Z.delta.json",
+  "delta_ts": "2026-04-20T02-15-20Z",
+  "reviewed_at_utc": "2026-04-20T02:16:19Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Graphic dehumanizing personal attack using vermin and decay metaphors unrelated to concrete advising practices",
+      "excerpt": "从里到外都烂透了，仿佛爬满了蛆和老鼠，内心肮脏仿佛被太阳照到就会原地自爆"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Dehumanizing insult comparing subject to vermin",
+      "excerpt": "路边一条蛆"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Removal of substantive allegations about specific advisor's labor practices (treating PhDs as postdoc cattle, aggressive behavior) rather than cleanup",
+      "excerpt": "现在在全力搞自己的公司（据说公司的氛围延续了他们那群人指导学生的氛围，招了一群phd，但是把他们当牛马postdoc，非常累非常push）"
+    }
+  ],
+  "prompt_sha256": "ddac04819a8db4984c1388a2439ef8dab16f9d57f30427c37298b42efb4bfaaa",
+  "finish_reason": "stop",
+  "completion_tokens": 4933
+}
