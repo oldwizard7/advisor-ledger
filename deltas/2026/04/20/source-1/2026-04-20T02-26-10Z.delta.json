@@ -1,0 +1,190 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T02-24-00Z",
+    "revision_id": "AMHacu6FMapCz3Jqij1ypuC2Bq3o4YGzCEhQEalPcyHkmsbeEYvWWMkbtvlpT_5p-FHpk5K4rcZIBgtf06zdQPcl2g",
+    "paragraph_count": 810
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T02-26-10Z",
+    "revision_id": "AMHacu4E1SudGjpIlHtpEWDbI4mDrdsCN8YwtSm9KHFTRIVYbB9jvs_0RUo9kgCDU4PsF-Gr3Knxh9iX7RtQK4q4tg",
+    "paragraph_count": 819
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 5,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0062,
+    "insertion_ratio": 0.0171
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 24,
+      "paragraphs": [
+        {
+          "content_hash": "c2db177c8982c73f",
+          "style": "NORMAL_TEXT",
+          "text": "不是说最后举报他的学生被劝退了吗，谁还敢说？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 29,
+      "at_to": 30,
+      "from_paragraphs": [
+        {
+          "content_hash": "2542fabe772b5698",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4a4c04f5bbca7ddd",
+          "style": "NORMAL_TEXT",
+          "text": "而且其实是夫妻店（和谁？澳洲的那个，昆士兰）（Yujun Cai - 这也是重量级）（细说，给他开个夫妻贴）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 36,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "130fe0a1aa27a1c7",
+          "style": "NORMAL_TEXT",
+          "text": "UQ, Yujun Cai"
+        },
+        {
+          "content_hash": "09528a7e9c19e672",
+          "style": "NORMAL_TEXT",
+          "text": "Yiwei Wang 夫妻店（后面是不是有？而且澳大利亚的别写到美国这个）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 227,
+      "paragraphs": [
+        {
+          "content_hash": "e238653ef112b06a",
+          "style": "NORMAL_TEXT",
+          "text": "他招的外国学生都不怎么干活，大部分水平也都很低，留着当吉祥物yong"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 296,
+      "at_to": 303,
+      "from_paragraphs": [
+        {
+          "content_hash": "7b2da7016ac178eb",
+          "style": "NORMAL_TEXT",
+          "text": "PS: UD竟然就peng老师上榜，证明某些老师还是境界"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "65f504e1abdcb215",
+          "style": "NORMAL_TEXT",
+          "text": "PS: UDel竟然就peng老师上榜，证明某些老师还是境界不到啊..."
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 300,
+      "at_to": 307,
+      "from_paragraphs": [
+        {
+          "content_hash": "00645784086738b3",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5cff9594690c7f73",
+          "style": "NORMAL_TEXT",
+          "text": "面试让你先读一堆论文，然后给他个idea才考虑招不招你 (15min自我介绍 15min讲一篇指定paper 15min讲一个followup)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 496,
+      "at_to": 503,
+      "from_paragraphs": [
+        {
+          "content_hash": "3cfc6085d18862c4",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste, 自己的paper只能拿neurips 主会oral 和workshop awards, 根本拿不了主会best paper, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "13066b028ac94203",
+          "style": "NORMAL_TEXT",
+          "text": "1. 学术taste, 自己的paper只能拿neurips 主会oral 和workshop awards, 教职第一年只有10多篇尾作, 每个学生居然只有一篇代表作 (RAGEN, VAGEN, ENACT, MindCube, Theory of Space)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 529,
+      "at_to": 536,
+      "from_paragraphs": [
+        {
+          "content_hash": "093bbb64487d2356",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。（我再也不玩抽象了 因为会被当真sb）（这算rebuttal成功了吗 能进红榜没"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3ea1ab391a42f522",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差 全靠老婆 （等下，夫妻互相靠是个什么鬼情况）（哈哈哈哈，我觉得更多还是lianhui靠zhiting?)（确实）zhiting还很差？？？水平很差能去xai？？？能不左右脑互搏不。他博导也是佬 他本人完全rising star拿过那么多奖不知道差在何处。完全好老师来的给所有intern写强推 说他push说他组压力大我都可以理解说水平差是什么操作。组里资源这么好。。。全美都没多少组像他这么有钱了。组里intern去向都很好好吧。完全在托举学生。（我再也不玩抽象了 因为会被当真sb）（<-这算rebuttal成功了吗 能进红榜没？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 648,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "f2d60a6b8e12693a",
+          "style": "NORMAL_TEXT",
+          "text": "Columbia Xiaodong Wang"
+        }
+      ]
+    }
+  ]
+}
