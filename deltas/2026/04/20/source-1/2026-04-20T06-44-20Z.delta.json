@@ -1,0 +1,106 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T06-40-06Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T06-44-20Z",
+    "revision_id": null,
+    "paragraph_count": 1165
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 5,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0043,
+    "insertion_ratio": 0.0043
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 2,
+      "at_to": 2,
+      "from_paragraphs": [
+        {
+          "content_hash": "d90a85c9c1a54170",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6f85004c82f1ae35",
+          "style": "NORMAL_TEXT",
+          "text": "对导师：如果你被吐槽了，说明你做的某些事情已经在学生圈子中流传开来（可以思考一下为什么）。你（或者你的学生）可以利用本文档作为最合适的Rebuttal机会，澄清大家对你的所有误解，以后互联网上将会流传你的Rebuttal而不是各种错误信息。你也可以选择直接删除对你不利的信息，但如果黑料是真实存在的，其将永远流传在学生群体中。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 7,
+      "at_to": 7,
+      "from_paragraphs": [
+        {
+          "content_hash": "f737bc1dbb3b27d3",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebuttal；就目前大部分信息而言，原始版本的“red flags”和组内成员的“Rebuttal”是完全相反的，希望大家可以结合有效的证据修正自己对某些导师的偏见，当然也可以结合证据推翻"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c4e03fc6d7f40fa2",
+          "style": "NORMAL_TEXT",
+          "text": "补充了“（存在争议，请谨慎辨别）”的tag，没有tag就是暂时没有组内成员过来Rebutta"
+        },
+        {
+          "content_hash": "39a10f46c8de6e56",
+          "style": "NORMAL_TEXT",
+          "text": "有很多原始版本的“red flags”和组内成员的“Rebuttal”是相反的，希望大家可以结合有效的证据修正自己对某些导师的负面偏见，当然也可以结合证据坚持自己的负面评价；"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 10,
+      "paragraphs": [
+        {
+          "content_hash": "c69b1e9719dc9ee4",
+          "style": "NORMAL_TEXT",
+          "text": "大家可以使用隐私模式打开本文档，避免浏览器指纹追踪，以及换上VPN"
+        },
+        {
+          "content_hash": "2d841e05c9bf5f91",
+          "style": "NORMAL_TEXT",
+          "text": "暂时不要开团"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 14,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "ad9464da161a8d5a",
+          "style": "NORMAL_TEXT",
+          "text": "，"
+        },
+        {
+          "content_hash": "673531bfcf2d5159",
+          "style": "NORMAL_TEXT",
+          "text": "Figure 1. Dog Panic Jump Wall （直译：狗急跳墙）"
+        }
+      ]
+    }
+  ]
+}
