@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T13-38-20Z",
+  "reviewed_at_utc": "2026-04-20T13:39:51Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 17,
+  "pairs": [
+    {
+      "ghost_hash": "d774b90431e679b7",
+      "insert_hash": "699d9ea6c88f3c07",
+      "note": "added parenthetical comment",
+      "ghost_text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作",
+      "insert_text": "给intern写黑推导致PhD被狠狠拒，发邮件给招生办公室要求拒绝学生，到其他老师那说坏话和造谣，暑研不答应留下不给一作 (大部分intern干得好的都有共一/一作吧...)"
+    },
+    {
+      "ghost_hash": "f855747fec3181a4",
+      "insert_hash": "6f832c39b3ccadae",
+      "note": "added parenthetical comment",
+      "ghost_text": "纯傻逼，逼得学生要自杀，造谣的死全家，人在做天在看，祝他好自为之",
+      "insert_text": "纯傻逼，逼得学生要自杀，造谣的死全家，人在做天在看，祝他好自为之 (组里待过的学生表示真没听过此事)"
+    },
+    {
+      "ghost_hash": "cd9f7c6c9e79cca8",
+      "insert_hash": "272517afdc5c3c71",
+      "note": "typo fix: 他d->他的intern",
+      "ghost_text": "私自将MIT的卡大量外借给他干活 （+1 MIT Csail server也被他d搞崩过好几次。）",
+      "insert_text": "私自将MIT的卡大量外借给他干活 （+1 MIT Csail server也被他的intern搞崩过好几次。）"
+    },
+    {
+      "ghost_hash": "9559dfc3df56339f",
+      "insert_hash": "5c082ed1b9d5ebd3",
+      "note": "completed truncated sentence",
+      "ghost_text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是yuan'mei'y",
+      "insert_text": "我看不惯haoran被这么诬陷, 他确实有管理问题, 但是远没有这么离谱"
+    },
+    {
+      "ghost_hash": "ee67354420bce779",
+      "insert_hash": "afb11e4e3ebb3ae6",
+      "note": "added parenthetical comment",
+      "ghost_text": "现在已经逃（？？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）",
+      "insert_text": "现在已经逃（？？）回国内了（啊他逃哪里去了）（上海AI lab）（哦哦之前还申请了他的phd，那他学生怎么办呢）（有大瓜这里！）(学生都妥善安排了，没听说瓜)（但留下的funding好像和学校另外一个nlp ap有纠纷）（该不会说的是那女AP吧？蹲，听到过学校里有人讨论，问了他们组的人，不敢说）(高年级快毕业的学生都有很好的去处，低年级或者刚入学的学生也都妥善安排到了系里他老师组）"
+    },
+    {
+      "ghost_hash": "dd185afd76b5c2a8",
+      "insert_hash": "759f0f2066c19cd7",
+      "note": "expanded name format",
+      "ghost_text": "HKUST May Fung",
+      "insert_text": "HKUST,  Yi R. (May) Fung"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 1854,
+  "skipped_reason": null
+}
