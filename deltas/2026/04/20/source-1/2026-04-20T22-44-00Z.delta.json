@@ -1,0 +1,223 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-37-30Z",
+    "revision_id": "AMHacu6yMPZKlibuCeFyNfiQ6DS48WLviQ8r6eZ5k3iY2G1bFy7JWjmX0VaG7InikdE4laQg7wjBbeL27hbIlq6H_w",
+    "paragraph_count": 2165
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-44-00Z",
+    "revision_id": "AMHacu7CfY7NeOY5G1oO2WUUr201eoPizLu6nKYpnECmUhSPC1OTXddpmr6pQY0tlCtubig1t_3inOY46xiqtCVgEQ",
+    "paragraph_count": 2171
+  },
+  "summary": {
+    "inserted_paragraphs": 14,
+    "deleted_paragraphs": 8,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0037,
+    "insertion_ratio": 0.0064
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 38,
+      "at_to": 38,
+      "from_paragraphs": [
+        {
+          "content_hash": "3212ac7029283e5f",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Min Xu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "af59106b5674d9a4",
+          "style": "HEADING_2",
+          "text": "CMU"
+        },
+        {
+          "content_hash": "4c57b08f95503cac",
+          "style": "HEADING_3",
+          "text": "Min Xu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 53,
+      "at_to": 54,
+      "from_paragraphs": [
+        {
+          "content_hash": "f63928557cce4206",
+          "style": "NORMAL_TEXT",
+          "text": "CMU Justin Chan"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0fae28a3d6873a5f",
+          "style": "HEADING_3",
+          "text": "Justin Chan"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 59,
+      "at_to": 60,
+      "from_paragraphs": [
+        {
+          "content_hash": "4cb4caae87ede211",
+          "style": "NORMAL_TEXT",
+          "text": "Rice University / pre University of Tong (Tony) Geng"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "318dea31a8a6b319",
+          "style": "HEADING_2",
+          "text": "Rice University"
+        },
+        {
+          "content_hash": "e3d8e1d064328dd6",
+          "style": "HEADING_3",
+          "text": "Tong (Tony) Geng"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 136,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 304,
+      "paragraphs": [
+        {
+          "content_hash": "925958a56fa70be0",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Carl Yang"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 339,
+      "at_to": 342,
+      "from_paragraphs": [
+        {
+          "content_hash": "86f12a8d96258b3c",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，为啥删我，大家不都知道么）（据说今年一个中国学生都没招到 谣言）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a6420e2fd382b11b",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个 (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）（另一个重新申请phd了，对老师骗说想去工业界）（据说今年一个中国学生都没招到 谣言有中国学生）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 547,
+      "at_to": 550,
+      "from_paragraphs": [
+        {
+          "content_hash": "653db5930442ba16",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜\u000b(? 从这个Doc的主要目的角度 Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way，哪点值得黑，不要为了黑而黑，他学生和intern都觉得挺好的，谁被孙哥压迫了？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a253cd7a5b779aa3",
+          "style": "NORMAL_TEXT",
+          "text": "☀️就别洗了吧 ☀️不是榜一 我都怀疑这是野榜 (别人说实话就是洗，还不是榜一就野榜哈哈哈哈哈哈，求普信jiao'c)\u000b(? 从这个Doc的主要目的角度 Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way，哪点值得黑，不要为了黑而黑，他学生和intern都觉得挺好的，谁被孙哥压迫了？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2060,
+      "paragraphs": [
+        {
+          "content_hash": "92a8e26b80e09fca",
+          "style": "NORMAL_TEXT",
+          "text": "避雷stan和他学生们"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2079,
+      "at_to": 2083,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f3124ea75bd11de",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么硬，大概意思是这样, 极度的push。（何止是push……）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "48a407a8f1b110d4",
+          "style": "NORMAL_TEXT",
+          "text": "组里开会风格基本上吹牛+“做不出来就滚退组”类似，当然大家都是文人说话那么直接，大概意思是这样, 极度的push。（何止是push……）wo"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2087,
+      "at_to": 2091,
+      "from_paragraphs": [
+        {
+          "content_hash": "4c1e1f850de6d794",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "99a665bc87b0415a",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake Fajie Yuan"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2093,
+      "paragraphs": [
+        {
+          "content_hash": "b01432ceb234f811",
+          "style": "NORMAL_TEXT",
+          "text": "Westlake Yaochu Jin"
+        },
+        {
+          "content_hash": "b6d117721f1da8e1",
+          "style": "NORMAL_TEXT",
+          "text": "经典老登+公众号科研"
+        }
+      ]
+    }
+  ]
+}

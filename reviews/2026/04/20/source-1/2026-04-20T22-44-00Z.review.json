@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T22-44-00Z.delta.json",
+  "delta_ts": "2026-04-20T22-44-00Z",
+  "reviewed_at_utc": "2026-04-20T22:44:42Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Detailed lab-specific descriptors about individual students (transfer to NLP group, reapplication to PhD, performance issues) sufficient to de-anonymize private individuals within the academic community",
+      "excerpt": "他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insulting characterization using '普信' (delusional/overconfident ordinary person) and dehumanizing term 'jiao'c'",
+      "excerpt": "求普信jiao'c"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Ageist slur '老登' (old fart/gaffer) used as unsupported personal attack",
+      "excerpt": "经典老登+公众号科研"
+    }
+  ],
+  "prompt_sha256": "258148842cc847ea98d4857315c03ee287e0b6b68e46d0f2d92cce1618bcdb2e",
+  "finish_reason": "stop",
+  "completion_tokens": 4126
+}
