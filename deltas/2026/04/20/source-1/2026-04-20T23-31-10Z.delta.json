@@ -1,0 +1,113 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-26-52Z",
+    "revision_id": null,
+    "paragraph_count": 2196
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-31-10Z",
+    "revision_id": null,
+    "paragraph_count": 2198
+  },
+  "summary": {
+    "inserted_paragraphs": 7,
+    "deleted_paragraphs": 5,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0023,
+    "insertion_ratio": 0.0032
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "b9409917d9ecfa0c",
+          "style": "HEADING_1",
+          "text": "清理中！开启Comments权限"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c8bb63eef4faec25",
+          "style": "HEADING_1",
+          "text": "清理中！不可抗拒因素，暂时只读"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1185,
+      "at_to": 1185,
+      "from_paragraphs": [
+        {
+          "content_hash": "090c1eb03cb05b01",
+          "style": "NORMAL_TEXT",
+          "text": "听说已经有3-4个master students 做了work但是没有拿到master学位"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "489223829aca3999",
+          "style": "NORMAL_TEXT",
+          "text": "听说已经有3-4个master students 做了work但是没有拿到master学位（确有此事）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1996,
+      "at_to": 1996,
+      "from_paragraphs": [
+        {
+          "content_hash": "f2fbbb13e91f9394",
+          "style": "NORMAL_TEXT",
+          "text": "建议加入: THU Jinpeng Liu"
+        },
+        {
+          "content_hash": "ecd0947a8e5d7169",
+          "style": "NORMAL_TEXT",
+          "text": "在北美时性骚扰不少女生"
+        },
+        {
+          "content_hash": "7ed625137f2b484f",
+          "style": "NORMAL_TEXT",
+          "text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约nü。造谣一个没有从来接受自己追求的女生是自己的前女友。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bd96d00288786f96",
+          "style": "NORMAL_TEXT",
+          "text": "建议加入: THU， Jinpeng Liu"
+        },
+        {
+          "content_hash": "3c561397a7396994",
+          "style": "NORMAL_TEXT",
+          "text": "女生避雷，学术方面不做评价。"
+        },
+        {
+          "content_hash": "368a5d296e578bcb",
+          "style": "NORMAL_TEXT",
+          "text": "此人在北美时性骚扰不少女生。"
+        },
+        {
+          "content_hash": "a38e7d18eeec7c25",
+          "style": "NORMAL_TEXT",
+          "text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约女生出来吃饭。"
+        },
+        {
+          "content_hash": "5deb92f1bcec4e10",
+          "style": "NORMAL_TEXT",
+          "text": "造谣一个没有从来接受自己追求的女生是自己的前女友。"
+        }
+      ]
+    }
+  ]
+}

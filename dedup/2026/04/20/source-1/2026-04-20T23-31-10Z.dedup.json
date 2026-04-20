@@ -1,0 +1,48 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T23-31-10Z",
+  "reviewed_at_utc": "2026-04-20T23:32:01Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 5,
+  "n_inserts": 7,
+  "pairs": [
+    {
+      "ghost_hash": "090c1eb03cb05b01",
+      "insert_hash": "489223829aca3999",
+      "note": "added confirmation note",
+      "ghost_text": "听说已经有3-4个master students 做了work但是没有拿到master学位",
+      "insert_text": "听说已经有3-4个master students 做了work但是没有拿到master学位（确有此事）"
+    },
+    {
+      "ghost_hash": "f2fbbb13e91f9394",
+      "insert_hash": "bd96d00288786f96",
+      "note": "added comma punctuation",
+      "ghost_text": "建议加入: THU Jinpeng Liu",
+      "insert_text": "建议加入: THU， Jinpeng Liu"
+    },
+    {
+      "ghost_hash": "ecd0947a8e5d7169",
+      "insert_hash": "368a5d296e578bcb",
+      "note": "added '此人' subject",
+      "ghost_text": "在北美时性骚扰不少女生",
+      "insert_text": "此人在北美时性骚扰不少女生。"
+    },
+    {
+      "ghost_hash": "7ed625137f2b484f",
+      "insert_hash": "a38e7d18eeec7c25",
+      "note": "split para, expanded 'nü'",
+      "ghost_text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约nü。造谣一个没有从来接受自己追求的女生是自己的前女友。",
+      "insert_text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约女生出来吃饭。"
+    },
+    {
+      "ghost_hash": "7ed625137f2b484f",
+      "insert_hash": "5deb92f1bcec4e10",
+      "note": "split para, identical text",
+      "ghost_text": "开会时遇到女生，对女生长相评头论足。通过各种擦边方式和女生肢体接触，死缠烂打约nü。造谣一个没有从来接受自己追求的女生是自己的前女友。",
+      "insert_text": "造谣一个没有从来接受自己追求的女生是自己的前女友。"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3264,
+  "skipped_reason": null
+}
