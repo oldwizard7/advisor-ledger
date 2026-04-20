@@ -1,0 +1,207 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T04-20-08Z",
+    "revision_id": "AMHacu5441XNIrfB0n69qkQrq0o7HA7GUEWNM92XITqaEyUV59pT1gavb4Mqm8ft41ZoKocCCKWhVaaBNE8iE6OnVg",
+    "paragraph_count": 1089
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T04-22-09Z",
+    "revision_id": "AMHacu68LVRIsUKbWThDqGgwEkmsIDKi4wZ4DJw6umR5MkwuYLuK_SzUdTRAZJUB6oslmNKZ8-N9OAwd4vFuR3HUZA",
+    "paragraph_count": 1091
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 9,
+    "operations": 10,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0083,
+    "insertion_ratio": 0.0101
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 0,
+      "at_to": 0,
+      "from_paragraphs": [
+        {
+          "content_hash": "5315357ad086b096",
+          "style": "HEADING_1",
+          "text": "qiPurpose"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d4e8830a71c73edf",
+          "style": "HEADING_1",
+          "text": "Purpose"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 22,
+      "at_to": 22,
+      "from_paragraphs": [
+        {
+          "content_hash": "b13ea62ad0bb92ab",
+          "style": "NORMAL_TEXT",
+          "text": "看完整篇文章真的感触太深了，为啥华人在外永远要欺压自己人呢？太悲哀了学术界。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "744a8e5fb579fc01",
+          "style": "NORMAL_TEXT",
+          "text": "看完整篇文章真的感触太深了，为啥华人在外永远要欺压自己人呢？太悲哀了学术界。（那就去补充点工业界黑榜吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 51,
+      "paragraphs": [
+        {
+          "content_hash": "b8cb72ce6e2eefb3",
+          "style": "NORMAL_TEXT",
+          "text": "听说瓜不少"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 84,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 175,
+      "at_to": 175,
+      "from_paragraphs": [
+        {
+          "content_hash": "e8681d396eb3895d",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）（负责个屁，当时他已经去uiuc了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8146bbbf19416628",
+          "style": "NORMAL_TEXT",
+          "text": "逼死了学生，学生在 WWW 2021 paper ddl 前表示身体状况已经很差了，jimeng让学生一定要把paper投出去，造假也要投出去，最终学生猝死 (????????????????????)（惊讶什么？这事情DM圈都知道啊）(这种不需要负责吗 法律上）（负责个屁，当时他已经去uiuc了）（这是真的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 365,
+      "at_to": 365,
+      "from_paragraphs": [
+        {
+          "content_hash": "3af9f0116a57fba2",
+          "style": "NORMAL_TEXT",
+          "text": "所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致（圈内都知道）（很会包装，数据有造假）（左边说的对，）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ebd67069528840dc",
+          "style": "NORMAL_TEXT",
+          "text": "所有热点都做，然后无数个paper的 仓库代码和paper 描述不一致（圈内都知道）（很会包装，数据有造假）（左边说的对）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 684,
+      "paragraphs": [
+        {
+          "content_hash": "ffd95bbb83067abe",
+          "style": "NORMAL_TEXT",
+          "text": "第一年借助西北fellowship 招收多个学生，第二年找理由开掉"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 908,
+      "at_to": 909,
+      "from_paragraphs": [
+        {
+          "content_hash": "172dbd3d827669cf",
+          "style": "NORMAL_TEXT",
+          "text": "指导水平极低，天天给学生转发中文公众号三大会，做科研幻想"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "938f0952e39f4cef",
+          "style": "NORMAL_TEXT",
+          "text": "指导水平极低，天天给学生转发中文公众号三大会，做科研幻想，强行让学生做热门方向，不然就断funding"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 925,
+      "at_to": 926,
+      "from_paragraphs": [
+        {
+          "content_hash": "cc68df27c4785960",
+          "style": "NORMAL_TEXT",
+          "text": "组里瓜很多"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b69b683b3086694d",
+          "style": "NORMAL_TEXT",
+          "text": "组里瓜很多（细说?听说 去mbzuai了)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1014,
+      "at_to": 1015,
+      "from_paragraphs": [
+        {
+          "content_hash": "0e127d98b1fc3222",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露 喜欢炫耀自己拿了多少经费 想买什么车子 对学生扣扣搜搜"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "96684c5361db2556",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露 喜欢炫耀自己拿了多少经费 想买什么车子 对学生扣扣搜搜 做项目不会多给一分钱补贴"
+        },
+        {
+          "content_hash": "797dfac6df8dbf66",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多 猛猛抢一作 共一都不给你一个 美名其曰组里不搞共一这种恶臭风气"
+        },
+        {
+          "content_hash": "523c7837d949b0f7",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习 top组找你不让去 只让你去他谈的垃圾项目 钱都到他自己手里"
+        }
+      ]
+    }
+  ]
+}
