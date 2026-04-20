@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-55-10Z.delta.json",
+  "delta_ts": "2026-04-20T20-55-10Z",
+  "reviewed_at_utc": "2026-04-20T20:55:48Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains pure personal insult about physical appearance ('长得丑') and character ('玩的花') unrelated to concrete advising practices.",
+      "excerpt": "长得丑玩的花"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains unsupported character judgment attacking professor's social standing and authenticity ('假装融入，实际上没人鸟他') rather than specific advising behavior.",
+      "excerpt": "经常假装国外教授混在一起假装融入，实际上没人鸟他"
+    },
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes substantive details about a specific advisor (Gu), including claims about student transfers, evidence submitted to school, and three students leaving, replacing it with a vague fragment. This appears to suppress legitimate observations about advising practices rather than cleanup.",
+      "excerpt": "学生转组原因并非举报不正当关系，而是另有举报内容，该内容有详细证据并上交学校，后三人转组"
+    }
+  ],
+  "prompt_sha256": "0a69098c0dfc3373110066087b86978adf2a533fcbf420114e0477d40cd44c09",
+  "finish_reason": "stop",
+  "completion_tokens": 3076
+}
