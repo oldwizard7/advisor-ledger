@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T14-45-50Z.delta.json",
+  "delta_ts": "2026-04-20T14-45-50Z",
+  "reviewed_at_utc": "2026-04-20T14:47:03Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes parenthetical defense that the professor's PhD students are doing well, suppressing a substantive positive observation about the advisor while retaining negative context",
+      "excerpt": "(看他组里phd都混的还挺好的)"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion contains sarcastic personal attack characterizing professor as tyrannical/power-hungry using the idiom 'covers the sky with one hand'",
+      "excerpt": "一手遮天的haoran啊, 真的是走到哪都是顶流..."
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Content includes gendered slur 'academic Daji' (学术妲 己), comparing a female student to a legendary femme fatale, constituting an unsupported personal character attack",
+      "excerpt": "纯学术妲 己"
+    }
+  ],
+  "prompt_sha256": "562b29bf3af107b9526a44042bedc9182f7378b8e08925e6c30dba2b9f767967",
+  "finish_reason": "stop",
+  "completion_tokens": 6085
+}

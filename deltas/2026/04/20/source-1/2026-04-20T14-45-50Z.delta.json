@@ -1,0 +1,248 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-39-20Z",
+    "revision_id": "AMHacu5x4ij_EUiwbWxOSF_KqU_t2iPqSos_AueNBivzoPvCsMunnwLWyri08Gq7l7gO6uCtPmFb1oErwUNZQ4r6xg",
+    "paragraph_count": 1971
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-45-50Z",
+    "revision_id": "AMHacu5le6K-tTQ3MQdRjMnLMUN8Kpg9Ucyen7XDbF16P4V17-Pzmn2moUHS8hmIizBvj44kh5KHgGOeag2kvISoKA",
+    "paragraph_count": 1977
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 9,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0046,
+    "insertion_ratio": 0.0076
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 22,
+      "at_to": 22,
+      "from_paragraphs": [
+        {
+          "content_hash": "bc82860cfed9f1bf",
+          "style": "NORMAL_TEXT",
+          "text": "拒说是AI 三驾水车之一（和Dacheng Tao，Philip S. Yu 齐名）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1f994bc9becc544b",
+          "style": "NORMAL_TEXT",
+          "text": "传说中的华人三驾水车之一（和Dacheng Tao，Philip S. Yu 齐名）"
+        },
+        {
+          "content_hash": "40e8f836f3d06064",
+          "style": "NORMAL_TEXT",
+          "text": "总引用bu"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 304,
+      "at_to": 305,
+      "from_paragraphs": [
+        {
+          "content_hash": "267927f65f950fcb",
+          "style": "NORMAL_TEXT",
+          "text": " 鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念 （求细说）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "faba43e1025e72e7",
+          "style": "NORMAL_TEXT",
+          "text": " 鱼王，前一秒说好，后一秒直接玩消失，毫无时间观念 （求细说）（这是面试吧？有其他雷吗？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 394,
+      "paragraphs": [
+        {
+          "content_hash": "2e38e77b22c314a4",
+          "style": "NORMAL_TEXT",
+          "text": "()"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 400,
+      "at_to": 402,
+      "from_paragraphs": [
+        {
+          "content_hash": "8273298fff5d0eb5",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Chuang老师的学生，基于以上说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；3. 关于实习，去年夏天只要是想实习的同学Chuangdo"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "070cf5f11e973c97",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Chuang老师的学生，基于以上和以下说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里待过的本科生ms和各种intern3. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；4. 关于实习，去年夏天只要是想实习的同学，自己找不到的话Chuang都会帮忙联系实习offer和去向，大家也都去了不错的公司和组intern"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 404,
+      "at_to": 406,
+      "from_paragraphs": [
+        {
+          "content_hash": "df9d3a93dfffe9b8",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）(看他组里phd都混的还挺好的)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 420,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 585,
+      "at_to": 588,
+      "from_paragraphs": [
+        {
+          "content_hash": "248fadcd9a04733c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲己？这没法洗了吧 人尽皆知"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "252d592a45d7cc25",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲 己？这没法洗了吧 人尽皆知"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 610,
+      "at_to": 613,
+      "from_paragraphs": [
+        {
+          "content_hash": "eca9bae71c15f7c9",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bba84e44ad846905",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 954,
+      "at_to": 957,
+      "from_paragraphs": [
+        {
+          "content_hash": "c86269afc1aa229b",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）（据我感觉，组里每年确实招挺多人，但也几乎都留下来了（或者说已经挺多年没有，外国师兄师姐也有很厉害的，不是天才的情况下，其实大家读博都差不多）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bcfffd3c3a8cb9e5",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）（据我感觉，组里每年确实招挺多人，但也几乎都留下来了（或者说组里已经很多年没有裁过人，几乎没有这种说法现在，所以可以放心），外国师兄师姐也有很厉害的，不是天才的情况下，其实大家读博都差不多）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 956,
+      "at_to": 959,
+      "from_paragraphs": [
+        {
+          "content_hash": "b136c94247870f93",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（"
+        },
+        {
+          "content_hash": "62cea5cde92a2fc9",
+          "style": "NORMAL_TEXT",
+          "text": "至于他组里怎么样，参考2024年春“北京某科技公司暴力裁员”，新闻中的这个公司，苹芯科技，后来改名尼欧克斯了，就是Yiran的公司，HR 3个月随便开人，纯是跟老板本人学的"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8d2dc1523410e74c",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（实话实说，现在很久没这种消息了，陈老师在大环境动荡情况下能保证组里所有博士资金充足我觉得是读博时一个很大的优点了，个人感觉哈）"
+        },
+        {
+          "content_hash": "f414ee4ecdbf2000",
+          "style": "NORMAL_TEXT",
+          "text": "至于他组里怎么样，参考2024年春“北京某科技公司暴力裁员”，新闻中的这个公司，苹芯科技，后来改名尼欧克斯了，就是Yiran的公司，HR 3个月随便开人，纯是跟老板本人学的（这个事据我所知好像和陈老师本人没啥关系，有点人在学校做，瓜从天上来，还掉到自己头上的感觉）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 968,
+      "paragraphs": [
+        {
+          "content_hash": "4d238ee669587be8",
+          "style": "NORMAL_TEXT",
+          "text": "（来自目前在读的：其实感觉组里挺好的，没shang'shu"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1769,
+      "paragraphs": [
+        {
+          "content_hash": "6424527d7f3ed67a",
+          "style": "NORMAL_TEXT",
+          "text": "传说中的华人三驾水车之首"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1773,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
