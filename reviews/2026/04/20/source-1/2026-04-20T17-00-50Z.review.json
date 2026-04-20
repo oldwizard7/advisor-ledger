@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T17-00-50Z.delta.json",
+  "delta_ts": "2026-04-20T17-00-50Z",
+  "reviewed_at_utc": "2026-04-20T17:02:00Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Deletion removes a substantive claim about an advisor taking a student to academic court over collaboration with a Chinese institution, which appears to suppress a specific legitimate observation about advising practices rather than cleanup.",
+      "excerpt": "听说曾经把学生告上学术法庭，因为学生和中国机构合作发paper"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Inserted text contains profane personal insult '他妈的纯出生' (pure bastard/animal) directed at a PhD student, constituting a pure personal attack without substantive criticism of advising practices.",
+      "excerpt": "他妈的纯出生"
+    }
+  ],
+  "prompt_sha256": "62e80d398c17ddbdb488183ae9cd1c6d5fdc5b76e38d81678ee81c094e01d91c",
+  "finish_reason": "stop",
+  "completion_tokens": 3377
+}
