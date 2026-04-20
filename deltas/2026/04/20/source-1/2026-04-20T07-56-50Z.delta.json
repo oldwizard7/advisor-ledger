@@ -1,0 +1,351 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-52-30Z",
+    "revision_id": "AMHacu6FM9eTrtkf0rlZw4Y6gkWShrxmOkYfkADiDdglwBOPEovsB9kKDbKKw4TboXpUR6Az3yZo2mnb6zJzTIy0Jw",
+    "paragraph_count": 1333
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-56-50Z",
+    "revision_id": "AMHacu5jx44sxLp9Vx_MkBK2_pZ5e5RFRFsdB8BesPoNUEF8QR6oVWV3brQEJAs2GA4RnInl2Hk7RaO6yDTC4rI43Q",
+    "paragraph_count": 1348
+  },
+  "summary": {
+    "inserted_paragraphs": 28,
+    "deleted_paragraphs": 13,
+    "operations": 16,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0098,
+    "insertion_ratio": 0.0208
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 18,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "e5dcffe836b6ec8a",
+          "style": "NORMAL_TEXT",
+          "text": "MIT"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 58,
+      "paragraphs": [
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 297,
+      "at_to": 301,
+      "from_paragraphs": [
+        {
+          "content_hash": "78afe38ad77ea139",
+          "style": "NORMAL_TEXT",
+          "text": "UCD Lifu Huang"
+        },
+        {
+          "content_hash": "72bd2e7471d27bba",
+          "style": "NORMAL_TEXT",
+          "text": "非常push，对学生相当差"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c23dbd98ce61c1d",
+          "style": "NORMAL_TEXT",
+          "text": "UCD Lifu Huang非常push，对学生相当差"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 357,
+      "at_to": 360,
+      "from_paragraphs": [
+        {
+          "content_hash": "1a9b41e5f9e4fdc4",
+          "style": "NORMAL_TEXT",
+          "text": "上面负面评价有混淆视听嫌疑，摆出似是而非的表面事实却捏造篡改背后原因，更像是针对性打击报复而非客观陈述。下面简单列举看到的部分事实推测。"
+        },
+        {
+          "content_hash": "0490410a78dd4a18",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，和很多企业有很多合作。作为MLSys这种偏工程的学科，这对学生的个人发展很有帮助。能做有意义的topic，也能建立和业界的connection。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ae00941b044e0479",
+          "style": "NORMAL_TEXT",
+          "text": "上面负面评价有混淆视听嫌疑，摆出似是而非的表面事实却捏造篡改背后原因，更像是针对性打击报复而非客观陈述。下面简单列举可以验证的部分事实。"
+        },
+        {
+          "content_hash": "ea56196e4355a05a",
+          "style": "NORMAL_TEXT",
+          "text": "1.业界合作广泛。从paper的单位和topic来看，实验室和很多企业有很多合作而且紧跟领域前沿。作为MLSys这种偏工程的学科，这对学生的个人发展意义重大。能做有意义的topic，也能建立和业界的connection。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 360,
+      "at_to": 363,
+      "from_paragraphs": [
+        {
+          "content_hash": "c49916e91de5584f",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f814b6cfebc19bce",
+          "style": "NORMAL_TEXT",
+          "text": "3.支持实习。可以从在读/已毕业学生个人主页看到实习经历，大部分博一开始就一直实习（羡慕啊）（找过实习的同学都知道，博一没有导师的推荐几乎不可能找到合适的的岗位)"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 365,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "52a2bcd7cd5057ed",
+          "style": "NORMAL_TEXT",
+          "text": "4. 有yufei老师的微信好友，感觉yufei老师和人相处是友善的，底下的学生也都很强。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 469,
+      "at_to": 474,
+      "from_paragraphs": [
+        {
+          "content_hash": "b574db8397db989d",
+          "style": "NORMAL_TEXT",
+          "text": "知道一些内幕，zhi"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef821e9fc6ad6a08",
+          "style": "NORMAL_TEXT",
+          "text": "知道一些内幕，只能说整个组大部分都很抽象，每个人都有抽象的点，合起来可以拍一个宫斗剧"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 902,
+      "at_to": 907,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "240573ff0c3b5b21",
+          "style": "NORMAL_TEXT",
+          "text": "跪舔其他人"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 918,
+      "paragraphs": [
+        {
+          "content_hash": "fa57f7fd79ae7deb",
+          "style": "NORMAL_TEXT",
+          "text": "论文抄袭"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1006,
+      "at_to": 1012,
+      "from_paragraphs": [
+        {
+          "content_hash": "7eb1dbd4927f32c5",
+          "style": "NORMAL_TEXT",
+          "text": "— 读phd期间是fisher yu（于夫）的女朋友，和自己的导师jianxiong xiao保持不正当关系被于夫抓了，并投诉到学校"
+        },
+        {
+          "content_hash": "f0c886fb7c2484d5",
+          "style": "NORMAL_TEXT",
+          "text": "— xhs和知乎的贴全被删了希望这次能保住"
+        },
+        {
+          "content_hash": "aa557f99a34bbd9b",
+          "style": "NORMAL_TEXT",
+          "text": "— 当然fisher yu更cs一个被窝睡不出两种人"
+        },
+        {
+          "content_hash": "29a2faa3aae3cd0a",
+          "style": "NORMAL_TEXT",
+          "text": "— （这都陈年旧事了吧 shuran现在对学生还不错吧 有机会上红榜吧）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a960ac16170dba9e",
+          "style": "NORMAL_TEXT",
+          "text": "— (shuran现在对学生还不错吧 有机会上红榜吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1017,
+      "paragraphs": [
+        {
+          "content_hash": "8281584cf6c9e795",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1163,
+      "at_to": 1167,
+      "from_paragraphs": [
+        {
+          "content_hash": "86d79262f6290cd1",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anth"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c423383c6d3c7322",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）（因为bro水平更差）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）（bro在榜上占的挺多的，bro真是干一行毁一行）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（deepmind,anthropic是一个女的都没有吗？是女的不想去吗？就是有你们这些重男轻女的家庭养出来的这种歧视女性的bro，女的找到教职了全都归结到因为是女的才拿到的，现在又在这bb，要不然怎么那么多性压抑的男phd，找找自身原因吧）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1240,
+      "paragraphs": [
+        {
+          "content_hash": "53705925f31caf45",
+          "style": "NORMAL_TEXT",
+          "text": "SJTU Yong-lu Li"
+        },
+        {
+          "content_hash": "a49b14f9c682c551",
+          "style": "NORMAL_TEXT",
+          "text": "手下一群本科生养蛊，得不到什么指导"
+        },
+        {
+          "content_hash": "39392675c634ca19",
+          "style": "NORMAL_TEXT",
+          "text": "本人简直是口蜜腹剑的代表"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1244,
+      "paragraphs": [
+        {
+          "content_hash": "b3cdb433d2a3d8ef",
+          "style": "NORMAL_TEXT",
+          "text": "ZJU, Yi Yang"
+        },
+        {
+          "content_hash": "f862c400c52d31dd",
+          "style": "NORMAL_TEXT",
+          "text": "回来以后原形毕露喜欢炫耀自己拿了多少经费想买什么车子对学生扣扣搜搜做项目不会多给一分钱补贴"
+        },
+        {
+          "content_hash": "bdbc1edcf2eb2b1b",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢一作"
+        },
+        {
+          "content_hash": "45aaabc0080291d9",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习顶组找你不让去只让你去他谈的垃圾项目钱都到他自己手里"
+        },
+        {
+          "content_hash": "d79edce580b89bd9",
+          "style": "NORMAL_TEXT",
+          "text": "根本不懂科研"
+        },
+        {
+          "content_hash": "cc40e407e18951c5",
+          "style": "NORMAL_TEXT",
+          "text": "致组里的既得利益者：删一次死一个家人 :)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1245,
+      "at_to": 1258,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1a5771d271a3587a",
+          "style": "NORMAL_TEXT",
+          "text": "据说不给phd发补助，论文挂无关工作的人，蹲一个"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1316,
+      "paragraphs": [
+        {
+          "content_hash": "381b704033b9c307",
+          "style": "NORMAL_TEXT",
+          "text": "EITech,"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
