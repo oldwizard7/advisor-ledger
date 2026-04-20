@@ -1,0 +1,105 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-06-40Z",
+    "revision_id": "AMHacu7ZlyQs_pBXN8MhfD7ctqpjrl-VChEM0zORoGC_2PgR1zgcegcUqP6Uz2jsgkR0RzQW6mB-FiNspECirYDZ2w",
+    "paragraph_count": 1813
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-08-50Z",
+    "revision_id": "AMHacu6CaZynUEXR0cBPO0fbYPP6qvoatUApIIIqTkiRtcCajK3eBwIFAlDGTA_5u0lrmKJBrkAjm8T7fgScmscQZg",
+    "paragraph_count": 1815
+  },
+  "summary": {
+    "inserted_paragraphs": 5,
+    "deleted_paragraphs": 3,
+    "operations": 5,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0017,
+    "insertion_ratio": 0.0028
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 308,
+      "at_to": 308,
+      "from_paragraphs": [
+        {
+          "content_hash": "2209450a096cbcd5",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？也愿意动用自己的人脉资源帮学生拿offer，虽然后面因为个人原因没有和lichao接着合作了，但是lichao还愿意专门微信语音打电话和我聊未来发展，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b079678ba7e7e5f",
+          "style": "NORMAL_TEXT",
+          "text": "+1, 之前算是lichao的intern，他对自己的学生很好好吧，人品非常好，对自己的学生，phd也很好，你觉得他做的不solid，你做的项目发出来大家评鉴一下？也愿意动用自己的人脉资源帮学生拿offer，虽然后面因为个人原因没有去lichao帮忙connection的项目【感觉有些愧疚，毕竟sun老师之前帮忙了很多】，但是lichao还愿意专门微信语音打电话和我聊未来发展，聊了快2小时，就真的可以感觉到他对学生非常用心也非常好，学到了非常多，方向为人处世各种各样的东西。第一次遇到这么好的老师，这种老师还有人黑？黑子看着眼红了属于是"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 713,
+      "paragraphs": [
+        {
+          "content_hash": "f649b33acf3d5a06",
+          "style": "NORMAL_TEXT",
+          "text": "平推确实有很多，人多也没办法"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 720,
+      "paragraphs": [
+        {
+          "content_hash": "0bcd62811bf3debe",
+          "style": "NORMAL_TEXT",
+          "text": "本校找导师，重新申请"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1221,
+      "at_to": 1223,
+      "from_paragraphs": [
+        {
+          "content_hash": "97f3dc07d889123c",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex master intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect(包括我)。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "89a9e6d7a62377c5",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex master intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect，对我就是。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1570,
+      "at_to": 1572,
+      "from_paragraphs": [
+        {
+          "content_hash": "3ef7fbb925f82da7",
+          "style": "NORMAL_TEXT",
+          "text": "（如果你是合作者，那么很庆幸你是合作者而不是黑工，你没有经历过人格侮辱般的pua；黑工到底得到了多少指导以及什么样的指导黑工自己最清楚，靠黑工的论文数量去砸中稿率；有没有在养蛊，和有多少蛊，以及有没有黑推没有人比她更清楚）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "cc2cafa55b646422",
+          "style": "NORMAL_TEXT",
+          "text": "（如果你是合作者，那么很庆幸你是合作者而不是黑工，你没有经历过人格侮辱般的pua（求细说，到什么程度）；黑工到底得到了多少指导以及什么样的指导黑工自己最清楚，靠黑工的论文数量去砸中稿率；有没有在养蛊，和有多少蛊，以及有没有黑推没有人比她更清楚）"
+        }
+      ]
+    }
+  ]
+}

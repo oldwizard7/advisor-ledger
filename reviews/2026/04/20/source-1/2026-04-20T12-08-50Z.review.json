@@ -1,0 +1,18 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T12-08-50Z.delta.json",
+  "delta_ts": "2026-04-20T12-08-50Z",
+  "reviewed_at_utc": "2026-04-20T12:09:19Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment accusing critics of being motivated by jealousy rather than genuine grievances",
+      "excerpt": "黑子看着眼红了属于是"
+    }
+  ],
+  "prompt_sha256": "ba9e3a464d12fd76fb44e2fc29eb7b64d255486f582a12e85956a5768a6c7b25",
+  "finish_reason": "stop",
+  "completion_tokens": 2586
+}
