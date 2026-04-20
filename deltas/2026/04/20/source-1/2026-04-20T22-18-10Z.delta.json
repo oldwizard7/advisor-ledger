@@ -1,0 +1,221 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T22-13-51Z",
+    "revision_id": "AMHacu6XjWHOuMf5UJqwxqHFP89RbaSNcBKw8T0pjGo-ERFoX_HBquasPQBU0_C2baejq3XijtoNZ0luM8trIqLR8Q",
+    "paragraph_count": 2130
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T22-18-10Z",
+    "revision_id": "AMHacu4y49wnz7FbhkjIHudz8p0WKW5PD9ZUrA9XYzasQK1KumpKKx-omEKckKxsrjUrB2Y6mftbtGbmUKj1WcSsKA",
+    "paragraph_count": 2135
+  },
+  "summary": {
+    "inserted_paragraphs": 13,
+    "deleted_paragraphs": 8,
+    "operations": 11,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0038,
+    "insertion_ratio": 0.0061
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 99,
+      "paragraphs": [
+        {
+          "content_hash": "7508f48319be4d76",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解这个大佬吗？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 112,
+      "paragraphs": [
+        {
+          "content_hash": "5ce0a356ed5005d7",
+          "style": "NORMAL_TEXT",
+          "text": "有人了解吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 187,
+      "at_to": 189,
+      "from_paragraphs": [
+        {
+          "content_hash": "058c333f3024df34",
+          "style": "NORMAL_TEXT",
+          "text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）（那你可能确实没遇到过正常老师哈）（那你给我推荐一下你遇到的这么好的老师哈，）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "3222cf28e0bf0283",
+          "style": "NORMAL_TEXT",
+          "text": "（yujun姐怎么重量级了？重量级的好吗？我的论文yujun姐一段一段改过，我没遇到过别的老师能这么好）（那你可能确实没遇到过正常老师哈）（那你给我推荐一下你遇到的这么好的老师哈）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 198,
+      "at_to": 200,
+      "from_paragraphs": [
+        {
+          "content_hash": "762b0bbec4638ba6",
+          "style": "NORMAL_TEXT",
+          "text": "原来这个都能成为黑点吗？哈哈哈哈哈（这都不能黑，这么舔狗吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b939e7624452366",
+          "style": "NORMAL_TEXT",
+          "text": "原来这个都能成为黑点吗？哈哈哈哈哈（这都不能黑，这么舔狗吗）（那我懂了，你应该找会议不投稿的老师做科研，因为他们bu hu bei）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 215,
+      "at_to": 217,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb4a590fda3ce00e",
+          "style": "NORMAL_TEXT",
+          "text": "老师懒得更新行不行？我名字就不在上面呢哈哈？你要不自己发邮件问问他呢？"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c460083bd74c7e00",
+          "style": "NORMAL_TEXT",
+          "text": "老师懒得更新行不行？我名字就不在上面哈，你要不自己发邮件问问他呢？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 491,
+      "at_to": 493,
+      "from_paragraphs": [
+        {
+          "content_hash": "1cf8013b6ff7e6f5",
+          "style": "NORMAL_TEXT",
+          "text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。合作的大佬们都很无奈但是"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "314ce48ba55735d4",
+          "style": "NORMAL_TEXT",
+          "text": "因为确实实力不行，导致对学生几乎没有正向的指导，大部分都是捣乱。合作的大佬们都很无奈但是没法直说什么。"
+        },
+        {
+          "content_hash": "52479029b72c20d8",
+          "style": "NORMAL_TEXT",
+          "text": "据说私生活非常混乱，他自己的a'p"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 515,
+      "at_to": 518,
+      "from_paragraphs": [
+        {
+          "content_hash": "322f72ee2c3d9d1a",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao（再TM删给你发一亩三分地）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "88413116043c4417",
+          "style": "NORMAL_TEXT",
+          "text": "Emory Liang Zhao（再TM删给你发一亩三分地）（我说删除也是某学生自己在搞）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 517,
+      "at_to": 520,
+      "from_paragraphs": [
+        {
+          "content_hash": "ff64525c2012292f",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1ae64ba21d025462",
+          "style": "NORMAL_TEXT",
+          "text": "和学生用ai写预印本的水文王，学生网上找车队拼车写一堆垃圾preprint刷文章数和互引，一个学生一年能刷100篇。然后iclr开盒发现自己用ai写10、20条weakness，oa拉最低conf拉满。学术毒瘤（老师也是受害者吧🤣 ）"
+        },
+        {
+          "content_hash": "537d42a6b5beb697",
+          "style": "NORMAL_TEXT",
+          "text": "这些文章zhao老师都没有挂名，骂人也要骂对"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 525,
+      "paragraphs": [
+        {
+          "content_hash": "e6ae54b6bca774fa",
+          "style": "NORMAL_TEXT",
+          "text": "【老师问学生“这周做了什么工作”算黑料吗？】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 713,
+      "at_to": 718,
+      "from_paragraphs": [
+        {
+          "content_hash": "f0c2c910158fd242",
+          "style": "NORMAL_TEXT",
+          "text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句)Bro"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "44586823e297509c",
+          "style": "NORMAL_TEXT",
+          "text": "一股子AI味老师亲自下场吗哈哈哈哈哈哈哈 (那你可能要反思一下自己是不是个人机，看啥都是AI味，毕竟证据证据是拿不出的，只会嘴两句) 不会真以为没学生替xcw说话吧，Bro be like: ↓↓↓"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1599,
+      "at_to": 1604,
+      "from_paragraphs": [
+        {
+          "content_hash": "18af1fa345e4ffec",
+          "style": "NORMAL_TEXT",
+          "text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件（拉倒吧，gu干的抽象事的jiu ni）。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景："
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c8dc409ed7cc1db2",
+          "style": "NORMAL_TEXT",
+          "text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件（拉几把倒吧，gu干了多少抽象事自己没数吗）。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景："
+        }
+      ]
+    }
+  ]
+}
