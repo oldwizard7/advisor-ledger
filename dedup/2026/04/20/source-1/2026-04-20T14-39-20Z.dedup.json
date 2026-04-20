@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-20T14-39-20Z",
+  "reviewed_at_utc": "2026-04-20T14:40:33Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 8,
+  "n_inserts": 14,
+  "pairs": [
+    {
+      "ghost_hash": "bd4cfee82f8024c7",
+      "insert_hash": "248fadcd9a04733c",
+      "note": "Extended Yufei Ding cheating rumor discussion",
+      "ghost_text": "Yufei Ding今年stf的phd，纯学术妲己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我是没kan",
+      "insert_text": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲己？这没法洗了吧 人尽皆知"
+    },
+    {
+      "ghost_hash": "2aa4a02a966cf024",
+      "insert_hash": "eca9bae71c15f7c9",
+      "note": "Extended with intern danger warning",
+      "ghost_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹",
+      "insert_text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹   事实证明, 真的不能带intern, 太危险了"
+    },
+    {
+      "ghost_hash": "bf8c02ef890ff7a1",
+      "insert_hash": "b0fd55fd2deb18e5",
+      "note": "Extended with parenthetical remark",
+      "ghost_text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况...",
+      "insert_text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况...（难这个榜的意义不就是bang"
+    },
+    {
+      "ghost_hash": "f44f02ded68d10ea",
+      "insert_hash": "c86269afc1aa229b",
+      "note": "Added counter-argument on retention",
+      "ghost_text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）",
+      "insert_text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）（据我感觉，组里每年确实招挺多人，但也几乎都留下来了（或者说已经挺多年没有，外国师兄师姐也有很厉害的，不是天才的情况下，其实大家读博都差不多）"
+    },
+    {
+      "ghost_hash": "19c2a42d4b710f4a",
+      "insert_hash": "b136c94247870f93",
+      "note": "Added opening parenthesis",
+      "ghost_text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生",
+      "insert_text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（"
+    },
+    {
+      "ghost_hash": "3bc8bec7639decb7",
+      "insert_hash": "d6aad1f8326886b6",
+      "note": "Split into two paragraphs",
+      "ghost_text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push但是是很靠谱的老师。至于说极限承压这个见仁见智了，不习惯可以换佛一点的老师。",
+      "insert_text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 4605,
+  "skipped_reason": null
+}

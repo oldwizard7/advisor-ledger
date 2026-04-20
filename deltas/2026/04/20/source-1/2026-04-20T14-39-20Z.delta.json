@@ -1,0 +1,252 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T14-33-00Z",
+    "revision_id": "AMHacu7wGcJQRsmG0HLWuJOwSA5gEyUiP-WIfVNyW2mkZvn0dph9zZ2W8WCzUY7YHyt_QBDcGk-9Y6wlSkN3dAtaqg",
+    "paragraph_count": 1967
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T14-39-20Z",
+    "revision_id": "AMHacu5x4ij_EUiwbWxOSF_KqU_t2iPqSos_AueNBivzoPvCsMunnwLWyri08Gq7l7gO6uCtPmFb1oErwUNZQ4r6xg",
+    "paragraph_count": 1971
+  },
+  "summary": {
+    "inserted_paragraphs": 15,
+    "deleted_paragraphs": 11,
+    "operations": 12,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0056,
+    "insertion_ratio": 0.0076
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 21,
+      "paragraphs": [
+        {
+          "content_hash": "9dd04fa23c54b3cd",
+          "style": "NORMAL_TEXT",
+          "text": "听说手下postdoc质量太差，基本带不了学生，不提供任何指导，只会push"
+        },
+        {
+          "content_hash": "bc82860cfed9f1bf",
+          "style": "NORMAL_TEXT",
+          "text": "拒说是AI 三驾水车之一（和Dacheng Tao，Philip S. Yu 齐名）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 400,
+      "paragraphs": [
+        {
+          "content_hash": "8273298fff5d0eb5",
+          "style": "NORMAL_TEXT",
+          "text": "本人是Chuang老师的学生，基于以上说几点吧: 1. Chuang的风格是给组里做得好的学生在9-10月给提前offer，组里有的学生愿意接受就留下来，有心气高的要申四大的他也支持去，只要认真做的同学他都会帮忙申请找去向和写推荐信，我没见过写不好的话和所谓黑学生；2. 组里的同学氛围很好，phd们都挺开心的，目前同学没有人想换组；3. 关于实习，去年夏天只要是想实习的同学Chuangdo"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 471,
+      "at_to": 474,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "54bb9a3ae962dd59",
+          "style": "NORMAL_TEXT",
+          "text": "怎么说呢，你想要从老板科研能力去批判的前提是。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 582,
+      "at_to": 585,
+      "from_paragraphs": [
+        {
+          "content_hash": "9a847c6994a7d05d",
+          "style": "NORMAL_TEXT",
+          "text": "跳槽失败怎么被删了，自己感觉丢人就别去面试啊，讲的什么东西。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "bd4cfee82f8024c7",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我是没kan"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "248fadcd9a04733c",
+          "style": "NORMAL_TEXT",
+          "text": "Yufei Ding今年stf的phd，纯学术妲 己,考试还作弊?(点赞)被ucb取消offer还有这事，那stf为啥不取消?stf onhold了，但后来北大没作为，因此又给offer了北大也是离谱 没完了是吧？谁告诉你 stf 取消了，敢作敢当啊学校澄清了作弊是捏造谣言怎么不说啊你觉得是学校不作为还是真没作弊呢？ 我觉得你不是北大的，因为两个月前就查监控调查过了，还公开批评了造谣行为我在北大四年，是没看到北大哪个正常考期末被抓作弊的，苍蝇不叮没缝的蛋 要不说说学术妲己？这没法洗了吧 人尽皆知"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 609,
+      "at_to": 610,
+      "from_paragraphs": [
+        {
+          "content_hash": "2aa4a02a966cf024",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "eca9bae71c15f7c9",
+          "style": "NORMAL_TEXT",
+          "text": " 能黑成这样的, 肯定是别有用心的人了xs 基本可以定位了, 没申请好想想自己原因吧兄弟... +1，申请结果不好就黑 mentor，甩锅侠。那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 630,
+      "at_to": 631,
+      "from_paragraphs": [
+        {
+          "content_hash": "bf8c02ef890ff7a1",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况..."
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b0fd55fd2deb18e5",
+          "style": "NORMAL_TEXT",
+          "text": "4. 黑子们省省力气吧,编故事也别太离谱。他带intern多我也concern, 但是都是大家自己选的, 我来的时候他也和我说过情况...（难这个榜的意义不就是bang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 637,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 825,
+      "at_to": 828,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "6ae6fd42529f91da",
+          "style": "NORMAL_TEXT",
+          "text": "骂丁老师没道理intern，老师人很好，学术能力也强，并且也会帮忙写很nice的推荐信，指责丁老师的不想想是不是自己问题？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 952,
+      "at_to": 954,
+      "from_paragraphs": [
+        {
+          "content_hash": "f44f02ded68d10ea",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c86269afc1aa229b",
+          "style": "NORMAL_TEXT",
+          "text": "具体组内怎么样我不清楚，但是可以看一下他每年招多少人，你们猜一下这些人有多少留下来了（他会招不少外国人学生，但是这些外国人学生水平都很低，留着当吉祥物用的，而且都能顺利毕业）（据我感觉，组里每年确实招挺多人，但也几乎都留下来了（或者说已经挺多年没有，外国师兄师姐也有很厉害的，不是天才的情况下，其实大家读博都差不多）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 954,
+      "at_to": 956,
+      "from_paragraphs": [
+        {
+          "content_hash": "19c2a42d4b710f4a",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b136c94247870f93",
+          "style": "NORMAL_TEXT",
+          "text": "疯狂开人，最高纪录是开了一个跟着他干了7年还是8年的学生（"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1767,
+      "paragraphs": [
+        {
+          "content_hash": "7c96b9a15b8ffb18",
+          "style": "NORMAL_TEXT",
+          "text": "协助一个证据: https://www.zhihu.com/question/650331989"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1772,
+      "at_to": 1775,
+      "from_paragraphs": [
+        {
+          "content_hash": "3bc8bec7639decb7",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push但是是很靠谱的老师。至于说极限承压这个见仁见智了，不习惯可以换佛一点的老师。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d6aad1f8326886b6",
+          "style": "NORMAL_TEXT",
+          "text": "和周老师合作过，虽然不是他的专业领域但是还是能够给出很有insight的建议，每周1v1 eeting不讲废话，投稿结束后聊天会很诚恳的介绍自己过往的经历，会有点push"
+        },
+        {
+          "content_hash": "012e05d1cb3c0075",
+          "style": "NORMAL_TEXT",
+          "text": "但是是很靠谱的老师。至于说极限承压这个见仁见智了，不习惯可以换佛一点的老师。"
+        }
+      ]
+    }
+  ]
+}
