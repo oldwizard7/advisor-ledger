@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-14-40Z.delta.json",
+  "delta_ts": "2026-04-20T19-14-40Z",
+  "reviewed_at_utc": "2026-04-20T19:15:26Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported hyperbolic insult ranking advisor as 'second worst' without substantive critique of specific practices",
+      "excerpt": "宾大cis第二烂导"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Sarcastic personal attack mocking professor's character by implying paranoid delusions of idea theft",
+      "excerpt": "太对味了，全世界所有人都在偷你gqq的绝妙idea"
+    }
+  ],
+  "prompt_sha256": "7a4d1c3188d611050d5bd4e171a0e2906a658fee5f4e03208263fd573144d846",
+  "finish_reason": "stop",
+  "completion_tokens": 3279
+}

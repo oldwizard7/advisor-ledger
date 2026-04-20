@@ -1,0 +1,134 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-10-16Z",
+    "revision_id": "AMHacu7n5QHucb8yaInLwj6p8f-EK_JSiZjM-6HHkZg7Zt9ZnChKXMULy3KAnvM0SVyw2i4bqlS6camZflM1Niju-A",
+    "paragraph_count": 1997
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-14-40Z",
+    "revision_id": "AMHacu7ZiFY3MFD89Yx1RTXUMbCcE8mxPu8Y_etfUnHC3QG0p-1Zjg-w3oVpfWdDTuzT8zGj-3GoG0iD2Gnnzfvqbg",
+    "paragraph_count": 2001
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 4,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.002,
+    "insertion_ratio": 0.004
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 304,
+      "at_to": 304,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f6b9d69a9b24dfe",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "10cd8fe0f3b2cb50",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu 宾大cis第二烂导"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1430,
+      "at_to": 1430,
+      "from_paragraphs": [
+        {
+          "content_hash": "6cfcb04be8efc9e6",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9fc8dbda3367c044",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Quanquan Gu(存在争议，请谨慎识别)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1435,
+      "at_to": 1435,
+      "from_paragraphs": [
+        {
+          "content_hash": "82fb11530d94d3c1",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？）（有没有可能是吃瓜群众乱编的剧本？）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "14a6c430171dff47",
+          "style": "NORMAL_TEXT",
+          "text": "和女学生有神奇的故事，老婆闹到学校，uc系dddd，后面直接把组里学生头像全部撤了（让学生给小三搬家，然后学生集体破防了）(至于性相关的谣言，是因为我们组的3个同学转组的时候为了让系里面无条件分给他们导师造的谣。我也向师母求证过，确实是谣言。那个所谓的女学生还和我一起合作过发过论文。) （姓名已删除）(什么学生会找师母求证自己导师的婚外情？(笑死我了)(不让笑？)）（有没有可能是吃瓜群众乱编的剧本？）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1439,
+      "paragraphs": [
+        {
+          "content_hash": "89fcb5fce78d1cfc",
+          "style": "NORMAL_TEXT",
+          "text": "太对味了，全世界所有人都在偷你gqq的绝妙idea"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1452,
+      "paragraphs": [
+        {
+          "content_hash": "53a24464c7e7a1ec",
+          "style": "NORMAL_TEXT",
+          "text": "目前这些负面评价，大多数源于2024年三名学生从课题组转出的相关事件。在转组前后，确实出现了一些人际冲突和具体事件，这些情况有助于全面理解相关评价的背景："
+        },
+        {
+          "content_hash": "58a46c9c56927445",
+          "style": "NORMAL_TEXT",
+          "text": "有一名学生在转组期间，将其在原课题组与另一个老师组合作完成的工作，以新实验室名义提交至 arXiv 并投稿，且事先未与顾老师沟通。此事经时任系主任及主管研究生的副系主任协调，并在与该学生新导师 Wei Wang 老师沟通后，作者署名已得到更正。"
+        },
+        {
+          "content_hash": "5d40682d25b37284",
+          "style": "NORMAL_TEXT",
+          "text": "此外，关于顾老师与组内一名女学生存在不当关系的严重指控，顾老师在第一时间已向时任系主任及主管研究生的副系主任报告。随后与Wei Wang 老师沟通核实，其学生本人均明确否认曾提出过该类指控。因此，该说法缺乏直接来源依据，属于不实信息。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1768,
+      "at_to": 1772,
+      "from_paragraphs": [
+        {
+          "content_hash": "4553d0d6b9d4c701",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含投跑其它课题组实验被抓包裹过，或让干点常规RA事宜然后N天不回复的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "7b3e949c7bb3cd84",
+          "style": "NORMAL_TEXT",
+          "text": "在实习生投完论文后就删服务器账号，不知道在急什么，等rebuttal的时候又得把号加回去（删掉的是包含偷跑其它课题组实验被抓包过，或让干点常规RA事宜然后N天不回复的）"
+        }
+      ]
+    }
+  ]
+}
