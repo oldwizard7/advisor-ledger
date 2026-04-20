@@ -1,0 +1,141 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T01-06-52Z",
+    "revision_id": "AMHacu67DoPKHWp23Gn9-oYF-ket3uiBgetAP2ZU1vvdQt6yGzFG-8gPQBmzxpBxbgZ4SbBKbJLgUnPNaZ1LI5BvqQ",
+    "paragraph_count": 634
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T01-09-00Z",
+    "revision_id": "AMHacu7I7BtjSzIbf_ndsN_1Vs0AUgPhqNCZZi4YrAJa6OKAUTP56cOuWiXuVo7h4lT4JcI-e4NWsGHqUcOnNtTOLg",
+    "paragraph_count": 642
+  },
+  "summary": {
+    "inserted_paragraphs": 11,
+    "deleted_paragraphs": 3,
+    "operations": 6,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0047,
+    "insertion_ratio": 0.0171
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 3,
+      "paragraphs": [
+        {
+          "content_hash": "dd58a1f5c9544999",
+          "style": "NORMAL_TEXT",
+          "text": "文档创建者留言：想要证明自己的导师很好就直接去下面rebuttal。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 88,
+      "at_to": 89,
+      "from_paragraphs": [
+        {
+          "content_hash": "426baead07a0f837",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话” （我是毕业的学生"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4254fc7db2845200",
+          "style": "NORMAL_TEXT",
+          "text": "从SB跳到SD时，把Yuan Xie留在UCSB的上百万经费\"弄丢”(让系里趁机收回)，导致留在UCSB的跟Yuan Xie colead的课题组就地解散，五六位senior + junior PhD突失funding 四散各地 不知所踪…这通操作至今仍是UCSB一段\"佳话” （这个说法与事实不符，相关 funding 被回收，主要是因为 Yuan Xie 老师当时已不在 UCSB 任教，以及 ECE 系当时针对 funding ‘保管’出台的临时新规定；并非所谓‘把钱弄丢’。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 356,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "056367c6bf91a691",
+          "style": "NORMAL_TEXT",
+          "text": "Dartmo"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 393,
+      "at_to": 398,
+      "from_paragraphs": [
+        {
+          "content_hash": "2bef97f9b35cf19a",
+          "style": "NORMAL_TEXT",
+          "text": "丁丁老师xhsyi j"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1b06e99ab77d526f",
+          "style": "NORMAL_TEXT",
+          "text": "丁丁老师xhs已经家喻户晓了吧？现在还在跟学生谈恋爱吗？"
+        },
+        {
+          "content_hash": "ebbfa733bc137543",
+          "style": "NORMAL_TEXT",
+          "text": "鸽子老师，招一堆intern 口头commit offer然后单方面decline"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 456,
+      "at_to": 462,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2d774b7561b24e97",
+          "style": "NORMAL_TEXT",
+          "text": "不是说在原学校混不下去了，然后去别的学校了？"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 520,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c6a4186e86b5981f",
+          "style": "NORMAL_TEXT",
+          "text": "有没有Columbia的瓜，求求🥺"
+        }
+      ]
+    }
+  ]
+}
