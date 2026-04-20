@@ -1,0 +1,12 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T23-20-30Z.delta.json",
+  "delta_ts": "2026-04-20T23-20-30Z",
+  "reviewed_at_utc": "2026-04-20T23:20:55Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "ok",
+  "concerns": [],
+  "prompt_sha256": "c32fb207431e39513fdc2ca8a44cf1f50ef8c3be6d2cf927a39760da0d47d8b6",
+  "finish_reason": "stop",
+  "completion_tokens": 1691
+}

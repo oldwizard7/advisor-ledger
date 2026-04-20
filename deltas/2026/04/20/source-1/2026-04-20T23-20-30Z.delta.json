@@ -1,0 +1,84 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T23-18-20Z",
+    "revision_id": null,
+    "paragraph_count": 2194
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T23-20-30Z",
+    "revision_id": null,
+    "paragraph_count": 2190
+  },
+  "summary": {
+    "inserted_paragraphs": 2,
+    "deleted_paragraphs": 6,
+    "operations": 3,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0027,
+    "insertion_ratio": 0.0009
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 1,
+      "paragraphs": [
+        {
+          "content_hash": "b9409917d9ecfa0c",
+          "style": "HEADING_1",
+          "text": "清理中！开启Comments权限"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 3,
+      "paragraphs": [
+        {
+          "content_hash": "b7a40bc98ea94a68",
+          "style": "NORMAL_TEXT",
+          "text": "好人就该被枪指着吗？如果是抹黑的信息也要永远流传在学生群体中吗？受害者还要思考为什么吗？老师难道就没有人权吗？"
+        },
+        {
+          "content_hash": "c0e23d062606c695",
+          "style": "NORMAL_TEXT",
+          "text": "（你要是反驳不了就别怪学生流传了）"
+        },
+        {
+          "content_hash": "4b9432c107881c64",
+          "style": "NORMAL_TEXT",
+          "text": "(这不就是有罪论吗？还要我们抛开肚子自己证明清白呗)"
+        },
+        {
+          "content_hash": "8b093732071af2e6",
+          "style": "NORMAL_TEXT",
+          "text": "（为啥把狂人日记删了，留着不是挺好的。）"
+        },
+        {
+          "content_hash": "6cfb718a037219cf",
+          "style": "NORMAL_TEXT",
+          "text": "（格局低了，这文档用好了黑榜变红榜）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 12,
+      "paragraphs": [
+        {
+          "content_hash": "4e6bb565484280d3",
+          "style": "NORMAL_TEXT",
+          "text": "为啥文档里面这么多phd和postdoc, 是不是outofscope了"
+        }
+      ]
+    }
+  ]
+}
