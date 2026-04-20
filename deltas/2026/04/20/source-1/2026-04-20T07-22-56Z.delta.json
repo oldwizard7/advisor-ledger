@@ -1,0 +1,423 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T07-18-40Z",
+    "revision_id": "AMHacu6NJiQi3c08ojv3X4p-xBYWoHUbs1hIePL89j9WenZOoVWqz84TeK5gYoqf05NYFaRi1rcWDbTTtRXdiHjQXg",
+    "paragraph_count": 1275
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T07-22-56Z",
+    "revision_id": "AMHacu5O6OSjHdfAkBuIiZvEwdSTqjTlQn7u3182ZPK1Jk2ruWYXva9OeOpFhYcMEj8KC15fQ8tUWNAH5oSeMrm90g",
+    "paragraph_count": 1279
+  },
+  "summary": {
+    "inserted_paragraphs": 27,
+    "deleted_paragraphs": 23,
+    "operations": 17,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.018,
+    "insertion_ratio": 0.0211
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 76,
+      "at_to": 76,
+      "from_paragraphs": [
+        {
+          "content_hash": "60c779286892b86d",
+          "style": "NORMAL_TEXT",
+          "text": "我不觉得水文章有什么过错，水文章要是是个事，学术界99%教授都逃不掉。学术"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d63b98c53b3a50d2",
+          "style": "NORMAL_TEXT",
+          "text": "赞同绿色。我不觉得水文章有什么过错，水文章要是是个事，学术界99%教授都逃不掉。学术归学术，人品归人品。孙哥待人是没问题的。Solid project 99%的教授包括PhD学生都不敢谈有特别solid的project，没必要用这个来作为攻击方式。对学生来说，能申NIW/EB1A占个排期，有实在的利益，不比钻几年hard topic最后啥都拿不到回国强多了？"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 333,
+      "at_to": 333,
+      "from_paragraphs": [
+        {
+          "content_hash": "68fe2df4e2482a32",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却恶意捏造篡改背后原因，更像是针对性打击报复。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "67a333c67ea46e31",
+          "style": "NORMAL_TEXT",
+          "text": "上面很多负面评价有混淆视听嫌疑，摆出似是而非的表面事实却恶意捏造篡改背后原因，动机让人猜疑，更像是针对性打击报复而非客观陈述。"
+        },
+        {
+          "content_hash": "2d00b916d395a869",
+          "style": "NORMAL_TEXT",
+          "text": "丁老师组里氛围很好，每个学生方向相关但不构成竞争，聚餐很频繁。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 535,
+      "at_to": 536,
+      "from_paragraphs": [
+        {
+          "content_hash": "e65049165bbc2801",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang脾气巨大，之前在办公室拳补显示器（腕豪来了），和学生关系挺差的，之前他带过的学生说想扇他两个巴掌。（拳皇大人666）（111真扇吗出钱看）（222真扇吗出钱看）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2fc9c1449b2d2247",
+          "style": "NORMAL_TEXT",
+          "text": "UIUC， Jian Huang"
+        },
+        {
+          "content_hash": "da112e94826eb15b",
+          "style": "NORMAL_TEXT",
+          "text": "脾气巨大，之前在办公室拳补显示器（腕豪来了），和学生关系挺差的，之前他带过的学生说想扇他两个巴掌。（拳皇大人666）（111真扇吗出钱看）（222真扇吗出钱看）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 689,
+      "at_to": 691,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "362c420dd98b6185",
+          "style": "NORMAL_TEXT",
+          "text": "以一己之力拖慢所有学生的毕业和research进度"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 717,
+      "at_to": 719,
+      "from_paragraphs": [
+        {
+          "content_hash": "dc8b0d34ef6c783c",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Kiwi, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9c79a3dc0889bd02",
+          "style": "NORMAL_TEXT",
+          "text": "（from蓝字: 下面所有对intern的complaint, 包括下面三条几乎全是来自同一个账号Anonymous Pumpkin, 应该是在组里work了但没有发出一作paper/没有好的去向从而反目成仇的intern, 大家谨慎鉴别）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 722,
+      "at_to": 724,
+      "from_paragraphs": [
+        {
+          "content_hash": "479c32744f0b3d97",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive） （当年和Manling一届毕业找教职的没有其他人，她的成果也很突出）（主要是方向吧，IE往event做的，偏symoblic，她基本高引全是自己一作/共一，或者尾作，而且后面换方向换得很成功吧）（在组内突出，这不是说她block别人？）（当时那一届没有其他人，block谁？）（堆资源是看不到吧？）（什么叫堆资源？导师让你做：这导师太push了。其他学生做好：这个导师偏心，资源都给这个学生）（她去nw是ji使出的洪荒之力还是feifei帮忙的？）（stanford postdoc是接了教职offer之后找的，你这阴谋论了吧）（谁阴谋stf？paper和项目很多都是ji堆出来的）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（哥们在manling黑点下面一直舔是什么鬼，是不是phd念的太舒服了不知道人间疾苦觉得darpa就算黑榜了？建议去红榜写，这里不适合你）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（phd如果能只做做darpa搞搞paper就毕业已经可以进红榜了xs）（Intern超级多三五十个（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）（绷不住了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "f59af817e4ca2c84",
+          "style": "NORMAL_TEXT",
+          "text": "这个组的intern基本都是跟PhD沟通。（PhD会跟老师weekly meeting说每个intern的情况，老师也会认真写推荐信）（intern大部分都是PhD比较想找help，是PhD来面试）（确实是对intern的背景要求不高，比较inclusive）（那ji老师真没话说，亲传大弟子）（亲女儿不过如此）（如果把大部分精力放在做darpa项目也叫堆资源，希望你也有这样的好运气）（做darpa怎么了，黑榜里面能做darpa的都算走大运了，那么多phd免费劳动力开公司，干好几年发不了一篇paper）（一看就是没做过darpa，做darpa的基本发不了paper）（Manling就是phd被安排做darpa的学生，才发了你口中那些堆资源paper）（如果你觉得manling该进红，就去红榜写清楚你觉得的优点）（"
+        },
+        {
+          "content_hash": "e290516e1d887a94",
+          "style": "NORMAL_TEXT",
+          "text": "Intern超级多三五十个（fake，十几个）(很多intern只是在slack听组会没有真正参与项目, 真正参与的只有十几个 )（这么多人怎么写推荐信）Intern 数量比我高三班级人数还多。（吓哭了）（绷不住了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 760,
+      "at_to": 763,
+      "from_paragraphs": [
+        {
+          "content_hash": "90d718458c74f680",
+          "style": "NORMAL_TEXT",
+          "text": "主要负责的部分如上，还有很多细节，包括当时回复rebuttal 和 一些别人在使用mindcube时的疑问的出力 以及其他记不住的细节，都已经包含在你中有我我中有你的，每一个为了把mindcube做的更好的日日夜夜了。(这话怎么听着怪怪的)（这有什么怪的？）（你中有我我中有你，日日夜夜）（当时真做了太多东西吧，天天和师兄消息得发一大堆，shen'hou）（哦哦，那很可以）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4d3894d1c860ab08",
+          "style": "NORMAL_TEXT",
+          "text": "主要负责的部分如上，还有很多细节，包括当时回复rebuttal 和 一些别人在使用mindcube时的疑问的出力 以及其他记不住的细节，都已经包含在你中有我我中有你的，每一个为了把mindcube做的更好的日日夜夜了。(这话怎么听着怪怪的)（这有什么怪的？）（你中有我我中有你，日日夜夜）（当时真做了太多东西吧，天天和师兄消息得发一大堆，深厚的战友情谊）（哦哦，那很可以）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 834,
+      "at_to": 837,
+      "from_paragraphs": [
+        {
+          "content_hash": "6c34331f9cc6171b",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由(保卫我方qgu)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a8cb32acfae195d6",
+          "style": "NORMAL_TEXT",
+          "text": "本人写这条不需要匿名，本质上匿名也是不需要对言论负责，大家都是成年人，我相信有很多方式能够自辩真伪。无论攻击顾老师与否，政治立场是否认同，我实在不理解 RL theory 圈子谁很看顾老师不爽么，就我和顾老师的合作而言，顾老师是个积极正面的人物，虽然我肯定不觉得他完美，但是仍旧是瑕不掩瑜，我可以为我说的话负责，【仅仅就我的个人感受，我会很诚恳地向其他学生推荐顾老师】你可以攻击顾老师的政治立场，但是我不觉得这是你攻击顾老师人品的理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 896,
+      "at_to": 899,
+      "from_paragraphs": [
+        {
+          "content_hash": "454cc9f241514b6b",
+          "style": "NORMAL_TEXT",
+          "text": "Penn Jiatao Gu （存在争议，请谨慎辨别）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "501a90746c11a774",
+          "style": "NORMAL_TEXT",
+          "text": "Penn Jiatao Gu （存在争议，请谨慎辨别）（这个好像不存在？😂）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1013,
+      "at_to": 1016,
+      "from_paragraphs": [
+        {
+          "content_hash": "fc08da67a473d6df",
+          "style": "NORMAL_TEXT",
+          "text": "Have no clue how to mentor students and lack original ideas. Very good at pressuring her students to the point where some have to go see a therapist. Criticizing her student’s ideas while unable to come up with better ones or provide constructive feedback. Incompetent but loves to throw her weight to her students"
+        },
+        {
+          "content_hash": "76297ab2908a05ac",
+          "style": "NORMAL_TEXT",
+          "text": "Lack drive and boldness for research. Lack enthusiasm for research."
+        },
+        {
+          "content_hash": "a1302bc2bdd61ce5",
+          "style": "NORMAL_TEXT",
+          "text": "When she has an issue with a student, she never communicates it clearly in everyday interactions; instead, she just suddenly lashes out. She expects students to magically mind-read what she wants purely through her vague negative feedback."
+        },
+        {
+          "content_hash": "ed89a3c5d804f05b",
+          "style": "NORMAL_TEXT",
+          "text": "Three students have left the lab in just half a year. Whether she is issuing a PIP (Performance Improvement Plan) or firing someone to their face, she uses the exact same generic excuses every time."
+        },
+        {
+          "content_hash": "a92aee6de4697fb6",
+          "style": "NORMAL_TEXT",
+          "text": "Industry connections are little"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0c62dafaf0788d9b",
+          "style": "NORMAL_TEXT",
+          "text": "(Feel like this is the case for almost all NYU APs :( This is not generally true for some that I know.)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d86f3177df001a8d",
+          "style": "NORMAL_TEXT",
+          "text": "不会带学生，没idea，压力学生，学生被压力去看心理医生。说学生不行，但是自己也说不出行的东西，人菜瘾大。"
+        },
+        {
+          "content_hash": "a893d73fd3a920cd",
+          "style": "NORMAL_TEXT",
+          "text": "活在QA时代 不会与时俱进。做科研没有魄力。自己的科研热情不高。"
+        },
+        {
+          "content_hash": "51ab6a94f37c51e1",
+          "style": "NORMAL_TEXT",
+          "text": "平时对学生有意见不清晰说给学生听，突然发难。期待学生从她的负反馈里悟到她想要什么。"
+        },
+        {
+          "content_hash": "e038d0c8a0fc7e0f",
+          "style": "NORMAL_TEXT",
+          "text": "听说半年3个学生离组。发pip信，当面开除，用的都是同一套理由。"
+        },
+        {
+          "content_hash": "48dfa39303301c4a",
+          "style": "NORMAL_TEXT",
+          "text": "业界connection可以忽略不计。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1073,
+      "at_to": 1074,
+      "from_paragraphs": [
+        {
+          "content_hash": "421758b3577de812",
+          "style": "NORMAL_TEXT",
+          "text": "黑推，pua，push；"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "03c16ef9f4a19041",
+          "style": "NORMAL_TEXT",
+          "text": "黑推，pua，push，可能因为自己出身一般所以看重学生出身；"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1207,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1216,
+      "at_to": 1216,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "25314df606f12a24",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Xiang-Yang Li"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "43fcb961c4cbd40a",
+          "style": "NORMAL_TEXT",
+          "text": "USTC,"
+        },
+        {
+          "content_hash": "13dc8a0f70034b06",
+          "style": "NORMAL_TEXT",
+          "text": " Xiang-Yang Li"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1219,
+      "at_to": 1219,
+      "from_paragraphs": [
+        {
+          "content_hash": "f1e29ef063a8d2cd",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里待过很长时间，后来出国了，个人感觉他人确实还挺好，甚至手把手教函数加密。听有学长说还帮忙debug过code~"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "62b049c8c362be28",
+          "style": "NORMAL_TEXT",
+          "text": "我本科在李老师组里待过很长时间，后来出国了，个人感觉他人确实还挺好，甚至手把手教函数加密。听有学长说还帮忙debug过code~（nsnmn，我们这一届lxy的学生，所有的签字全部拖到最后一刻，并且经常以不做xx就不给签字来威胁）"
+        },
+        {
+          "content_hash": "8cf48a8296592210",
+          "style": "NORMAL_TEXT",
+          "text": "沽名钓誉之辈，去这个组只能说这辈子有了"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1225,
+      "paragraphs": [
+        {
+          "content_hash": "08b056e43483ad6d",
+          "style": "NORMAL_TEXT",
+          "text": "USTC, Yu Zhang"
+        },
+        {
+          "content_hash": "21db39abcaa45369",
+          "style": "NORMAL_TEXT",
+          "text": "本科的时候上她的课被骗来，读博期间经常被责骂，组内全是垃圾横向，只想赚钱，对学生毫无指导，高年级博士常态化延毕"
+        },
+        {
+          "content_hash": "ec43142bc2281ccc",
+          "style": "NORMAL_TEXT",
+          "text": "好好聊"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1265,
+      "at_to": 1269,
+      "from_paragraphs": [
+        {
+          "content_hash": "c69f14f4416d62af",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔，延毕警告，不粘锅，抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "448a6b22cc20d691",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔，延毕警告，不粘锅，抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1267,
+      "at_to": 1271,
+      "from_paragraphs": [
+        {
+          "content_hash": "ec31a4ff535e703d",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，喜欢抢一作，强调自己功劳最大"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fe7d1d041e2007ee",
+          "style": "NORMAL_TEXT",
+          "text": "科研水平很差，大龄在职博士毕业，喜欢抢一作，强调自己功劳最大"
+        }
+      ]
+    }
+  ]
+}
