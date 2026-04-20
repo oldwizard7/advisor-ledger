@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T16-18-20Z.delta.json",
+  "delta_ts": "2026-04-20T16-18-20Z",
+  "reviewed_at_utc": "2026-04-20T16:19:12Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Real full names of students (haoran geng, Yufei Ding) and detailed personal gossip identifying them and their relationships",
+      "excerpt": "今年stanford的phd，haoran geng 的女朋友... Yufei Ding (PKU)... 注意这不是丁老师，是同名学生"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Gendered insult '学术妲己' (academic Daji) and character attack '蛇鼠一窝' targeting students",
+      "excerpt": "纯学术妲 己... 这俩蛇鼠一窝"
+    }
+  ],
+  "prompt_sha256": "e8b66a8cfb15673596ba708d6cde781466eb83579df926be52339735964942b2",
+  "finish_reason": "stop",
+  "completion_tokens": 4803
+}
