@@ -1,0 +1,288 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-27-20Z",
+    "revision_id": "AMHacu4s44BZYgwJAlqAyRn3_rUl61nVbHzLaXD1QzSd7qWCONqVsr5FId22y05uCjogIN_fMxNsfivV8JpxmQ_aVg",
+    "paragraph_count": 1367
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-31-50Z",
+    "revision_id": "AMHacu6WF8Kf9zu5ARvRg5J-85-MndrWVmd1Uq3gJYl7tGS8ikRiMx172pCbzFIUNRKE5zJN-v7N6EjAWw7SYnTqiA",
+    "paragraph_count": 1379
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 10,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0073,
+    "insertion_ratio": 0.016
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 17,
+      "paragraphs": [
+        {
+          "content_hash": "b3c585442e8ff560",
+          "style": "NORMAL_TEXT",
+          "text": "加一个黑榜list:"
+        },
+        {
+          "content_hash": "857b737059bd39c7",
+          "style": "NORMAL_TEXT",
+          "text": "Tong(Tony) Geng, Rice University"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 22,
+      "at_to": 25,
+      "from_paragraphs": [
+        {
+          "content_hash": "efaac4682e049f92",
+          "style": "NORMAL_TEXT",
+          "text": "隔壁组的经典永传：喊学生私下签协议，所有相关的工作都不允许对外share，包括idea+ppt+paper，泄露就得被关进jail"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0a77f73d3cbadd6f",
+          "style": "NORMAL_TEXT",
+          "text": "隔壁组的经典永传：喊学生私下签保密协议，所有相关的工作都不允许对外share，包括idea+ppt+paper，泄露就得被关进jail"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 40,
+      "at_to": 43,
+      "from_paragraphs": [
+        {
+          "content_hash": "c039dcfa2a292ebd",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立"
+        },
+        {
+          "content_hash": "035bbada928d0ebf",
+          "style": "NORMAL_TEXT",
+          "text": "            (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "20a09b8222ccc3f9",
+          "style": "NORMAL_TEXT",
+          "text": "一直刻意隐瞒自己的phd毕业学校（不知道原因），之前领英上还写自己是伯克利phd毕业的，但其实是范德比大学毕业（但所有平台都不写自己博士毕业学校）（vandy吗）（对，她可能觉得vandy丢她的脸吧，所以一直不写自己是vandy毕业的）（？vandy哪儿丢面了。）(其他的点不评价，只客观评价一下，不说vandy可能和她phd老板有关,她老板是很toxic的人，因此关系非常不好，毕业之后就彻底断开，所以双方都默契的不再提）(不懂学校和phd老板有啥关系) 我只是说了一些知道的可能原因，不影响上述大伙的理由依然成立  (和导师关系不合好像没听说过，毕业后彻底断开应该不对因为ap后还是有邀请来talk什么的)（借楼问问有没有Vandy的故事）"
+        },
+        {
+          "content_hash": "58e04e672f8aa934",
+          "style": "NORMAL_TEXT",
+          "text": "和她组里的学生认识，感觉都很健康且前途光明啊？"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 558,
+      "paragraphs": [
+        {
+          "content_hash": "e06df027969c019b",
+          "style": "NORMAL_TEXT",
+          "text": "University of Delaware， Xu Yuan"
+        },
+        {
+          "content_hash": "a88954ea61ed44e2",
+          "style": "NORMAL_TEXT",
+          "text": "灌学生酒，搞酒桌文化，暗示学生送酒"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 798,
+      "at_to": 807,
+      "from_paragraphs": [
+        {
+          "content_hash": "437ef483108404dc",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹（是的，manling是个好人，只是phd。。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "28a86c6cfd1b16d9",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex master intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹（是的，manling是个好人，只是phd。。。）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1034,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1068,
+      "at_to": 1079,
+      "from_paragraphs": [
+        {
+          "content_hash": "500bccfe3166ccfc",
+          "style": "NORMAL_TEXT",
+          "text": "网红？(还行吧，听说指导了很多其他AP的不是自己的学生)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fed3645e935fac1c",
+          "style": "NORMAL_TEXT",
+          "text": "网红？(还行吧，听说指导了很多其他AP的不是自己的学生) (硬要说的话可能也就是做的有点水，涂人挺好的，帮其他人指导学生)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1101,
+      "at_to": 1112,
+      "from_paragraphs": [
+        {
+          "content_hash": "a5e3cfbab18cf7b7",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）(你们周末不要开会的吗😭）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bee8650edb746de5",
+          "style": "NORMAL_TEXT",
+          "text": "为了看各位的瓜我已经摆烂一天没干活了（我也）（周末干活你们还有自己的时间吗这么惨）（周末还干活 诗人吗！）（PhD的周末是组会开完之后的两天）(你们周末不要开会的吗😭）（明天和老师1v1 meeting结果看瓜看的啥都没做感觉完蛋）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1228,
+      "paragraphs": [
+        {
+          "content_hash": "b00c93acf388ed24",
+          "style": "NORMAL_TEXT",
+          "text": "很好的PI，实验室卡多，funding充足，research上指导亲力亲为"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1254,
+      "at_to": 1267,
+      "from_paragraphs": [
+        {
+          "content_hash": "b7ca365f90f12ed0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（+2, 点名姓Lu的）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "35418a59513c11f1",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天博后很多猛猛抢作者压榨下面的人（+2, 点名姓Lu的）（其实每个博后都干过）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1261,
+      "at_to": 1274,
+      "from_paragraphs": [
+        {
+          "content_hash": "0b4e33faa9916d89",
+          "style": "NORMAL_TEXT",
+          "text": "带你的博后搞的鬼，你就狠狠喷他就行（其他的也没说错 兄弟你刚进来ke neng xiang wei h）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "967248c9f945a164",
+          "style": "NORMAL_TEXT",
+          "text": "带你的博后搞的鬼，你就狠狠喷他就行（其他的也没说错）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1270,
+      "paragraphs": [
+        {
+          "content_hash": "1a5771d271a3587a",
+          "style": "NORMAL_TEXT",
+          "text": "据说不给phd发补助，论文挂无关工作的人，蹲一个"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1357,
+      "at_to": 1369,
+      "from_paragraphs": [
+        {
+          "content_hash": "5f38b0daef7e95a4",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "657e5e3549df82f4",
+          "style": "NORMAL_TEXT",
+          "text": "项目狂魔（项目>杂活>>科研>>实习），延毕警告（敢考公实习，不想毕业了吗），不粘锅（自己瞎指挥出问题，学生背锅），抠门（谈钱直接爆炸），控制欲强（夺命连环call，24小时standby），小心眼（喜欢说要盯别人十年），看碟下菜（喜欢打听别人家里情况，推荐chu级以上干部子弟进组，不然容易受欺负）"
+        }
+      ]
+    }
+  ]
+}
