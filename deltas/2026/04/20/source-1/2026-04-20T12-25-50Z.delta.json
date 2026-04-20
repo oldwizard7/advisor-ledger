@@ -1,0 +1,94 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T12-23-40Z",
+    "revision_id": "AMHacu4tkqydmBr692qM3yXYFgumrXXZFouCjzjrsM_ld4ZgvVhZLkJJZt18LixFDVhsWtaInIy2E9GNWTN5JRYIzA",
+    "paragraph_count": 1833
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T12-25-50Z",
+    "revision_id": "AMHacu6GI1EKcKe5A4xEN-nnTpvnNkJUnqZs0MerBHEw7DG6i6gA624KjzQ9OD-Va0JeMiajmL8EPXPlHAMmd_8qXg",
+    "paragraph_count": 1834
+  },
+  "summary": {
+    "inserted_paragraphs": 4,
+    "deleted_paragraphs": 3,
+    "operations": 4,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0016,
+    "insertion_ratio": 0.0022
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 232,
+      "at_to": 232,
+      "from_paragraphs": [
+        {
+          "content_hash": "8f91e17a7cdd15af",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又强，导致竞争过于激烈，很多申请结果就一般了。一般指的是跟自己的期望相比，但是因为于intern本身就强，总体而言还是能去不错的学校。当然，不跟他做暑研可能也能申到同档次的学校（无奈笑）。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2325af2a6af2f092",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun水平自然很高， 主要问题在于intern又多又强，导致竞争过于激烈，很多申请结果就一般了。一般指的是跟自己的期望相比，但是因为于intern本身就强，总体而言还是能去不错的学校。当然，去别的地方做暑研也许能申到更好的学校（无奈笑）。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 361,
+      "paragraphs": [
+        {
+          "content_hash": "f0d5d3576689f7a0",
+          "style": "NORMAL_TEXT",
+          "text": "这个更多是Postdoc的问题，"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1585,
+      "at_to": 1586,
+      "from_paragraphs": [
+        {
+          "content_hash": "77c78432c7156b0f",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0c1f0bca5973857e",
+          "style": "NORMAL_TEXT",
+          "text": "没拿offer跟PUA什么关系？(我和lijie和她kaust的组接触了2年以上，两边组里的phd，intern，master都接触过，从来没听说过谁被pua的) 你没听说过不代表没有，你为啥觉得自己是信息全面的，你是她本人？(我是她之前的intern，怎么了？就只能你抹黑是吧，其他人话都不能说了？)\u000b(我接触到她mbzuai和kaust组里的学生intern肯定比你多，也比你有代表性，自己被MSU鸽了在这里无能狂怒，不下头吗？有本事自己申四大去啊，没人求你来找lijie合作吧)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1799,
+      "at_to": 1800,
+      "from_paragraphs": [
+        {
+          "content_hash": "da6f60a356d69fbf",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2b0e5c544e7deafe",
+          "style": "NORMAL_TEXT",
+          "text": "ShanghaiTech(谁把上科大删掉了？哪位PI？出来走两步？)（插眼）（zhe ke）"
+        }
+      ]
+    }
+  ]
+}
