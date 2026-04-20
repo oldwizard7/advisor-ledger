@@ -1,0 +1,23 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-35-50Z.delta.json",
+  "delta_ts": "2026-04-20T20-35-50Z",
+  "reviewed_at_utc": "2026-04-20T20:36:39Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Student self-identifies with specific enrollment year (2024) and professor affiliation (You老师), creating lab-specific descriptors sufficient to de-anonymize the individual",
+      "excerpt": "从我24年入学以来（既然敢在这里讲话，我也不怕盒）...You老师"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Vulgar profanity (jb) used to dismiss other contributors' observations as nonsense",
+      "excerpt": "挂haiwen是真的扯jb蛋吧"
+    }
+  ],
+  "prompt_sha256": "41c122a143e418785a36cd1d8b13450c1eee4655e1a39e7162ce27fd7827525d",
+  "finish_reason": "stop",
+  "completion_tokens": 4011
+}

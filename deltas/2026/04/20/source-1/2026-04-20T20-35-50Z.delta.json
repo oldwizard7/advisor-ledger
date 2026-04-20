@@ -1,0 +1,221 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-27-10Z",
+    "revision_id": "AMHacu4HaQLm6gXzwWwf7Q4-0l4J62P8uUta595TKeNiZL_XWyZ4HdWg9qg4qpIIadSBIYQQnTRC0vXBpvJOIwW5tg",
+    "paragraph_count": 2053
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-35-50Z",
+    "revision_id": "AMHacu5AxQt9xM6Lw595bRbWmxVRjf967MenVn3kVjoMLIA9bTnu8eObgBq9CyBOxyxox-ayn3yp4-aM5H6aAJvoOg",
+    "paragraph_count": 2063
+  },
+  "summary": {
+    "inserted_paragraphs": 17,
+    "deleted_paragraphs": 7,
+    "operations": 9,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0034,
+    "insertion_ratio": 0.0082
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 5,
+      "at_to": 5,
+      "from_paragraphs": [
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "974b02ca8dd4c125",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单n的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 440,
+      "at_to": 440,
+      "from_paragraphs": [
+        {
+          "content_hash": "636d08aff709301c",
+          "style": "NORMAL_TEXT",
+          "text": "面试聊过，很不尊重学生 (re: 如果指的是phd面试的话我感觉还挺好的？技术细节问的很细，会详细问具体你在)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "4016bb8f8fcc47eb",
+          "style": "NORMAL_TEXT",
+          "text": "面试聊过，很不尊重学生 (re: 如果指的是phd面试的话我感觉还挺好的？技术细节问的很细，会详细问具体你在某篇论文中做了什么，没有哪里体现不尊重了。对于学术问题的观点、理念差异也能很正常地交流。)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 767,
+      "at_to": 767,
+      "from_paragraphs": [
+        {
+          "content_hash": "e828374b62c0bdaa",
+          "style": "NORMAL_TEXT",
+          "text": "在瑞士滑雪会议上和一堆白胡子老爷爷讲, 自己不和中国男老师合作, 后某位白胡子老爷爷在香港PES会议上说，你们中国人怎么还歧视自己人呢（全场哗然）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "be73a40d98c33fbf",
+          "style": "NORMAL_TEXT",
+          "text": "在瑞士滑雪会议上和一堆白胡子老爷爷讲, 自己不和中国男老师合作, 后某位白胡子老爷爷在香港PES会议上说，你们中国人怎么还歧视自己人呢（全场哗然）（您如何证明因果关系？）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 784,
+      "at_to": 784,
+      "from_paragraphs": [
+        {
+          "content_hash": "8cb65e819d7e388e",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么 (这妥妥的红榜吧, Haiwen是我在UCB见过的最负责的postdoc, 有的last author的paper有一作的工作量, 不要尬黑) (+1, 伯克利清流都能被挂，也是太离谱了) 首先phd最后一个学期去工业界不要太正常吧。而且haiwen mid author的很多工作也是会改代码帮忙跑实验+熬夜写paper的，BAIR不少项目还是用的他connect来的卡。把phd挂上来也不说明白hh。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0da448b1d5884e84",
+          "style": "NORMAL_TEXT",
+          "text": "吃瓜，细说，感觉他在Berkeley是有点不知道在干什么 (这妥妥的红榜吧, Haiwen是我在UCB见过的最负责的postdoc, 有的last author的paper有一作的工作量, 不要尬黑) (+1, 伯克利清流都能被挂，也是太离谱了) 首先phd最后一个学期去工业界不要太正常吧。而且haiwen mid author的很多工作也是会改代码帮忙跑实验+熬夜写paper的，BAIR不少项目还是用的他connect来的卡。把phd挂上来也不说明白hh。挂haiwen是真的扯jb蛋吧，学术界很少能有这么正直的人。。。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1201,
+      "at_to": 1201,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb3970e29006dd6b",
+          "style": "NORMAL_TEXT",
+          "text": "不是尬黑，就是会写黑推。能理解你不想写推荐信，但为什么满口答应还写黑推？反正慎重。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "1aa0c9bf09c6621d",
+          "style": "NORMAL_TEXT",
+          "text": "不是尬黑，就是会写黑推。能理解你有xi huan，就是不想写推荐信。但为什么表里不一，满口答应还写黑推？反正慎重。"
+        },
+        {
+          "content_hash": "8e053cd289c854a5",
+          "style": "NORMAL_TEXT",
+          "text": "学术界Redis数据库：全世界广收intern一列都写不完（曾出现在主页，后删），按照牛马程度，不断增删改查。"
+        },
+        {
+          "content_hash": "7f8e1a4f6ab30d89",
+          "style": "NORMAL_TEXT",
+          "text": "关于卡：确实会提供GPU集群账号，这个是真的（40g a100）"
+        },
+        {
+          "content_hash": "5fd3f83d94640c9a",
+          "style": "NORMAL_TEXT",
+          "text": "私心说一句：一个老师就是会有合得来、合不来的学生。我觉得这个doc存在的意义就是规正老师行为底线，所以负样本比正样本更有权重。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1377,
+      "paragraphs": [
+        {
+          "content_hash": "493dd4c5b8bfc864",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yajie Zhao"
+        },
+        {
+          "content_hash": "713501a0d0a4601e",
+          "style": "NORMAL_TEXT",
+          "text": "组里走了好多学生？有瓜分享吗"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1809,
+      "at_to": 1815,
+      "from_paragraphs": [
+        {
+          "content_hash": "8a49bf382b1ad18c",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）（打的就是你，我不认识"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "962eaa26af059cec",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视，没招你，招个女生就破防了）（你倒也不必这么说，May也曾经说过女性在申请时会比男性占优势）（这人没在说may xs）（男的优势多了去了，让女的占点吧谢谢）（怎么又开始打拳了。。。）（打的就是你，我不认识组里任何人）（你说行，我说就是打拳了？别删我评论）（要删这条全删）（要打拳上xhs打去，看起来时把赘婿贴当圣经读的那种人）（完全不爱男人，别给我在这瞎说，男人是什么好东西吗）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1845,
+      "at_to": 1851,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9954d6599f120ebd",
+          "style": "NORMAL_TEXT",
+          "text": "从我24年入学以来（既然敢在这里讲话，我也不怕盒），我一直是一个节奏很慢的人，You老师从未因为学业原因push过我，也没有因为其他原因给我施加过压力。"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1896,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "585a17c43789fbbc",
+          "style": "NORMAL_TEXT",
+          "text": "   NUS Si Yong Yeo"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "HEADING_1",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
