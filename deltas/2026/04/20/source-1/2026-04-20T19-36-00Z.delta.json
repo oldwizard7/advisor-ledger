@@ -1,0 +1,307 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T19-33-52Z",
+    "revision_id": "AMHacu4lJsLN9HBrl0TMH-cqfIq53uVE8OslsnbCzspEPMKsWoZrqC6aFqVwVhxEyzOWkfz6382LC8l3zfsfMBFxDA",
+    "paragraph_count": 2024
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T19-36-00Z",
+    "revision_id": "AMHacu6Y0HKJeFJ6Bu0tmxa45k7qgi7eYi4UpGuAO8dNv-RdX4DRtY9NUZu_UrbDBic5hEQz9M-Zbi4oKVBaq0MVKg",
+    "paragraph_count": 1997
+  },
+  "summary": {
+    "inserted_paragraphs": 8,
+    "deleted_paragraphs": 35,
+    "operations": 8,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0173,
+    "insertion_ratio": 0.004
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "5558d11ffcde0560",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. g希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "05f8b07ec34fbe8b",
+          "style": "NORMAL_TEXT",
+          "text": "对学生：This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. 希望大家补充的内容可以真实的帮助其他人更好的做决策，而不是单纯的基于看某个导师不爽而编造理由。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 41,
+      "at_to": 41,
+      "from_paragraphs": [
+        {
+          "content_hash": "2313132b9849b758",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "877a265000ec184e",
+          "style": "NORMAL_TEXT",
+          "text": "这老师牛逼啊，一开始在rochester ece当AP，第一年三个学生第一年还没结束就全部quit了，同时还被举报给了系里和院里，留下了一段佳话，整个rochester不管哪个系都听过这个故事哈哈哈哈哈哈哈哈哈 (听说后来又quit了几个，跳去rice quit了好几个哈哈哈) （主页成员几天一换，今天收进来，明天跑路）（好朋友在组内，他的心理状态明显变化巨大，刚开学一开始还会约着一起去打球，后面再也不敢出来和我们玩了）【这个老师刚做教授的第一年确实干的非常狠，学生压力很大，可能是新AP大部分都这样，第一年工作压力太大太激进了吧。第一年的quit的学生确实也发了不少好文章，而且去处都挺好的。】【第一年quit的学生去处好，跟这个老师本身没关系，是学生自己重新申请的，这老师完全不会帮忙只会倒踩一脚】"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 621,
+      "at_to": 621,
+      "from_paragraphs": [
+        {
+          "content_hash": "4f29f211465df39c",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友（即下方haoran geng + yufei ding) 让人怀疑是否有利益交换。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0165c6b69f2bc4a0",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友让人怀疑是否有利益交换。"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 878,
+      "at_to": 878,
+      "from_paragraphs": [
+        {
+          "content_hash": "19971be2b93dfd50",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多，有人只能pre opt去工作）（非要让别人把paper link贴出来？洗地时候注意别惹急了）（毕业三个？其中有个人天天找认识人骂fu yun啊，怎么不提）（不要给我们内部造谣了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "c6c61de8fc5d3458",
+          "style": "NORMAL_TEXT",
+          "text": "全组要求发10篇一作还不啥才能毕业（组内为此有类似idea小改多投，俩篇顶会abstract有的地方直接复制），组里延毕很多）（非要让别人把paper link贴出来？洗地时候注意别惹急了）（毕业三个？其中有个人天天找认识人骂fu yun啊，怎么不提）（不要给我们内部造谣了）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1513,
+      "paragraphs": [
+        {
+          "content_hash": "0a3ef51420be53ea",
+          "style": "NORMAL_TEXT",
+          "text": "Caltech Yang Song"
+        },
+        {
+          "content_hash": "bea07a5a27467785",
+          "style": "NORMAL_TEXT",
+          "text": "\t没入职就招了学生放在学校，入职defer一年又一年，最后干脆不去了全职openai，学生只能在caltech这种CS科研荒漠找传统科学老师做AI4Science"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "426b2864e59d6414",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Mingmin Zhao"
+        },
+        {
+          "content_hash": "ae1ff64c2b4de97a",
+          "style": "NORMAL_TEXT",
+          "text": "宾大cis第一烂导"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "986ee244d2487a55",
+          "style": "NORMAL_TEXT",
+          "text": "UCLA Yuan Tian"
+        },
+        {
+          "content_hash": "10637bf9a0ae19d4",
+          "style": "NORMAL_TEXT",
+          "text": "面试咕"
+        },
+        {
+          "content_hash": "cfa38e17bd256728",
+          "style": "NORMAL_TEXT",
+          "text": "咕"
+        },
+        {
+          "content_hash": "45ac7c481cddd2ed",
+          "style": "NORMAL_TEXT",
+          "text": "垃圾一个"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "1f6b9d69a9b24dfe",
+          "style": "NORMAL_TEXT",
+          "text": "UPenn Lingjie Liu"
+        },
+        {
+          "content_hash": "c8b7d85eed324377",
+          "style": "NORMAL_TEXT",
+          "text": "水平很差，控制欲强，对学生很差，据说开会骂学生，对学生人身攻击（什么时候人身攻击了，都是就事论事）（笑死，自己水平差啥都不会，到你这里就变成人身攻击了？）"
+        },
+        {
+          "content_hash": "7334d339df3d4928",
+          "style": "NORMAL_TEXT",
+          "text": "傻b一个，给offer的都不敢去（这是没拿到offer恼羞成怒了？）（听说给offer的好多去四大了）"
+        },
+        {
+          "content_hash": "ee241f3b07c85976",
+          "style": "NORMAL_TEXT",
+          "text": "学生招了5个走了2个，quit率40% (不是quit谢谢，是开掉的，但是大哥人能力强光速找到同校下家)（大哥人能力强吗🤣你也太幽默了） (算了吧，他进组啥都不会，老师给系里说了多少好话，才帮他转到同校的NLP组，大哥能力强也太幽默了）（另一个为什么quit）(另一个都重新申请phd了）"
+        },
+        {
+          "content_hash": "694c3bac376c5136",
+          "style": "NORMAL_TEXT",
+          "text": "申请季自己名声太差招不到好学生就拉老公一起发co advise offer （coadivse offer也没人敢去）"
+        },
+        {
+          "content_hash": "94314d14bd954771",
+          "style": "NORMAL_TEXT",
+          "text": "请大家不要听风就是雨，听某些心怀恶意的人造谣生事（也适用于这句话）"
+        },
+        {
+          "content_hash": "7675d27fb0abc06d",
+          "style": "NORMAL_TEXT",
+          "text": "我跟她合作的时候人挺不错的，非常靠谱，愿意给资源也愿意帮忙，connection非常广泛，不知道评价差的人都是哪来的，合作的时候感觉她对于我的方向的理解很深，vision也很广，也不知道水平很差谁评价的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "4c18d485ee926c3d",
+          "style": "NORMAL_TEXT",
+          "text": "Penn Jiatao Gu"
+        },
+        {
+          "content_hash": "f0795d13005c8858",
+          "style": "NORMAL_TEXT",
+          "text": "(jiatao和lingjie是夫妻档吗?)（是）"
+        },
+        {
+          "content_hash": "ee94fe1c3ac1df2e",
+          "style": "NORMAL_TEXT",
+          "text": "（他人咋样呀，有个课想选他/(ㄒoㄒ)/~~) (Jiatao人很好啊)（好滴！）(jiatao人好+10086）"
+        },
+        {
+          "content_hash": "574a3c4a9d5ce300",
+          "style": "NORMAL_TEXT",
+          "text": "Jiatao很有insight人也很好，完全应该是红榜啊"
+        },
+        {
+          "content_hash": "9ba76a48496da2b5",
+          "style": "NORMAL_TEXT",
+          "text": "佳涛老师绝对应该上红榜啊！有很多idea，自己非常拼，但是不逼学生（想问一下inter"
+        },
+        {
+          "content_hash": "2bf7861dbe9b2e57",
+          "style": "NORMAL_TEXT",
+          "text": "N体验）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6f1af627bff6ddcd",
+          "style": "NORMAL_TEXT",
+          "text": "Apple 那种环境出来的老师，能不好么？😂(apple什么环境)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 1552,
+      "paragraphs": [
+        {
+          "content_hash": "c29a9979a0c67952",
+          "style": "NORMAL_TEXT",
+          "text": "这人不仅心眼坏 脾气还巨臭 避雷"
+        },
+        {
+          "content_hash": "7c0cb64eab5ee04a",
+          "style": "NORMAL_TEXT",
+          "text": "grumpy"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1733,
+      "at_to": 1706,
+      "from_paragraphs": [
+        {
+          "content_hash": "e9be558c3136ceeb",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名xhs学术女网红(Blue whale?)，tpami是被送的，学术能力为0，人是最mean的有人d她的小红书真的很经典）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "fcb77dfeeb7bec56",
+          "style": "NORMAL_TEXT",
+          "text": "组里有著名西交少年班出身的xhs学术女网红(Blue whale?)，论文stpami是被送的，学术能力为0，人是最mean的有人d她的小红书真的很经典）（4篇tpami还卖课学量化，能看出来这人实力是啥样了😅）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1768,
+      "at_to": 1741,
+      "from_paragraphs": [
+        {
+          "content_hash": "d5a55ee4ed958b4c",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）（招五十个学生吗）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aed03b6079da40df",
+          "style": "NORMAL_TEXT",
+          "text": "CUHK 某AI4S AP 避雷 （至少给个指向吧）（Yu Li吗？）（南唐复国篇）（招五十个学生吗）（他是m吗，为什么爱发小红书找骂？）"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T19-36-00Z.delta.json",
+  "delta_ts": "2026-04-20T19-36-00Z",
+  "reviewed_at_utc": "2026-04-20T19:36:45Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "suspicious_deletion",
+      "detail": "Large-scale deletion of substantive entries about multiple specific advisors (Yang Song, Mingmin Zhao, Yuan Tian, Lingjie Liu, Jiatao Gu) containing detailed observations about advising practices, student outcomes, and lab environment, rather than cleanup of typos or off-topic content",
+      "excerpt": "Caltech Yang Song\n\t没入职就招了学生放在学校，入职defer一年又一年..."
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Insertion of unsupported personal insults attacking character ('心眼坏', '脾气还巨臭') rather than describing specific advising behaviors",
+      "excerpt": "这人不仅心眼坏 脾气还巨臭 避雷"
+    },
+    {
+      "type": "pii",
+      "detail": "Added specific biographical descriptor ('西交少年班出身' / XJTU youth class background) that de-anonymizes the student referred to as 'Blue whale', making them identifiable",
+      "excerpt": "组里有著名西交少年班出身的xhs学术女网红"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Added unsupported character attack/insult ('他是m吗' implying masochism) targeting the advisor's personality rather than concrete advising practices",
+      "excerpt": "他是m吗，为什么爱发小红书找骂？"
+    }
+  ],
+  "prompt_sha256": "48f52f659e54d1a3d52ae778ee26f10488c7410cec0e97aaad2a8a46c88792a0",
+  "finish_reason": "stop",
+  "completion_tokens": 4217
+}
