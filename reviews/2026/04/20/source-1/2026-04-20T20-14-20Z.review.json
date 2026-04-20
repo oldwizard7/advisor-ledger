@@ -1,0 +1,28 @@
+{
+  "source_id": "source-1",
+  "delta_path": "deltas/2026/04/20/source-1/2026-04-20T20-14-20Z.delta.json",
+  "delta_ts": "2026-04-20T20-14-20Z",
+  "reviewed_at_utc": "2026-04-20T20:15:29Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "verdict": "concerns",
+  "concerns": [
+    {
+      "type": "pii",
+      "detail": "Full name of a student/subordinate (Zhiyang Duo) in a professor's group is disclosed, identifying a private individual who is not the subject of the document.",
+      "excerpt": "他组里的 Zhiyang Duo 非常能灌，到处合作，臭名昭著"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Unsupported character judgment using derogatory language (臭名昭著) against a specific student.",
+      "excerpt": "Zhiyang Duo 非常能灌，到处合作，臭名昭著"
+    },
+    {
+      "type": "ad_hominem",
+      "detail": "Personal attack against a commenter (claiming they are 'triggered' or defensive) rather than addressing the substance of the discussion.",
+      "excerpt": "bro被说破防了，你删我也删，此为prof榜，少在这性别歧视"
+    }
+  ],
+  "prompt_sha256": "2aa4073ca2350bf888eaf0523e7ce94fd5a3dcfce189ff5c25bf7358cc56f207",
+  "finish_reason": "stop",
+  "completion_tokens": 6253
+}

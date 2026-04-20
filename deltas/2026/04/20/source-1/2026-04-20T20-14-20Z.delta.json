@@ -1,0 +1,351 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T20-10-00Z",
+    "revision_id": "AMHacu6NLDw-3mNr176tbDnCNvE191N4Pn9eWAYIm-PlRnRge7miMTn0bGnwMFqw_zZBESYszQRpQQ-rjqyrEQ1UxA",
+    "paragraph_count": 2031
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T20-14-20Z",
+    "revision_id": "AMHacu7F609-I_eGPvbQEc62fcVoAlU5JQ5A9frgMF7LRdUGSlsK6giJPj8c2nNNwlnO9Zdpo08mD9GGIs-mF3KrbA",
+    "paragraph_count": 2034
+  },
+  "summary": {
+    "inserted_paragraphs": 22,
+    "deleted_paragraphs": 19,
+    "operations": 15,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0094,
+    "insertion_ratio": 0.0108
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 106,
+      "paragraphs": [
+        {
+          "content_hash": "c93ccf92847f739e",
+          "style": "NORMAL_TEXT",
+          "text": "是的，他组里的 Zhiyang Duo 非常能灌，到处合作，臭名昭著，听说夸张的一篇paper挂11个单位他尾作"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 703,
+      "at_to": 705,
+      "from_paragraphs": [
+        {
+          "content_hash": "02a084405017ad02",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 （给我看呆了 这是唯一一个被喷的比AP还多的phd 哥们儿真太有实力了）一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "666a34f350ec2ad2",
+          "style": "NORMAL_TEXT",
+          "text": "那你得定位十几个人了... 被耿哥坑惨的，不只他的intern，还有phd, postdoc, 各地的faculty不止十几个，哥们一己之力快干翻半个北美华人robotics&vision学术圈了 （给我看呆了 这是唯一一个被喷的比AP还多的phd 哥们儿真太有实力了）一手遮天的haoran啊, 真的是走到哪都是顶流... 真热闹   事实证明, 真的不能带intern, 太危险了 差不多可以定位了, geng在bair的时候和一个intern最后关系不太好, 看起来现在闹大了xs"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 939,
+      "at_to": 941,
+      "from_paragraphs": [
+        {
+          "content_hash": "b476d90ee8b831bc",
+          "style": "NORMAL_TEXT",
+          "text": "感觉人还是挺nice的，对学生也比较supportive，connection也不错"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bfcebe24c4b20e13",
+          "style": "NORMAL_TEXT",
+          "text": "感觉人还是挺nice的，对学生也比较supportive，connection也不错（这是本人吧，天天把connection挂嘴边）"
+        },
+        {
+          "content_hash": "d7b53f81786b7c2a",
+          "style": "NORMAL_TEXT",
+          "text": "听说过这个老师的很多瓜，谨慎"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 943,
+      "at_to": 946,
+      "from_paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "eeb8c27f269aaafb",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu（没人不给你洗地，动不动就删，你删我也删，真牛逼，一个一亩三分地多少年的老黑人了还有人过来控评，带孝子）(我们作为学生一直在澄清，不管是树大招风，还是有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的回复)"
+        },
+        {
+          "content_hash": "a972de4089096220",
+          "style": "NORMAL_TEXT",
+          "text": "(一直有一个和组内有矛盾的人在这里删我们的回复。涉及人格侮辱和恶意带节奏，建议别拿匿名情绪输出当事实，更不要造谣传谣。)"
+        },
+        {
+          "content_hash": "24f8329de7ccfe3e",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人 (这个应该是铁黑榜畜生)（侮辱畜生了）（不要用龌龊的词了，大家都是做科研的，不能因为利益conflict就用这种词，应该摆事实讲道理）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9b07bdc65c2dffa4",
+          "style": "NORMAL_TEXT",
+          "text": "NEU Yun Raymond Fu (我们作为学生一直在澄清，不管是树大招风，还是有什么利益conflict或者道听途说，请不要人身攻击和在这里删我们lab学生的回复)"
+        },
+        {
+          "content_hash": "f5b83e94ac76fdb1",
+          "style": "NORMAL_TEXT",
+          "text": "(一直有个和组内有矛盾的人在这里删我们的回复。涉及人格侮辱和恶意带节奏，建议别拿匿名情绪输出当事实，更不要造谣传谣。)"
+        },
+        {
+          "content_hash": "7ec5dad2ea76da7a",
+          "style": "NORMAL_TEXT",
+          "text": "一亩三分地黑榜名人（不要用侮辱的词，大家都是做科研的，不能因为利益conflict就用这种词，应该摆事实讲道理）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 949,
+      "at_to": 951,
+      "from_paragraphs": [
+        {
+          "content_hash": "1f25f1052a882108",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文数量要求。之前组内整体水平高，很多人确实能做到接近甚至超过10篇一作，但实际毕业篇数因人而异，3-7篇都很常见，也经常有人能做到十几篇一作并拿到很强的教职。老师鼓励多出成果，本质上是为了学生未来的竞争力，不是机械卡毕业。真要说组里的“门槛”，那也是高标准、高产出，而不是低级压榨。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d7e78425f30384a7",
+          "style": "NORMAL_TEXT",
+          "text": "这并不属实。组里没有硬性毕业论文数量要求。之前组内整体水平高，很多人确实能做到接近甚至超过10篇一作，但实际毕业篇数因人而异，3-7篇都很常见，也经常有人能做到十几篇一作并拿到很强的教职。老师鼓励多出成果，本质上是为了学生未来的竞争力，不是机械卡毕业。真要说组里的“门槛”，那也是高标准、高产出，而不是低级压榨。（<---- 吹啥牛逼呢，我前俩年面试的时候尼玛phd们自己说的毕业要求就是10篇，还说写一篇发一片会议还能改改发一个期刊）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1191,
+      "at_to": 1193,
+      "from_paragraphs": [
+        {
+          "content_hash": "c20ea9f73b8040f2",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼 (广收门徒，孔子这一块)"
+        },
+        {
+          "content_hash": "c1e6d0bafc08bf8a",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写(尬黑了，有认识intern没产出也给写推荐信的)"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "d3ccf920167de0c7",
+          "style": "NORMAL_TEXT",
+          "text": "招特别多的intern，而且疯狂养鱼 (广收门徒，孔子这一块) (虽然intern多，但是每周1v1 meet, 很多intern亲自带，然后给 intern A100/H100卡，这个没得黑吧)"
+        },
+        {
+          "content_hash": "156c31598415009a",
+          "style": "NORMAL_TEXT",
+          "text": "有intern给他干了很久，写推荐信的时候直接说什么也没干不给你写(尬黑了，有认识intern没产出也给写推荐信的) (尬黑了 我认识的几个intern都能拿推荐信 也有return的）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1279,
+      "at_to": 1280,
+      "from_paragraphs": [
+        {
+          "content_hash": "bfdfa6ce07ae262a",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名 （造假起家从何说起?)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "9edc7fba518d545d",
+          "style": "NORMAL_TEXT",
+          "text": "学术造假起家，灌水成名 （造假起家从何说起? )"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1282,
+      "at_to": 1283,
+      "from_paragraphs": [
+        {
+          "content_hash": "175b2dcca44a7b11",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生方差太大且不指导学生，有牛逼的也有根本没有任何科研能力的"
+        },
+        {
+          "content_hash": "9cb85eddecf3f2b0",
+          "style": "NORMAL_TEXT",
+          "text": "有幸拜读过这篇，这老师当年来我们学校给talk的时候狂的不行，出事之后低调了很多(nips’ 16应该是，几年之前知乎刷到过)（（Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ 如何看待国人的论文SARM作者将论文从nips撤稿？ - 知乎 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊)"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "5f3279b3d8069e7c",
+          "style": "NORMAL_TEXT",
+          "text": "组里学生方差太大且不指导学生，有牛逼的也有根本没有任何科研能力的 （前学生反对“不指导学生”)"
+        },
+        {
+          "content_hash": "d4a3914feb04e858",
+          "style": "NORMAL_TEXT",
+          "text": "有幸拜读过这篇，这老师当年来我们学校给talk的时候狂的不行，出事之后低调了很多(nips’ 16应该是，几年之前知乎刷到过)（（Atlas wang撤稿在此，上面的通网吧，洗地也用心一点，当人google search都不会用吗？ 如何看待国人的论文SARM作者将论文从nips撤稿？ - 知乎 https://www.reddit.com/r/MachineLearning/comments/51ut79/sarm_stacked_approximated_regression_machine/ ） (如果没有造假为什么要撤稿？事情败露了当然要撤稿了，你这洗的水平不够啊) （撤稿 ?= 结果有错误但 != deliberately )"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 1285,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1793,
+      "at_to": 1793,
+      "from_paragraphs": [
+        {
+          "content_hash": "63a0e6dc7b81ce90",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️话说jiheng为什么那么喜欢招女学生 水平还差（因为girls help girls）看jiheng招的女学生就知道有多差了 (bro 能去 deepmind, anthropic, 集美能去哪？）(不要转移话题哦，你还是没回答前面的问题？是集美不想当faculty，不想去deepmind, anthropic吗）（我们一直在讨论的是jiheng组的学生情况, 并没有上升到所有女性科研者诶, 你是不是有点过度延伸了? 相反倒是你一直没有证明“bro水平很差”, jiheng组学生的去向都挂在网站上可以核实, 是不是觉得上面的例子不太好反驳呀? 与其在这里破防撒泼打滚扯东扯西, 不如把具体数据或例子拿出来, 这样讨论才更有说服力呢) （这还有打拳的，要打你们去xhs上单独开贴对打。。。）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ad35b61b5cd14200",
+          "style": "NORMAL_TEXT",
+          "text": "⬆️(bro被说破防了，你删我也删，此为prof榜，少在这性别歧视）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1803,
+      "at_to": 1803,
+      "from_paragraphs": [
+        {
+          "content_hash": "9b98286f609747f2",
+          "style": "NORMAL_TEXT",
+          "text": "好个p，给学生黑推。平时完全看不出来，表面笑嘻嘻背后捅刀子。"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "2c36bc7108e8918f",
+          "style": "NORMAL_TEXT",
+          "text": "好个p，给学生黑推。平时完全看不出来，表面笑嘻嘻背后捅刀子。（我在ustspace上看到一个类似评论是你写的吗？）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 2009,
+      "at_to": 2010,
+      "from_paragraphs": [
+        {
+          "content_hash": "0a115d0d399f2418",
+          "style": "NORMAL_TEXT",
+          "text": "FDU"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "bceed6bf3d1d3b63",
+          "style": "NORMAL_TEXT",
+          "text": "FDU, Xiahai Zhuang"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2018,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "394af4c72d831111",
+          "style": "NORMAL_TEXT",
+          "text": "CAM, Carola"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 2030,
+      "paragraphs": [
+        {
+          "content_hash": "39c9696e81245ee8",
+          "style": "NORMAL_TEXT",
+          "text": "ICL, Guang Yang"
+        },
+        {
+          "content_hash": "93c00fe89bf6d338",
+          "style": "NORMAL_TEXT",
+          "text": " PHD 养鱼， 一个萝卜"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 2029,
+      "paragraphs": [
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
