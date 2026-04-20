@@ -1,0 +1,392 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-20T08-22-49Z",
+    "revision_id": "AMHacu7VRTE1Ba2d286oQEqXMdq88gMN1B0hoZXXSH3TjbGGtKK3vRZe5lihKr2IB7eKn3KvENeMFAFxe4JsEyT6zg",
+    "paragraph_count": 1376
+  },
+  "to": {
+    "captured_at_utc": "2026-04-20T08-27-20Z",
+    "revision_id": "AMHacu4s44BZYgwJAlqAyRn3_rUl61nVbHzLaXD1QzSd7qWCONqVsr5FId22y05uCjogIN_fMxNsfivV8JpxmQ_aVg",
+    "paragraph_count": 1367
+  },
+  "summary": {
+    "inserted_paragraphs": 21,
+    "deleted_paragraphs": 30,
+    "operations": 13,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0218,
+    "insertion_ratio": 0.0154
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 23,
+      "at_to": 23,
+      "from_paragraphs": [
+        {
+          "content_hash": "753dc61bd15bf42b",
+          "style": "NORMAL_TEXT",
+          "text": "想退学？我辞职！看系主任听你们的还是听我的！Master都别想拿到！（我和系主任是dude!）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "175f3270eaa4e45a",
+          "style": "NORMAL_TEXT",
+          "text": "Geng对学生：想退学？我辞职！看系主任听你们的还是听我的！Master都别想拿到！（我和系主任是dude!）"
+        }
+      ]
+    },
+    {
+      "op": "delete",
+      "at_from": 46,
+      "paragraphs": [
+        {
+          "content_hash": "b8fa89d085968281",
+          "style": "NORMAL_TEXT",
+          "text": "USC Yue Wang"
+        },
+        {
+          "content_hash": "4337d5fc43b31528",
+          "style": "NORMAL_TEXT",
+          "text": "今年给一个没在组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全都是至少次一档的。该学生和Yue合作的一个四大phd是男女朋友，让人怀疑是否有利益交换。"
+        },
+        {
+          "content_hash": "8f7ea9c996926ab1",
+          "style": "NORMAL_TEXT",
+          "text": "(太逆天了，本来想在王老师组里intern，现在才知道，感谢）"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "c2ce6caf561cc2e0",
+          "style": "NORMAL_TEXT",
+          "text": "组里逆天 phd jiageng mao 没水平 一个人带十几个intern啥都做不出来 只想着水论文"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "6bd9968a19a0f035",
+          "style": "NORMAL_TEXT",
+          "text": "UCB Haoran Geng (PhD)"
+        },
+        {
+          "content_hash": "928e09c34c4d5150",
+          "style": "NORMAL_TEXT",
+          "text": "招了超过40个intern不负责(有40个吗，虽然我感觉有20个)"
+        },
+        {
+          "content_hash": "692c183d4d79b0e0",
+          "style": "NORMAL_TEXT",
+          "text": "给每个intern承诺可以拿Pieter Abbeel和Jitendra Malik的推荐信，但事实上不行。没有Pieter的，Jitendra的是用一个不知道哪来的gmail邮箱上传（实际上全是他自己上传的，jitendra根本没管过）（而且赶着申请ddl最后一天找Jitendra要推荐信，intern非常被动）"
+        },
+        {
+          "content_hash": "6ed2dfb0e1378de4",
+          "style": "NORMAL_TEXT",
+          "text": "让USC Yue Wang给某没在Yue组里当过intern（也没co-author发过paper）的学生写了最强推，其他intern全黑推（确有此事）"
+        },
+        {
+          "content_hash": "3c23692e0de28a28",
+          "style": "NORMAL_TEXT",
+          "text": "告诉所有intern“我只给你一个人写了最强推，你不要告诉别人”"
+        },
+        {
+          "content_hash": "bad2bf12a5800164",
+          "style": "NORMAL_TEXT",
+          "text": "满口谎言，没有一句实话"
+        },
+        {
+          "content_hash": "ee7565c3e859d21f",
+          "style": "NORMAL_TEXT",
+          "text": "欠intern一堆钱"
+        },
+        {
+          "content_hash": "d91e816d5556dc48",
+          "style": "NORMAL_TEXT",
+          "text": "猛猛pua人，拿推荐信威胁"
+        },
+        {
+          "content_hash": "5e0e3002b34cdfdd",
+          "style": "NORMAL_TEXT",
+          "text": "让intern去自己startup免费打工"
+        },
+        {
+          "content_hash": "19c756da05b195f6",
+          "style": "NORMAL_TEXT",
+          "text": "pieter, jitendra不知道有这么多intern和startup的存在"
+        },
+        {
+          "content_hash": "b2264688f8c185b0",
+          "style": "NORMAL_TEXT",
+          "text": "避雷所有和此人合作过且仍保持合作的人！"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 141,
+      "at_to": 123,
+      "from_paragraphs": [
+        {
+          "content_hash": "ef6e6c91d83e1470",
+          "style": "NORMAL_TEXT",
+          "text": "卡毕业，论文手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "ef039e2931a84d5d",
+          "style": "NORMAL_TEXT",
+          "text": "比其他人要黑很多，心坏表面也坏"
+        },
+        {
+          "content_hash": "5a9f087f1001667f",
+          "style": "NORMAL_TEXT",
+          "text": "经常骂哭学生"
+        },
+        {
+          "content_hash": "a1f9861d1878e870",
+          "style": "NORMAL_TEXT",
+          "text": "据说pua 自己手下很厉害的 intern 留组，说他们很难申请到好学o校，给他们洗脑umass是top20的强校。"
+        },
+        {
+          "content_hash": "83bd0342fe091002",
+          "style": "NORMAL_TEXT",
+          "text": "避雷避雷避雷避雷避雷避雷避雷避雷避雷"
+        },
+        {
+          "content_hash": "2b65765885bb983d",
+          "style": "NORMAL_TEXT",
+          "text": "私自将MIT-IBM Lab的卡大量外借给他干活 （+1 MIT Csail server也被他搞崩过好几次。）"
+        },
+        {
+          "content_hash": "d035759af75fdd63",
+          "style": "NORMAL_TEXT",
+          "text": "手底下的phd有雷吗？听说休假了要？（学生很好很可怜）"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 142,
+      "paragraphs": [
+        {
+          "content_hash": "5407b5f628d3f0b1",
+          "style": "NORMAL_TEXT",
+          "text": "给intern指定去向，不给写其他地方的推荐信（据说指定去向是四大，非四大不写）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 705,
+      "at_to": 693,
+      "from_paragraphs": [
+        {
+          "content_hash": "b18358b9777dcabe",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带 个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "263a4b934e42e1cf",
+          "style": "NORMAL_TEXT",
+          "text": "会高强度长时间骂人，每句话都带 个亲戚那种，骂哭骂跑过几个学生。（据说开会有其他组的人在会收敛一些）之前招学生进来全部 ta 被学校警告过不知道真假  （前面一点也就跑了一个学生，后面一点也就是最近funding大家都知道很紧张，被砍了一些funding, 所以低年级的要多做做ta, ucsb ta压力没那么大，除了极个别课。然后关于骂人这事，现在当爹之后以及tenure之后其实好很多了，而且实话实说他骂人是真的挺希望学生好的，也是尽自己的资源去托举学生。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 712,
+      "at_to": 700,
+      "from_paragraphs": [
+        {
+          "content_hash": "55c1f22baba7ce46",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "55a708cadf6ede87",
+          "style": "NORMAL_TEXT",
+          "text": "组内政治斗争严重(有组内人印证一下吗?)"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 810,
+      "at_to": 798,
+      "from_paragraphs": [
+        {
+          "content_hash": "eb83256ba7c28fae",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "437ef483108404dc",
+          "style": "NORMAL_TEXT",
+          "text": "黑榜里的有些评论我觉得有失公允。作为manling的ex intern我是心存感激的。manling毫无疑问是一个非常善良而且supportive的adviser。作为intern只要有想法愿意去做事情manling都会给到足够的support。manling作为一个junior faculty除了教课，写本子，还得参加各种各样的faculty meeting是非常忙的。即使是这样每周还会来我的project meeting提供各种建议。对于summer weekly meeting, manling 也都会非常认真的准备（research skills， tool use， etc），大家不应该take it for granted。对于26fall的phd 申请，manling即使不能给return offer，也会帮很多intern去联系认识的教授去connect。总的来说成为manling的学生应该是一个很幸福的事，不然今年申西北cs phd的选手也不会一窝蜂的在application portal里把manling放在first choice。大家多一点和气少一些戾气。希望manling组里的每一个27 fall选手都可以顺顺利利有好去处🌹（是的，manling是个好人，只是phd。。。）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 814,
+      "at_to": 802,
+      "from_paragraphs": [
+        {
+          "content_hash": "957645626b71595f",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）(纯路人，感觉有的Intern可能太把自己当回事了吧？有没有可能免费打白工是在浪费别人的时间？除非很牛逼的intern，否则感觉大部分都是浪费PI的时间。)（<---这里有傻逼）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "756d8c373e0fe81a",
+          "style": "NORMAL_TEXT",
+          "text": "有无懂的，据说招intern的必须先提前做完一个项目，相当于先免费打白工？（fake）（并不是，招intern毫无门槛可言，xhs私信就能进，但是进了她也不管）（学生的时间不是时间？免费被白嫖？）(没有怼的意思啊，不过这个问题是，谁找谁的问题，只要没有骗着让干活，都是事先说清楚的话，感觉没有任何问题啊。虽然不了解详情，但感觉PI不会求着intern干活) （她问题是不设限制的收，收大十个人，收来丢给学生管，无指导无资源，开会就问sota）(你们这些人脑子是有屎?不认识manling但招intern管不过来有什么好喷的？)（急，语言艺术）（神了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 832,
+      "at_to": 820,
+      "from_paragraphs": [
+        {
+          "content_hash": "1016445f429cac6b",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常?（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）（42.8%除以十我都严重质疑，都给自己关系户了吧（详见她自己发的xhs帖子）（按推荐信收学生就说是关系户？），另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。老师是个好老师，别营销过度了）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "aab54a839b24fb97",
+          "style": "NORMAL_TEXT",
+          "text": "Rebuttal：40个intern 去几个好学校不是很正常?（哪里有这么多intern，就是10多个）（难道不是学生自己强吗？大家又不是白纸进来的）（她的intern还是挺多都没有什么发论文经验的，她们组比较inclusive）另外本来就是网红吸引的就是最好的学生，去几个好学校很正常啊。老师是个好老师，别营销过度了）"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1032,
+      "at_to": 1020,
+      "from_paragraphs": [
+        {
+          "content_hash": "8861589e701977cb",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错。"
+        },
+        {
+          "content_hash": "25c6678b50479754",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun老师人本身非常nice，对学术也非常严格，很多同学去向都非常不错，如果对自己有信心准备return stanford的同学非常推荐到他那里暑研，他的信毫无疑问也是非常有含金量的，但不可否认和jiajun 老师work 需要讲究一些技巧"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "8281584cf6c9e795",
+          "style": "NORMAL_TEXT",
+          "text": "道听途说就不要瞎黑了，谢谢！本人在jiajun组里做过暑研，是科研进步最快的一段时间了。老师人非常nice。我们这一届申请的也非常不错"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        },
+        {
+          "content_hash": "0cd42f131c846d0c",
+          "style": "NORMAL_TEXT",
+          "text": "Jiajun老师人本身非常nice，对学术也非常严格，非常supportive，很多同学去向都非常不错，如果对自己有信心准备return stanford的同学非常推荐到他那里暑研，他的信毫无疑问也是非常有含金量的，就算没有return 也会积极推荐到top 10 其他学校，但不可否认和jiajun 老师work 需要讲究一些技巧，认识有些同学在jiajun组里面做的一般但是到工业界或者其他老师那边可以做的非常好，anyway，jiajun老师是很好的老师，但不一定适合100%所有人。"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1266,
+      "at_to": 1256,
+      "from_paragraphs": [
+        {
+          "content_hash": "45aaabc0080291d9",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习顶组找你不让去只让你去他谈的垃圾项目钱都到他自己手里"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "def5a28c614e5aff",
+          "style": "NORMAL_TEXT",
+          "text": "不让实习 顶组找你不让去 只让你去他谈的垃圾项目钱都到他自己手里 最后那些人靠自己努力去了好的地方 还被归功于是自己推的"
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1268,
+      "at_to": 1258,
+      "from_paragraphs": [
+        {
+          "content_hash": "afc7d86a52b7a5e6",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢和外面吹牛逼说自 说自己学生去oai gdm"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "a30d5efa701514ff",
+          "style": "NORMAL_TEXT",
+          "text": "喜欢和外面吹牛逼说自己学生去oai gdm 斯坦福 结果那些人全都是叛徒和yy爆了的"
+        },
+        {
+          "content_hash": "0000000000000000",
+          "style": "NORMAL_TEXT",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "op": "replace",
+      "at_from": 1270,
+      "at_to": 1261,
+      "from_paragraphs": [
+        {
+          "content_hash": "964b4154ffd5c98a",
+          "style": "NORMAL_TEXT",
+          "text": "带你的博后搞的鬼，你就狠狠喷他就行（其他的也没说错啊）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "0b4e33faa9916d89",
+          "style": "NORMAL_TEXT",
+          "text": "带你的博后搞的鬼，你就狠狠喷他就行（其他的也没说错 兄弟你刚进来ke neng xiang wei h）"
+        }
+      ]
+    }
+  ]
+}
