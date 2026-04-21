@@ -1,0 +1,56 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-21T01-05-00Z",
+    "revision_id": null,
+    "paragraph_count": 707
+  },
+  "to": {
+    "captured_at_utc": "2026-04-21T03-51-50Z",
+    "revision_id": null,
+    "paragraph_count": 708
+  },
+  "summary": {
+    "inserted_paragraphs": 2,
+    "deleted_paragraphs": 1,
+    "operations": 2,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0014,
+    "insertion_ratio": 0.0028
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 3,
+      "at_to": 3,
+      "from_paragraphs": [
+        {
+          "content_hash": "43de646a6dcb37e1",
+          "style": "NORMAL_TEXT",
+          "text": "如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接：https://github.com/the-hidden-fish/advisor-ledger"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "057a41fb720c3f2a",
+          "style": "NORMAL_TEXT",
+          "text": "如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接（也可以补充其他信息）：https://github.com/the-hidden-fish/advisor-ledger"
+        }
+      ]
+    },
+    {
+      "op": "insert",
+      "at_to": 6,
+      "paragraphs": [
+        {
+          "content_hash": "bd029c714945a7cb",
+          "style": "NORMAL_TEXT",
+          "text": "作者本人已被熟人拷打，期待和大家在ICLR线下rebuttal！"
+        }
+      ]
+    }
+  ]
+}
