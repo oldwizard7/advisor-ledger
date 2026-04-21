@@ -73,18 +73,18 @@ done
 log "render"
 "$PY" scripts/render_ledger.py >/dev/null
 
-# Render the Google Doc 原文 (high-fidelity, default view at /) from the latest
-# JSON snapshot of the first enabled source.
+# Render the Google Doc 原文 (high-fidelity, default view at /) from a PINNED
+# pre-vandalism snapshot. On 2026-04-21T00-17-50Z a single edit removed ~98% of
+# the doc; every snapshot after that is an empty/attacked version. We freeze the
+# default view on the last known-good snapshot so readers still see the ledger
+# they came for. Edit history / deletions remain visible at /ledger.html.
 log "render (faithful)"
-for sid in $SOURCES; do
-  latest_json="$(find snapshots -type f -name '*.json' -not -name '*.meta.json' -path "*/$sid/*" 2>/dev/null | sort | tail -n 1)"
-  if [ -n "$latest_json" ]; then
-    ts="$(basename "$latest_json" .json)"
-    meta="Snapshot <b>${ts}</b> · ${sid} · 1:1 Google Docs API JSON render"
-    "$PY" scripts/render_gdoc_faithful.py "$latest_json" docs/index.html --meta "$meta" >/dev/null
-  fi
-  break  # only the first source maps to docs/index.html
-done
+FAITHFUL_SNAPSHOT="snapshots/2026/04/20/source-1/2026-04-20T20-55-10Z.json"
+if [ -f "$FAITHFUL_SNAPSHOT" ]; then
+  ts="$(basename "$FAITHFUL_SNAPSHOT" .json)"
+  meta="Snapshot <b>${ts}</b> · source-1 · 1:1 Google Docs API JSON render (pinned pre-vandalism)"
+  "$PY" scripts/render_gdoc_faithful.py "$FAITHFUL_SNAPSHOT" docs/index.html --meta "$meta" >/dev/null
+fi
 
 # Commit + push if anything new is staged. normalized/ stays gitignored (purely derived);
 # docs/ is tracked so GitHub Pages can serve the rendered ledger from /docs.
