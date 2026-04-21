@@ -1,0 +1,55 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-21T00-17-50Z",
+    "revision_id": null,
+    "paragraph_count": 703
+  },
+  "to": {
+    "captured_at_utc": "2026-04-21T00-20-00Z",
+    "revision_id": null,
+    "paragraph_count": 705
+  },
+  "summary": {
+    "inserted_paragraphs": 3,
+    "deleted_paragraphs": 1,
+    "operations": 1,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0014,
+    "insertion_ratio": 0.0043
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "at_from": 1,
+      "at_to": 1,
+      "from_paragraphs": [
+        {
+          "content_hash": "e2869bf0609e0e16",
+          "style": "NORMAL_TEXT",
+          "text": "This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）"
+        }
+      ],
+      "to_paragraphs": [
+        {
+          "content_hash": "b770a59cb98974b1",
+          "style": "NORMAL_TEXT",
+          "text": "This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way."
+        },
+        {
+          "content_hash": "69647c2fc660f01a",
+          "style": "NORMAL_TEXT",
+          "text": "https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）"
+        },
+        {
+          "content_hash": "3e7c6c4aa7a833d0",
+          "style": "NORMAL_TEXT",
+          "text": "https://advisoreval2026-star.github.io/rankmyadvisor/"
+        }
+      ]
+    }
+  ]
+}

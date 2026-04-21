@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-21T00-20-00Z",
+  "reviewed_at_utc": "2026-04-21T00:20:29Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 1,
+  "n_inserts": 3,
+  "pairs": [
+    {
+      "ghost_hash": "e2869bf0609e0e16",
+      "insert_hash": "b770a59cb98974b1",
+      "note": "Paragraph split: main text portion",
+      "ghost_text": "This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）",
+      "insert_text": "This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way."
+    },
+    {
+      "ghost_hash": "e2869bf0609e0e16",
+      "insert_hash": "69647c2fc660f01a",
+      "note": "Paragraph split: URL portion",
+      "ghost_text": "This document is for private reference only. Its purpose is to help organize observations, concerns, and patterns related to advising style, lab environment, and student experiences in a clear, factual, and responsible way. https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）",
+      "insert_text": "https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 2196,
+  "skipped_reason": null
+}
