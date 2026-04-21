@@ -1,0 +1,27 @@
+{
+  "source_id": "source-1",
+  "delta_ts": "2026-04-21T00-22-10Z",
+  "reviewed_at_utc": "2026-04-21T00:22:49Z",
+  "model": "moonshotai/Kimi-K2.5",
+  "n_ghosts": 1,
+  "n_inserts": 2,
+  "pairs": [
+    {
+      "ghost_hash": "69647c2fc660f01a",
+      "insert_hash": "559153e43ed04a82",
+      "note": "URL typo fix (removed /s)",
+      "ghost_text": "https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）",
+      "insert_text": "https://the-hidden-fish.github.io/advisor-ledger/"
+    },
+    {
+      "ghost_hash": "69647c2fc660f01a",
+      "insert_hash": "5b93193b67a3d956",
+      "note": "parenthetical text split to new line",
+      "ghost_text": "https://the-hidden-fish.github.io/advisor-ledger/s （如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）",
+      "insert_text": "（如果你想维护黑榜，请去GitHub提一个issue更新黑榜doc链接）"
+    }
+  ],
+  "finish_reason": "stop",
+  "completion_tokens": 3930,
+  "skipped_reason": null
+}
