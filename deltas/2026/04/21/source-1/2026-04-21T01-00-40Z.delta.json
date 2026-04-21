@@ -1,0 +1,37 @@
+{
+  "source_id": "source-1",
+  "google_doc_id": "1-AtKUh-xE1CPRRDVlfPx1d42Trhr7F8qQIw69hP85Ds",
+  "from": {
+    "captured_at_utc": "2026-04-21T00-26-30Z",
+    "revision_id": null,
+    "paragraph_count": 706
+  },
+  "to": {
+    "captured_at_utc": "2026-04-21T01-00-40Z",
+    "revision_id": null,
+    "paragraph_count": 707
+  },
+  "summary": {
+    "inserted_paragraphs": 1,
+    "deleted_paragraphs": 0,
+    "operations": 1,
+    "changed": true,
+    "mass_deletion_suspected": false,
+    "mass_insertion_suspected": false,
+    "deletion_ratio": 0.0,
+    "insertion_ratio": 0.0014
+  },
+  "operations": [
+    {
+      "op": "insert",
+      "at_to": 4,
+      "paragraphs": [
+        {
+          "content_hash": "151fdd4a0eb72267",
+          "style": "NORMAL_TEXT",
+          "text": "GitHub有部分之前的缓存：https://github.com/the-hidden-fish/advisor-ledger/tree/main/snapshots/2026/04/20/source-1"
+        }
+      ]
+    }
+  ]
+}
